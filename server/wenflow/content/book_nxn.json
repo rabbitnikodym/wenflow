@@ -1,0 +1,5180 @@
+{
+ "id": "nxn",
+ "title": "那些年，我們一起追的女孩",
+ "author": "九把刀",
+ "year": 2006,
+ "about": "《那些年，我們一起追的女孩》 is 九把刀's autobiographical novel about his own schooldays in 彰化 in the 1990s: a clowning underachiever is seated in front of the class's model student, starts studying to earn her respect, and goes on loving her, alongside most of his friends, through university and into adulthood. The tone is fast, jokey and affectionate, closer to a friend telling a story over a late-night snack than to literary fiction. It is excellent practice for Taiwan Mandarin because nearly every page uses real school vocabulary, teen banter and the Taiwan-specific particles and slang that textbooks skip. The grammar is easy and the sentences short; what is hard is the colloquial narration, crude humor, nicknames, Taiwanese-derived slang and 1990s references.",
+ "reading_tips": [
+  "Learn the cast first. The narrator introduces friends by full name and then switches to nicknames, 阿- forms (阿和) and clipped names (柯騰 for 柯景騰). Treat an unknown two- or three-character string right before 說 or after 「 as a possible name before reaching for the dictionary.",
+  "Dialogue is marked with 「」 (and 『』 for a quote inside a quote), not with curly quotation marks. Speech tags are often dropped in rapid exchanges, so track speakers by line breaks: each new 「 line is usually a new speaker.",
+  "Print editions from Taiwan are set vertically, read top to bottom and right to left, and the book opens from what feels like the back. E-book and web text is usually horizontal. Either way book titles take 《》 and punctuation sits in the middle of its character cell.",
+  "Expect profanity and insult-as-affection. 靠, 幹, 白癡, 智障 and 去死 between the boys signal closeness, not hostility. Learn to recognize the register, but do not copy it with strangers.",
+  "Watch the sentence-final particles for tone: 耶, 啦, 喔, 嘛, 咧, 吧. 「你很煩耶」 is a whine, 「好啦」 is giving in, 「是喔」 is a flat 'oh really'. They carry the banter more than the vocabulary does.",
+  "The narration runs on a few high-frequency moves: 結果, 沒想到 and 於是 to push the plot along, 居然 and 竟然 for mock surprise, 根本 and 簡直 for exaggeration, and one-line paragraphs for punchlines. Follow these connectors and you can keep up with a page even with several unknown words.",
+  "Variant characters: the novel prints everyday forms, such as the 5-stroke variant of 臺 (in 臺灣, 講臺, 擂臺) that you already know from Simplified, 妳 for a female 'you', and either form of 癡. This pack uses the formal 臺; it is the same word.",
+  "Taiwan readings differ from mainland ones in very common school words: 成績 chéng jī, 學期 xué qí, 垃圾 lè sè, 突然 tú rán, 研究所 yán jiù suǒ, 頭髮 tóu fǎ. The pinyin in this pack follows Taiwan usage."
+ ],
+ "characters": [
+  {
+   "name": "柯景騰",
+   "pinyin": "kē jǐng téng",
+   "nickname": "柯騰",
+   "role": "The narrator, who carries the author's own real name: a mischievous underachiever in 彰化 who starts studying seriously because of 沈佳宜."
+  },
+  {
+   "name": "沈佳宜",
+   "pinyin": "shěn jiā yí",
+   "nickname": "",
+   "role": "The top student and class favorite who sits behind 柯景騰 and polices his studying; the girl of the title."
+  },
+  {
+   "name": "阿和",
+   "pinyin": "ā hé",
+   "nickname": "",
+   "role": "A close friend of the narrator and his most serious rival for 沈佳宜, more mature and better read than the rest of the gang."
+  },
+  {
+   "name": "許博淳",
+   "pinyin": "xǔ bó chún",
+   "nickname": "",
+   "role": "One of the narrator's closest school friends and a core member of the gang."
+  },
+  {
+   "name": "廖英宏",
+   "pinyin": "liào yīng hóng",
+   "nickname": "",
+   "role": "Another member of the narrator's circle of close friends from 精誠中學."
+  }
+ ],
+ "culture_notes": [
+  {
+   "title": "國中, 高中 and the 聯考 exam system",
+   "body": "Schooling in 1990s Taiwan ran six years of 國小, three of 國中 (junior high, the end of compulsory education) and three of 高中. Each step up was decided by a single summer exam: the 高中聯考 after 國三 and the 大學聯考 in early July after 高三. Your score and your ranked list of 志願 fixed your school, so the 第一志願 in each region carried huge prestige, and classes were often sorted into 升學班 and 放牛班. Results were published as a 榜單 on 放榜 day; those who 落榜 could 重考 a year later. Private schools such as 精誠中學 in 彰化, where the story is set, had both a 國中部 and a 高中部, so classmates could stay together for six years. The joint exams were phased out in the early 2000s."
+  },
+  {
+   "title": "班級幹部 and seat culture",
+   "body": "A Taiwanese class (班) stays in one room all day with one 導師 while subject teachers come to it, so the class is a small society. Students elect 班級幹部: the 班長, the 風紀股長 who writes down talkers' names, the 學藝股長 who looks after the bulletin board, plus officers for hygiene (衛生股長), sports and recreation. Each day's 值日生 wipe the board and fetch the lunch boxes. Seats (座位) are assigned by the teacher, by height, by grades, or as a deliberate tactic: a noisy boy may be placed next to a diligent girl who is expected to keep him in line. Who sits in front of or behind whom therefore matters a great deal, and 換座位 after an exam is a real event."
+  },
+  {
+   "title": "教官, 訓導處 and school discipline",
+   "body": "Order was the business of the 訓導處 (today 學務處) under the 訓導主任, helped in senior highs by 教官: uniformed military officers posted to schools to teach 軍訓 and police behavior. They checked 服裝儀容 at the gate, hair included. Although the Ministry of Education formally ended the 髮禁 in 1987, many schools still demanded a 平頭 for boys and ear-length hair for girls through the 1990s. Punishments ran from 罰站, 罰寫 and laps of the 操場 to formal demerits, 警告, 小過 and 大過, where three 大過 meant 退學. 體罰 with a 藤條 on the palm (打手心), often one stroke per missing mark, was routine and widely accepted by parents; it was only outlawed in 2006."
+  },
+  {
+   "title": "補習班 and 晚自習",
+   "body": "The school day did not end at the last bell. Exam-track classes stayed for a paid eighth-period 輔導課, and third-years often remained for supervised 晚自習 until nine or later. Many students then, or at weekends, went on to a 補習班: private cram schools, clustered near train stations, where star teachers drilled English, math and 理化 into packed rooms. Students who missed their target school might spend a whole year in a 重考班. The vocabulary of this world is everywhere in school fiction: 參考書 and 講義 piled on desks, 模擬考 rankings pinned to the wall, 開夜車 before a 段考. Studying together after school was also one of the few respectable ways for a boy and a girl to spend time with each other."
+  },
+  {
+   "title": "The school day: from 早自習 to 打掃時間",
+   "body": "A typical day began around 7:30 with 早自習, a quiet period often used for quizzes, followed by the 升旗典禮 or 朝會 on the field, where the flag was raised and the principal or 訓導主任 lectured from the 司令臺. Classes ran fifty minutes with ten-minute breaks for a dash to the 福利社. At noon the 值日生 carried up the crate of 便當 from the 蒸飯箱, and after lunch came a compulsory 午休, heads down on desks. Most Taiwanese schools have no janitors: during 打掃時間 students sweep, mop and take out the trash themselves, each class responsible for its own classroom and an assigned outdoor area. Much of the horseplay in school novels happens in these in-between moments."
+  },
+  {
+   "title": "彰化 and small-city Taiwan",
+   "body": "The story's hometown is 彰化, a county seat on the west-central plain just south of Taichung: an old market city best known for the giant Buddha on 八卦山 and for snacks such as 肉圓. Life there in the 1990s was small-scale and local. Teenagers got around by bicycle, hung out at comic-rental shops, arcades and tea shops, and everyone's parents knew everyone else's. Central and southern Taiwan are also where Taiwanese Hokkien (臺語) is strongest, which is why the boys' Mandarin is sprinkled with Taiwanese-derived slang. For ambitious students, going to university usually meant leaving for a bigger city such as Hsinchu, Taichung or Taipei, and the pull between hometown friends and new lives elsewhere runs through the second half of the book."
+  },
+  {
+   "title": "University life and the 宿舍",
+   "body": "After the 聯考 the classmates scatter to different universities, and the setting shifts from the classroom to the 宿舍. Most first-years lived on campus, four or more to a room, with 室友, a shared phone line and, at many women's dorms of the time, a 門禁 curfew. Before mobile phones were common, keeping in touch meant queuing at a 公共電話 with a 電話卡 and counting the minutes of a long-distance call. Campus life revolved around 社團 (clubs), 聯誼 (group mixers between departments), late-night 宵夜 runs by scooter and the fear of 被當 (failing a course). The narrator's university years are spent in Hsinchu (新竹), a windy city of science and engineering campuses north of 彰化, and he later goes on to a 研究所 (graduate school)."
+  },
+  {
+   "title": "The 921 大地震",
+   "body": "At 1:47 a.m. on 21 September 1999 a magnitude 7.3 earthquake struck central Taiwan, with its 震央 at 集集 in 南投 county, close to 彰化 and Taichung. More than 2,400 people died and tens of thousands of buildings collapsed. Damage to the power grid blacked out much of the island (停電), and phone lines were jammed for hours as people tried to 報平安, so many spent the night outdoors, hunting for a working phone or a spot with 收訊. For Taiwanese of the author's generation, 'where were you on the night of 921' is a shared memory, and in stories it often works as the moment when people reach for whoever matters most to them. In the novel it is the occasion for an important late-night phone call."
+  },
+  {
+   "title": "兵役: military service",
+   "body": "Every healthy Taiwanese man of that generation owed roughly two years of compulsory military service, usually done right after finishing school. The vocabulary is part of everyday male life: 當兵 (to serve), 入伍 (to report for duty), 新訓 (boot camp), 放假 (leave) and 退伍 (discharge). Service interrupts careers and relationships; a girlfriend leaving during it is common enough to have its own name, 兵變. Staying in school, for instance by entering a 研究所, postponed the call-up, and from 2000 some conscripts could do civilian 替代役 instead. The 教官 and 軍訓 classes of senior high belonged to the same system. In coming-of-age stories, 當兵 marks the border between student life and the adult world."
+  },
+  {
+   "title": "Wedding customs: 喜帖, 紅包 and 喜酒",
+   "body": "A Taiwanese wedding announcement arrives as a red 喜帖, jokingly called a 紅色炸彈 because every invitation costs the guest a 紅包. Cash is handed over at the reception desk in a red envelope with your name on it; amounts are even-numbered and avoid the digit four, and closer friends give more. The banquet (喜酒 or 喜宴) is a multi-course round-table meal in a restaurant or hotel, or an outdoor 辦桌 under a tent in smaller towns. The 新娘 changes outfits several times, the couple go from table to table to 敬酒, and friends serve as 伴郎 and 伴娘. Old classmates treat the day as a 同學會, and the groom's friends are expected to tease the couple, a tradition descended from 鬧洞房."
+  },
+  {
+   "title": "1990s pop culture",
+   "body": "The book's schooldays run from 1990 to 1996, just after martial law ended (1987) and before the internet reached ordinary homes. Boys traded Japanese manga such as Slam Dunk (灌籃高手) and Dragon Ball (七龍珠), read in weekly magazines or at a 租書店, and basketball courts filled with would-be NBA stars. Hong Kong films, above all Stephen Chow's nonsense comedies, shaped the jokes; Mandopop and Cantopop singers such as 張學友 and 張雨生 supplied the soundtrack on cassette (錄音帶) and Walkman (隨身聽). Arcades (電動玩具店) and 泡沫紅茶 shops were the hangouts, and by the mid-90s pagers, nicknamed BB Call, let friends leave numeric messages. Knowing this background explains a lot of the narrator's humor and his dreams of being a hero."
+  },
+  {
+   "title": "網路小說 and 九把刀 as an author",
+   "body": "九把刀 (Giddens Ko, real name 柯景騰, born 1978 in 彰化) began posting fiction online around 2000 while still a student, part of the 網路小說 wave that followed 痞子蔡's 1998 hit 《第一次的親密接觸》. Net novels were serialized on BBS boards and forums, so they are written to be read fast: short paragraphs, lots of dialogue, slang, jokes and direct address to the reader. He became one of Taiwan's most prolific popular writers, across horror, martial arts, fantasy and romance. 《那些年，我們一起追的女孩》 (2006) is autobiographical, with the author and his real friends as characters, and he directed the hit 2011 film version himself. For a learner this style is a gift: the grammar is simple and conversational, and the difficulty lies in vocabulary and cultural references rather than literary syntax."
+  },
+  {
+   "title": "臺語 loans and particles in teen speech",
+   "body": "Taiwan Mandarin dialogue leans on sentence-final particles that mainland textbooks rarely teach: 耶 (surprise or mild protest), 啦 (insistence or impatience), 喔 (a soft reminder, or 'oh, really'), 嘛 ('obviously'), 咧 (a casual 呢) and 齁 (seeking agreement). The boys' slang also borrows from Taiwanese Hokkien (臺語), written with Mandarin characters chosen for their sound: 白目 (tactless), 龜毛 (fussy), 雞婆 (nosy), 唬爛 (to bullshit), 抓狂 (to freak out), 吐槽 (to roast). Mild and strong swearing is part of the register: 靠 is a softened curse, while 幹 is the real thing and should be recognized, not copied. Note also 妳 for a female 'you', and that 男生 and 女生 are used for men and women of any age."
+  }
+ ],
+ "vocab": [
+  {
+   "trad": "幼稚",
+   "pinyin": "yòu zhì",
+   "en": "childish, immature",
+   "category": "banter",
+   "level": 1,
+   "example": {
+    "zh": "她搖搖頭，說了一句：「你真的很幼稚。」",
+    "en": "She shook her head and said, 'You really are childish.'"
+   },
+   "note": "The classic put-down from a mature girl to a clowning boy."
+  },
+  {
+   "trad": "笨蛋",
+   "pinyin": "bèn dàn",
+   "en": "dummy, fool",
+   "category": "banter",
+   "level": 1,
+   "example": {
+    "zh": "笨蛋，這一題上個星期不是教過你了嗎？",
+    "en": "Dummy, didn't I teach you this question last week?"
+   }
+  },
+  {
+   "trad": "無聊",
+   "pinyin": "wú liáo",
+   "en": "boring; (of a person) being a pest, pointless",
+   "category": "banter",
+   "level": 1,
+   "example": {
+    "zh": "他又在學老師講話，她只回了一句無聊。",
+    "en": "He was imitating the teacher again and she just replied, 'Pathetic.'"
+   },
+   "note": "As a retort it means 'you're being silly', not 'I'm bored'."
+  },
+  {
+   "trad": "開玩笑",
+   "pinyin": "kāi wán xiào",
+   "en": "to joke",
+   "category": "banter",
+   "level": 1,
+   "example": {
+    "zh": "我只是開玩笑的，你不要當真嘛。",
+    "en": "I was only joking, don't take it seriously."
+   }
+  },
+  {
+   "trad": "偷看",
+   "pinyin": "tōu kàn",
+   "en": "to peek",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "他假裝在看窗外，其實是在偷看她。",
+    "en": "He pretended to be looking out the window, but was actually peeking at her."
+   }
+  },
+  {
+   "trad": "嘆氣",
+   "pinyin": "tàn qì",
+   "en": "to sigh",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "老師看著全班的成績，深深地嘆氣。",
+    "en": "Looking at the whole class's results, the teacher sighed deeply."
+   }
+  },
+  {
+   "trad": "點頭",
+   "pinyin": "diǎn tóu",
+   "en": "to nod",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "她想了一下，輕輕地點頭答應了。",
+    "en": "She thought for a moment, then nodded lightly in agreement."
+   }
+  },
+  {
+   "trad": "搖頭",
+   "pinyin": "yáo tóu",
+   "en": "to shake one's head",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "她看著他的答案，一邊嘆氣一邊搖頭。",
+    "en": "She looked at his answers, sighing and shaking her head."
+   }
+  },
+  {
+   "trad": "推",
+   "pinyin": "tuī",
+   "en": "to push",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "朋友從後面推了他一把，他差點撞到她。",
+    "en": "A friend gave him a shove from behind and he nearly bumped into her."
+   }
+  },
+  {
+   "trad": "轉身",
+   "pinyin": "zhuǎn shēn",
+   "en": "to turn around",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "她說完再見就轉身走進了宿舍。",
+    "en": "Having said goodbye, she turned and walked into the dorm."
+   }
+  },
+  {
+   "trad": "回頭",
+   "pinyin": "huí tóu",
+   "en": "to look back, to turn one's head",
+   "category": "body-action",
+   "level": 1,
+   "example": {
+    "zh": "他走了幾步又回頭，她還站在原地。",
+    "en": "He took a few steps and looked back; she was still standing there."
+   }
+  },
+  {
+   "trad": "黑板",
+   "pinyin": "hēi bǎn",
+   "en": "blackboard",
+   "category": "classroom",
+   "level": 1,
+   "example": {
+    "zh": "黑板上寫著距離聯考還剩一百天。",
+    "en": "On the blackboard it said one hundred days remained until the entrance exam."
+   }
+  },
+  {
+   "trad": "粉筆",
+   "pinyin": "fěn bǐ",
+   "en": "chalk",
+   "category": "classroom",
+   "level": 1,
+   "example": {
+    "zh": "老師氣得把粉筆丟向打瞌睡的同學。",
+    "en": "The teacher got so angry he threw chalk at the dozing student."
+   }
+  },
+  {
+   "trad": "座位",
+   "pinyin": "zuò wèi",
+   "en": "seat",
+   "category": "classroom",
+   "level": 1,
+   "example": {
+    "zh": "她的座位就在我的正後方。",
+    "en": "Her seat was directly behind mine."
+   }
+  },
+  {
+   "trad": "班長",
+   "pinyin": "bān zhǎng",
+   "en": "class president",
+   "category": "classroom",
+   "level": 1,
+   "example": {
+    "zh": "老師不在的時候，由班長負責管秩序。",
+    "en": "When the teacher is away, the class president keeps order."
+   }
+  },
+  {
+   "trad": "課本",
+   "pinyin": "kè běn",
+   "en": "textbook",
+   "category": "classroom",
+   "level": 1,
+   "example": {
+    "zh": "他把漫畫夾在課本裡面偷偷地看。",
+    "en": "He hid a comic inside his textbook and read it on the sly."
+   }
+  },
+  {
+   "trad": "下課",
+   "pinyin": "xià kè",
+   "en": "class ends; break between classes",
+   "category": "classroom",
+   "level": 1,
+   "example": {
+    "zh": "下課十分鐘，他都在走廊跟朋友打鬧。",
+    "en": "For the ten-minute break he was always horsing around with friends in the hallway."
+   }
+  },
+  {
+   "trad": "漂亮",
+   "pinyin": "piào liàng",
+   "en": "pretty",
+   "category": "description",
+   "level": 1,
+   "example": {
+    "zh": "她不算最漂亮，卻最讓人移不開眼睛。",
+    "en": "She wasn't the prettiest, yet she was the one you couldn't take your eyes off."
+   },
+   "note": "Taiwan pronounces both syllables with full tone."
+  },
+  {
+   "trad": "認真",
+   "pinyin": "rèn zhēn",
+   "en": "earnest, serious, conscientious",
+   "category": "description",
+   "level": 1,
+   "example": {
+    "zh": "她認真的樣子讓他不敢再開玩笑。",
+    "en": "How earnest she looked made him not dare to joke any more."
+   }
+  },
+  {
+   "trad": "厲害",
+   "pinyin": "lì hài",
+   "en": "awesome, formidable",
+   "category": "description",
+   "level": 1,
+   "example": {
+    "zh": "她的英文很厲害，連老師都常常問她。",
+    "en": "Her English was so good that even the teacher often asked her."
+   }
+  },
+  {
+   "trad": "警告",
+   "pinyin": "jǐng gào",
+   "en": "warning; the lightest formal demerit",
+   "category": "discipline",
+   "level": 1,
+   "example": {
+    "zh": "他頭髮太長，被教官記了一支警告。",
+    "en": "His hair was too long and the instructor gave him a warning demerit."
+   }
+  },
+  {
+   "trad": "後悔",
+   "pinyin": "hòu huǐ",
+   "en": "to regret",
+   "category": "emotion",
+   "level": 1,
+   "example": {
+    "zh": "他很後悔那天晚上說了那麼重的話。",
+    "en": "He deeply regretted saying such harsh things that night."
+   }
+  },
+  {
+   "trad": "勇氣",
+   "pinyin": "yǒng qì",
+   "en": "courage",
+   "category": "emotion",
+   "level": 1,
+   "example": {
+    "zh": "他花了很大的勇氣撥出那通電話。",
+    "en": "It took him a great deal of courage to dial that call."
+   }
+  },
+  {
+   "trad": "膽小",
+   "pinyin": "dǎn xiǎo",
+   "en": "timid, cowardly",
+   "category": "emotion",
+   "level": 1,
+   "example": {
+    "zh": "面對喜歡的人，他變得比誰都膽小。",
+    "en": "Faced with the person he liked, he became more timid than anyone."
+   }
+  },
+  {
+   "trad": "感動",
+   "pinyin": "gǎn dòng",
+   "en": "moved, touched",
+   "category": "emotion",
+   "level": 1,
+   "example": {
+    "zh": "看到大家為她準備的驚喜，她感動得哭了。",
+    "en": "Seeing the surprise everyone had prepared for her, she was moved to tears."
+   }
+  },
+  {
+   "trad": "成熟",
+   "pinyin": "chéng shú",
+   "en": "mature",
+   "category": "emotion",
+   "level": 1,
+   "example": {
+    "zh": "她覺得他一點也不成熟，像個長不大的小孩。",
+    "en": "She felt he wasn't the least bit mature, like a kid who would never grow up."
+   },
+   "note": "Often pronounced chéng shóu in everyday Taiwan speech."
+  },
+  {
+   "trad": "成績單",
+   "pinyin": "chéng jī dān",
+   "en": "report card",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "他把成績單藏在書包最底下，不敢拿出來。",
+    "en": "He hid his report card at the very bottom of his bag, not daring to take it out."
+   },
+   "note": "Taiwan reads 績 as jī (mainland jì)."
+  },
+  {
+   "trad": "排名",
+   "pinyin": "pái míng",
+   "en": "ranking; to rank",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "他的排名從全班倒數一路衝到前十名。",
+    "en": "His ranking shot from the bottom of the class all the way into the top ten."
+   }
+  },
+  {
+   "trad": "滿分",
+   "pinyin": "mǎn fēn",
+   "en": "full marks",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "這次英文她又考了滿分，一題都沒錯。",
+    "en": "She got full marks in English again, not one question wrong."
+   }
+  },
+  {
+   "trad": "不及格",
+   "pinyin": "bù jí gé",
+   "en": "to fail (score below the pass mark)",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "數學不及格的人，放學後要留下來補考。",
+    "en": "Anyone who fails math has to stay after school for a make-up test."
+   }
+  },
+  {
+   "trad": "作弊",
+   "pinyin": "zuò bì",
+   "en": "to cheat on a test",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "考試作弊被抓到的話，會被記一支大過。",
+    "en": "If you're caught cheating on an exam you get a major demerit."
+   },
+   "note": "Demerits are counted with 支: 一支大過."
+  },
+  {
+   "trad": "考卷",
+   "pinyin": "kǎo juàn",
+   "en": "exam paper",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "老師發考卷的時候，教室裡一片哀號。",
+    "en": "As the teacher handed back the papers, the classroom filled with groans."
+   }
+  },
+  {
+   "trad": "念書",
+   "pinyin": "niàn shū",
+   "en": "to study; to attend school",
+   "category": "exam",
+   "level": 1,
+   "example": {
+    "zh": "為了追上她，他開始每天念書到半夜。",
+    "en": "To catch up with her, he started studying until midnight every day."
+   },
+   "note": "Taiwan's default verb for studying, also written with the 口-radical form 唸."
+  },
+  {
+   "trad": "友情",
+   "pinyin": "yǒu qíng",
+   "en": "friendship",
+   "category": "friendship",
+   "level": 1,
+   "example": {
+    "zh": "他怕告白失敗，連友情都保不住。",
+    "en": "He feared that if his confession failed, he'd lose even the friendship."
+   }
+  },
+  {
+   "trad": "忍不住",
+   "pinyin": "rěn bú zhù",
+   "en": "can't help (doing)",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "看到他的新髮型，她忍不住笑了出來。",
+    "en": "Seeing his new haircut, she couldn't help bursting out laughing."
+   }
+  },
+  {
+   "trad": "突然",
+   "pinyin": "tú rán",
+   "en": "suddenly",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "他突然站起來，把大家都嚇了一跳。",
+    "en": "He suddenly stood up and gave everyone a start."
+   },
+   "note": "Taiwan reads 突 as tú (mainland tū)."
+  },
+  {
+   "trad": "忽然",
+   "pinyin": "hū rán",
+   "en": "all of a sudden",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "走到一半，天空忽然下起了大雨。",
+    "en": "Halfway there, it suddenly began to pour."
+   }
+  },
+  {
+   "trad": "竟然",
+   "pinyin": "jìng rán",
+   "en": "unexpectedly, to one's surprise",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "這麼難的題目，他竟然全部答對了。",
+    "en": "He actually got every one of these hard questions right."
+   }
+  },
+  {
+   "trad": "居然",
+   "pinyin": "jū rán",
+   "en": "actually, to think that (surprise)",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "她居然記得我三年前說過的話。",
+    "en": "She actually remembered something I'd said three years earlier."
+   }
+  },
+  {
+   "trad": "果然",
+   "pinyin": "guǒ rán",
+   "en": "sure enough, as expected",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "成績一公佈，她果然又是第一名。",
+    "en": "When the results were posted, sure enough she was first again."
+   }
+  },
+  {
+   "trad": "總之",
+   "pinyin": "zǒng zhī",
+   "en": "in short, anyway",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "總之，那天以後我開始認真念書了。",
+    "en": "Anyway, after that day I started studying seriously."
+   }
+  },
+  {
+   "trad": "反正",
+   "pinyin": "fǎn zhèng",
+   "en": "anyway, in any case",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "反正也睡不著，不如起來寫信給她。",
+    "en": "Since I couldn't sleep anyway, I might as well get up and write to her."
+   }
+  },
+  {
+   "trad": "結果",
+   "pinyin": "jié guǒ",
+   "en": "as a result, in the end; result",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "他想裝帥跳過欄杆，結果摔了一跤。",
+    "en": "He tried to look cool vaulting the railing and ended up falling flat."
+   },
+   "note": "As a connective, 結果 often introduces the comic letdown."
+  },
+  {
+   "trad": "於是",
+   "pinyin": "yú shì",
+   "en": "and so, thereupon",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "於是，我們幾個人就這樣變成了朋友。",
+    "en": "And so, just like that, the few of us became friends."
+   }
+  },
+  {
+   "trad": "沒想到",
+   "pinyin": "méi xiǎng dào",
+   "en": "unexpectedly; little did one think",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "沒想到這一分開，就是好幾年。",
+    "en": "Little did we think that this parting would last for years."
+   }
+  },
+  {
+   "trad": "說不定",
+   "pinyin": "shuō bú dìng",
+   "en": "maybe, perhaps",
+   "category": "narration",
+   "level": 1,
+   "example": {
+    "zh": "說不定她早就知道我喜歡她了。",
+    "en": "Maybe she'd known for a long time that I liked her."
+   }
+  },
+  {
+   "trad": "青春",
+   "pinyin": "qīng chūn",
+   "en": "youth",
+   "category": "nostalgia",
+   "level": 1,
+   "example": {
+    "zh": "他把整個青春都花在同一個女孩身上。",
+    "en": "He spent his entire youth on one and the same girl."
+   }
+  },
+  {
+   "trad": "回憶",
+   "pinyin": "huí yì",
+   "en": "memory; to recall",
+   "category": "nostalgia",
+   "level": 1,
+   "example": {
+    "zh": "這間舊教室裡裝滿了我們的回憶。",
+    "en": "This old classroom is filled with our memories."
+   }
+  },
+  {
+   "trad": "那些年",
+   "pinyin": "nà xiē nián",
+   "en": "those years",
+   "category": "nostalgia",
+   "level": 1,
+   "example": {
+    "zh": "那些年，我們每天都在同一間教室裡。",
+    "en": "In those years we were in the same classroom every day."
+   }
+  },
+  {
+   "trad": "追",
+   "pinyin": "zhuī",
+   "en": "to chase; to pursue romantically",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "全班的男生幾乎都在追同一個女生。",
+    "en": "Nearly all the boys in the class were pursuing the same girl."
+   },
+   "note": "The 追 of the title: to court someone."
+  },
+  {
+   "trad": "喜歡上",
+   "pinyin": "xǐ huān shàng",
+   "en": "to fall for, to come to like",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "不知道從哪一天起，他喜歡上了這個女孩。",
+    "en": "From some day he couldn't pinpoint, he had fallen for this girl."
+   }
+  },
+  {
+   "trad": "臉紅",
+   "pinyin": "liǎn hóng",
+   "en": "to blush",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "被同學這麼一鬧，她臉紅到耳朵。",
+    "en": "With her classmates teasing like that, she blushed to her ears."
+   }
+  },
+  {
+   "trad": "害羞",
+   "pinyin": "hài xiū",
+   "en": "shy, bashful",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "平常很吵的他，在她面前卻變得很害羞。",
+    "en": "Normally so loud, he turned shy in front of her."
+   }
+  },
+  {
+   "trad": "約會",
+   "pinyin": "yuē huì",
+   "en": "date; to go on a date",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "第一次約會，他緊張得連話都說不好。",
+    "en": "On their first date he was so nervous he couldn't even talk properly."
+   }
+  },
+  {
+   "trad": "在一起",
+   "pinyin": "zài yì qǐ",
+   "en": "to be together (as a couple)",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "大家都以為他們最後一定會在一起。",
+    "en": "Everyone assumed they would surely end up together."
+   }
+  },
+  {
+   "trad": "分手",
+   "pinyin": "fēn shǒu",
+   "en": "to break up",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "分手以後，他們還是偶爾會通電話。",
+    "en": "After breaking up, they still occasionally talked on the phone."
+   }
+  },
+  {
+   "trad": "女生",
+   "pinyin": "nǚ shēng",
+   "en": "girl; young woman",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "班上的女生都覺得那幾個男生很幼稚。",
+    "en": "The girls in the class all thought those boys were childish."
+   },
+   "note": "In Taiwan 女生 and 男生 are used for people of any age, not only students."
+  },
+  {
+   "trad": "女孩",
+   "pinyin": "nǚ hái",
+   "en": "girl",
+   "category": "romance",
+   "level": 1,
+   "example": {
+    "zh": "那個綁著馬尾的女孩，笑起來很好看。",
+    "en": "That girl with the ponytail has a lovely smile."
+   }
+  },
+  {
+   "trad": "國中",
+   "pinyin": "guó zhōng",
+   "en": "junior high school (grades 7–9)",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "我們從國中就同班，一路吵到高中畢業。",
+    "en": "We were in the same class from junior high and bickered all the way to high-school graduation."
+   },
+   "note": "Mainland 初中. 國一, 國二, 國三 are grades 7, 8 and 9."
+  },
+  {
+   "trad": "走廊",
+   "pinyin": "zǒu láng",
+   "en": "corridor, hallway",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "下課時走廊上擠滿了聊天的學生。",
+    "en": "At break the hallway was packed with chatting students."
+   }
+  },
+  {
+   "trad": "制服",
+   "pinyin": "zhì fú",
+   "en": "uniform",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "他的制服永遠皺皺的，襯衫也不紮好。",
+    "en": "His uniform was always wrinkled and his shirt never tucked in."
+   }
+  },
+  {
+   "trad": "書包",
+   "pinyin": "shū bāo",
+   "en": "school bag",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "他把書包往椅子上一丟就跑出去玩了。",
+    "en": "He flung his school bag onto the chair and ran out to play."
+   }
+  },
+  {
+   "trad": "校門口",
+   "pinyin": "xiào mén kǒu",
+   "en": "school gate",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "放學後，他在校門口等她一起走去車站。",
+    "en": "After school he waited for her at the gate to walk to the station together."
+   }
+  },
+  {
+   "trad": "操場",
+   "pinyin": "cāo chǎng",
+   "en": "sports field, playground",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "體育課時，我們繞著操場跑了五圈。",
+    "en": "In PE we ran five laps around the field."
+   }
+  },
+  {
+   "trad": "學期",
+   "pinyin": "xué qí",
+   "en": "semester",
+   "category": "school",
+   "level": 1,
+   "example": {
+    "zh": "新學期一開始，老師就重新排了座位。",
+    "en": "As soon as the new semester began, the teacher rearranged the seats."
+   },
+   "note": "Taiwan reads 期 as qí (mainland qī)."
+  },
+  {
+   "trad": "地震",
+   "pinyin": "dì zhèn",
+   "en": "earthquake",
+   "category": "society",
+   "level": 1,
+   "example": {
+    "zh": "半夜的大地震把所有人都搖醒了。",
+    "en": "The big earthquake in the middle of the night shook everyone awake."
+   }
+  },
+  {
+   "trad": "打架",
+   "pinyin": "dǎ jià",
+   "en": "to fight, to brawl",
+   "category": "sports-fight",
+   "level": 1,
+   "example": {
+    "zh": "她最討厭男生打架，覺得那很幼稚。",
+    "en": "She hated it most when boys fought and thought it childish."
+   }
+  },
+  {
+   "trad": "宿舍",
+   "pinyin": "sù shè",
+   "en": "dormitory",
+   "category": "university",
+   "level": 1,
+   "example": {
+    "zh": "半夜的宿舍走廊上，還有人在講電話。",
+    "en": "In the dorm hallway at midnight, someone was still on the phone."
+   }
+  },
+  {
+   "trad": "紅包",
+   "pinyin": "hóng bāo",
+   "en": "red envelope of gift money",
+   "category": "wedding",
+   "level": 1,
+   "example": {
+    "zh": "參加婚禮要包紅包，金額最好是雙數。",
+    "en": "When attending a wedding you give a red envelope, ideally an even amount."
+   },
+   "note": "包紅包 = to give one. Wedding amounts avoid the number four."
+  },
+  {
+   "trad": "新郎",
+   "pinyin": "xīn láng",
+   "en": "groom",
+   "category": "wedding",
+   "level": 1,
+   "example": {
+    "zh": "新郎緊張得連致詞的稿子都拿反了。",
+    "en": "The groom was so nervous he held his speech notes upside down."
+   }
+  },
+  {
+   "trad": "新娘",
+   "pinyin": "xīn niáng",
+   "en": "bride",
+   "category": "wedding",
+   "level": 1,
+   "example": {
+    "zh": "新娘一走進來，全場的人都站了起來。",
+    "en": "When the bride walked in, everyone in the room stood up."
+   }
+  },
+  {
+   "trad": "婚禮",
+   "pinyin": "hūn lǐ",
+   "en": "wedding",
+   "category": "wedding",
+   "level": 1,
+   "example": {
+    "zh": "他們的婚禮辦在彰化的一家大餐廳。",
+    "en": "Their wedding was held at a big restaurant in Changhua."
+   }
+  },
+  {
+   "trad": "恭喜",
+   "pinyin": "gōng xǐ",
+   "en": "congratulations",
+   "category": "wedding",
+   "level": 1,
+   "example": {
+    "zh": "他笑著對新娘說：「恭喜，妳今天很美。」",
+    "en": "Smiling, he said to the bride, 'Congratulations, you look beautiful today.'"
+   }
+  },
+  {
+   "trad": "白癡",
+   "pinyin": "bái chī",
+   "en": "idiot",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你白癡喔，這種話怎麼可以當面問她？",
+    "en": "Are you an idiot? How could you ask her something like that to her face?"
+   },
+   "note": "Often printed with the simpler 疒+知 form of 癡. Between friends it is affectionate abuse."
+  },
+  {
+   "trad": "豬頭",
+   "pinyin": "zhū tóu",
+   "en": "pig-head, blockhead",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你這個豬頭，又把我的筆記弄丟了！",
+    "en": "You blockhead, you've lost my notes again!"
+   }
+  },
+  {
+   "trad": "幹嘛",
+   "pinyin": "gàn má",
+   "en": "what for?; what are you doing?",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你幹嘛一直拿筆戳我的背啦？",
+    "en": "Why do you keep poking my back with your pen?"
+   },
+   "note": "Also written 幹麼. Tone ranges from curious to irritated."
+  },
+  {
+   "trad": "少來",
+   "pinyin": "shǎo lái",
+   "en": "come off it, don't give me that",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "少來了，你明明就是想看她一眼。",
+    "en": "Come off it, you obviously just want a glimpse of her."
+   }
+  },
+  {
+   "trad": "找死",
+   "pinyin": "zhǎo sǐ",
+   "en": "to be asking for it, to have a death wish",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你敢偷看我的日記，是不是找死？",
+    "en": "You dare peek at my diary? Do you have a death wish?"
+   }
+  },
+  {
+   "trad": "你很煩耶",
+   "pinyin": "nǐ hěn fán ye",
+   "en": "you're so annoying!",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "她瞪了他一眼，小聲說：「你很煩耶。」",
+    "en": "She glared at him and said quietly, 'You're so annoying.'"
+   },
+   "note": "Sentence-final 耶 adds a Taiwan-flavored whine or emphasis."
+  },
+  {
+   "trad": "囂張",
+   "pinyin": "xiāo zhāng",
+   "en": "cocky, brazen",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他贏了打賭以後，囂張得不得了。",
+    "en": "After winning the bet he was insufferably cocky."
+   }
+  },
+  {
+   "trad": "損",
+   "pinyin": "sǔn",
+   "en": "to mock, to make digs at",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他們幾個見面就互相損來損去。",
+    "en": "Whenever those guys meet they trade digs back and forth."
+   }
+  },
+  {
+   "trad": "鬼扯",
+   "pinyin": "guǐ chě",
+   "en": "to talk nonsense",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你少鬼扯，地球哪有可能明天就毀滅。",
+    "en": "Stop talking nonsense; as if the Earth could be destroyed tomorrow."
+   }
+  },
+  {
+   "trad": "亂講",
+   "pinyin": "luàn jiǎng",
+   "en": "to talk rubbish, to say untrue things",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你不要亂講，我跟她只是普通朋友。",
+    "en": "Don't talk rubbish; she and I are just ordinary friends."
+   },
+   "note": "Taiwan favors 講 where the mainland says 亂說."
+  },
+  {
+   "trad": "鬥嘴",
+   "pinyin": "dòu zuǐ",
+   "en": "to bicker",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他們每天鬥嘴，感情卻越來越好。",
+    "en": "They bickered every day, yet grew closer and closer."
+   }
+  },
+  {
+   "trad": "挖苦",
+   "pinyin": "wā kǔ",
+   "en": "to make sarcastic digs at",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "她挖苦他：「你這種成績也想考大學？」",
+    "en": "She said sarcastically, 'With grades like yours you want to get into university?'"
+   }
+  },
+  {
+   "trad": "裝傻",
+   "pinyin": "zhuāng shǎ",
+   "en": "to play dumb",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "問他作業寫了沒，他就開始裝傻。",
+    "en": "Ask him whether he's done his homework and he starts playing dumb."
+   }
+  },
+  {
+   "trad": "耍賴",
+   "pinyin": "shuǎ lài",
+   "en": "to refuse to play fair, to weasel out",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "打賭輸了就要認，不可以耍賴。",
+    "en": "If you lose a bet you own up; no weaseling out."
+   }
+  },
+  {
+   "trad": "搞笑",
+   "pinyin": "gǎo xiào",
+   "en": "funny; to play the clown",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他以為自己很搞笑，其實只有他在笑。",
+    "en": "He thinks he's funny; actually he's the only one laughing."
+   }
+  },
+  {
+   "trad": "冷笑話",
+   "pinyin": "lěng xiào huà",
+   "en": "lame joke, groaner",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他講了一個冷笑話，教室裡安靜了三秒。",
+    "en": "He told a groaner and the classroom went silent for three seconds."
+   },
+   "note": "冷 ('cold') describes a joke that falls flat: 好冷喔 = 'that was lame'."
+  },
+  {
+   "trad": "綽號",
+   "pinyin": "chuò hào",
+   "en": "nickname",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "班上每個男生都有一個很難聽的綽號。",
+    "en": "Every boy in the class had some unflattering nickname."
+   }
+  },
+  {
+   "trad": "拜託",
+   "pinyin": "bài tuō",
+   "en": "please!; oh, come on!",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "拜託，這麼簡單的事誰不知道？",
+    "en": "Oh come on, who doesn't know something this simple?"
+   },
+   "note": "As an exclamation it expresses exasperation."
+  },
+  {
+   "trad": "真的假的",
+   "pinyin": "zhēn de jiǎ de",
+   "en": "for real?, seriously?",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "真的假的？她居然答應跟你去看電影？",
+    "en": "Seriously? She actually agreed to go to a movie with you?"
+   }
+  },
+  {
+   "trad": "你管我",
+   "pinyin": "nǐ guǎn wǒ",
+   "en": "mind your own business",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "我想幾點睡就幾點睡，你管我。",
+    "en": "I'll go to sleep whenever I want; mind your own business."
+   }
+  },
+  {
+   "trad": "不要臉",
+   "pinyin": "bú yào liǎn",
+   "en": "shameless",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "抄我的作業還說是自己寫的，真不要臉。",
+    "en": "Copying my homework and then claiming you wrote it; how shameless."
+   }
+  },
+  {
+   "trad": "閉嘴",
+   "pinyin": "bì zuǐ",
+   "en": "shut up",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "你再不閉嘴，我就把你的糗事說出去。",
+    "en": "If you don't shut up, I'll tell everyone your embarrassing story."
+   }
+  },
+  {
+   "trad": "囉嗦",
+   "pinyin": "luō suō",
+   "en": "long-winded, naggy",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "好啦好啦，我知道了，你真的很囉嗦。",
+    "en": "All right, all right, I get it; you really are a nag."
+   }
+  },
+  {
+   "trad": "廢話",
+   "pinyin": "fèi huà",
+   "en": "nonsense; 'well, obviously!'",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "「你喜歡她喔？」「廢話，不然我幹嘛念書？」",
+    "en": "'So you like her?' 'Duh, why else would I be studying?'"
+   },
+   "note": "As a one-word reply 廢話 means 'obviously'."
+  },
+  {
+   "trad": "髒話",
+   "pinyin": "zāng huà",
+   "en": "swear word, profanity",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他罵了一句髒話，剛好被訓導主任聽到。",
+    "en": "He let out a swear word just as the dean of discipline was within earshot."
+   }
+  },
+  {
+   "trad": "噁心",
+   "pinyin": "ě xīn",
+   "en": "gross, disgusting; nauseating",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他把鼻屎黏在桌子底下，噁心死了。",
+    "en": "He stuck his boogers under the desk. So gross."
+   },
+   "note": "Taiwan writes it with the 口-radical 噁."
+  },
+  {
+   "trad": "惡作劇",
+   "pinyin": "è zuò jù",
+   "en": "prank, practical joke",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "男生們的惡作劇越來越過分。",
+    "en": "The boys' pranks got more and more out of hand."
+   }
+  },
+  {
+   "trad": "整人",
+   "pinyin": "zhěng rén",
+   "en": "to play tricks on people",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "他最大的興趣就是想新花樣整人。",
+    "en": "His greatest hobby was thinking up new ways to play tricks on people."
+   }
+  },
+  {
+   "trad": "起鬨",
+   "pinyin": "qǐ hòng",
+   "en": "to egg on, to jeer as a group",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "兩個人一站在一起，全班就開始起鬨。",
+    "en": "The moment the two stood together, the whole class started whooping."
+   },
+   "note": "鬨 is read hòng."
+  },
+  {
+   "trad": "打鬧",
+   "pinyin": "dǎ nào",
+   "en": "to roughhouse, to horse around",
+   "category": "banter",
+   "level": 2,
+   "example": {
+    "zh": "男生在教室後面打鬧，把掃把都弄斷了。",
+    "en": "The boys were roughhousing at the back of the room and broke a broom."
+   }
+  },
+  {
+   "trad": "瞪",
+   "pinyin": "dèng",
+   "en": "to glare at",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "她回頭狠狠瞪了那幾個吵鬧的男生一眼。",
+    "en": "She turned and shot a fierce glare at those noisy boys."
+   }
+  },
+  {
+   "trad": "盯",
+   "pinyin": "dīng",
+   "en": "to stare at, to fix one's eyes on",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他盯著她的後腦勺，一整節課都沒聽進去。",
+    "en": "He stared at the back of her head and took in nothing the whole period."
+   }
+  },
+  {
+   "trad": "瞄",
+   "pinyin": "miáo",
+   "en": "to steal a glance at",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他偷偷瞄了一眼隔壁同學的答案。",
+    "en": "He stole a glance at his neighbor's answers."
+   }
+  },
+  {
+   "trad": "皺眉",
+   "pinyin": "zhòu méi",
+   "en": "to frown",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "她看著他的考卷，忍不住皺眉。",
+    "en": "Looking at his test paper, she couldn't help frowning."
+   }
+  },
+  {
+   "trad": "聳肩",
+   "pinyin": "sǒng jiān",
+   "en": "to shrug",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "問他為什麼遲到，他只是聳肩笑了笑。",
+    "en": "Asked why he was late, he just shrugged and smiled."
+   }
+  },
+  {
+   "trad": "愣住",
+   "pinyin": "lèng zhù",
+   "en": "to freeze, to be stunned for a moment",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "聽到她的回答，他整個人愣住了。",
+    "en": "Hearing her answer, he froze completely."
+   }
+  },
+  {
+   "trad": "傻笑",
+   "pinyin": "shǎ xiào",
+   "en": "to grin foolishly",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "掛上電話以後，他對著牆壁傻笑了很久。",
+    "en": "After hanging up, he grinned foolishly at the wall for a long time."
+   }
+  },
+  {
+   "trad": "苦笑",
+   "pinyin": "kǔ xiào",
+   "en": "to smile wryly",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他苦笑著說：「原來我一直都搞錯了。」",
+    "en": "He said with a wry smile, 'So I've had it wrong all along.'"
+   }
+  },
+  {
+   "trad": "冷笑",
+   "pinyin": "lěng xiào",
+   "en": "to sneer, to laugh coldly",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "對手冷笑一聲，擺出準備出拳的姿勢。",
+    "en": "His opponent sneered and took up a stance ready to punch."
+   }
+  },
+  {
+   "trad": "吐舌頭",
+   "pinyin": "tǔ shé tóu",
+   "en": "to stick out one's tongue",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "被發現以後，她調皮地吐舌頭。",
+    "en": "When found out, she cheekily stuck out her tongue."
+   }
+  },
+  {
+   "trad": "翻白眼",
+   "pinyin": "fān bái yǎn",
+   "en": "to roll one's eyes",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "聽到他的爛笑話，她當場翻白眼。",
+    "en": "Hearing his terrible joke, she rolled her eyes on the spot."
+   }
+  },
+  {
+   "trad": "抓頭",
+   "pinyin": "zhuā tóu",
+   "en": "to scratch one's head",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他抓頭想了半天，還是算不出答案。",
+    "en": "He scratched his head for ages and still couldn't work out the answer."
+   }
+  },
+  {
+   "trad": "拍桌",
+   "pinyin": "pāi zhuō",
+   "en": "to slam the desk",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "老師氣得拍桌大罵，全班不敢出聲。",
+    "en": "The teacher slammed the desk in fury and the whole class didn't dare make a sound."
+   }
+  },
+  {
+   "trad": "趴",
+   "pinyin": "pā",
+   "en": "to lie face-down; to slump over (a desk)",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "午休時，全班都趴在桌上睡覺。",
+    "en": "At nap time the whole class slept slumped over their desks."
+   }
+  },
+  {
+   "trad": "丟",
+   "pinyin": "diū",
+   "en": "to throw; to lose",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他把紙團丟向垃圾桶，結果沒丟進。",
+    "en": "He threw the paper ball at the trash can and missed."
+   },
+   "note": "Taiwan's everyday 'throw'; the mainland more often says 扔."
+  },
+  {
+   "trad": "衝",
+   "pinyin": "chōng",
+   "en": "to dash, to charge",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "下課鐘一響，他第一個衝出教室。",
+    "en": "The moment the bell rang, he was first to dash out of the classroom."
+   }
+  },
+  {
+   "trad": "發呆",
+   "pinyin": "fā dāi",
+   "en": "to stare blankly, to space out",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他看著窗外發呆，連老師叫他都沒聽到。",
+    "en": "He stared out of the window in a daze and didn't even hear the teacher call him."
+   }
+  },
+  {
+   "trad": "頂嘴",
+   "pinyin": "dǐng zuǐ",
+   "en": "to talk back (to an elder or teacher)",
+   "category": "body-action",
+   "level": 2,
+   "example": {
+    "zh": "他跟老師頂嘴，又被叫到走廊罰站。",
+    "en": "He talked back to the teacher and was sent to stand in the hallway again."
+   }
+  },
+  {
+   "trad": "講臺",
+   "pinyin": "jiǎng tái",
+   "en": "teacher's platform at the front of the classroom",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "老師站在講臺上，誰在睡覺看得很清楚。",
+    "en": "From the platform the teacher can see very clearly who is asleep."
+   },
+   "note": "Usually printed with the everyday 5-stroke form of 臺 familiar from Simplified."
+  },
+  {
+   "trad": "板擦",
+   "pinyin": "bǎn cā",
+   "en": "blackboard eraser",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "值日生要把板擦拿到外面拍乾淨。",
+    "en": "The student on duty has to take the erasers outside and beat them clean."
+   },
+   "note": "Mainland 黑板擦."
+  },
+  {
+   "trad": "課桌椅",
+   "pinyin": "kè zhuō yǐ",
+   "en": "classroom desks and chairs",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "考試前要把課桌椅排成一行一行的。",
+    "en": "Before an exam the desks and chairs have to be lined up in rows."
+   }
+  },
+  {
+   "trad": "抽屜",
+   "pinyin": "chōu tì",
+   "en": "drawer; the cubby under a school desk",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "他的抽屜裡塞滿了漫畫和沒寫的考卷。",
+    "en": "His desk cubby was stuffed with comics and undone test papers."
+   }
+  },
+  {
+   "trad": "值日生",
+   "pinyin": "zhí rì shēng",
+   "en": "student on duty for the day",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "今天的值日生忘了擦黑板，被老師罵了。",
+    "en": "Today's duty student forgot to wipe the board and got told off by the teacher."
+   },
+   "note": "Students take turns, usually in pairs, to handle the board, the lunch boxes and locking up."
+  },
+  {
+   "trad": "講義",
+   "pinyin": "jiǎng yì",
+   "en": "handout, printed course notes",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "老師發了一疊厚厚的講義要我們回家看。",
+    "en": "The teacher handed out a thick stack of notes for us to read at home."
+   }
+  },
+  {
+   "trad": "作業簿",
+   "pinyin": "zuò yè bù",
+   "en": "homework exercise book",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "小老師一早就來收大家的作業簿。",
+    "en": "The subject helper came first thing in the morning to collect everyone's exercise books."
+   },
+   "note": "Mainland 作業本. A 小老師 is a student who assists a subject teacher."
+  },
+  {
+   "trad": "原子筆",
+   "pinyin": "yuán zǐ bǐ",
+   "en": "ballpoint pen",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "她拿原子筆戳了戳前面男生的背。",
+    "en": "She poked the back of the boy in front with her ballpoint pen."
+   },
+   "note": "Mainland 圓珠筆."
+  },
+  {
+   "trad": "橡皮擦",
+   "pinyin": "xiàng pí cā",
+   "en": "eraser",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "他把橡皮擦切成小塊丟前面的同學。",
+    "en": "He cut his eraser into little pieces and threw them at the classmate in front."
+   },
+   "note": "Mainland 橡皮."
+  },
+  {
+   "trad": "點名",
+   "pinyin": "diǎn míng",
+   "en": "to take attendance; to call on someone by name",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "老師點名的時候，他剛好溜進教室。",
+    "en": "He slipped into the classroom just as the teacher was taking attendance."
+   }
+  },
+  {
+   "trad": "抄筆記",
+   "pinyin": "chāo bǐ jì",
+   "en": "to copy down notes",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "她上課認真抄筆記，字寫得又小又整齊。",
+    "en": "She took careful notes in class in small, neat handwriting."
+   }
+  },
+  {
+   "trad": "打瞌睡",
+   "pinyin": "dǎ kē shuì",
+   "en": "to doze off",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "下午第一節課，全班有一半在打瞌睡。",
+    "en": "In the first period after lunch, half the class was dozing."
+   }
+  },
+  {
+   "trad": "傳紙條",
+   "pinyin": "chuán zhǐ tiáo",
+   "en": "to pass notes in class",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "他們上課傳紙條，被老師當場發現。",
+    "en": "They were passing notes in class and the teacher caught them at it."
+   }
+  },
+  {
+   "trad": "換座位",
+   "pinyin": "huàn zuò wèi",
+   "en": "to change seats",
+   "category": "classroom",
+   "level": 2,
+   "example": {
+    "zh": "每次段考完，老師都會讓全班換座位。",
+    "en": "After every term exam the teacher had the whole class change seats."
+   }
+  },
+  {
+   "trad": "馬尾",
+   "pinyin": "mǎ wěi",
+   "en": "ponytail",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "她今天把頭髮綁成馬尾，看起來很有精神。",
+    "en": "She tied her hair in a ponytail today and looked full of energy."
+   }
+  },
+  {
+   "trad": "光頭",
+   "pinyin": "guāng tóu",
+   "en": "shaved head",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "他頂著一顆光頭走進教室，全班都笑翻了。",
+    "en": "He walked into the classroom with a shaved head and the whole class cracked up."
+   }
+  },
+  {
+   "trad": "氣質",
+   "pinyin": "qì zhí",
+   "en": "poise, refined air",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "她很有氣質，連生氣的樣子都好看。",
+    "en": "She has real poise; she even looks good when angry."
+   },
+   "note": "Taiwan reads 質 as zhí (mainland zhì)."
+  },
+  {
+   "trad": "調皮",
+   "pinyin": "tiáo pí",
+   "en": "naughty, mischievous",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "他是班上最調皮的學生，天天都闖禍。",
+    "en": "He was the naughtiest student in the class and got into trouble every single day."
+   }
+  },
+  {
+   "trad": "搗蛋",
+   "pinyin": "dǎo dàn",
+   "en": "to make mischief, to act up",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "他上課愛搗蛋，老師只好把他調到前面。",
+    "en": "He loved acting up in class, so the teacher had no choice but to move him to the front."
+   }
+  },
+  {
+   "trad": "髒兮兮",
+   "pinyin": "zāng xī xī",
+   "en": "filthy, grubby",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "打完球，他的制服總是髒兮兮的。",
+    "en": "After playing ball his uniform was always filthy."
+   }
+  },
+  {
+   "trad": "亂七八糟",
+   "pinyin": "luàn qī bā zāo",
+   "en": "in a total mess",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "他的筆記寫得亂七八糟，沒有人看得懂。",
+    "en": "His notes were a total mess that nobody could read."
+   }
+  },
+  {
+   "trad": "燦爛",
+   "pinyin": "càn làn",
+   "en": "radiant, brilliant",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "她笑得很燦爛，他看得都呆住了。",
+    "en": "Her smile was so radiant that he was transfixed."
+   }
+  },
+  {
+   "trad": "熟悉",
+   "pinyin": "shú xī",
+   "en": "familiar",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "電話那頭傳來一個熟悉的聲音。",
+    "en": "A familiar voice came from the other end of the line."
+   }
+  },
+  {
+   "trad": "誇張",
+   "pinyin": "kuā zhāng",
+   "en": "over the top, exaggerated",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "他講故事很誇張，小事也講得驚天動地。",
+    "en": "He tells stories with great exaggeration; even small things become earth-shaking."
+   },
+   "note": "In Taiwan speech 太誇張了 means 'that's outrageous'."
+  },
+  {
+   "trad": "手忙腳亂",
+   "pinyin": "shǒu máng jiǎo luàn",
+   "en": "in a flurry, all thumbs",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "老師突然點到他，他手忙腳亂地翻課本。",
+    "en": "When the teacher suddenly called on him, he fumbled frantically through his textbook."
+   }
+  },
+  {
+   "trad": "哭笑不得",
+   "pinyin": "kū xiào bù dé",
+   "en": "not knowing whether to laugh or cry",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "看到他的答案，老師哭笑不得。",
+    "en": "Seeing his answer, the teacher didn't know whether to laugh or cry."
+   }
+  },
+  {
+   "trad": "不可思議",
+   "pinyin": "bù kě sī yì",
+   "en": "incredible, unbelievable",
+   "category": "description",
+   "level": 2,
+   "example": {
+    "zh": "他能考進前十名，連老師都覺得不可思議。",
+    "en": "That he made the top ten struck even the teachers as unbelievable."
+   }
+  },
+  {
+   "trad": "教官",
+   "pinyin": "jiào guān",
+   "en": "military instructor posted to a school, in charge of discipline",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "教官每天早上站在校門口檢查服裝。",
+    "en": "Every morning the instructor stands at the school gate checking uniforms."
+   },
+   "note": "Uniformed officers assigned to senior highs and universities; feared enforcers of the rules."
+  },
+  {
+   "trad": "訓導主任",
+   "pinyin": "xùn dǎo zhǔ rèn",
+   "en": "dean of discipline",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "訓導主任拿著藤條在走廊上巡來巡去。",
+    "en": "The dean of discipline patrolled the hallway with a cane in his hand."
+   }
+  },
+  {
+   "trad": "訓導處",
+   "pinyin": "xùn dǎo chù",
+   "en": "discipline office (student affairs)",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "廣播叫他馬上到訓導處報到。",
+    "en": "The PA system called him to report to the discipline office at once."
+   },
+   "note": "Renamed 學務處 in later years."
+  },
+  {
+   "trad": "罰站",
+   "pinyin": "fá zhàn",
+   "en": "to be made to stand as punishment",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "他上課講話，被老師叫去走廊罰站。",
+    "en": "He talked in class and the teacher sent him to stand in the hallway."
+   }
+  },
+  {
+   "trad": "罰寫",
+   "pinyin": "fá xiě",
+   "en": "to be made to copy out lines as punishment",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "單字考不及格的人，每個字罰寫二十遍。",
+    "en": "Anyone who fails the vocabulary quiz copies each word twenty times."
+   }
+  },
+  {
+   "trad": "記過",
+   "pinyin": "jì guò",
+   "en": "to record a demerit on a student's file",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "在學校打架，兩個人都被記過了。",
+    "en": "They fought at school and both got demerits."
+   },
+   "note": "Scale: 警告, 小過, 大過. Three 大過 means expulsion."
+  },
+  {
+   "trad": "訓話",
+   "pinyin": "xùn huà",
+   "en": "to lecture, to give a dressing-down",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "班導把我們幾個叫到辦公室訓話。",
+    "en": "The homeroom teacher called a few of us into the office for a lecture."
+   }
+  },
+  {
+   "trad": "打手心",
+   "pinyin": "dǎ shǒu xīn",
+   "en": "to hit on the palm (with a cane or ruler)",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "少一分打一下，全班排隊等著被打手心。",
+    "en": "One stroke per missing mark: the whole class lined up to have their palms hit."
+   }
+  },
+  {
+   "trad": "體罰",
+   "pinyin": "tǐ fá",
+   "en": "corporal punishment",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "那個年代，老師體罰學生是很平常的事。",
+    "en": "In those days it was perfectly ordinary for teachers to physically punish students."
+   },
+   "note": "Banned by law in Taiwan in 2006."
+  },
+  {
+   "trad": "跑操場",
+   "pinyin": "pǎo cāo chǎng",
+   "en": "to run laps of the field",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "遲到的同學被罰放學後跑操場十圈。",
+    "en": "The latecomers were punished with ten laps of the field after school."
+   }
+  },
+  {
+   "trad": "退學",
+   "pinyin": "tuì xué",
+   "en": "to expel; to drop out",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "再被記一次過，他就真的要被退學了。",
+    "en": "One more demerit and he really will be expelled."
+   }
+  },
+  {
+   "trad": "違規",
+   "pinyin": "wéi guī",
+   "en": "to break the rules",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "帶漫畫到學校是違規的，被抓到會沒收。",
+    "en": "Bringing comics to school is against the rules; if caught they get confiscated."
+   }
+  },
+  {
+   "trad": "平頭",
+   "pinyin": "píng tóu",
+   "en": "crew cut",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "他剛理完平頭，同學都搶著摸他的頭。",
+    "en": "He'd just had a crew cut and classmates all scrambled to rub his head."
+   }
+  },
+  {
+   "trad": "翹課",
+   "pinyin": "qiào kè",
+   "en": "to skip class",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "他們下午翹課跑去打電動，結果遇到教官。",
+    "en": "They skipped afternoon class to play video games and ran into the instructor."
+   },
+   "note": "Mainland 逃課. Also written 蹺課."
+  },
+  {
+   "trad": "沒收",
+   "pinyin": "mò shōu",
+   "en": "to confiscate",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "他上課偷看的漫畫被老師沒收了。",
+    "en": "The comic he was sneaking a look at in class was confiscated by the teacher."
+   },
+   "note": "沒 is read mò here."
+  },
+  {
+   "trad": "告狀",
+   "pinyin": "gào zhuàng",
+   "en": "to tell on someone",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "他一被欺負就跑去跟老師告狀。",
+    "en": "The moment anyone picks on him he runs to tell the teacher."
+   }
+  },
+  {
+   "trad": "挨罵",
+   "pinyin": "ái mà",
+   "en": "to get a scolding",
+   "category": "discipline",
+   "level": 2,
+   "example": {
+    "zh": "他每天都挨罵，早就已經習慣了。",
+    "en": "He got scolded every day and had long since got used to it."
+   }
+  },
+  {
+   "trad": "遺憾",
+   "pinyin": "yí hàn",
+   "en": "regret; a pity (something left undone)",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "沒能親口問她答案，是他最大的遺憾。",
+    "en": "Never having asked her for the answer in person was his greatest regret."
+   }
+  },
+  {
+   "trad": "錯過",
+   "pinyin": "cuò guò",
+   "en": "to miss (a chance, a person)",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "他怕這次不說，就會永遠錯過她。",
+    "en": "He feared that if he didn't speak this time, he would miss his chance with her forever."
+   }
+  },
+  {
+   "trad": "捨不得",
+   "pinyin": "shě bù dé",
+   "en": "to be loath to part with or give up",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "畢業那天，大家都捨不得離開教室。",
+    "en": "On graduation day nobody could bear to leave the classroom."
+   }
+  },
+  {
+   "trad": "尷尬",
+   "pinyin": "gān gà",
+   "en": "awkward, embarrassed",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "兩個人同時開口，氣氛變得有點尷尬。",
+    "en": "They both started speaking at once and things got a little awkward."
+   }
+  },
+  {
+   "trad": "沮喪",
+   "pinyin": "jǔ sàng",
+   "en": "dejected",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "成績退步了，她沮喪得一句話也不想說。",
+    "en": "Her grades had slipped and she was too dejected to say a word."
+   }
+  },
+  {
+   "trad": "得意",
+   "pinyin": "dé yì",
+   "en": "pleased with oneself, smug",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "他拿著滿分的考卷，得意地在她面前晃。",
+    "en": "Holding his full-marks paper, he waved it smugly in front of her."
+   }
+  },
+  {
+   "trad": "不甘心",
+   "pinyin": "bù gān xīn",
+   "en": "unwilling to accept (a loss), unreconciled",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "輸給自己的好朋友，他覺得很不甘心。",
+    "en": "Losing to his own good friend, he just couldn't accept it."
+   }
+  },
+  {
+   "trad": "祝福",
+   "pinyin": "zhù fú",
+   "en": "to wish someone well; blessing",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "朋友們舉起酒杯，大聲祝福這對新人。",
+    "en": "The friends raised their glasses and loudly wished the newlyweds well."
+   }
+  },
+  {
+   "trad": "珍惜",
+   "pinyin": "zhēn xí",
+   "en": "to cherish",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "失去以後，他終於懂得什麼叫珍惜。",
+    "en": "Only after losing it did he finally understand what it means to cherish something."
+   },
+   "note": "Taiwan reads 惜 as xí (mainland xī)."
+  },
+  {
+   "trad": "心酸",
+   "pinyin": "xīn suān",
+   "en": "heart-sore, a pang of sadness",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "想起那段沒有結果的感情，他有點心酸。",
+    "en": "Remembering that love that came to nothing, he felt a pang."
+   }
+  },
+  {
+   "trad": "失落",
+   "pinyin": "shī luò",
+   "en": "a sense of loss, let down",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "等了一晚都沒等到電話，她很失落。",
+    "en": "She waited all evening for a call that never came and felt let down."
+   }
+  },
+  {
+   "trad": "寂寞",
+   "pinyin": "jí mò",
+   "en": "lonely",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "一個人在外地念書，晚上特別寂寞。",
+    "en": "Studying alone away from home, the evenings were especially lonely."
+   },
+   "note": "Taiwan reads 寂 as jí (mainland jì)."
+  },
+  {
+   "trad": "委屈",
+   "pinyin": "wěi qū",
+   "en": "feeling wronged, aggrieved",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "被誤會的時候，她委屈得說不出話。",
+    "en": "When she was misunderstood, she felt too wronged to speak."
+   }
+  },
+  {
+   "trad": "羨慕",
+   "pinyin": "xiàn mù",
+   "en": "to envy (benignly)",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "同學都很羨慕他可以坐在她前面。",
+    "en": "His classmates all envied him for getting to sit in front of her."
+   }
+  },
+  {
+   "trad": "嫉妒",
+   "pinyin": "jí dù",
+   "en": "to be jealous, to envy (resentfully)",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "他有點嫉妒那個能逗她笑的男生。",
+    "en": "He was a little jealous of the boy who could make her laugh."
+   }
+  },
+  {
+   "trad": "自卑",
+   "pinyin": "zì bēi",
+   "en": "to feel inferior",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "站在優秀的她旁邊，他常常覺得自卑。",
+    "en": "Standing beside someone as outstanding as her, he often felt inferior."
+   }
+  },
+  {
+   "trad": "死心",
+   "pinyin": "sǐ xīn",
+   "en": "to give up hope (on someone)",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "被拒絕了那麼多次，他還是不肯死心。",
+    "en": "After being turned down so many times he still wouldn't give up."
+   }
+  },
+  {
+   "trad": "任性",
+   "pinyin": "rèn xìng",
+   "en": "willful, self-indulgent",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "他知道自己很任性，卻不知道怎麼改。",
+    "en": "He knew he was willful but didn't know how to change."
+   }
+  },
+  {
+   "trad": "無奈",
+   "pinyin": "wú nài",
+   "en": "helpless, resigned",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "她無奈地嘆了口氣，把筆記借給他。",
+    "en": "She gave a resigned sigh and lent him her notes."
+   }
+  },
+  {
+   "trad": "無所謂",
+   "pinyin": "wú suǒ wèi",
+   "en": "not to care, to be indifferent",
+   "category": "emotion",
+   "level": 2,
+   "example": {
+    "zh": "他裝出一副無所謂的樣子，心裡卻很痛。",
+    "en": "He put on an air of not caring, but inside it hurt."
+   }
+  },
+  {
+   "trad": "段考",
+   "pinyin": "duàn kǎo",
+   "en": "term exam (one of the fixed exams each semester)",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "下個星期就要段考了，他還沒開始念書。",
+    "en": "The term exam is next week and he still hasn't started studying."
+   },
+   "note": "Usually three per semester, so also loosely called 月考."
+  },
+  {
+   "trad": "月考",
+   "pinyin": "yuè kǎo",
+   "en": "monthly exam",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "這次月考他進步了十名，自己都嚇一跳。",
+    "en": "He moved up ten places in this monthly exam and even surprised himself."
+   }
+  },
+  {
+   "trad": "模擬考",
+   "pinyin": "mó nǐ kǎo",
+   "en": "mock exam",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "第一次模擬考的成績讓全班都很沮喪。",
+    "en": "The results of the first mock exam left the whole class dejected."
+   }
+  },
+  {
+   "trad": "聯考",
+   "pinyin": "lián kǎo",
+   "en": "joint entrance examination",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "那個年代，一場聯考就決定你念哪所學校。",
+    "en": "In those days a single joint exam decided which school you attended."
+   },
+   "note": "The one-shot July exam for senior high or university; phased out in the early 2000s."
+  },
+  {
+   "trad": "榜單",
+   "pinyin": "bǎng dān",
+   "en": "published list of successful candidates",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他在榜單上找了很久，終於看到自己的名字。",
+    "en": "He searched the list for a long time and finally saw his own name."
+   }
+  },
+  {
+   "trad": "放榜",
+   "pinyin": "fàng bǎng",
+   "en": "to announce exam results (publish the admissions list)",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "放榜那天早上，全家人都緊張得睡不著。",
+    "en": "On the morning the results came out, the whole family was too nervous to sleep."
+   }
+  },
+  {
+   "trad": "落榜",
+   "pinyin": "luò bǎng",
+   "en": "to fail to get in (not appear on the list)",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他知道自己落榜以後，一整天都沒說話。",
+    "en": "After learning he hadn't made the list, he didn't speak all day."
+   }
+  },
+  {
+   "trad": "重考",
+   "pinyin": "chóng kǎo",
+   "en": "to retake the entrance exam a year later",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他沒考上理想的學校，決定重考一年。",
+    "en": "He didn't get into the school he wanted and decided to spend a year retaking the exam."
+   },
+   "note": "Mainland 復讀. Retakers attend a 重考班."
+  },
+  {
+   "trad": "志願",
+   "pinyin": "zhì yuàn",
+   "en": "school or department preference (on an application); aspiration",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "填志願的時候，他只填了同一所大學。",
+    "en": "When listing his preferences, he put down only the one university."
+   },
+   "note": "填志願 = fill in your ranked choices after the exam."
+  },
+  {
+   "trad": "第一志願",
+   "pinyin": "dì yī zhì yuàn",
+   "en": "first-choice school; the top school",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "以她的成績，考上第一志願絕對沒問題。",
+    "en": "With her grades, getting into the top-choice school would be no problem at all."
+   }
+  },
+  {
+   "trad": "名次",
+   "pinyin": "míng cì",
+   "en": "position in a ranking",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "她的名次從來沒有掉出全校前三名。",
+    "en": "Her place had never dropped out of the school's top three."
+   }
+  },
+  {
+   "trad": "小抄",
+   "pinyin": "xiǎo chāo",
+   "en": "crib sheet, cheat notes",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他把小抄寫在手心，結果流汗全糊掉了。",
+    "en": "He wrote his crib notes on his palm, and then sweat smudged them all."
+   }
+  },
+  {
+   "trad": "參考書",
+   "pinyin": "cān kǎo shū",
+   "en": "study guide, exam workbook",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "她的桌上堆滿了各科的參考書。",
+    "en": "Her desk was piled with study guides for every subject."
+   }
+  },
+  {
+   "trad": "自修",
+   "pinyin": "zì xiū",
+   "en": "self-study; (TW) a study guide keyed to the textbook",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他買了一本數學自修，打算暑假自己念。",
+    "en": "He bought a math study guide, planning to work through it on his own over the summer."
+   }
+  },
+  {
+   "trad": "期末考",
+   "pinyin": "qí mò kǎo",
+   "en": "final exam",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "期末考一結束，漫長的暑假就開始了。",
+    "en": "As soon as finals were over, the long summer vacation began."
+   },
+   "note": "期 is qí in Taiwan."
+  },
+  {
+   "trad": "改考卷",
+   "pinyin": "gǎi kǎo juàn",
+   "en": "to mark exam papers",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "老師叫大家跟後面的同學交換改考卷。",
+    "en": "The teacher had everyone swap papers with the classmate behind to mark them."
+   },
+   "note": "改 = to mark or grade in Taiwan school talk."
+  },
+  {
+   "trad": "考砸",
+   "pinyin": "kǎo zá",
+   "en": "to bomb a test",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "這次段考他完全考砸了，回家一定會挨罵。",
+    "en": "He totally bombed this term exam and is sure to get scolded at home."
+   }
+  },
+  {
+   "trad": "錄取",
+   "pinyin": "lù qǔ",
+   "en": "to admit (to a school); to be accepted",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他收到大學的錄取通知，高興得跳起來。",
+    "en": "He got his university acceptance notice and jumped for joy."
+   }
+  },
+  {
+   "trad": "補習班",
+   "pinyin": "bǔ xí bān",
+   "en": "cram school",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "放學後他還要趕去補習班上英文。",
+    "en": "After school he still has to rush to cram school for English."
+   },
+   "note": "After-school tutoring businesses; a near-universal part of Taiwanese teen life."
+  },
+  {
+   "trad": "升學",
+   "pinyin": "shēng xué",
+   "en": "to advance to the next level of schooling",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "在升學壓力下，大家連下課都在背書。",
+    "en": "Under the pressure to get into a good school, everyone was memorizing even at break."
+   }
+  },
+  {
+   "trad": "背單字",
+   "pinyin": "bèi dān zì",
+   "en": "to memorize vocabulary words",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "她規定他每天要背單字，隔天還要考。",
+    "en": "She made him memorize vocabulary every day and tested him the next day."
+   },
+   "note": "單字 is Taiwan's word for a (foreign) vocabulary item; mainland 單詞."
+  },
+  {
+   "trad": "開夜車",
+   "pinyin": "kāi yè chē",
+   "en": "to burn the midnight oil",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "明天要考三科，今天晚上只好開夜車了。",
+    "en": "Three subjects tomorrow, so there's nothing for it but to pull a late night tonight."
+   }
+  },
+  {
+   "trad": "倒數",
+   "pinyin": "dào shǔ",
+   "en": "to count from the bottom; to count down",
+   "category": "exam",
+   "level": 2,
+   "example": {
+    "zh": "他這次考了全班倒數第三名。",
+    "en": "This time he came third from the bottom of the class."
+   }
+  },
+  {
+   "trad": "死黨",
+   "pinyin": "sǐ dǎng",
+   "en": "best buddies, one's gang of close friends",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "他們幾個死黨從國中一路混到大學。",
+    "en": "That gang of best buddies hung out together from junior high right through university."
+   }
+  },
+  {
+   "trad": "哥兒們",
+   "pinyin": "gē ér men",
+   "en": "buddies, pals (male)",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "不管發生什麼事，我們永遠是哥兒們。",
+    "en": "Whatever happens, we'll always be pals."
+   },
+   "note": "A northern-flavored word; Taiwan speakers pronounce 兒 as a full syllable or just say 兄弟."
+  },
+  {
+   "trad": "好兄弟",
+   "pinyin": "hǎo xiōng dì",
+   "en": "good buddy, 'bro'",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "你是我的好兄弟，喜帖一定第一個給你。",
+    "en": "You're my good bro; you'll definitely be first to get a wedding invitation."
+   },
+   "note": "Careful: in Taiwan 好兄弟 is also a polite euphemism for wandering ghosts."
+  },
+  {
+   "trad": "夥伴",
+   "pinyin": "huǒ bàn",
+   "en": "partner, companion",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "一起罰站的夥伴，後來成了一輩子的朋友。",
+    "en": "The companions who stood in punishment together later became friends for life."
+   }
+  },
+  {
+   "trad": "義氣",
+   "pinyin": "yì qì",
+   "en": "loyalty to one's friends",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "他很講義氣，朋友有事一定第一個到。",
+    "en": "He's big on loyalty; when a friend's in trouble he's always first on the scene."
+   }
+  },
+  {
+   "trad": "交情",
+   "pinyin": "jiāo qíng",
+   "en": "friendship, the bond between friends",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "憑我們的交情，這點小忙算什麼。",
+    "en": "With a friendship like ours, a small favor like this is nothing."
+   }
+  },
+  {
+   "trad": "出賣",
+   "pinyin": "chū mài",
+   "en": "to betray, to sell out",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "說好要保密的，他卻出賣了我。",
+    "en": "We'd agreed to keep it secret, and yet he sold me out."
+   }
+  },
+  {
+   "trad": "對手",
+   "pinyin": "duì shǒu",
+   "en": "rival, opponent",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "他把那個成績好的男生當成最大的對手。",
+    "en": "He regarded that boy with the good grades as his biggest rival."
+   }
+  },
+  {
+   "trad": "打賭",
+   "pinyin": "dǎ dǔ",
+   "en": "to make a bet",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "他們打賭這次月考誰的分數比較高。",
+    "en": "They made a bet on who would score higher in this monthly exam."
+   }
+  },
+  {
+   "trad": "賭注",
+   "pinyin": "dǔ zhù",
+   "en": "stake, wager",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "這場比賽的賭注是輸的人要理光頭。",
+    "en": "The stake in this contest: the loser shaves his head."
+   }
+  },
+  {
+   "trad": "約定",
+   "pinyin": "yuē dìng",
+   "en": "promise, agreement; to agree",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "他們約定十年後還要回到這裡見面。",
+    "en": "They agreed to come back and meet here ten years later."
+   }
+  },
+  {
+   "trad": "默契",
+   "pinyin": "mò qì",
+   "en": "unspoken understanding, rapport",
+   "category": "friendship",
+   "level": 2,
+   "example": {
+    "zh": "他們很有默契，一個眼神就懂對方的意思。",
+    "en": "They had such rapport that one look was enough to know what the other meant."
+   }
+  },
+  {
+   "trad": "一見鍾情",
+   "pinyin": "yí jiàn zhōng qíng",
+   "en": "love at first sight",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "他不相信一見鍾情，直到那天遇見她。",
+    "en": "He didn't believe in love at first sight until the day he met her."
+   }
+  },
+  {
+   "trad": "青梅竹馬",
+   "pinyin": "qīng méi zhú mǎ",
+   "en": "childhood sweethearts",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "他們從小一起長大，算是青梅竹馬。",
+    "en": "They grew up together, so you could call them childhood sweethearts."
+   }
+  },
+  {
+   "trad": "心甘情願",
+   "pinyin": "xīn gān qíng yuàn",
+   "en": "perfectly willing, to do something gladly",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "為了她，他心甘情願每天晚睡早起。",
+    "en": "For her he gladly went to bed late and got up early every day."
+   }
+  },
+  {
+   "trad": "念念不忘",
+   "pinyin": "niàn niàn bú wàng",
+   "en": "unable to forget, always thinking of",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "這麼多年了，他對那個女孩還是念念不忘。",
+    "en": "After all these years he still can't forget that girl."
+   }
+  },
+  {
+   "trad": "無憂無慮",
+   "pinyin": "wú yōu wú lǜ",
+   "en": "carefree",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "他很懷念國中時無憂無慮的日子。",
+    "en": "He missed the carefree days of junior high."
+   }
+  },
+  {
+   "trad": "臨時抱佛腳",
+   "pinyin": "lín shí bào fó jiǎo",
+   "en": "to cram at the last minute ('clasp the Buddha's feet')",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "他平常不念書，考前就臨時抱佛腳。",
+    "en": "He normally doesn't study and then crams at the last minute before exams."
+   }
+  },
+  {
+   "trad": "名列前茅",
+   "pinyin": "míng liè qián máo",
+   "en": "to rank among the very top",
+   "category": "idiom",
+   "level": 2,
+   "example": {
+    "zh": "她的成績一直名列前茅，是全校的榜樣。",
+    "en": "Her grades were always among the very top; she was a model for the whole school."
+   }
+  },
+  {
+   "trad": "不知不覺",
+   "pinyin": "bù zhī bù jué",
+   "en": "without noticing, before one knows it",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "不知不覺，高中三年就這樣過去了。",
+    "en": "Before we knew it, three years of high school had just gone by."
+   }
+  },
+  {
+   "trad": "乾脆",
+   "pinyin": "gān cuì",
+   "en": "might as well, simply; straightforward",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "追不上公車，他乾脆慢慢走回家。",
+    "en": "Unable to catch the bus, he simply walked home at his leisure."
+   }
+  },
+  {
+   "trad": "偏偏",
+   "pinyin": "piān piān",
+   "en": "of all things; contrary to what one would want",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "我最不想遇到的人，偏偏就坐在隔壁。",
+    "en": "The very person I least wanted to run into was sitting right next to me."
+   }
+  },
+  {
+   "trad": "幸好",
+   "pinyin": "xìng hǎo",
+   "en": "fortunately",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "幸好她提醒我，不然我又忘記帶課本了。",
+    "en": "Luckily she reminded me, or I'd have forgotten my textbook again."
+   }
+  },
+  {
+   "trad": "從此",
+   "pinyin": "cóng cǐ",
+   "en": "from then on",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "從此以後，他每天都提早到學校。",
+    "en": "From then on he arrived at school early every day."
+   }
+  },
+  {
+   "trad": "一瞬間",
+   "pinyin": "yí shùn jiān",
+   "en": "in an instant",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "有那麼一瞬間，他以為她會回頭。",
+    "en": "For just an instant, he thought she would look back."
+   }
+  },
+  {
+   "trad": "悄悄",
+   "pinyin": "qiǎo qiǎo",
+   "en": "quietly, stealthily",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "他悄悄把早餐放進她的抽屜。",
+    "en": "He quietly slipped breakfast into her desk."
+   },
+   "note": "Taiwan's standard reading is qiǎo qiǎo (mainland qiāo qiāo)."
+  },
+  {
+   "trad": "狠狠",
+   "pinyin": "hěn hěn",
+   "en": "fiercely, hard",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "他被爸爸狠狠地罵了一頓。",
+    "en": "He got a ferocious telling-off from his dad."
+   }
+  },
+  {
+   "trad": "拼命",
+   "pinyin": "pīn mìng",
+   "en": "with all one's might, desperately",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "為了不輸給她，他拼命地算數學。",
+    "en": "So as not to lose to her, he worked at math like mad."
+   },
+   "note": "In Taiwan also written with the 手+弁 character and then read pàn mìng."
+  },
+  {
+   "trad": "話說回來",
+   "pinyin": "huà shuō huí lái",
+   "en": "then again; that said",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "話說回來，要不是她，我也考不上大學。",
+    "en": "Then again, if not for her I wouldn't have got into university either."
+   }
+  },
+  {
+   "trad": "彷彿",
+   "pinyin": "fǎng fú",
+   "en": "as if, as though",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "一切彷彿又回到了十七歲那年的夏天。",
+    "en": "It was as if everything had gone back to that summer when we were seventeen."
+   }
+  },
+  {
+   "trad": "傢伙",
+   "pinyin": "jiā huǒ",
+   "en": "guy, fellow",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "這傢伙平常很吵，一看到她就變安靜。",
+    "en": "This guy is normally loud, but goes quiet the moment he sees her."
+   },
+   "note": "A casual, slightly rough word for a friend, a rival or oneself."
+  },
+  {
+   "trad": "所謂",
+   "pinyin": "suǒ wèi",
+   "en": "so-called; what is called",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "所謂的青春，大概就是一直做傻事。",
+    "en": "What we call youth is probably just doing foolish things again and again."
+   }
+  },
+  {
+   "trad": "莫名其妙",
+   "pinyin": "mò míng qí miào",
+   "en": "baffling; for no apparent reason",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "他莫名其妙被叫到訓導處，嚇得要命。",
+    "en": "He was summoned to the discipline office for no apparent reason and was scared stiff."
+   }
+  },
+  {
+   "trad": "理所當然",
+   "pinyin": "lǐ suǒ dāng rán",
+   "en": "as a matter of course, naturally",
+   "category": "narration",
+   "level": 2,
+   "example": {
+    "zh": "她理所當然地把他的考卷拿過去檢查。",
+    "en": "As if it were only natural, she took his test paper over to check it."
+   }
+  },
+  {
+   "trad": "歲月",
+   "pinyin": "suì yuè",
+   "en": "years, the passage of time",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "歲月改變了大家的樣子，卻沒改變交情。",
+    "en": "The years changed how everyone looked, but not the friendship."
+   }
+  },
+  {
+   "trad": "當年",
+   "pinyin": "dāng nián",
+   "en": "back then, in those years",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "當年那個愛搗蛋的男生，現在成了作家。",
+    "en": "The boy who loved making mischief back then has now become a writer."
+   }
+  },
+  {
+   "trad": "畢業典禮",
+   "pinyin": "bì yè diǎn lǐ",
+   "en": "graduation ceremony",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "畢業典禮上，很多人哭得唱不完校歌。",
+    "en": "At the graduation ceremony many people cried too hard to finish the school song."
+   }
+  },
+  {
+   "trad": "畢業紀念冊",
+   "pinyin": "bì yè jì niàn cè",
+   "en": "yearbook",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "大家互相在畢業紀念冊上簽名留言。",
+    "en": "Everyone signed and wrote messages in each other's yearbooks."
+   }
+  },
+  {
+   "trad": "同學會",
+   "pinyin": "tóng xué huì",
+   "en": "class reunion",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "十年後的同學會上，大家都變胖了。",
+    "en": "At the reunion ten years later everyone had put on weight."
+   }
+  },
+  {
+   "trad": "畢業旅行",
+   "pinyin": "bì yè lǚ xíng",
+   "en": "graduation trip",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "畢業旅行的晚上，男生們偷偷溜出房間。",
+    "en": "On the night of the graduation trip the boys sneaked out of their rooms."
+   }
+  },
+  {
+   "trad": "懷念",
+   "pinyin": "huái niàn",
+   "en": "to miss, to think back fondly on",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "我很懷念以前一起在走廊罰站的日子。",
+    "en": "I really miss the days when we stood in the hallway together as punishment."
+   }
+  },
+  {
+   "trad": "時光",
+   "pinyin": "shí guāng",
+   "en": "time, days (of one's life)",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "那是一段再也回不去的美好時光。",
+    "en": "That was a wonderful time we can never go back to."
+   }
+  },
+  {
+   "trad": "漫畫",
+   "pinyin": "màn huà",
+   "en": "comics, manga",
+   "category": "nostalgia",
+   "level": 2,
+   "example": {
+    "zh": "租書店裡的漫畫，一本只要五塊錢。",
+    "en": "At the rental shop, comics cost just five dollars a volume."
+   }
+  },
+  {
+   "trad": "暗戀",
+   "pinyin": "àn liàn",
+   "en": "to have a secret crush on",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他暗戀她三年，連一句喜歡都沒說過。",
+    "en": "He had a secret crush on her for three years and never once said he liked her."
+   }
+  },
+  {
+   "trad": "告白",
+   "pinyin": "gào bái",
+   "en": "to confess one's love",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他在畢業那天鼓起勇氣向她告白。",
+    "en": "On graduation day he worked up the courage to confess to her."
+   },
+   "note": "Taiwan's default word (from Japanese); the mainland prefers 表白."
+  },
+  {
+   "trad": "表白",
+   "pinyin": "biǎo bái",
+   "en": "to declare one's feelings",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他寫了一封很長的信向她表白。",
+    "en": "He wrote her a very long letter declaring his feelings."
+   }
+  },
+  {
+   "trad": "心動",
+   "pinyin": "xīn dòng",
+   "en": "to feel one's heart stir, to be smitten",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "看到她認真念書的側臉，他突然心動了。",
+    "en": "Seeing her profile as she studied so intently, his heart suddenly stirred."
+   }
+  },
+  {
+   "trad": "醋意",
+   "pinyin": "cù yì",
+   "en": "(a pang of) jealousy",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "看她跟別的男生說笑，他心裡滿是醋意。",
+    "en": "Watching her chat and laugh with other boys, he was full of jealousy."
+   },
+   "note": "From the everyday idiom of 'eating vinegar' for romantic jealousy."
+  },
+  {
+   "trad": "曖昧",
+   "pinyin": "ài mèi",
+   "en": "ambiguous; the flirtatious not-yet-a-couple stage",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他們曖昧了很久，誰也不肯先說破。",
+    "en": "They stayed in that ambiguous stage for a long time, neither willing to say it first."
+   }
+  },
+  {
+   "trad": "牽手",
+   "pinyin": "qiān shǒu",
+   "en": "to hold hands",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他很想跟她牽手，手卻一直插在口袋裡。",
+    "en": "He badly wanted to hold her hand, but kept his hands stuck in his pockets."
+   }
+  },
+  {
+   "trad": "情書",
+   "pinyin": "qíng shū",
+   "en": "love letter",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "她的抽屜裡常常出現不知道誰寫的情書。",
+    "en": "Love letters from who-knows-whom often turned up in her desk."
+   }
+  },
+  {
+   "trad": "情敵",
+   "pinyin": "qíng dí",
+   "en": "rival in love",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他最好的朋友，同時也是他最大的情敵。",
+    "en": "His best friend was at the same time his biggest rival in love."
+   }
+  },
+  {
+   "trad": "失戀",
+   "pinyin": "shī liàn",
+   "en": "to be heartbroken, to lose at love",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "失戀的那個晚上，朋友陪他聊到天亮。",
+    "en": "On the night his heart was broken, his friends sat up talking with him until dawn."
+   }
+  },
+  {
+   "trad": "心碎",
+   "pinyin": "xīn suì",
+   "en": "heartbroken",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "聽到她有男朋友的消息，他整個人心碎了。",
+    "en": "Hearing she had a boyfriend, he was utterly heartbroken."
+   }
+  },
+  {
+   "trad": "初戀",
+   "pinyin": "chū liàn",
+   "en": "first love",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他到現在還留著初戀寫給他的每一封信。",
+    "en": "To this day he keeps every letter his first love wrote him."
+   }
+  },
+  {
+   "trad": "單戀",
+   "pinyin": "dān liàn",
+   "en": "one-sided love",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他以為自己只是單戀，其實她也有感覺。",
+    "en": "He thought his love was one-sided; in fact she had feelings too."
+   }
+  },
+  {
+   "trad": "交往",
+   "pinyin": "jiāo wǎng",
+   "en": "to date, to be in a relationship",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他們大學時交往過一陣子，後來分開了。",
+    "en": "They dated for a while in university and later split up."
+   },
+   "note": "Taiwan's standard verb for going out with someone."
+  },
+  {
+   "trad": "追求",
+   "pinyin": "zhuī qiú",
+   "en": "to court; to pursue",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他用最笨的方法追求她，那就是拼命念書。",
+    "en": "He courted her in the dumbest way possible: by studying like mad."
+   }
+  },
+  {
+   "trad": "夢中情人",
+   "pinyin": "mèng zhōng qíng rén",
+   "en": "dream girl, dream guy",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "她是全校男生公認的夢中情人。",
+    "en": "She was the acknowledged dream girl of every boy in the school."
+   }
+  },
+  {
+   "trad": "緣分",
+   "pinyin": "yuán fèn",
+   "en": "the fate that brings people together",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "有些人很相愛，卻少了一點緣分。",
+    "en": "Some people love each other deeply, yet lack that bit of fate."
+   }
+  },
+  {
+   "trad": "擁抱",
+   "pinyin": "yǒng bào",
+   "en": "to hug, to embrace",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "分別的時候，他們輕輕地擁抱了一下。",
+    "en": "When they parted, they gave each other a light hug."
+   },
+   "note": "Taiwan reads 擁 as yǒng (mainland yōng)."
+  },
+  {
+   "trad": "好感",
+   "pinyin": "hǎo gǎn",
+   "en": "a liking, favorable feeling",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "她對這個愛搗蛋的男生漸漸有了好感。",
+    "en": "She gradually took a liking to this mischief-loving boy."
+   }
+  },
+  {
+   "trad": "在乎",
+   "pinyin": "zài hū",
+   "en": "to care about",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "他嘴上說無所謂，其實比誰都在乎。",
+    "en": "He said he didn't mind, but in fact he cared more than anyone."
+   }
+  },
+  {
+   "trad": "在意",
+   "pinyin": "zài yì",
+   "en": "to mind, to take to heart",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "她很在意他說的那句話，想了一整晚。",
+    "en": "What he said really weighed on her and she thought about it all night."
+   }
+  },
+  {
+   "trad": "心意",
+   "pinyin": "xīn yì",
+   "en": "one's feelings, heartfelt intention",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "這份禮物不貴，卻是他的一片心意。",
+    "en": "This gift wasn't expensive, but it came straight from his heart."
+   }
+  },
+  {
+   "trad": "思念",
+   "pinyin": "sī niàn",
+   "en": "to miss, to long for",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "分隔兩地以後，他的思念越來越深。",
+    "en": "After they were living in different cities, his longing grew deeper and deeper."
+   }
+  },
+  {
+   "trad": "班花",
+   "pinyin": "bān huā",
+   "en": "the class beauty",
+   "category": "romance",
+   "level": 2,
+   "example": {
+    "zh": "她不只是班花，功課也是全班最好的。",
+    "en": "She wasn't only the class beauty; her grades were also the best in the class."
+   }
+  },
+  {
+   "trad": "高中部",
+   "pinyin": "gāo zhōng bù",
+   "en": "senior-high division of a combined secondary school",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "他國中畢業後，直接升上同校的高中部。",
+    "en": "After junior high he moved straight up into the same school's senior-high division."
+   },
+   "note": "Private schools often have both a 國中部 and a 高中部; moving up internally is 直升."
+  },
+  {
+   "trad": "班導",
+   "pinyin": "bān dǎo",
+   "en": "homeroom teacher (short for 班級導師)",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "班導一走進教室，全班立刻安靜下來。",
+    "en": "The moment the homeroom teacher walked in, the whole class went quiet."
+   },
+   "note": "Mainland 班主任."
+  },
+  {
+   "trad": "導師",
+   "pinyin": "dǎo shī",
+   "en": "homeroom teacher, class adviser",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "導師把他的座位調到好學生的正前方。",
+    "en": "The homeroom teacher moved his seat to right in front of the good student."
+   },
+   "note": "In a Taiwan school 導師 is the teacher in charge of one class, not a 'mentor'."
+  },
+  {
+   "trad": "教務處",
+   "pinyin": "jiào wù chù",
+   "en": "academic affairs office",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "放學後我被叫到教務處領補考的考卷。",
+    "en": "After school I was called to the academic office to collect my make-up exam paper."
+   }
+  },
+  {
+   "trad": "福利社",
+   "pinyin": "fú lì shè",
+   "en": "school tuck shop, co-op store",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "一下課，大家就衝去福利社搶麵包。",
+    "en": "As soon as class ended, everyone dashed to the tuck shop to grab bread."
+   },
+   "note": "Also 合作社. Mainland 小賣部."
+  },
+  {
+   "trad": "早自習",
+   "pinyin": "zǎo zì xí",
+   "en": "morning self-study period before first class",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "早自習的時候，他偷偷趴在桌上補眠。",
+    "en": "During morning self-study he sneakily put his head on the desk to catch up on sleep."
+   },
+   "note": "Roughly 7:30 to 8:00; often used for quizzes."
+  },
+  {
+   "trad": "晚自習",
+   "pinyin": "wǎn zì xí",
+   "en": "evening self-study session at school",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "為了聯考，高三學生都留下來晚自習。",
+    "en": "For the entrance exam, the third-years all stayed behind for evening study."
+   }
+  },
+  {
+   "trad": "升旗典禮",
+   "pinyin": "shēng qí diǎn lǐ",
+   "en": "flag-raising ceremony",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "升旗典禮上，校長又講了半個小時。",
+    "en": "At the flag-raising ceremony the principal talked for another half hour."
+   },
+   "note": "Classes line up on the field; the anthem and flag song are sung."
+  },
+  {
+   "trad": "朝會",
+   "pinyin": "zhāo huì",
+   "en": "morning assembly",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "星期一的朝會，全校都要到操場集合。",
+    "en": "For Monday's morning assembly the whole school has to gather on the field."
+   },
+   "note": "朝 is zhāo (morning) here, not cháo."
+  },
+  {
+   "trad": "午休",
+   "pinyin": "wǔ xiū",
+   "en": "midday nap break",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "午休時間不睡覺會被風紀股長記名字。",
+    "en": "If you don't sleep during the nap break, the discipline officer writes your name down."
+   },
+   "note": "Students nap face-down on their desks for about half an hour."
+  },
+  {
+   "trad": "打掃時間",
+   "pinyin": "dǎ sǎo shí jiān",
+   "en": "cleaning period (students clean the school themselves)",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "打掃時間一到，男生們就拿著掃把打鬧。",
+    "en": "Once cleaning period started, the boys fooled around with their brooms."
+   }
+  },
+  {
+   "trad": "資優班",
+   "pinyin": "zī yōu bān",
+   "en": "gifted class",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "她功課那麼好，大家都以為她會去資優班。",
+    "en": "Her grades were so good that everyone assumed she'd go to the gifted class."
+   }
+  },
+  {
+   "trad": "升學班",
+   "pinyin": "shēng xué bān",
+   "en": "exam-track class aimed at getting into good schools",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "升學班的學生連假日都要到學校自習。",
+    "en": "Students in the exam-track class had to come to school to study even on holidays."
+   }
+  },
+  {
+   "trad": "便當",
+   "pinyin": "biàn dāng",
+   "en": "lunch box, boxed meal",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "中午打開便當，裡面又是滷蛋和排骨。",
+    "en": "At noon I opened my lunch box: braised egg and pork chop again."
+   },
+   "note": "From Japanese bentō. Mainland 盒飯."
+  },
+  {
+   "trad": "腳踏車",
+   "pinyin": "jiǎo tà chē",
+   "en": "bicycle",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "他每天騎腳踏車穿過市區去上學。",
+    "en": "He rode his bike across town to school every day."
+   },
+   "note": "The everyday Taiwan word; mainland 自行車."
+  },
+  {
+   "trad": "佈告欄",
+   "pinyin": "bù gào lán",
+   "en": "bulletin board",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "段考的排名貼在教室後面的佈告欄上。",
+    "en": "The term-exam rankings were posted on the bulletin board at the back of the classroom."
+   }
+  },
+  {
+   "trad": "掃把",
+   "pinyin": "sào bǎ",
+   "en": "broom",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "他拿掃把當吉他，在走廊上又唱又跳。",
+    "en": "He used the broom as a guitar, singing and dancing in the hallway."
+   },
+   "note": "掃 is sào in this noun (sǎo as a verb). Mainland 掃帚."
+  },
+  {
+   "trad": "倒垃圾",
+   "pinyin": "dào lè sè",
+   "en": "to take out the trash",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "猜拳輸的人要負責去倒垃圾。",
+    "en": "Whoever loses at rock-paper-scissors has to take out the trash."
+   },
+   "note": "Taiwan reads 垃圾 as lè sè (mainland lā jī)."
+  },
+  {
+   "trad": "學長",
+   "pinyin": "xué zhǎng",
+   "en": "older male schoolmate",
+   "category": "school",
+   "level": 2,
+   "example": {
+    "zh": "籃球隊的學長很照顧我們這些新生。",
+    "en": "The older guys on the basketball team looked after us newcomers."
+   },
+   "note": "學長, 學姊, 學弟, 學妹 are everyday address terms in Taiwan schools."
+  },
+  {
+   "trad": "當兵",
+   "pinyin": "dāng bīng",
+   "en": "to do military service",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "大學畢業後，男生都要先去當兵。",
+    "en": "After university, the men all have to go and do their military service first."
+   }
+  },
+  {
+   "trad": "入伍",
+   "pinyin": "rù wǔ",
+   "en": "to enlist, to report for service",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "他下個月入伍，朋友們幫他辦了送別會。",
+    "en": "He reports for service next month, so his friends threw him a farewell party."
+   }
+  },
+  {
+   "trad": "退伍",
+   "pinyin": "tuì wǔ",
+   "en": "to be discharged from the military",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "他退伍以後，在臺北找到第一份工作。",
+    "en": "After his discharge he found his first job in Taipei."
+   }
+  },
+  {
+   "trad": "停電",
+   "pinyin": "tíng diàn",
+   "en": "power outage",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "地震後全市停電，街上一片漆黑。",
+    "en": "After the quake the whole city lost power and the streets were pitch black."
+   }
+  },
+  {
+   "trad": "公共電話",
+   "pinyin": "gōng gòng diàn huà",
+   "en": "public payphone",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "宿舍樓下的公共電話前面排了很長的隊。",
+    "en": "A long line had formed at the payphone downstairs in the dorm."
+   }
+  },
+  {
+   "trad": "電話卡",
+   "pinyin": "diàn huà kǎ",
+   "en": "prepaid phone card",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "為了每天打給她，他用掉好幾張電話卡。",
+    "en": "To call her every day, he used up card after card."
+   }
+  },
+  {
+   "trad": "報平安",
+   "pinyin": "bào píng ān",
+   "en": "to let someone know you are safe",
+   "category": "society",
+   "level": 2,
+   "example": {
+    "zh": "地震一停，大家都急著打電話報平安。",
+    "en": "As soon as the shaking stopped, everyone rushed to phone and say they were safe."
+   }
+  },
+  {
+   "trad": "拳頭",
+   "pinyin": "quán tóu",
+   "en": "fist",
+   "category": "sports-fight",
+   "level": 2,
+   "example": {
+    "zh": "他握緊拳頭，卻始終沒有揮出去。",
+    "en": "He clenched his fists but never threw the punch."
+   }
+  },
+  {
+   "trad": "揍",
+   "pinyin": "zòu",
+   "en": "to beat up, to punch",
+   "category": "sports-fight",
+   "level": 2,
+   "example": {
+    "zh": "他被學長揍了一頓，回家不敢說。",
+    "en": "He got beaten up by an older student and didn't dare tell anyone at home."
+   }
+  },
+  {
+   "trad": "認輸",
+   "pinyin": "rèn shū",
+   "en": "to admit defeat",
+   "category": "sports-fight",
+   "level": 2,
+   "example": {
+    "zh": "他被打得站不起來，還是不肯認輸。",
+    "en": "He was beaten until he couldn't stand, and still refused to give in."
+   }
+  },
+  {
+   "trad": "室友",
+   "pinyin": "shì yǒu",
+   "en": "roommate",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "他的室友每天都在抱怨他講電話太久。",
+    "en": "His roommates complained every day that he spent too long on the phone."
+   }
+  },
+  {
+   "trad": "社團",
+   "pinyin": "shè tuán",
+   "en": "student club, society",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "大一新生都忙著參加各種社團。",
+    "en": "The first-year students were all busy joining various clubs."
+   }
+  },
+  {
+   "trad": "研究所",
+   "pinyin": "yán jiù suǒ",
+   "en": "graduate school",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "大學畢業後，他考上了另一個城市的研究所。",
+    "en": "After university he got into a graduate school in another city."
+   },
+   "note": "Taiwan reads 究 as jiù. In Taiwan 研究所 means grad school; mainland 研究生院."
+  },
+  {
+   "trad": "科系",
+   "pinyin": "kē xì",
+   "en": "university department, major",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "他們讀的科系不同，學校也離得很遠。",
+    "en": "They studied different majors, and their schools were far apart too."
+   },
+   "note": "Short form 系: 中文系, 數學系."
+  },
+  {
+   "trad": "學妹",
+   "pinyin": "xué mèi",
+   "en": "younger female schoolmate",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "社團的學妹常常找他問功課。",
+    "en": "A younger girl from his club often came to ask him about coursework."
+   },
+   "note": "Counterparts: 學長, 學姊, 學弟."
+  },
+  {
+   "trad": "熬夜",
+   "pinyin": "áo yè",
+   "en": "to stay up late",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "他們熬夜聊天，一直聊到天亮。",
+    "en": "They stayed up chatting right through until dawn."
+   }
+  },
+  {
+   "trad": "宵夜",
+   "pinyin": "xiāo yè",
+   "en": "late-night snack",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "半夜肚子餓，室友們一起騎車去買宵夜。",
+    "en": "Hungry in the middle of the night, the roommates rode off together to buy a late snack."
+   },
+   "note": "The mainland usually says 夜宵."
+  },
+  {
+   "trad": "網路小說",
+   "pinyin": "wǎng lù xiǎo shuō",
+   "en": "internet novel, web fiction",
+   "category": "university",
+   "level": 2,
+   "example": {
+    "zh": "他開始把自己寫的網路小說貼到網路上。",
+    "en": "He began posting the web fiction he wrote online."
+   },
+   "note": "網路 is Taiwan's word for mainland 網絡."
+  },
+  {
+   "trad": "喜帖",
+   "pinyin": "xǐ tiě",
+   "en": "wedding invitation",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "收到她寄來的喜帖，他看了很久很久。",
+    "en": "When her wedding invitation arrived, he looked at it for a long, long time."
+   },
+   "note": "帖 is read tiě here. Mainland 請柬."
+  },
+  {
+   "trad": "喜酒",
+   "pinyin": "xǐ jiǔ",
+   "en": "wedding banquet",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "下個月要去喝老同學的喜酒。",
+    "en": "Next month I'm going to an old classmate's wedding banquet."
+   },
+   "note": "You 喝喜酒 (attend a wedding banquet). Also 喜宴."
+  },
+  {
+   "trad": "伴郎",
+   "pinyin": "bàn láng",
+   "en": "best man, groomsman",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "他找了最要好的高中同學當伴郎。",
+    "en": "He asked his closest high-school classmate to be best man."
+   },
+   "note": "The bridesmaid is 伴娘."
+  },
+  {
+   "trad": "婚紗",
+   "pinyin": "hūn shā",
+   "en": "wedding dress",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "穿著白色婚紗的她，美得讓人說不出話。",
+    "en": "In her white wedding dress she was beautiful beyond words."
+   }
+  },
+  {
+   "trad": "敬酒",
+   "pinyin": "jìng jiǔ",
+   "en": "to toast (to go round offering toasts)",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "新郎新娘一桌一桌地向賓客敬酒。",
+    "en": "The bride and groom went from table to table toasting the guests."
+   }
+  },
+  {
+   "trad": "嫁",
+   "pinyin": "jià",
+   "en": "(of a woman) to marry",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "聽說她要嫁人了，他愣了好幾秒。",
+    "en": "Hearing that she was getting married, he was stunned for several seconds."
+   },
+   "note": "Women 嫁, men 娶. 嫁給 + person."
+  },
+  {
+   "trad": "娶",
+   "pinyin": "qǔ",
+   "en": "(of a man) to marry, to take as wife",
+   "category": "wedding",
+   "level": 2,
+   "example": {
+    "zh": "他從小就說長大以後要娶她。",
+    "en": "Ever since he was little he had said he would marry her when he grew up."
+   }
+  },
+  {
+   "trad": "爽",
+   "pinyin": "shuǎng",
+   "en": "to feel great; satisfying (casual, slightly crude)",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "考完試的那個下午，打球打得特別爽。",
+    "en": "Playing ball on the afternoon after exams felt especially great."
+   }
+  },
+  {
+   "trad": "不爽",
+   "pinyin": "bù shuǎng",
+   "en": "annoyed, pissed off",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "看到別的男生跟她說話，他心裡很不爽。",
+    "en": "Seeing other boys talk to her really annoyed him."
+   }
+  },
+  {
+   "trad": "超",
+   "pinyin": "chāo",
+   "en": "super, really (intensifier)",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "今天的數學考卷超難，我一半都不會寫。",
+    "en": "Today's math paper was super hard; I couldn't do half of it."
+   },
+   "note": "Taiwan youth intensifier, used like 很 or 非常."
+  },
+  {
+   "trad": "有種",
+   "pinyin": "yǒu zhǒng",
+   "en": "to have guts (often as a dare)",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "有種你就當著她的面再說一次。",
+    "en": "If you've got the guts, say it again to her face."
+   },
+   "note": "The opposite is 沒種."
+  },
+  {
+   "trad": "熱血",
+   "pinyin": "rè xiě",
+   "en": "hot-blooded, passionately fired up",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "那是一個很熱血、很笨、很快樂的年紀。",
+    "en": "It was a fired-up, foolish, happy age."
+   },
+   "note": "Taiwan's colloquial reading of 血 is xiě. A keyword of youth fiction."
+  },
+  {
+   "trad": "耍帥",
+   "pinyin": "shuǎ shuài",
+   "en": "to act cool, to show off",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "他想在女生面前耍帥，結果球沒投進。",
+    "en": "He tried to look cool in front of the girls, and then missed the shot."
+   }
+  },
+  {
+   "trad": "裝酷",
+   "pinyin": "zhuāng kù",
+   "en": "to put on a cool act",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "他明明很開心，卻故意板著臉裝酷。",
+    "en": "He was obviously happy but deliberately kept a straight face to seem cool."
+   }
+  },
+  {
+   "trad": "好險",
+   "pinyin": "hǎo xiǎn",
+   "en": "phew, that was close",
+   "category": "youth-slang",
+   "level": 2,
+   "example": {
+    "zh": "好險老師沒發現，不然我們就完了。",
+    "en": "Phew, the teacher didn't notice, or we'd have been done for."
+   }
+  },
+  {
+   "trad": "智障",
+   "pinyin": "zhì zhàng",
+   "en": "retard, moron (offensive)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "幾個男生互罵智障，罵完又一起去打球。",
+    "en": "The boys called each other morons and then went off to play ball together."
+   },
+   "note": "Literally 'intellectually disabled'; a harsh slur. Recognize it, don't use it."
+  },
+  {
+   "trad": "靠",
+   "pinyin": "kào",
+   "en": "damn! (minced oath); to lean on",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "靠，明天要考試，你怎麼不早說！",
+    "en": "Damn, there's a test tomorrow? Why didn't you say so earlier!"
+   },
+   "note": "A minced oath, i.e. a softened curse; very common in boys' speech."
+  },
+  {
+   "trad": "三八",
+   "pinyin": "sān bā",
+   "en": "silly, ditzy, over the top (said of or between girls)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "她笑著推了朋友一下：「妳很三八耶！」",
+    "en": "She laughed and gave her friend a shove: 'You're so silly!'"
+   },
+   "note": "In Taiwan usually teasing rather than a serious insult."
+  },
+  {
+   "trad": "屁啦",
+   "pinyin": "pì la",
+   "en": "bullshit!, yeah right (crude)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "屁啦，你哪有可能考得比我高！",
+    "en": "Yeah right, as if you could possibly score higher than me!"
+   }
+  },
+  {
+   "trad": "最好是",
+   "pinyin": "zuì hǎo shì",
+   "en": "yeah, right (sarcastic disbelief)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "你說你昨天念書到半夜三點？最好是啦。",
+    "en": "You say you studied until three in the morning last night? Yeah, right."
+   },
+   "note": "Taiwan sarcasm: literally 'it had better be so'."
+  },
+  {
+   "trad": "欠揍",
+   "pinyin": "qiàn zòu",
+   "en": "asking for a beating",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "他講話的樣子很欠揍，可是又讓人想笑。",
+    "en": "The way he talks makes you want to hit him, and also makes you want to laugh."
+   },
+   "note": "Slangier variant: 欠扁."
+  },
+  {
+   "trad": "嗆",
+   "pinyin": "qiàng",
+   "en": "to talk back at, to taunt, to call out",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "他被學長嗆了幾句，氣得臉都紅了。",
+    "en": "An older student taunted him a little and he went red with anger."
+   },
+   "note": "Taiwan slang (also 嗆聲). Literal meaning: (of smoke or spice) to choke."
+  },
+  {
+   "trad": "吐槽",
+   "pinyin": "tù cáo",
+   "en": "to make a cutting retort, to roast",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "我一說想當作家，馬上被死黨吐槽。",
+    "en": "The moment I said I wanted to be a writer, my buddies roasted me."
+   },
+   "note": "From Taiwanese. Taiwan speech usually says tù; mainland tǔ cáo."
+  },
+  {
+   "trad": "虧",
+   "pinyin": "kuī",
+   "en": "to tease (flirtatiously or mockingly)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "一看到她綁馬尾，他就想虧她兩句。",
+    "en": "As soon as he saw her with a ponytail, he wanted to tease her a little."
+   },
+   "note": "Taiwan slang sense; the standard meaning is 'to lose out'."
+  },
+  {
+   "trad": "耍寶",
+   "pinyin": "shuǎ bǎo",
+   "en": "to clown around",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "他一天到晚在班上耍寶，逗得大家大笑。",
+    "en": "He clowned around in class all day long and kept everyone roaring with laughter."
+   }
+  },
+  {
+   "trad": "關你屁事",
+   "pinyin": "guān nǐ pì shì",
+   "en": "none of your damn business (crude)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "我喜歡誰關你屁事，你不要到處亂講。",
+    "en": "Who I like is none of your damn business, so don't go spreading it around."
+   }
+  },
+  {
+   "trad": "他媽的",
+   "pinyin": "tā mā de",
+   "en": "damn, bloody (crude intensifier)",
+   "category": "banter",
+   "level": 3,
+   "example": {
+    "zh": "他媽的，這一題到底要怎麼算啊？",
+    "en": "Damn it, how on earth do you work this question out?"
+   },
+   "note": "Crude; part of the boys' rough register. Recognize it rather than use it."
+  },
+  {
+   "trad": "咧嘴",
+   "pinyin": "liě zuǐ",
+   "en": "to grin broadly",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "他咧嘴一笑，露出兩排白白的牙。",
+    "en": "He broke into a grin, showing two rows of white teeth."
+   }
+  },
+  {
+   "trad": "戳",
+   "pinyin": "chuō",
+   "en": "to poke, to jab",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "她用筆戳他的背，叫他不要再睡了。",
+    "en": "She poked his back with her pen, telling him to stop sleeping."
+   }
+  },
+  {
+   "trad": "踹",
+   "pinyin": "chuài",
+   "en": "to kick hard (with the sole of the foot)",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "他一腳踹開教室的門，大喊我來了。",
+    "en": "He kicked the classroom door open and yelled, 'I'm here!'"
+   }
+  },
+  {
+   "trad": "拽",
+   "pinyin": "zhuài",
+   "en": "to yank, to drag",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "她拽著他的袖子，把他拉回座位上。",
+    "en": "She yanked his sleeve and dragged him back to his seat."
+   }
+  },
+  {
+   "trad": "嘟嘴",
+   "pinyin": "dū zuǐ",
+   "en": "to pout",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "她嘟嘴說：「你怎麼又忘記帶課本？」",
+    "en": "She pouted and said, 'How did you forget your textbook again?'"
+   }
+  },
+  {
+   "trad": "嘀咕",
+   "pinyin": "dí gū",
+   "en": "to mutter, to grumble under one's breath",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "他小聲嘀咕：「管那麼多，妳又不是我媽。」",
+    "en": "He muttered under his breath, 'So bossy; it's not like you're my mom.'"
+   },
+   "note": "妳 is the feminine 'you' common in Taiwan print."
+  },
+  {
+   "trad": "碎碎念",
+   "pinyin": "suì suì niàn",
+   "en": "to nag on and on, to mutter continually",
+   "category": "body-action",
+   "level": 3,
+   "example": {
+    "zh": "她一邊碎碎念，一邊幫他把錯字圈起來。",
+    "en": "Nagging away, she circled his miswritten characters for him."
+   },
+   "note": "Taiwan colloquial, from Taiwanese."
+  },
+  {
+   "trad": "風紀股長",
+   "pinyin": "fēng jì gǔ zhǎng",
+   "en": "class discipline officer",
+   "category": "classroom",
+   "level": 3,
+   "example": {
+    "zh": "風紀股長把上課講話的人登記在黑板上。",
+    "en": "The discipline officer wrote the names of those who talked in class on the board."
+   },
+   "note": "One of the elected 班級幹部: the student who polices noise and naps."
+  },
+  {
+   "trad": "學藝股長",
+   "pinyin": "xué yì gǔ zhǎng",
+   "en": "class officer for academics and arts",
+   "category": "classroom",
+   "level": 3,
+   "example": {
+    "zh": "學藝股長負責佈置教室後面的壁報。",
+    "en": "The academics-and-arts officer is in charge of decorating the wall display at the back of the room."
+   },
+   "note": "Also keeps the class journal (教室日誌)."
+  },
+  {
+   "trad": "聯絡簿",
+   "pinyin": "lián luò bù",
+   "en": "daily school–home contact book",
+   "category": "classroom",
+   "level": 3,
+   "example": {
+    "zh": "聯絡簿上要抄功課，還要給爸媽簽名。",
+    "en": "You copy the homework into the contact book and get your parents to sign it."
+   },
+   "note": "A fixture of Taiwan schooling through junior high."
+  },
+  {
+   "trad": "立可白",
+   "pinyin": "lì kě bái",
+   "en": "correction fluid",
+   "category": "classroom",
+   "level": 3,
+   "example": {
+    "zh": "寫錯字的時候，她會用立可白塗掉重寫。",
+    "en": "When she miswrote a character she would white it out and write it again."
+   },
+   "note": "A brand name turned generic. Mainland 塗改液."
+  },
+  {
+   "trad": "瀏海",
+   "pinyin": "liú hǎi",
+   "en": "bangs, fringe",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "她的瀏海剪得太短，一整天都用手遮著。",
+    "en": "Her bangs had been cut too short and she covered them with her hand all day."
+   }
+  },
+  {
+   "trad": "吊兒郎當",
+   "pinyin": "diào ér láng dāng",
+   "en": "sloppy and unserious, happy-go-lucky",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "他整天吊兒郎當，一點也不像要考試的人。",
+    "en": "He slouched around all day, nothing like someone with exams coming."
+   }
+  },
+  {
+   "trad": "笨拙",
+   "pinyin": "bèn zhuó",
+   "en": "clumsy, awkward",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "他用笨拙的方式表達自己的關心。",
+    "en": "He expressed his concern in his own clumsy way."
+   },
+   "note": "Taiwan reads 拙 as zhuó (mainland zhuō)."
+  },
+  {
+   "trad": "狼狽",
+   "pinyin": "láng bèi",
+   "en": "in a sorry state, disheveled and embarrassed",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "他全身濕透，狼狽地站在她家門口。",
+    "en": "Soaked through, he stood at her front door in a sorry state."
+   }
+  },
+  {
+   "trad": "氣喘吁吁",
+   "pinyin": "qì chuǎn xū xū",
+   "en": "panting, out of breath",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "他氣喘吁吁地跑進教室，剛好趕上點名。",
+    "en": "He ran panting into the classroom, just in time for roll call."
+   }
+  },
+  {
+   "trad": "目瞪口呆",
+   "pinyin": "mù dèng kǒu dāi",
+   "en": "dumbstruck, gaping",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "看到榜單上的名字，全家人目瞪口呆。",
+    "en": "Seeing the name on the results list, the whole family was dumbstruck."
+   }
+  },
+  {
+   "trad": "理直氣壯",
+   "pinyin": "lǐ zhí qì zhuàng",
+   "en": "bold and sure of being in the right",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "他明明遲到了，還理直氣壯地走進來。",
+    "en": "He was plainly late, yet walked in as bold as brass."
+   }
+  },
+  {
+   "trad": "嬉皮笑臉",
+   "pinyin": "xī pí xiào liǎn",
+   "en": "grinning cheekily, not taking things seriously",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "被罵的時候，他還是一副嬉皮笑臉的樣子。",
+    "en": "Even while being told off, he kept that cheeky grin on his face."
+   }
+  },
+  {
+   "trad": "垂頭喪氣",
+   "pinyin": "chuí tóu sàng qì",
+   "en": "crestfallen",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "輸了比賽，他們垂頭喪氣地走回教室。",
+    "en": "Having lost the match, they walked back to the classroom crestfallen."
+   }
+  },
+  {
+   "trad": "鼻青臉腫",
+   "pinyin": "bí qīng liǎn zhǒng",
+   "en": "black and blue in the face",
+   "category": "description",
+   "level": 3,
+   "example": {
+    "zh": "他打完架回家，鼻青臉腫的，媽媽嚇壞了。",
+    "en": "He came home from the fight black and blue, and his mother was horrified."
+   }
+  },
+  {
+   "trad": "大過",
+   "pinyin": "dà guò",
+   "en": "major demerit",
+   "category": "discipline",
+   "level": 3,
+   "example": {
+    "zh": "累積三支大過的學生就會被退學。",
+    "en": "A student who racks up three major demerits is expelled."
+   }
+  },
+  {
+   "trad": "藤條",
+   "pinyin": "téng tiáo",
+   "en": "rattan cane",
+   "category": "discipline",
+   "level": 3,
+   "example": {
+    "zh": "老師的藤條打在手上，痛得他直甩手。",
+    "en": "The teacher's cane landed on his hand and it hurt so much he kept shaking it."
+   }
+  },
+  {
+   "trad": "愛的小手",
+   "pinyin": "ài de xiǎo shǒu",
+   "en": "'little hand of love': a hand-shaped plastic paddle for spanking",
+   "category": "discipline",
+   "level": 3,
+   "example": {
+    "zh": "老師一拿出愛的小手，大家都乖乖坐好。",
+    "en": "The moment the teacher took out the 'little hand of love', everyone sat up straight."
+   },
+   "note": "A darkly cute product of the corporal-punishment era."
+  },
+  {
+   "trad": "青蛙跳",
+   "pinyin": "qīng wā tiào",
+   "en": "frog jumps (as punishment)",
+   "category": "discipline",
+   "level": 3,
+   "example": {
+    "zh": "教官罰他們繞著籃球場青蛙跳兩圈。",
+    "en": "The instructor made them frog-jump two laps around the basketball court."
+   }
+  },
+  {
+   "trad": "服裝儀容",
+   "pinyin": "fú zhuāng yí róng",
+   "en": "dress and grooming (as inspected at school)",
+   "category": "discipline",
+   "level": 3,
+   "example": {
+    "zh": "星期一早上要檢查服裝儀容和指甲。",
+    "en": "On Monday mornings there's an inspection of dress, grooming and fingernails."
+   },
+   "note": "Often shortened to 服儀."
+  },
+  {
+   "trad": "髮禁",
+   "pinyin": "fǎ jìn",
+   "en": "school rules restricting hair length and style",
+   "category": "discipline",
+   "level": 3,
+   "example": {
+    "zh": "在髮禁的年代，男生只能留很短的平頭。",
+    "en": "In the days of hair rules, boys could only have very short crew cuts."
+   },
+   "note": "Taiwan reads 髮 as fǎ. Officially dropped in 1987, but many schools kept their rules for years."
+  },
+  {
+   "trad": "逞強",
+   "pinyin": "chěng qiáng",
+   "en": "to put on a brave front, to act tougher than one is",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "明明痛得要命，他還是逞強說沒事。",
+    "en": "Though it hurt like hell, he still insisted with false bravado that he was fine."
+   }
+  },
+  {
+   "trad": "倔強",
+   "pinyin": "jué jiàng",
+   "en": "stubborn, unyielding",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "她個性倔強，受了委屈也不肯哭。",
+    "en": "She was stubborn by nature and wouldn't cry even when wronged."
+   },
+   "note": "Both characters have special readings here: jué jiàng."
+  },
+  {
+   "trad": "賭氣",
+   "pinyin": "dǔ qì",
+   "en": "to act out of spite or pique, to sulk",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "兩個人都在賭氣，誰也不肯先打電話。",
+    "en": "Both were sulking, and neither would be the first to phone."
+   }
+  },
+  {
+   "trad": "嘴硬",
+   "pinyin": "zuǐ yìng",
+   "en": "stubbornly refusing to admit something",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "他明明很想她，卻嘴硬說自己很忙。",
+    "en": "He obviously missed her, but stubbornly claimed he was busy."
+   }
+  },
+  {
+   "trad": "鼻酸",
+   "pinyin": "bí suān",
+   "en": "to feel one's nose tingle (about to cry)",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "看著穿上婚紗的她，他忽然一陣鼻酸。",
+    "en": "Watching her in her wedding dress, he suddenly felt tears prick his nose."
+   }
+  },
+  {
+   "trad": "眼眶泛紅",
+   "pinyin": "yǎn kuāng fàn hóng",
+   "en": "eyes reddening with tears",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "說到畢業兩個字，她的眼眶泛紅了。",
+    "en": "At the word 'graduation', her eyes reddened."
+   },
+   "note": "Taiwan reads 眶 as kuāng (mainland kuàng)."
+  },
+  {
+   "trad": "哽咽",
+   "pinyin": "gěng yè",
+   "en": "to choke up with sobs",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "他想說恭喜，聲音卻哽咽得說不下去。",
+    "en": "He wanted to say congratulations, but his voice choked and he couldn't go on."
+   },
+   "note": "咽 is read yè here."
+  },
+  {
+   "trad": "火大",
+   "pinyin": "huǒ dà",
+   "en": "furious, pissed off",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "聽到他說那種話，她真的很火大。",
+    "en": "Hearing him say that kind of thing made her really furious."
+   },
+   "note": "Taiwan colloquial."
+  },
+  {
+   "trad": "抓狂",
+   "pinyin": "zhuā kuáng",
+   "en": "to go nuts, to freak out",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "看到他的成績單，媽媽差點抓狂。",
+    "en": "When Mom saw his report card she nearly lost it."
+   },
+   "note": "From Taiwanese."
+  },
+  {
+   "trad": "懊惱",
+   "pinyin": "ào nǎo",
+   "en": "vexed with oneself, rueful",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "他懊惱地抓著頭，後悔沒有追上去。",
+    "en": "He clutched his head ruefully, regretting that he hadn't run after her."
+   }
+  },
+  {
+   "trad": "愧疚",
+   "pinyin": "kuì jiù",
+   "en": "guilty, ashamed and sorry",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "害朋友一起被罰，他心裡很愧疚。",
+    "en": "Having got his friends punished along with him, he felt very guilty."
+   }
+  },
+  {
+   "trad": "釋懷",
+   "pinyin": "shì huái",
+   "en": "to let go of (a hurt), to make peace with",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "過了這麼多年，他終於能夠釋懷了。",
+    "en": "After so many years, he was finally able to make peace with it."
+   }
+  },
+  {
+   "trad": "悸動",
+   "pinyin": "jì dòng",
+   "en": "a flutter of the heart",
+   "category": "emotion",
+   "level": 3,
+   "example": {
+    "zh": "多年後再見到她，他心裡還是有一點悸動。",
+    "en": "Seeing her again years later, his heart still fluttered a little."
+   }
+  },
+  {
+   "trad": "吊車尾",
+   "pinyin": "diào chē wěi",
+   "en": "to come last; to scrape in at the very bottom",
+   "category": "exam",
+   "level": 3,
+   "example": {
+    "zh": "他每次都吊車尾，卻一點也不覺得丟臉。",
+    "en": "He came last every time and didn't feel the least bit embarrassed."
+   },
+   "note": "Literally 'hanging off the tail of the train'."
+  },
+  {
+   "trad": "推薦甄試",
+   "pinyin": "tuī jiàn zhēn shì",
+   "en": "university admission by school recommendation plus screening",
+   "category": "exam",
+   "level": 3,
+   "example": {
+    "zh": "他通過推薦甄試，比別人早半年上大學。",
+    "en": "He passed the recommendation screening and was into university half a year before the others."
+   },
+   "note": "An alternative route introduced in the 1990s alongside 聯考."
+  },
+  {
+   "trad": "麻吉",
+   "pinyin": "má jí",
+   "en": "close buddy; tight (of friends)",
+   "category": "friendship",
+   "level": 3,
+   "example": {
+    "zh": "他們兩個從小就很麻吉，什麼話都能說。",
+    "en": "Those two have been tight since they were kids and can tell each other anything."
+   },
+   "note": "Taiwan slang, said to come from English 'match'."
+  },
+  {
+   "trad": "挺",
+   "pinyin": "tǐng",
+   "en": "to back someone up, to stand by",
+   "category": "friendship",
+   "level": 3,
+   "example": {
+    "zh": "不管你做什麼決定，兄弟我都挺你。",
+    "en": "Whatever you decide, as your brother I've got your back."
+   },
+   "note": "Taiwan colloquial sense; as an adverb 挺 also means 'quite'."
+  },
+  {
+   "trad": "損友",
+   "pinyin": "sǔn yǒu",
+   "en": "a 'bad-influence' friend (usually said fondly)",
+   "category": "friendship",
+   "level": 3,
+   "example": {
+    "zh": "有這票損友在，他的糗事永遠不會被忘記。",
+    "en": "With that bunch of so-called friends around, his embarrassing moments will never be forgotten."
+   },
+   "note": "一票 is a casual Taiwan measure for a bunch of people."
+  },
+  {
+   "trad": "怦然心動",
+   "pinyin": "pēng rán xīn dòng",
+   "en": "to feel one's heart leap",
+   "category": "idiom",
+   "level": 3,
+   "example": {
+    "zh": "她回頭一笑，他整個人怦然心動。",
+    "en": "She looked back and smiled, and his heart leapt."
+   }
+  },
+  {
+   "trad": "一廂情願",
+   "pinyin": "yì xiāng qíng yuàn",
+   "en": "wishful thinking; a one-sided assumption",
+   "category": "idiom",
+   "level": 3,
+   "example": {
+    "zh": "也許這一切都只是我一廂情願的想法。",
+    "en": "Perhaps all of this was just wishful thinking on my part."
+   }
+  },
+  {
+   "trad": "自作多情",
+   "pinyin": "zì zuò duō qíng",
+   "en": "to flatter oneself that someone is interested",
+   "category": "idiom",
+   "level": 3,
+   "example": {
+    "zh": "他怕是自己自作多情，所以不敢問。",
+    "en": "He feared he was just flattering himself, so he didn't dare ask."
+   }
+  },
+  {
+   "trad": "刻骨銘心",
+   "pinyin": "kè gǔ míng xīn",
+   "en": "engraved on one's heart, unforgettable",
+   "category": "idiom",
+   "level": 3,
+   "example": {
+    "zh": "那是一段刻骨銘心的初戀。",
+    "en": "That was a first love engraved on the heart."
+   }
+  },
+  {
+   "trad": "年少輕狂",
+   "pinyin": "nián shào qīng kuáng",
+   "en": "young and reckless",
+   "category": "idiom",
+   "level": 3,
+   "example": {
+    "zh": "誰沒有過年少輕狂的時候呢？",
+    "en": "Who hasn't had a time of being young and reckless?"
+   }
+  },
+  {
+   "trad": "索性",
+   "pinyin": "suǒ xìng",
+   "en": "might as well, simply (go ahead and)",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "既然被發現了，他索性大方承認。",
+    "en": "Since he'd been found out, he simply owned up frankly."
+   }
+  },
+  {
+   "trad": "不由得",
+   "pinyin": "bù yóu dé",
+   "en": "can't help but",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "看到那張舊照片，他不由得笑了。",
+    "en": "Seeing that old photo, he couldn't help smiling."
+   }
+  },
+  {
+   "trad": "不禁",
+   "pinyin": "bù jīn",
+   "en": "can't help (literary)",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "想起當年的傻事，我不禁笑了起來。",
+    "en": "Remembering the silly things of those years, I couldn't help laughing."
+   },
+   "note": "禁 is first tone in this word."
+  },
+  {
+   "trad": "剎那",
+   "pinyin": "chà nà",
+   "en": "an instant, a split second",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "就在那一剎那，整棟宿舍陷入黑暗。",
+    "en": "In that split second, the entire dormitory was plunged into darkness."
+   }
+  },
+  {
+   "trad": "頓時",
+   "pinyin": "dùn shí",
+   "en": "at once, immediately (literary)",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "老師一走進來，教室裡頓時安靜了。",
+    "en": "As the teacher walked in, the classroom at once fell silent."
+   }
+  },
+  {
+   "trad": "若無其事",
+   "pinyin": "ruò wú qí shì",
+   "en": "as if nothing had happened",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "他若無其事地走回座位，心卻跳得很快。",
+    "en": "He walked back to his seat as if nothing had happened, but his heart was racing."
+   }
+  },
+  {
+   "trad": "一本正經",
+   "pinyin": "yì běn zhèng jīng",
+   "en": "in all seriousness, with a straight face",
+   "category": "narration",
+   "level": 3,
+   "example": {
+    "zh": "他一本正經地說自己將來要改變世界。",
+    "en": "With a completely straight face he said that one day he would change the world."
+   }
+  },
+  {
+   "trad": "電動",
+   "pinyin": "diàn dòng",
+   "en": "video games, arcade games",
+   "category": "nostalgia",
+   "level": 3,
+   "example": {
+    "zh": "放學後，他們常躲在店裡打電動。",
+    "en": "After school they often holed up in the shop playing video games."
+   },
+   "note": "Taiwan colloquial: 打電動 = to play video games."
+  },
+  {
+   "trad": "隨身聽",
+   "pinyin": "suí shēn tīng",
+   "en": "portable cassette player, Walkman",
+   "category": "nostalgia",
+   "level": 3,
+   "example": {
+    "zh": "她戴著隨身聽的耳機，邊聽歌邊背英文。",
+    "en": "Wearing her Walkman earphones, she memorized English while listening to songs."
+   }
+  },
+  {
+   "trad": "電燈泡",
+   "pinyin": "diàn dēng pào",
+   "en": "third wheel (literally 'light bulb')",
+   "category": "romance",
+   "level": 3,
+   "example": {
+    "zh": "我不想當電燈泡，你們兩個自己去看電影。",
+    "en": "I don't want to be the third wheel; you two go to the movie by yourselves."
+   }
+  },
+  {
+   "trad": "被甩",
+   "pinyin": "bèi shuǎi",
+   "en": "to get dumped",
+   "category": "romance",
+   "level": 3,
+   "example": {
+    "zh": "他還沒告白就被甩了，朋友都笑他。",
+    "en": "He got dumped before he'd even confessed, and his friends all laughed at him."
+   }
+  },
+  {
+   "trad": "平行時空",
+   "pinyin": "píng xíng shí kōng",
+   "en": "parallel universe",
+   "category": "romance",
+   "level": 3,
+   "example": {
+    "zh": "科幻小說裡常常提到平行時空的概念。",
+    "en": "Science fiction often brings up the concept of parallel universes."
+   },
+   "note": "The 'what if things had gone differently' idea in love stories."
+  },
+  {
+   "trad": "放牛班",
+   "pinyin": "fàng niú bān",
+   "en": "'cowherd class': a low-track class left to drift",
+   "category": "school",
+   "level": 3,
+   "example": {
+    "zh": "以前的放牛班，老師根本不太管學生。",
+    "en": "In the old low-track classes, teachers basically didn't bother with the students."
+   },
+   "note": "Slang from the era of ability grouping (能力分班); the opposite of 升學班."
+  },
+  {
+   "trad": "蒸飯箱",
+   "pinyin": "zhēng fàn xiāng",
+   "en": "steam cabinet for reheating lunch boxes",
+   "category": "school",
+   "level": 3,
+   "example": {
+    "zh": "早上一到學校，就要把便當放進蒸飯箱。",
+    "en": "First thing on arriving at school, you put your lunch box into the steamer."
+   },
+   "note": "Each class loads its metal lunch boxes in the morning and collects them hot at noon."
+  },
+  {
+   "trad": "司令臺",
+   "pinyin": "sī lìng tái",
+   "en": "reviewing stand at the edge of the school field",
+   "category": "school",
+   "level": 3,
+   "example": {
+    "zh": "她走上司令臺，從校長手中接過獎狀。",
+    "en": "She walked up onto the stand and received the certificate from the principal."
+   },
+   "note": "Where assemblies are run. Usually printed with the everyday 5-stroke form of 臺."
+  },
+  {
+   "trad": "抬便當",
+   "pinyin": "tái biàn dāng",
+   "en": "to carry the class's crate of lunch boxes",
+   "category": "school",
+   "level": 3,
+   "example": {
+    "zh": "今天輪到我跟他一起去抬便當。",
+    "en": "Today it's my turn to go and carry the lunch boxes with him."
+   },
+   "note": "A daily two-person chore for the 值日生."
+  },
+  {
+   "trad": "輔導課",
+   "pinyin": "fǔ dǎo kè",
+   "en": "extra 'guidance' class after regular hours",
+   "category": "school",
+   "level": 3,
+   "example": {
+    "zh": "第八節的輔導課，其實就是繼續上課。",
+    "en": "The eighth-period 'guidance class' is really just more class."
+   },
+   "note": "Paid extra lessons run by the school; nearly compulsory in exam-track classes."
+  },
+  {
+   "trad": "園遊會",
+   "pinyin": "yuán yóu huì",
+   "en": "school fair with food and game stalls",
+   "category": "school",
+   "level": 3,
+   "example": {
+    "zh": "園遊會上，我們班賣的是紅茶和熱狗。",
+    "en": "At the school fair our class sold black tea and hot dogs."
+   },
+   "note": "Usually held on the school anniversary (校慶)."
+  },
+  {
+   "trad": "兵變",
+   "pinyin": "bīng biàn",
+   "en": "being dumped by one's girlfriend during military service; mutiny",
+   "category": "society",
+   "level": 3,
+   "example": {
+    "zh": "他當兵時遇到兵變，難過了好幾個月。",
+    "en": "He was dumped while doing his service and was miserable for months."
+   },
+   "note": "Literally 'mutiny'; the slang sense is far more common in Taiwan."
+  },
+  {
+   "trad": "震央",
+   "pinyin": "zhèn yāng",
+   "en": "epicenter",
+   "category": "society",
+   "level": 3,
+   "example": {
+    "zh": "這次地震的震央在南投的山區。",
+    "en": "The epicenter of this earthquake was in the mountains of Nantou."
+   },
+   "note": "Mainland 震中."
+  },
+  {
+   "trad": "收訊",
+   "pinyin": "shōu xùn",
+   "en": "(phone) reception, signal",
+   "category": "society",
+   "level": 3,
+   "example": {
+    "zh": "這裡收訊很差，他只好跑到空地上。",
+    "en": "The reception here was poor, so he had to run out to open ground."
+   },
+   "note": "Mainland 信號. Also 訊號."
+  },
+  {
+   "trad": "出社會",
+   "pinyin": "chū shè huì",
+   "en": "to enter the working world (after finishing school)",
+   "category": "society",
+   "level": 3,
+   "example": {
+    "zh": "出社會以後，同學們見面的機會變少了。",
+    "en": "After they started working, the classmates had fewer chances to meet."
+   },
+   "note": "Taiwan idiom; mainland 步入社會 or 參加工作."
+  },
+  {
+   "trad": "格鬥",
+   "pinyin": "gé dòu",
+   "en": "fighting, combat (as a sport)",
+   "category": "sports-fight",
+   "level": 3,
+   "example": {
+    "zh": "他迷上了格鬥，房間裡貼滿了海報。",
+    "en": "He became obsessed with combat sports and covered his room with posters."
+   }
+  },
+  {
+   "trad": "自由搏擊",
+   "pinyin": "zì yóu bó jí",
+   "en": "free-style fighting, kickboxing",
+   "category": "sports-fight",
+   "level": 3,
+   "example": {
+    "zh": "他在大學裡辦了一場自由搏擊比賽。",
+    "en": "He organized a free-fighting tournament at his university."
+   },
+   "note": "Taiwan reads 擊 as jí (mainland jī)."
+  },
+  {
+   "trad": "擂臺",
+   "pinyin": "lèi tái",
+   "en": "fighting ring, arena",
+   "category": "sports-fight",
+   "level": 3,
+   "example": {
+    "zh": "他一站上擂臺，就被對手一拳打倒。",
+    "en": "The moment he stepped into the ring, his opponent knocked him down with one punch."
+   },
+   "note": "Usually printed with the everyday 5-stroke form of 臺."
+  },
+  {
+   "trad": "單挑",
+   "pinyin": "dān tiǎo",
+   "en": "to fight one-on-one, to duel",
+   "category": "sports-fight",
+   "level": 3,
+   "example": {
+    "zh": "有本事放學後到操場跟我單挑。",
+    "en": "If you've got what it takes, fight me one-on-one on the field after school."
+   }
+  },
+  {
+   "trad": "籃框",
+   "pinyin": "lán kuāng",
+   "en": "basketball hoop",
+   "category": "sports-fight",
+   "level": 3,
+   "example": {
+    "zh": "球在籃框上轉了兩圈，最後掉了出來。",
+    "en": "The ball rolled twice around the rim and finally dropped out."
+   },
+   "note": "Taiwan reads 框 as kuāng (mainland kuàng)."
+  },
+  {
+   "trad": "鬥牛",
+   "pinyin": "dòu niú",
+   "en": "pickup basketball (half-court); bullfight",
+   "category": "sports-fight",
+   "level": 3,
+   "example": {
+    "zh": "下課十分鐘，他們也要衝去球場鬥牛。",
+    "en": "Even in a ten-minute break they would dash to the court for a pickup game."
+   },
+   "note": "Taiwan slang for three-on-three or one-on-one street basketball."
+  },
+  {
+   "trad": "聯誼",
+   "pinyin": "lián yì",
+   "en": "group mixer between two classes or departments",
+   "category": "university",
+   "level": 3,
+   "example": {
+    "zh": "他們系和護理系聯誼，一起去烤肉。",
+    "en": "His department had a mixer with the nursing department and they went barbecuing together."
+   }
+  },
+  {
+   "trad": "被當",
+   "pinyin": "bèi dàng",
+   "en": "to fail a course, to be flunked",
+   "category": "university",
+   "level": 3,
+   "example": {
+    "zh": "他微積分被當，暑假還要回學校重修。",
+    "en": "He flunked calculus and had to go back to retake it over the summer."
+   },
+   "note": "Verb 當 (dàng): 教授當人 = the professor fails people. Mainland 掛科."
+  },
+  {
+   "trad": "門禁",
+   "pinyin": "mén jìn",
+   "en": "curfew (of a dormitory)",
+   "category": "university",
+   "level": 3,
+   "example": {
+    "zh": "女生宿舍十一點門禁，他得趕快送她回去。",
+    "en": "The women's dorm had an eleven o'clock curfew, so he had to hurry her back."
+   }
+  },
+  {
+   "trad": "鬧洞房",
+   "pinyin": "nào dòng fáng",
+   "en": "to tease the newlyweds with pranks on the wedding night",
+   "category": "wedding",
+   "level": 3,
+   "example": {
+    "zh": "幾個老朋友早就計畫好要怎麼鬧洞房。",
+    "en": "A few old friends had long since planned exactly how to haze the newlyweds."
+   }
+  },
+  {
+   "trad": "紅色炸彈",
+   "pinyin": "hóng sè zhà dàn",
+   "en": "'red bomb': a wedding invitation (it costs you a red envelope)",
+   "category": "wedding",
+   "level": 3,
+   "example": {
+    "zh": "這個月收到三張紅色炸彈，薪水都不夠用。",
+    "en": "Three 'red bombs' this month; my salary won't stretch that far."
+   }
+  },
+  {
+   "trad": "白爛",
+   "pinyin": "bái làn",
+   "en": "idiotic, obnoxiously stupid; a jerk (crude slang)",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他又在講白爛的笑話，全班都懶得理他。",
+    "en": "He's telling moronic jokes again and the whole class can't be bothered with him."
+   },
+   "note": "From Taiwanese; crude but common among teenage boys."
+  },
+  {
+   "trad": "唬爛",
+   "pinyin": "hǔ làn",
+   "en": "to bullshit, to talk big (crude slang)",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "你少唬爛了，她怎麼可能約你出去？",
+    "en": "Cut the bull. How could she possibly have asked you out?"
+   },
+   "note": "From Taiwanese; milder cousins are 瞎掰 and 鬼扯."
+  },
+  {
+   "trad": "臭屁",
+   "pinyin": "chòu pì",
+   "en": "cocky, full of oneself",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他考了一次第一名就臭屁到不行。",
+    "en": "He came first one single time and got unbearably cocky."
+   },
+   "note": "Taiwan slang. 到不行 = 'to an extreme'."
+  },
+  {
+   "trad": "屌",
+   "pinyin": "diǎo",
+   "en": "awesome, badass (crude)",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他一個人打贏三個學長，真的很屌。",
+    "en": "He beat three older students single-handed. Seriously badass."
+   },
+   "note": "Literally a vulgar word for penis; as praise it is boy-talk, not for polite company."
+  },
+  {
+   "trad": "遜",
+   "pinyin": "xùn",
+   "en": "lame, pathetic",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "連這麼簡單的題目都不會，你也太遜了。",
+    "en": "You can't even do a question this easy? That's way too lame."
+   },
+   "note": "90s Taiwan slang; the opposite of 屌 or 酷."
+  },
+  {
+   "trad": "遜斃了",
+   "pinyin": "xùn bì le",
+   "en": "totally lame",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "在喜歡的女生面前跌倒，真是遜斃了。",
+    "en": "Falling over in front of the girl you like is totally lame."
+   },
+   "note": "斃了 ('to death') intensifies: 酷斃了, 帥斃了."
+  },
+  {
+   "trad": "機車",
+   "pinyin": "jī chē",
+   "en": "scooter, motorcycle; (slang) annoyingly difficult, a pain",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "那個教官超機車，頭髮長一點也要記。",
+    "en": "That instructor is such a pain; he'll write you up for hair that's a tiny bit long."
+   },
+   "note": "Literal meaning is Taiwan's ubiquitous scooter (mainland 摩托車)."
+  },
+  {
+   "trad": "龜毛",
+   "pinyin": "guī máo",
+   "en": "fussy, nitpicky",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "她做事很龜毛，筆記一定要用三種顏色。",
+    "en": "She's very fussy about things; her notes must be in three colors."
+   },
+   "note": "From Taiwanese."
+  },
+  {
+   "trad": "雞婆",
+   "pinyin": "jī pó",
+   "en": "nosy, meddlesome (often said fondly)",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "要不是她那麼雞婆，我的數學早就完蛋了。",
+    "en": "If she hadn't been such a busybody, my math would have been done for long ago."
+   },
+   "note": "From Taiwanese."
+  },
+  {
+   "trad": "白目",
+   "pinyin": "bái mù",
+   "en": "clueless, tactless",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "人家在難過，你還開玩笑，很白目耶。",
+    "en": "She's upset and you're still joking? That's so tactless."
+   },
+   "note": "From Taiwanese; literally 'white-eyed'."
+  },
+  {
+   "trad": "抓包",
+   "pinyin": "zhuā bāo",
+   "en": "to catch someone in the act",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他上課偷看漫畫，被班導當場抓包。",
+    "en": "He was sneaking a look at a comic in class and the homeroom teacher caught him red-handed."
+   },
+   "note": "Taiwan slang; usually passive with 被."
+  },
+  {
+   "trad": "愛現",
+   "pinyin": "ài xiàn",
+   "en": "show-off; to love showing off",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他很愛現，會一點魔術就到處表演。",
+    "en": "He loves showing off; he knows a bit of magic and performs it everywhere."
+   }
+  },
+  {
+   "trad": "跩",
+   "pinyin": "zhuǎi",
+   "en": "cocky, swaggering",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "贏了一場球就那麼跩，下次一定打爆你。",
+    "en": "One win and you're that cocky? Next time we'll crush you."
+   }
+  },
+  {
+   "trad": "帥呆了",
+   "pinyin": "shuài dāi le",
+   "en": "absolutely awesome (90s slang)",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他那個三分球一出手就進，帥呆了！",
+    "en": "That three-pointer went in the moment it left his hand. Awesome!"
+   },
+   "note": "Dated 90s exclamation, like 酷斃了."
+  },
+  {
+   "trad": "酷斃了",
+   "pinyin": "kù bì le",
+   "en": "cool as hell",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他說要辦一場格鬥比賽，大家都說酷斃了。",
+    "en": "He said he'd hold a fighting tournament and everyone said it was cool as hell."
+   }
+  },
+  {
+   "trad": "扯",
+   "pinyin": "chě",
+   "en": "outrageous, ridiculous; to pull",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他居然考贏全校第一名，也太扯了吧。",
+    "en": "He actually outscored the top student in the school? That's just ridiculous."
+   },
+   "note": "Slang sense: 太扯了 = 'that's absurd'."
+  },
+  {
+   "trad": "打屁",
+   "pinyin": "dǎ pì",
+   "en": "to shoot the breeze",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "下課時，一堆男生靠在欄杆上聊天打屁。",
+    "en": "At break a bunch of boys leaned on the railing chatting and shooting the breeze."
+   },
+   "note": "Often paired as 聊天打屁."
+  },
+  {
+   "trad": "哈拉",
+   "pinyin": "hā lā",
+   "en": "to chat idly, to banter",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他很會哈拉，跟誰都可以聊上半天。",
+    "en": "He's a great chatterer and can talk with anyone for ages."
+   },
+   "note": "Taiwan slang; the second character is also written 啦."
+  },
+  {
+   "trad": "瞎掰",
+   "pinyin": "xiā bāi",
+   "en": "to make things up",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "作文不會寫，他就開始亂瞎掰。",
+    "en": "Not knowing what to write for his essay, he just started making stuff up."
+   }
+  },
+  {
+   "trad": "糗",
+   "pinyin": "qiǔ",
+   "en": "embarrassing, mortifying",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "在全班面前唸錯她的名字，真的很糗。",
+    "en": "Misreading her name in front of the whole class was really mortifying."
+   }
+  },
+  {
+   "trad": "出糗",
+   "pinyin": "chū qiǔ",
+   "en": "to embarrass oneself",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他上臺領獎時滑了一跤，當場出糗。",
+    "en": "He slipped going up to receive his prize and made a fool of himself on the spot."
+   }
+  },
+  {
+   "trad": "孬種",
+   "pinyin": "nāo zhǒng",
+   "en": "coward, gutless wimp",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "連告白都不敢，你這個孬種！",
+    "en": "You don't even dare confess to her, you wimp!"
+   }
+  },
+  {
+   "trad": "乖乖牌",
+   "pinyin": "guāi guāi pái",
+   "en": "goody-two-shoes, well-behaved type",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "她是老師眼中的乖乖牌，從來不惹麻煩。",
+    "en": "In the teachers' eyes she was a goody-goody who never caused trouble."
+   }
+  },
+  {
+   "trad": "中二",
+   "pinyin": "zhōng èr",
+   "en": "cringey teenage self-importance ('eighth-grader syndrome')",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "現在回想起來，那時候的我真的很中二。",
+    "en": "Looking back now, I really was full of teenage delusions then."
+   },
+   "note": "Later slang from Japanese, not 90s usage; handy for describing the narrator."
+  },
+  {
+   "trad": "正妹",
+   "pinyin": "zhèng mèi",
+   "en": "pretty girl, hottie",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "聽說隔壁班來了一個正妹，男生都跑去看。",
+    "en": "Word was a pretty girl had joined the next class, and all the boys ran over to look."
+   },
+   "note": "正 as slang means 'good-looking' (of a girl)."
+  },
+  {
+   "trad": "把妹",
+   "pinyin": "bǎ mèi",
+   "en": "to chase girls, to pick up girls",
+   "category": "youth-slang",
+   "level": 3,
+   "example": {
+    "zh": "他整天只想著把妹，功課一塌糊塗。",
+    "en": "He thinks about nothing but chasing girls all day and his schoolwork is a mess."
+   },
+   "note": "Taiwan slang; mainland 泡妞."
+  }
+ ]
+}

@@ -1,0 +1,4714 @@
+[
+ {
+  "trad": "垃圾",
+  "tw": "lè sè",
+  "cn": "lā jī",
+  "en": "garbage; trash",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 1,
+  "note": "The best-known difference. lè sè is the MOE reading and what everyone says; lā jī sounds mainland.",
+  "example": {
+   "zh": "記得倒垃圾。",
+   "en": "Remember to take out the trash."
+  }
+ },
+ {
+  "trad": "包括",
+  "tw": "bāo guā",
+  "cn": "bāo kuò",
+  "en": "to include",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 1,
+  "note": "MOE's Concised dictionary gives bāo guā (the Revised one bāo kuò). Teachers and news anchors say guā; casual speech is mostly bāo kuò.",
+  "example": {
+   "zh": "房租有包括水電嗎？",
+   "en": "Does the rent include water and electricity?"
+  }
+ },
+ {
+  "trad": "熟",
+  "tw": "shóu",
+  "cn": "shú",
+  "en": "ripe; cooked; familiar",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan says shóu in every word (熟悉, 成熟, 很熟), and MOE's Concised dictionary lists shóu. The mainland standard is shú.",
+  "example": {
+   "zh": "這個芒果還沒熟。",
+   "en": "This mango isn't ripe yet."
+  }
+ },
+ {
+  "trad": "熟悉",
+  "tw": "shóu xī",
+  "cn": "shú xi",
+  "en": "familiar with",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 1,
+  "note": "Same 熟 = shóu rule, and 悉 keeps its 1st tone.",
+  "example": {
+   "zh": "我對這附近不太熟悉。",
+   "en": "I'm not very familiar with this area."
+  }
+ },
+ {
+  "trad": "血",
+  "tw": "xiě",
+  "cn": "xuè",
+  "en": "blood",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan reads 血 as xiě in every word (流血, 血型, 血壓, 捐血). The mainland uses xuè in compounds.",
+  "example": {
+   "zh": "你的手怎麼都是血？",
+   "en": "Why is your hand covered in blood?"
+  }
+ },
+ {
+  "trad": "角色",
+  "tw": "jiǎo sè",
+  "cn": "jué sè",
+  "en": "role; character",
+  "group": "different-syllable",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "MOE (like the mainland) says jué sè, but nearly everyone in Taiwan says jiǎo sè; same for 主角, 配角.",
+  "example": {
+   "zh": "她在這部戲裡演一個很重要的角色。",
+   "en": "She plays a very important role in this drama."
+  }
+ },
+ {
+  "trad": "暫時",
+  "tw": "zhàn shí",
+  "cn": "zàn shí",
+  "en": "temporarily; for now",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 1,
+  "note": "暫 is zhàn in Taiwan (mainland zàn): 暫時, 暫停, 短暫.",
+  "example": {
+   "zh": "我暫時住在朋友家。",
+   "en": "I'm staying at a friend's place for now."
+  }
+ },
+ {
+  "trad": "星期",
+  "tw": "xīng qí",
+  "cn": "xīng qī",
+  "en": "week",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "期 is qí (2nd tone) in every word in Taiwan; the mainland reads it qī.",
+  "example": {
+   "zh": "下個星期我要去高雄出差。",
+   "en": "I'm going to Kaohsiung on a business trip next week."
+  }
+ },
+ {
+  "trad": "學期",
+  "tw": "xué qí",
+  "cn": "xué qī",
+  "en": "semester; term",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "這個學期我修了五門課。",
+   "en": "I'm taking five courses this semester."
+  }
+ },
+ {
+  "trad": "日期",
+  "tw": "rì qí",
+  "cn": "rì qī",
+  "en": "date",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "請在這裡填上今天的日期。",
+   "en": "Please fill in today's date here."
+  }
+ },
+ {
+  "trad": "期待",
+  "tw": "qí dài",
+  "cn": "qī dài",
+  "en": "to look forward to",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "我很期待這次的旅行。",
+   "en": "I'm really looking forward to this trip."
+  }
+ },
+ {
+  "trad": "危險",
+  "tw": "wéi xiǎn",
+  "cn": "wēi xiǎn",
+  "en": "dangerous; danger",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "危 is wéi (2nd tone) in Taiwan: 危險, 危機, 危害.",
+  "example": {
+   "zh": "騎車不戴安全帽很危險。",
+   "en": "Riding a scooter without a helmet is dangerous."
+  }
+ },
+ {
+  "trad": "微笑",
+  "tw": "wéi xiào",
+  "cn": "wēi xiào",
+  "en": "smile; to smile",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "微 is wéi (2nd tone) in Taiwan: 微笑, 稍微, 微波爐, 輕微.",
+  "example": {
+   "zh": "她對我微笑了一下。",
+   "en": "She gave me a little smile."
+  }
+ },
+ {
+  "trad": "稍微",
+  "tw": "shāo wéi",
+  "cn": "shāo wēi",
+  "en": "slightly; a little",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Same 微 = wéi rule.",
+  "example": {
+   "zh": "可以稍微等我一下嗎？",
+   "en": "Could you wait for me just a moment?"
+  }
+ },
+ {
+  "trad": "企業",
+  "tw": "qì yè",
+  "cn": "qǐ yè",
+  "en": "enterprise; company",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "企 is qì (4th tone) in Taiwan: 企業, 企劃, 企圖, 企鵝.",
+  "example": {
+   "zh": "他在一家大企業上班。",
+   "en": "He works at a big company."
+  }
+ },
+ {
+  "trad": "法國",
+  "tw": "fà guó",
+  "cn": "fǎ guó",
+  "en": "France",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "The older official reading fà (only for France: 法國, 法文) is still very common in Taiwan. MOE now lists fǎ, which younger speakers also use.",
+  "example": {
+   "zh": "我明年想去法國玩。",
+   "en": "I want to visit France next year."
+  }
+ },
+ {
+  "trad": "亞洲",
+  "tw": "yǎ zhōu",
+  "cn": "yà zhōu",
+  "en": "Asia",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Most Taiwanese say yǎ (3rd tone). MOE's main reading is yà, with yǎ listed as an accepted variant.",
+  "example": {
+   "zh": "臺灣位在亞洲東部。",
+   "en": "Taiwan is located in East Asia."
+  }
+ },
+ {
+  "trad": "研究",
+  "tw": "yán jiù",
+  "cn": "yán jiū",
+  "en": "research; to study",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "究 is jiù (4th tone) in Taiwan's standard; yán jiū is also widely heard in casual speech.",
+  "example": {
+   "zh": "他在研究臺灣的歷史。",
+   "en": "He's researching Taiwanese history."
+  }
+ },
+ {
+  "trad": "頭髮",
+  "tw": "tóu fǎ",
+  "cn": "tóu fa",
+  "en": "hair",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "髮 is fǎ (3rd tone) in Taiwan and keeps its tone; the mainland reads 发 (hair) as fà, neutral in 头发.",
+  "example": {
+   "zh": "我想去剪頭髮。",
+   "en": "I want to go get a haircut."
+  }
+ },
+ {
+  "trad": "品質",
+  "tw": "pǐn zhí",
+  "cn": "pǐn zhì",
+  "en": "quality",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "質 is zhí (2nd tone) in Taiwan (except 人質 rén zhì). Taiwan says 品質 where the mainland says 质量.",
+  "example": {
+   "zh": "這家店的東西品質很好。",
+   "en": "The things at this shop are of good quality."
+  }
+ },
+ {
+  "trad": "擁有",
+  "tw": "yǒng yǒu",
+  "cn": "yōng yǒu",
+  "en": "to have; to possess",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "擁 is yǒng (3rd tone) in Taiwan's standard: 擁有, 擁抱, 擁擠. yōng is also heard.",
+  "example": {
+   "zh": "他擁有自己的公司。",
+   "en": "He has his own company."
+  }
+ },
+ {
+  "trad": "成績",
+  "tw": "chéng jī",
+  "cn": "chéng jì",
+  "en": "grades; results",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "績 is jī (1st tone) in Taiwan: 成績, 業績, 績效.",
+  "example": {
+   "zh": "這次考試的成績出來了嗎？",
+   "en": "Are the results of this exam out yet?"
+  }
+ },
+ {
+  "trad": "訊息",
+  "tw": "xùn xí",
+  "cn": "xùn xī",
+  "en": "message",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan's everyday word for a (text) message (mainland 信息 / 消息); 息 is xí.",
+  "example": {
+   "zh": "我等一下傳訊息給你。",
+   "en": "I'll message you in a bit."
+  }
+ },
+ {
+  "trad": "可惜",
+  "tw": "kě xí",
+  "cn": "kě xī",
+  "en": "what a pity; unfortunately",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "惜 is xí (2nd tone) in Taiwan: 可惜, 珍惜, 愛惜.",
+  "example": {
+   "zh": "你沒來真的很可惜。",
+   "en": "It's really a pity you didn't come."
+  }
+ },
+ {
+  "trad": "跌倒",
+  "tw": "dié dǎo",
+  "cn": "diē dǎo",
+  "en": "to fall down",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "跌 is dié (2nd tone) in Taiwan: 跌倒, 下跌.",
+  "example": {
+   "zh": "地上很滑，小心不要跌倒。",
+   "en": "The floor is slippery; be careful not to fall."
+  }
+ },
+ {
+  "trad": "突然",
+  "tw": "tú rán",
+  "cn": "tū rán",
+  "en": "suddenly",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "突 is tú (2nd tone) in Taiwan's standard: 突然, 突破, 衝突. tū is also commonly heard.",
+  "example": {
+   "zh": "外面突然下起大雨。",
+   "en": "It suddenly started pouring outside."
+  }
+ },
+ {
+  "trad": "檔案",
+  "tw": "dǎng àn",
+  "cn": "dàng àn",
+  "en": "file",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "檔 is dǎng (3rd tone) in Taiwan: 檔案, 存檔, 高檔, 搭檔.",
+  "example": {
+   "zh": "我把檔案寄給你了。",
+   "en": "I've emailed you the file."
+  }
+ },
+ {
+  "trad": "叔叔",
+  "tw": "shú shu",
+  "cn": "shū shu",
+  "en": "uncle (father's younger brother); polite term for an older man",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "叔 is shú (2nd tone) in Taiwan.",
+  "example": {
+   "zh": "叔叔每年過年都會給我紅包。",
+   "en": "My uncle gives me a red envelope every Lunar New Year."
+  }
+ },
+ {
+  "trad": "建築",
+  "tw": "jiàn zhú",
+  "cn": "jiàn zhù",
+  "en": "building; architecture",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "築 is zhú (2nd tone) in Taiwan: 建築, 建築師.",
+  "example": {
+   "zh": "這棟建築已經有一百年的歷史了。",
+   "en": "This building is already a hundred years old."
+  }
+ },
+ {
+  "trad": "東西",
+  "tw": "dōng xī",
+  "cn": "dōng xi",
+  "en": "thing; stuff",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Everyday Taiwan speech says dōng xī for 'thing' too; MOE dictionaries still mark 'thing' as dōng xi (neutral), like the mainland.",
+  "example": {
+   "zh": "我要去超市買一點東西。",
+   "en": "I'm going to the supermarket to buy a few things."
+  }
+ },
+ {
+  "trad": "朋友",
+  "tw": "péng yǒu",
+  "cn": "péng you",
+  "en": "friend",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 友 (yǒu), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這是我朋友小陳。",
+   "en": "This is my friend Xiao Chen."
+  }
+ },
+ {
+  "trad": "先生",
+  "tw": "xiān shēng",
+  "cn": "xiān sheng",
+  "en": "Mr.; sir; husband",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 生 (shēng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "先生，請問幾位？",
+   "en": "Sir, how many in your party?"
+  }
+ },
+ {
+  "trad": "學生",
+  "tw": "xué shēng",
+  "cn": "xué sheng",
+  "en": "student",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 生 (shēng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我是大學生。",
+   "en": "I'm a college student."
+  }
+ },
+ {
+  "trad": "衣服",
+  "tw": "yī fú",
+  "cn": "yī fu",
+  "en": "clothes",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 服 (fú), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這件衣服有別的顏色嗎？",
+   "en": "Does this piece of clothing come in other colors?"
+  }
+ },
+ {
+  "trad": "漂亮",
+  "tw": "piào liàng",
+  "cn": "piào liang",
+  "en": "pretty; beautiful",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 亮 (liàng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這裡的夜景好漂亮。",
+   "en": "The night view here is so beautiful."
+  }
+ },
+ {
+  "trad": "知道",
+  "tw": "zhī dào",
+  "cn": "zhī dao",
+  "en": "to know",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 道 (dào), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我不知道他的電話號碼。",
+   "en": "I don't know his phone number."
+  }
+ },
+ {
+  "trad": "喜歡",
+  "tw": "xǐ huān",
+  "cn": "xǐ huan",
+  "en": "to like",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 歡 (huān), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我很喜歡臺灣的夜市。",
+   "en": "I really like Taiwan's night markets."
+  }
+ },
+ {
+  "trad": "明白",
+  "tw": "míng bái",
+  "cn": "míng bai",
+  "en": "to understand; clear",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 白 (bái), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我明白你的意思了。",
+   "en": "I understand what you mean now."
+  }
+ },
+ {
+  "trad": "清楚",
+  "tw": "qīng chǔ",
+  "cn": "qīng chu",
+  "en": "clear; clearly",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 楚 (chǔ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "不好意思，我沒聽清楚。",
+   "en": "Sorry, I didn't hear that clearly."
+  }
+ },
+ {
+  "trad": "地方",
+  "tw": "dì fāng",
+  "cn": "dì fang",
+  "en": "place",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 方 (fāng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這個地方我以前來過。",
+   "en": "I've been to this place before."
+  }
+ },
+ {
+  "trad": "時候",
+  "tw": "shí hòu",
+  "cn": "shí hou",
+  "en": "time; moment",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 候 (hòu), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你什麼時候有空？",
+   "en": "When are you free?"
+  }
+ },
+ {
+  "trad": "事情",
+  "tw": "shì qíng",
+  "cn": "shì qing",
+  "en": "matter; thing; affair",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 情 (qíng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我有一件事情想跟你說。",
+   "en": "There's something I want to tell you."
+  }
+ },
+ {
+  "trad": "認識",
+  "tw": "rèn shì",
+  "cn": "rèn shi",
+  "en": "to know (a person); to meet",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "識 is shì (4th tone) in Taiwan and keeps its tone; mainland 认识 ends in a neutral shi.",
+  "example": {
+   "zh": "很高興認識你。",
+   "en": "Nice to meet you."
+  }
+ },
+ {
+  "trad": "告訴",
+  "tw": "gào sù",
+  "cn": "gào su",
+  "en": "to tell",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 訴 (sù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你到了再告訴我。",
+   "en": "Tell me when you get there."
+  }
+ },
+ {
+  "trad": "休息",
+  "tw": "xiū xí",
+  "cn": "xiū xi",
+  "en": "to rest",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "息 is xí (2nd tone) in Taiwan and is not reduced; the mainland says xiū xi.",
+  "example": {
+   "zh": "我們休息十分鐘吧。",
+   "en": "Let's take a ten-minute break."
+  }
+ },
+ {
+  "trad": "消息",
+  "tw": "xiāo xí",
+  "cn": "xiāo xi",
+  "en": "news; word",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Same 息 = xí rule; the mainland says xiāo xi.",
+  "example": {
+   "zh": "我有一個好消息要跟你說。",
+   "en": "I have good news for you."
+  }
+ },
+ {
+  "trad": "麻煩",
+  "tw": "má fán",
+  "cn": "má fan",
+  "en": "trouble; troublesome; to bother",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 煩 (fán), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "麻煩你幫我拿一下。",
+   "en": "Could I trouble you to hold this for me?"
+  }
+ },
+ {
+  "trad": "便宜",
+  "tw": "pián yí",
+  "cn": "pián yi",
+  "en": "cheap",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 宜 (yí), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這家店的水果又新鮮又便宜。",
+   "en": "This shop's fruit is both fresh and cheap."
+  }
+ },
+ {
+  "trad": "聰明",
+  "tw": "cōng míng",
+  "cn": "cōng ming",
+  "en": "smart",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 明 (míng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你們家的小孩好聰明。",
+   "en": "Your kid is so smart."
+  }
+ },
+ {
+  "trad": "舒服",
+  "tw": "shū fú",
+  "cn": "shū fu",
+  "en": "comfortable; feeling well",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 服 (fú), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我今天身體不太舒服。",
+   "en": "I'm not feeling very well today."
+  }
+ },
+ {
+  "trad": "客氣",
+  "tw": "kè qì",
+  "cn": "kè qi",
+  "en": "polite; courteous",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 氣 (qì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "不用這麼客氣啦。",
+   "en": "No need to be so polite."
+  }
+ },
+ {
+  "trad": "厲害",
+  "tw": "lì hài",
+  "cn": "lì hai",
+  "en": "awesome; fierce",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 害 (hài), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你也太厲害了吧！",
+   "en": "You're just too amazing!"
+  }
+ },
+ {
+  "trad": "關係",
+  "tw": "guān xì",
+  "cn": "guān xi",
+  "en": "relationship; relevance",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 係 (xì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這件事跟我沒有關係。",
+   "en": "This has nothing to do with me."
+  }
+ },
+ {
+  "trad": "窗戶",
+  "tw": "chuāng hù",
+  "cn": "chuāng hu",
+  "en": "window",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 戶 (hù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "可以幫我把窗戶打開嗎？",
+   "en": "Could you open the window for me?"
+  }
+ },
+ {
+  "trad": "眼睛",
+  "tw": "yǎn jīng",
+  "cn": "yǎn jing",
+  "en": "eye",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 睛 (jīng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "她的眼睛很大。",
+   "en": "Her eyes are big."
+  }
+ },
+ {
+  "trad": "耳朵",
+  "tw": "ěr duǒ",
+  "cn": "ěr duo",
+  "en": "ear",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 朵 (duǒ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我的耳朵有點痛。",
+   "en": "My ear hurts a little."
+  }
+ },
+ {
+  "trad": "太陽",
+  "tw": "tài yáng",
+  "cn": "tài yang",
+  "en": "the sun",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 陽 (yáng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "今天太陽好大。",
+   "en": "The sun is really strong today."
+  }
+ },
+ {
+  "trad": "月亮",
+  "tw": "yuè liàng",
+  "cn": "yuè liang",
+  "en": "the moon",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 亮 (liàng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "今天晚上的月亮好圓。",
+   "en": "The moon is so round tonight."
+  }
+ },
+ {
+  "trad": "故事",
+  "tw": "gù shì",
+  "cn": "gù shi",
+  "en": "story",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 事 (shì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "睡覺前媽媽會講故事給我聽。",
+   "en": "Mom tells me a story before bed."
+  }
+ },
+ {
+  "trad": "部分",
+  "tw": "bù fèn",
+  "cn": "bù fen",
+  "en": "part; portion",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 分 (fèn), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "大部分的人都同意。",
+   "en": "Most people agree."
+  }
+ },
+ {
+  "trad": "多少",
+  "tw": "duō shǎo",
+  "cn": "duō shao",
+  "en": "how much; how many",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 少 (shǎo), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "一張票多少錢？",
+   "en": "How much is one ticket?"
+  }
+ },
+ {
+  "trad": "早上",
+  "tw": "zǎo shàng",
+  "cn": "zǎo shang",
+  "en": "morning",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 上 (shàng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我明天早上要開會。",
+   "en": "I have a meeting tomorrow morning."
+  }
+ },
+ {
+  "trad": "晚上",
+  "tw": "wǎn shàng",
+  "cn": "wǎn shang",
+  "en": "evening; night",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 上 (shàng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "今天晚上要不要一起去夜市？",
+   "en": "Want to go to the night market together tonight?"
+  }
+ },
+ {
+  "trad": "名字",
+  "tw": "míng zì",
+  "cn": "míng zi",
+  "en": "name",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Everyday Taiwan speech keeps the full tone on 字 (zì); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "請問你叫什麼名字？",
+   "en": "May I ask your name?"
+  }
+ },
+ {
+  "trad": "覺得",
+  "tw": "jué dé",
+  "cn": "jué de",
+  "en": "to think; to feel",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Taiwanese say a full dé in 覺得, 記得, 值得; MOE dictionaries still list the neutral de, like the mainland.",
+  "example": {
+   "zh": "我覺得這部電影很好看。",
+   "en": "I think this movie is really good."
+  }
+ },
+ {
+  "trad": "記得",
+  "tw": "jì dé",
+  "cn": "jì de",
+  "en": "to remember",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Everyday Taiwan speech keeps the full tone on 得 (dé); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "出門記得帶鑰匙。",
+   "en": "Remember to take your keys when you go out."
+  }
+ },
+ {
+  "trad": "小姐",
+  "tw": "xiǎo jiě",
+  "cn": "xiǎo jie",
+  "en": "Miss; young lady",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 姐 (jiě), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "小姐，不好意思，請問洗手間在哪裡？",
+   "en": "Excuse me, Miss, where is the restroom?"
+  }
+ },
+ {
+  "trad": "別人",
+  "tw": "bié rén",
+  "cn": "bié ren",
+  "en": "other people",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 人 (rén), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "不要管別人怎麼說。",
+   "en": "Don't mind what other people say."
+  }
+ },
+ {
+  "trad": "客人",
+  "tw": "kè rén",
+  "cn": "kè ren",
+  "en": "guest; customer",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 人 (rén), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "今天店裡的客人特別多。",
+   "en": "There are especially many customers in the shop today."
+  }
+ },
+ {
+  "trad": "照顧",
+  "tw": "zhào gù",
+  "cn": "zhào gu",
+  "en": "to take care of",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 顧 (gù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "謝謝你這段時間的照顧。",
+   "en": "Thank you for looking after me all this time."
+  }
+ },
+ {
+  "trad": "味道",
+  "tw": "wèi dào",
+  "cn": "wèi dao",
+  "en": "taste; smell",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 道 (dào), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這碗湯的味道很特別。",
+   "en": "This soup has a very distinctive flavor."
+  }
+ },
+ {
+  "trad": "困難",
+  "tw": "kùn nán",
+  "cn": "kùn nan",
+  "en": "difficulty; difficult",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 難 (nán), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "有什麼困難可以跟我說。",
+   "en": "If you have any difficulties, you can tell me."
+  }
+ },
+ {
+  "trad": "態度",
+  "tw": "tài dù",
+  "cn": "tài du",
+  "en": "attitude",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 度 (dù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這家店的服務態度很好。",
+   "en": "The service attitude at this shop is great."
+  }
+ },
+ {
+  "trad": "行李",
+  "tw": "xíng lǐ",
+  "cn": "xíng li",
+  "en": "luggage",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 李 (lǐ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我的行李還沒出來。",
+   "en": "My luggage hasn't come out yet."
+  }
+ },
+ {
+  "trad": "起來",
+  "tw": "qǐ lái",
+  "cn": "qǐ lai",
+  "en": "to get up; (directional complement) up",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Directional complements keep their full tone in Taiwan (起來, 出來, 回去…); the mainland usually reads them light.",
+  "example": {
+   "zh": "快起來，要遲到了！",
+   "en": "Get up quick, we're going to be late!"
+  }
+ },
+ {
+  "trad": "出來",
+  "tw": "chū lái",
+  "cn": "chū lai",
+  "en": "to come out",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Directional 來 keeps its full 2nd tone in Taiwan; usually light in the mainland.",
+  "example": {
+   "zh": "你出來一下，我有話跟你說。",
+   "en": "Come out for a second; I have something to tell you."
+  }
+ },
+ {
+  "trad": "回來",
+  "tw": "huí lái",
+  "cn": "huí lai",
+  "en": "to come back",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Directional 來 keeps its full 2nd tone in Taiwan; usually light in the mainland.",
+  "example": {
+   "zh": "你幾點回來？",
+   "en": "What time are you coming back?"
+  }
+ },
+ {
+  "trad": "回去",
+  "tw": "huí qù",
+  "cn": "huí qu",
+  "en": "to go back",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Directional 去 keeps its full 4th tone in Taiwan; usually light in the mainland.",
+  "example": {
+   "zh": "時間不早了，我該回去了。",
+   "en": "It's getting late; I should head back."
+  }
+ },
+ {
+  "trad": "出去",
+  "tw": "chū qù",
+  "cn": "chū qu",
+  "en": "to go out",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Directional 去 keeps its full 4th tone in Taiwan; usually light in the mainland.",
+  "example": {
+   "zh": "我出去買個飲料，馬上回來。",
+   "en": "I'm going out to buy a drink; I'll be right back."
+  }
+ },
+ {
+  "trad": "進來",
+  "tw": "jìn lái",
+  "cn": "jìn lai",
+  "en": "to come in",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Directional 來 keeps its full 2nd tone in Taiwan; usually light in the mainland.",
+  "example": {
+   "zh": "外面很冷，快進來。",
+   "en": "It's cold outside; come in quickly."
+  }
+ },
+ {
+  "trad": "對不起",
+  "tw": "duì bù qǐ",
+  "cn": "duì bu qǐ",
+  "en": "sorry",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "The middle 不 keeps its 4th tone in Taiwan; the mainland reads it neutral (also in 來不及, 了不起).",
+  "example": {
+   "zh": "對不起，我遲到了。",
+   "en": "Sorry I'm late."
+  }
+ },
+ {
+  "trad": "沒關係",
+  "tw": "méi guān xì",
+  "cn": "méi guān xi",
+  "en": "it's okay; never mind",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 係 (xì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "沒關係，下次再約。",
+   "en": "It's okay, let's make it another time."
+  }
+ },
+ {
+  "trad": "精神",
+  "tw": "jīng shén",
+  "cn": "jīng shen",
+  "en": "spirit; energy",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 神 (shén), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你今天看起來很有精神。",
+   "en": "You look full of energy today."
+  }
+ },
+ {
+  "trad": "打算",
+  "tw": "dǎ suàn",
+  "cn": "dǎ suan",
+  "en": "to plan; plan",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 算 (suàn), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你暑假打算去哪裡玩？",
+   "en": "Where do you plan to go this summer vacation?"
+  }
+ },
+ {
+  "trad": "知識",
+  "tw": "zhī shì",
+  "cn": "zhī shi",
+  "en": "knowledge",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "識 is shì (4th tone) in Taiwan and keeps its tone; mainland 知识 ends in a neutral shi.",
+  "example": {
+   "zh": "多看書可以增加知識。",
+   "en": "Reading more books increases your knowledge."
+  }
+ },
+ {
+  "trad": "熱鬧",
+  "tw": "rè nào",
+  "cn": "rè nao",
+  "en": "lively; bustling",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 鬧 (nào), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "過年的時候這裡很熱鬧。",
+   "en": "It's very lively here at Lunar New Year."
+  }
+ },
+ {
+  "trad": "生意",
+  "tw": "shēng yì",
+  "cn": "shēng yi",
+  "en": "business",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "For 'business', everyday Taiwan speech keeps a full yì; MOE dictionaries list shēng yi (neutral), like the mainland.",
+  "example": {
+   "zh": "這家早餐店的生意很好。",
+   "en": "This breakfast shop does very good business."
+  }
+ },
+ {
+  "trad": "豆腐",
+  "tw": "dòu fǔ",
+  "cn": "dòu fu",
+  "en": "tofu",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 腐 (fǔ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我想點一份臭豆腐。",
+   "en": "I'd like to order a serving of stinky tofu."
+  }
+ },
+ {
+  "trad": "咳嗽",
+  "tw": "ké sòu",
+  "cn": "ké sou",
+  "en": "to cough",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 嗽 (sòu), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他感冒了，一直咳嗽。",
+   "en": "He has a cold and keeps coughing."
+  }
+ },
+ {
+  "trad": "答應",
+  "tw": "dā yìng",
+  "cn": "dā ying",
+  "en": "to promise; to agree",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 應 (yìng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他答應明天陪我去。",
+   "en": "He promised to go with me tomorrow."
+  }
+ },
+ {
+  "trad": "老婆",
+  "tw": "lǎo pó",
+  "cn": "lǎo po",
+  "en": "wife (informal)",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan keeps the full tone on 婆 (pó), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我老婆是高雄人。",
+   "en": "My wife is from Kaohsiung."
+  }
+ },
+ {
+  "trad": "意思",
+  "tw": "yì sī",
+  "cn": "yì si",
+  "en": "meaning; idea",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 1,
+  "note": "MOE's Concised dictionary gives a full sī for 'meaning'. A light si is still common in set phrases such as 不好意思.",
+  "example": {
+   "zh": "這個字是什麼意思？",
+   "en": "What does this character mean?"
+  }
+ },
+ {
+  "trad": "一點",
+  "tw": "yī diǎn",
+  "cn": "yī diǎnr",
+  "cn_word": "一点儿",
+  "en": "a little; a bit",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan drops the 兒 ending: 一點, 有點, 快點, 差點.",
+  "example": {
+   "zh": "可以便宜一點嗎？",
+   "en": "Can it be a little cheaper?"
+  }
+ },
+ {
+  "trad": "有點",
+  "tw": "yǒu diǎn",
+  "cn": "yǒu diǎnr",
+  "cn_word": "有点儿",
+  "en": "a bit; somewhat",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "我今天有點累。",
+   "en": "I'm a bit tired today."
+  }
+ },
+ {
+  "trad": "快點",
+  "tw": "kuài diǎn",
+  "cn": "kuài diǎnr",
+  "cn_word": "快点儿",
+  "en": "hurry up; quicker",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "快點，我們要遲到了！",
+   "en": "Hurry up, we're going to be late!"
+  }
+ },
+ {
+  "trad": "這裡",
+  "tw": "zhè lǐ",
+  "cn": "zhèr",
+  "cn_word": "这儿",
+  "en": "here",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan says 這裡 or 這邊, not 這兒; 裡 keeps its full 3rd tone.",
+  "example": {
+   "zh": "這裡可以刷卡嗎？",
+   "en": "Can I pay by card here?"
+  }
+ },
+ {
+  "trad": "那裡",
+  "tw": "nà lǐ",
+  "cn": "nàr",
+  "cn_word": "那儿",
+  "en": "there",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan says 那裡 or 那邊 instead of 那兒.",
+  "example": {
+   "zh": "那裡的風景很漂亮。",
+   "en": "The scenery there is beautiful."
+  }
+ },
+ {
+  "trad": "哪裡",
+  "tw": "nǎ lǐ",
+  "cn": "nǎr",
+  "cn_word": "哪儿",
+  "en": "where",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan says 哪裡 instead of 哪兒.",
+  "example": {
+   "zh": "請問捷運站在哪裡？",
+   "en": "Excuse me, where is the MRT station?"
+  }
+ },
+ {
+  "trad": "玩",
+  "tw": "wán",
+  "cn": "wánr",
+  "cn_word": "玩儿",
+  "en": "to play; to have fun",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Plain wán, no 兒.",
+  "example": {
+   "zh": "週末要不要一起出去玩？",
+   "en": "Want to go out and have fun together this weekend?"
+  }
+ },
+ {
+  "trad": "好玩",
+  "tw": "hǎo wán",
+  "cn": "hǎo wánr",
+  "cn_word": "好玩儿",
+  "en": "fun",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "墾丁很好玩。",
+   "en": "Kenting is a lot of fun."
+  }
+ },
+ {
+  "trad": "一下",
+  "tw": "yī xià",
+  "cn": "yī huìr",
+  "cn_word": "一会儿",
+  "en": "a moment; a bit",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Where the mainland says 一会儿, Taiwan usually says 一下 (等一下, 休息一下).",
+  "example": {
+   "zh": "請等一下，我馬上來。",
+   "en": "Please wait a moment, I'll be right there."
+  }
+ },
+ {
+  "trad": "待會",
+  "tw": "dāi huǐ",
+  "cn": "dāi huìr",
+  "cn_word": "待会儿",
+  "en": "in a little while; later",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan says 待會 or 待會兒 with 3rd-tone huǐ (one of the few 兒 words still heard); the mainland standard is dāi huìr.",
+  "example": {
+   "zh": "我們待會見。",
+   "en": "See you in a bit."
+  }
+ },
+ {
+  "trad": "事",
+  "tw": "shì",
+  "cn": "shìr",
+  "cn_word": "事儿",
+  "en": "matter; thing; business",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "你找我有什麼事？",
+   "en": "What did you want to see me about?"
+  }
+ },
+ {
+  "trad": "沒事",
+  "tw": "méi shì",
+  "cn": "méi shìr",
+  "cn_word": "没事儿",
+  "en": "it's nothing; I'm fine",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "沒事，你不用擔心。",
+   "en": "It's nothing, don't worry."
+  }
+ },
+ {
+  "trad": "小孩",
+  "tw": "xiǎo hái",
+  "cn": "xiǎo háir",
+  "cn_word": "小孩儿",
+  "en": "child; kid",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan; also 小朋友.",
+  "example": {
+   "zh": "他們家有兩個小孩。",
+   "en": "They have two kids."
+  }
+ },
+ {
+  "trad": "女孩",
+  "tw": "nǚ hái",
+  "cn": "nǚ háir",
+  "cn_word": "女孩儿",
+  "en": "girl",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan; everyday speech often says 女生.",
+  "example": {
+   "zh": "那個女孩是我同學。",
+   "en": "That girl is my classmate."
+  }
+ },
+ {
+  "trad": "聊天",
+  "tw": "liáo tiān",
+  "cn": "liáo tiānr",
+  "cn_word": "聊天儿",
+  "en": "to chat",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "我們邊喝咖啡邊聊天。",
+   "en": "We chatted over coffee."
+  }
+ },
+ {
+  "trad": "花",
+  "tw": "huā",
+  "cn": "huār",
+  "cn_word": "花儿",
+  "en": "flower",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "陽臺上的花都開了。",
+   "en": "The flowers on the balcony have all bloomed."
+  }
+ },
+ {
+  "trad": "一起",
+  "tw": "yī qǐ",
+  "cn": "yī kuàir",
+  "cn_word": "一块儿",
+  "en": "together",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Northern 一块儿 is simply 一起 in Taiwan.",
+  "example": {
+   "zh": "明天我們一起去爬山吧。",
+   "en": "Let's go hiking together tomorrow."
+  }
+ },
+ {
+  "trad": "慢慢",
+  "tw": "màn màn",
+  "cn": "màn mānr",
+  "cn_word": "慢慢儿",
+  "en": "slowly; take your time",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Mainland 慢慢儿 shifts the 2nd syllable to 1st tone plus -r; Taiwan keeps màn màn.",
+  "example": {
+   "zh": "不急，你慢慢來。",
+   "en": "No rush, take your time."
+  }
+ },
+ {
+  "trad": "好好",
+  "tw": "hǎo hǎo",
+  "cn": "hǎo hāor",
+  "cn_word": "好好儿",
+  "en": "properly; nicely",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "Mainland 好好儿 is hǎo hāor; Taiwan keeps two 3rd tones (said háo hǎo by tone sandhi).",
+  "example": {
+   "zh": "回家要好好休息。",
+   "en": "Get a good rest when you get home."
+  }
+ },
+ {
+  "trad": "旁邊",
+  "tw": "páng biān",
+  "cn": "páng biānr",
+  "cn_word": "旁边儿",
+  "en": "beside; next to",
+  "group": "erhua",
+  "status": "standard",
+  "common": 1,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "超商就在銀行旁邊。",
+   "en": "The convenience store is right next to the bank."
+  }
+ },
+ {
+  "trad": "和",
+  "tw": "hàn",
+  "cn": "hé",
+  "en": "and (spoken)",
+  "group": "colloquial",
+  "status": "standard",
+  "common": 1,
+  "note": "MOE lists hàn as the spoken reading of 和 meaning 'and'. Common among older speakers and on TV; younger people mostly say hé or use 跟.",
+  "example": {
+   "zh": "我和你一起去。",
+   "en": "I'll go with you."
+  }
+ },
+ {
+  "trad": "誰",
+  "tw": "shéi",
+  "cn": "shuí",
+  "en": "who",
+  "group": "colloquial",
+  "status": "standard",
+  "common": 1,
+  "note": "Taiwan practically always says shéi (MOE's main reading). Mainland dictionaries list shéi too, but shuí is common in textbooks and songs.",
+  "example": {
+   "zh": "請問你找誰？",
+   "en": "Who are you looking for?"
+  }
+ },
+ {
+  "trad": "這",
+  "tw": "zhèi",
+  "cn": "zhè",
+  "en": "this",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "zhèi (這 + 一) before measure words is casual and optional, heard on both sides of the strait. zhè is always safe.",
+  "example": {
+   "zh": "這個多少錢？",
+   "en": "How much is this one?"
+  }
+ },
+ {
+  "trad": "那",
+  "tw": "nèi",
+  "cn": "nà",
+  "en": "that",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "nèi (那 + 一) before measure words is a casual variant on both sides of the strait; nà is always fine.",
+  "example": {
+   "zh": "那個人是誰？",
+   "en": "Who is that person?"
+  }
+ },
+ {
+  "trad": "比較",
+  "tw": "bǐ jiǎo",
+  "cn": "bǐ jiào",
+  "en": "comparatively; rather",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Dictionaries on both sides say jiào, but jiǎo (3rd tone) is extremely common in casual Taiwan speech.",
+  "example": {
+   "zh": "我比較喜歡喝茶。",
+   "en": "I prefer drinking tea."
+  }
+ },
+ {
+  "trad": "爸爸",
+  "tw": "bǎ bá",
+  "cn": "bà ba",
+  "en": "dad",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Casual, affectionate Taiwan pattern: 3rd + 2nd tone (hence the cute spelling 把拔). The formal reading is still bà ba.",
+  "example": {
+   "zh": "我爸爸很會煮菜。",
+   "en": "My dad is a great cook."
+  }
+ },
+ {
+  "trad": "媽媽",
+  "tw": "mǎ má",
+  "cn": "mā ma",
+  "en": "mom",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Same casual 3rd + 2nd tone pattern (cute spelling 馬麻); the formal reading is mā ma.",
+  "example": {
+   "zh": "媽媽叫我早點回家。",
+   "en": "Mom told me to come home early."
+  }
+ },
+ {
+  "trad": "哥哥",
+  "tw": "gě gé",
+  "cn": "gē ge",
+  "en": "older brother",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Same casual 3rd + 2nd tone pattern (cute spelling 葛格); the formal reading is gē ge.",
+  "example": {
+   "zh": "我哥哥在臺中工作。",
+   "en": "My older brother works in Taichung."
+  }
+ },
+ {
+  "trad": "弟弟",
+  "tw": "dǐ dí",
+  "cn": "dì di",
+  "en": "younger brother",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Same casual 3rd + 2nd tone pattern (cute spelling 底迪); the formal reading is dì di.",
+  "example": {
+   "zh": "我弟弟還在讀高中。",
+   "en": "My younger brother is still in high school."
+  }
+ },
+ {
+  "trad": "妹妹",
+  "tw": "měi méi",
+  "cn": "mèi mei",
+  "en": "younger sister",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 1,
+  "note": "Same casual 3rd + 2nd tone pattern (cute spelling 美眉); the formal reading is mèi mei.",
+  "example": {
+   "zh": "我妹妹比我小三歲。",
+   "en": "My younger sister is three years younger than me."
+  }
+ },
+ {
+  "trad": "成熟",
+  "tw": "chéng shóu",
+  "cn": "chéng shú",
+  "en": "mature; ripe",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 熟 = shóu rule.",
+  "example": {
+   "zh": "他的想法比同年齡的人成熟。",
+   "en": "His thinking is more mature than others his age."
+  }
+ },
+ {
+  "trad": "流血",
+  "tw": "liú xiě",
+  "cn": "liú xuè",
+  "en": "to bleed",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 血 = xiě rule.",
+  "example": {
+   "zh": "你的膝蓋在流血！",
+   "en": "Your knee is bleeding!"
+  }
+ },
+ {
+  "trad": "血型",
+  "tw": "xiě xíng",
+  "cn": "xuè xíng",
+  "en": "blood type",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 血 = xiě rule. Asking someone's blood type is common small talk in Taiwan.",
+  "example": {
+   "zh": "你是什麼血型？",
+   "en": "What's your blood type?"
+  }
+ },
+ {
+  "trad": "血壓",
+  "tw": "xiě yā",
+  "cn": "xuè yā",
+  "en": "blood pressure",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 血 = xiě rule.",
+  "example": {
+   "zh": "阿公每天早上都會量血壓。",
+   "en": "Grandpa takes his blood pressure every morning."
+  }
+ },
+ {
+  "trad": "血液",
+  "tw": "xiě yè",
+  "cn": "xuè yè",
+  "en": "blood",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "血 is xiě in Taiwan, so MOE gives xiě yè. Older speakers also say xiě yì (see 液體).",
+  "example": {
+   "zh": "多運動可以促進血液循環。",
+   "en": "Exercising more improves blood circulation."
+  }
+ },
+ {
+  "trad": "液體",
+  "tw": "yì tǐ",
+  "cn": "yè tǐ",
+  "en": "liquid",
+  "group": "different-syllable",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "The older reading yì (液體, 血液) is still heard, mostly from older speakers; MOE's current standard is yè tǐ, same as the mainland.",
+  "example": {
+   "zh": "超過一百毫升的液體不能帶上飛機。",
+   "en": "Liquids over 100 ml can't be taken on the plane."
+  }
+ },
+ {
+  "trad": "主角",
+  "tw": "zhǔ jiǎo",
+  "cn": "zhǔ jué",
+  "en": "lead role; protagonist",
+  "group": "different-syllable",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Same as 角色: dictionaries put jué first (MOE's Concised lists jiǎo second); everyday Taiwan speech says jiǎo.",
+  "example": {
+   "zh": "這部電影的主角是誰？",
+   "en": "Who's the lead in this movie?"
+  }
+ },
+ {
+  "trad": "暴露",
+  "tw": "pù lù",
+  "cn": "bào lù",
+  "en": "to expose; revealing",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 2,
+  "note": "MOE gives pù lù and news anchors use it, but most people say bào lù in daily speech.",
+  "example": {
+   "zh": "穿這樣會不會太暴露？",
+   "en": "Isn't this outfit a bit too revealing?"
+  }
+ },
+ {
+  "trad": "曝光",
+  "tw": "pù guāng",
+  "cn": "bào guāng",
+  "en": "exposure; to come to light",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Everyone in Taiwan says pù guāng; the mainland standard is bào guāng.",
+  "example": {
+   "zh": "這件事在網路上曝光了。",
+   "en": "This matter got exposed online."
+  }
+ },
+ {
+  "trad": "蝸牛",
+  "tw": "guā niú",
+  "cn": "wō niú",
+  "en": "snail",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 2,
+  "note": "Schools teach the MOE reading guā niú, yet many Taiwanese say wō niú in daily life. Both are understood.",
+  "example": {
+   "zh": "下過雨以後，路上有很多蝸牛。",
+   "en": "After it rains there are lots of snails on the road."
+  }
+ },
+ {
+  "trad": "攜帶",
+  "tw": "xī dài",
+  "cn": "xié dài",
+  "en": "to carry; to bring along",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "攜 is xī in Taiwan (mainland xié): 攜帶, 攜手, 攜帶式.",
+  "example": {
+   "zh": "請隨身攜帶健保卡。",
+   "en": "Please carry your health insurance card with you."
+  }
+ },
+ {
+  "trad": "癌症",
+  "tw": "yán zhèng",
+  "cn": "ái zhèng",
+  "en": "cancer",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 2,
+  "note": "癌 was officially yán (still in MOE's Revised dictionary); the newer Concised dictionary and everyone in real life say ái zhèng.",
+  "example": {
+   "zh": "早期發現的癌症比較容易治療。",
+   "en": "Cancer that is caught early is easier to treat."
+  }
+ },
+ {
+  "trad": "說服",
+  "tw": "shuì fú",
+  "cn": "shuō fú",
+  "en": "to persuade",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "MOE reading is shuì fú and it is widely used in Taiwan; shuō fú is also heard.",
+  "example": {
+   "zh": "我怎麼說都說服不了他。",
+   "en": "No matter what I say, I can't persuade him."
+  }
+ },
+ {
+  "trad": "卡住",
+  "tw": "kǎ zhù",
+  "cn": "qiǎ zhù",
+  "en": "to get stuck",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "卡 is always kǎ in Taiwan (also 關卡 guān kǎ). The mainland standard has qiǎ here, though many mainlanders say kǎ too.",
+  "example": {
+   "zh": "拉鍊卡住了，拉不上來。",
+   "en": "The zipper is stuck; I can't pull it up."
+  }
+ },
+ {
+  "trad": "大廈",
+  "tw": "dà xià",
+  "cn": "dà shà",
+  "en": "large building; tower block",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "廈 is xià in every word in Taiwan; the mainland says shà except in 厦门.",
+  "example": {
+   "zh": "他住在車站旁邊的那棟大廈。",
+   "en": "He lives in that tower block next to the station."
+  }
+ },
+ {
+  "trad": "薄",
+  "tw": "bó",
+  "cn": "báo",
+  "en": "thin",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "MOE's Concised dictionary gives only bó (plus bò in 薄荷); báo, the mainland's everyday reading, is also heard in Taiwan.",
+  "example": {
+   "zh": "這件外套太薄了，會冷。",
+   "en": "This jacket is too thin; you'll be cold."
+  }
+ },
+ {
+  "trad": "步驟",
+  "tw": "bù zòu",
+  "cn": "bù zhòu",
+  "en": "step; procedure",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "驟 is zòu in Taiwan (mainland zhòu).",
+  "example": {
+   "zh": "請照著說明書的步驟做。",
+   "en": "Please follow the steps in the manual."
+  }
+ },
+ {
+  "trad": "暫停",
+  "tw": "zhàn tíng",
+  "cn": "zàn tíng",
+  "en": "to pause; to suspend",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 暫 = zhàn rule.",
+  "example": {
+   "zh": "比賽因為下雨暫停。",
+   "en": "The game was suspended because of rain."
+  }
+ },
+ {
+  "trad": "短暫",
+  "tw": "duǎn zhàn",
+  "cn": "duǎn zàn",
+  "en": "brief; short-lived",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 暫 = zhàn rule.",
+  "example": {
+   "zh": "我們只有短暫地聊了一下。",
+   "en": "We only chatted briefly."
+  }
+ },
+ {
+  "trad": "似的",
+  "tw": "sì de",
+  "cn": "shì de",
+  "en": "as if; like",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan says sì de; the mainland standard is shì de.",
+  "example": {
+   "zh": "他好像什麼都不知道似的。",
+   "en": "He acts as if he doesn't know anything."
+  }
+ },
+ {
+  "trad": "咖哩",
+  "tw": "kā lǐ",
+  "cn": "gā lí",
+  "en": "curry",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan says kā lǐ (the MOE reading); the mainland writes 咖喱 and says gā lí.",
+  "example": {
+   "zh": "今天的午餐是咖哩飯。",
+   "en": "Today's lunch is curry rice."
+  }
+ },
+ {
+  "trad": "假期",
+  "tw": "jià qí",
+  "cn": "jià qī",
+  "en": "holiday; vacation",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "這次假期你有什麼計畫？",
+   "en": "What are your plans for this holiday?"
+  }
+ },
+ {
+  "trad": "長期",
+  "tw": "cháng qí",
+  "cn": "cháng qī",
+  "en": "long-term",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "長期熬夜對身體不好。",
+   "en": "Staying up late over the long term is bad for your health."
+  }
+ },
+ {
+  "trad": "定期",
+  "tw": "dìng qí",
+  "cn": "dìng qī",
+  "en": "regular; periodic",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "我每半年定期去看牙醫。",
+   "en": "I see the dentist regularly every six months."
+  }
+ },
+ {
+  "trad": "時期",
+  "tw": "shí qí",
+  "cn": "shí qī",
+  "en": "period; era",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "這棟房子是日治時期蓋的。",
+   "en": "This house was built during the Japanese colonial period."
+  }
+ },
+ {
+  "trad": "期間",
+  "tw": "qí jiān",
+  "cn": "qī jiān",
+  "en": "period; duration",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "過年期間很多店都沒開。",
+   "en": "Many shops are closed during the Lunar New Year period."
+  }
+ },
+ {
+  "trad": "過期",
+  "tw": "guò qí",
+  "cn": "guò qī",
+  "en": "to expire; out of date",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 期 = qí rule.",
+  "example": {
+   "zh": "這瓶牛奶已經過期了。",
+   "en": "This bottle of milk has already expired."
+  }
+ },
+ {
+  "trad": "危機",
+  "tw": "wéi jī",
+  "cn": "wēi jī",
+  "en": "crisis",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 危 = wéi rule.",
+  "example": {
+   "zh": "公司正面臨財務危機。",
+   "en": "The company is facing a financial crisis."
+  }
+ },
+ {
+  "trad": "危害",
+  "tw": "wéi hài",
+  "cn": "wēi hài",
+  "en": "to harm; to endanger",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 危 = wéi rule.",
+  "example": {
+   "zh": "抽菸會危害健康。",
+   "en": "Smoking harms your health."
+  }
+ },
+ {
+  "trad": "微波爐",
+  "tw": "wéi bō lú",
+  "cn": "wēi bō lú",
+  "en": "microwave oven",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 微 = wéi rule. Store clerks ask 要微波嗎？ (Want it microwaved?)",
+  "example": {
+   "zh": "便當要用微波爐加熱嗎？",
+   "en": "Do you want the bento heated in the microwave?"
+  }
+ },
+ {
+  "trad": "企劃",
+  "tw": "qì huà",
+  "cn": "qǐ huà",
+  "en": "planning; project plan",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 企 = qì rule (the mainland writes 企划).",
+  "example": {
+   "zh": "這個企劃案明天要交。",
+   "en": "This project proposal is due tomorrow."
+  }
+ },
+ {
+  "trad": "企鵝",
+  "tw": "qì é",
+  "cn": "qǐ é",
+  "en": "penguin",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 企 = qì rule.",
+  "example": {
+   "zh": "動物園的企鵝好可愛。",
+   "en": "The penguins at the zoo are so cute."
+  }
+ },
+ {
+  "trad": "法文",
+  "tw": "fà wén",
+  "cn": "fǎ wén",
+  "en": "French (language)",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Same habit: fà when 法 means France. MOE now lists fǎ wén.",
+  "example": {
+   "zh": "她大學讀的是法文系。",
+   "en": "She majored in French in college."
+  }
+ },
+ {
+  "trad": "俄羅斯",
+  "tw": "è luó sī",
+  "cn": "é luó sī",
+  "en": "Russia",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Most Taiwanese say è, the older standard (俄羅斯, 俄國, 俄文). Current MOE dictionaries list é, same as the mainland.",
+  "example": {
+   "zh": "俄羅斯的冬天非常冷。",
+   "en": "Winters in Russia are extremely cold."
+  }
+ },
+ {
+  "trad": "東南亞",
+  "tw": "dōng nán yǎ",
+  "cn": "dōng nán yà",
+  "en": "Southeast Asia",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Same 亞 = yǎ habit in everyday Taiwan speech (MOE main reading yà).",
+  "example": {
+   "zh": "很多人喜歡去東南亞度假。",
+   "en": "Lots of people like to vacation in Southeast Asia."
+  }
+ },
+ {
+  "trad": "研究所",
+  "tw": "yán jiù suǒ",
+  "cn": "yán jiū suǒ",
+  "en": "graduate school",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 究 = jiù rule. In Taiwan 研究所 is the everyday word for grad school.",
+  "example": {
+   "zh": "我打算明年考研究所。",
+   "en": "I plan to take the grad school entrance exam next year."
+  }
+ },
+ {
+  "trad": "究竟",
+  "tw": "jiù jìng",
+  "cn": "jiū jìng",
+  "en": "exactly; after all",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 究 = jiù rule.",
+  "example": {
+   "zh": "你究竟想說什麼？",
+   "en": "What exactly are you trying to say?"
+  }
+ },
+ {
+  "trad": "髮型",
+  "tw": "fǎ xíng",
+  "cn": "fà xíng",
+  "en": "hairstyle",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 髮 = fǎ rule.",
+  "example": {
+   "zh": "你換髮型了！很好看。",
+   "en": "You changed your hairstyle! It looks great."
+  }
+ },
+ {
+  "trad": "洗髮精",
+  "tw": "xǐ fǎ jīng",
+  "cn": "xǐ fà jīng",
+  "en": "shampoo",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan's word for shampoo (mainland 洗发水); 髮 is fǎ.",
+  "example": {
+   "zh": "洗髮精快用完了。",
+   "en": "We're almost out of shampoo."
+  }
+ },
+ {
+  "trad": "性質",
+  "tw": "xìng zhí",
+  "cn": "xìng zhì",
+  "en": "nature; character (of a thing)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 質 = zhí rule.",
+  "example": {
+   "zh": "這兩份工作的性質不太一樣。",
+   "en": "The nature of these two jobs is rather different."
+  }
+ },
+ {
+  "trad": "氣質",
+  "tw": "qì zhí",
+  "cn": "qì zhì",
+  "en": "poise; refined air",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 質 = zhí rule. 很有氣質 is a common compliment.",
+  "example": {
+   "zh": "她看起來很有氣質。",
+   "en": "She looks very elegant."
+  }
+ },
+ {
+  "trad": "物質",
+  "tw": "wù zhí",
+  "cn": "wù zhì",
+  "en": "matter; material things",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 質 = zhí rule.",
+  "example": {
+   "zh": "他不太在意物質生活。",
+   "en": "He doesn't care much about material comforts."
+  }
+ },
+ {
+  "trad": "素質",
+  "tw": "sù zhí",
+  "cn": "sù zhì",
+  "en": "quality; caliber (of people)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 質 = zhí rule.",
+  "example": {
+   "zh": "這所學校的學生素質很高。",
+   "en": "The students at this school are of high caliber."
+  }
+ },
+ {
+  "trad": "質感",
+  "tw": "zhí gǎn",
+  "cn": "zhì gǎn",
+  "en": "texture; quality feel",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 質 = zhí rule. 有質感 (classy, well made) is very common in Taiwan.",
+  "example": {
+   "zh": "這個包包很有質感。",
+   "en": "This bag feels really well made."
+  }
+ },
+ {
+  "trad": "蛋白質",
+  "tw": "dàn bái zhí",
+  "cn": "dàn bái zhì",
+  "en": "protein",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 質 = zhí rule.",
+  "example": {
+   "zh": "運動完要多補充蛋白質。",
+   "en": "You should get more protein after working out."
+  }
+ },
+ {
+  "trad": "擁抱",
+  "tw": "yǒng bào",
+  "cn": "yōng bào",
+  "en": "to hug; embrace",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 擁 = yǒng rule.",
+  "example": {
+   "zh": "他們見面時互相擁抱。",
+   "en": "They hugged each other when they met."
+  }
+ },
+ {
+  "trad": "擁擠",
+  "tw": "yǒng jǐ",
+  "cn": "yōng jǐ",
+  "en": "crowded",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 擁 = yǒng rule.",
+  "example": {
+   "zh": "上下班時間捷運很擁擠。",
+   "en": "The MRT is very crowded at rush hour."
+  }
+ },
+ {
+  "trad": "攻擊",
+  "tw": "gōng jí",
+  "cn": "gōng jī",
+  "en": "to attack",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "擊 is jí (2nd tone) in Taiwan: 攻擊, 打擊, 襲擊, 射擊.",
+  "example": {
+   "zh": "這種狗不會主動攻擊人。",
+   "en": "This kind of dog won't attack people unprovoked."
+  }
+ },
+ {
+  "trad": "打擊",
+  "tw": "dǎ jí",
+  "cn": "dǎ jī",
+  "en": "blow; setback; to strike",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 擊 = jí rule.",
+  "example": {
+   "zh": "這次失敗對他打擊很大。",
+   "en": "This failure was a big blow to him."
+  }
+ },
+ {
+  "trad": "衝擊",
+  "tw": "chōng jí",
+  "cn": "chōng jī",
+  "en": "impact; shock",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 擊 = jí rule.",
+  "example": {
+   "zh": "疫情對觀光業造成很大的衝擊。",
+   "en": "The pandemic had a huge impact on tourism."
+  }
+ },
+ {
+  "trad": "業績",
+  "tw": "yè jī",
+  "cn": "yè jì",
+  "en": "sales performance",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 績 = jī rule.",
+  "example": {
+   "zh": "他這個月的業績是全公司第一。",
+   "en": "His sales this month are the best in the whole company."
+  }
+ },
+ {
+  "trad": "古蹟",
+  "tw": "gǔ jī",
+  "cn": "gǔ jì",
+  "en": "historic site",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "蹟/跡 is jī in Taiwan (mainland 迹 jì): 古蹟, 奇蹟, 痕跡.",
+  "example": {
+   "zh": "臺南有很多古蹟。",
+   "en": "Tainan has many historic sites."
+  }
+ },
+ {
+  "trad": "奇蹟",
+  "tw": "qí jī",
+  "cn": "qí jì",
+  "en": "miracle",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 蹟 = jī rule.",
+  "example": {
+   "zh": "他能活下來真是奇蹟。",
+   "en": "It's truly a miracle that he survived."
+  }
+ },
+ {
+  "trad": "痕跡",
+  "tw": "hén jī",
+  "cn": "hén jì",
+  "en": "trace; mark",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 跡 = jī rule.",
+  "example": {
+   "zh": "桌上留下了杯子的痕跡。",
+   "en": "The cup left a mark on the table."
+  }
+ },
+ {
+  "trad": "綜合",
+  "tw": "zòng hé",
+  "cn": "zōng hé",
+  "en": "comprehensive; assorted; to combine",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "綜 is zòng (4th tone) in Taiwan: 綜合, 綜藝.",
+  "example": {
+   "zh": "我要一杯綜合果汁。",
+   "en": "I'd like a mixed fruit juice."
+  }
+ },
+ {
+  "trad": "綜藝",
+  "tw": "zòng yì",
+  "cn": "zōng yì",
+  "en": "variety (show)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 綜 = zòng rule.",
+  "example": {
+   "zh": "我爸很愛看綜藝節目。",
+   "en": "My dad loves watching variety shows."
+  }
+ },
+ {
+  "trad": "寂寞",
+  "tw": "jí mò",
+  "cn": "jì mò",
+  "en": "lonely",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "寂 is jí (2nd tone) in Taiwan: 寂寞, 寂靜.",
+  "example": {
+   "zh": "一個人住有時候會覺得寂寞。",
+   "en": "Living alone, you sometimes feel lonely."
+  }
+ },
+ {
+  "trad": "夕陽",
+  "tw": "xì yáng",
+  "cn": "xī yáng",
+  "en": "setting sun; sunset",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "夕 is xì (4th tone) in Taiwan: 夕陽, 除夕, 七夕.",
+  "example": {
+   "zh": "淡水的夕陽很有名。",
+   "en": "The sunsets in Tamsui are famous."
+  }
+ },
+ {
+  "trad": "除夕",
+  "tw": "chú xì",
+  "cn": "chú xī",
+  "en": "Lunar New Year's Eve",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 夕 = xì rule.",
+  "example": {
+   "zh": "除夕全家人會一起圍爐。",
+   "en": "On New Year's Eve the whole family gathers for the reunion dinner."
+  }
+ },
+ {
+  "trad": "利息",
+  "tw": "lì xí",
+  "cn": "lì xī",
+  "en": "interest (on money)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "息 is xí (2nd tone) in Taiwan: 利息, 訊息, 作息, 休息, 消息.",
+  "example": {
+   "zh": "這家銀行的利息比較高。",
+   "en": "This bank's interest is higher."
+  }
+ },
+ {
+  "trad": "作息",
+  "tw": "zuò xí",
+  "cn": "zuò xī",
+  "en": "daily routine (work and rest)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 息 = xí rule.",
+  "example": {
+   "zh": "他的生活作息很正常。",
+   "en": "He keeps a very regular daily routine."
+  }
+ },
+ {
+  "trad": "珍惜",
+  "tw": "zhēn xí",
+  "cn": "zhēn xī",
+  "en": "to cherish",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 惜 = xí rule.",
+  "example": {
+   "zh": "要好好珍惜身邊的人。",
+   "en": "Cherish the people around you."
+  }
+ },
+ {
+  "trad": "下跌",
+  "tw": "xià dié",
+  "cn": "xià diē",
+  "en": "to drop; to fall (prices)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 跌 = dié rule.",
+  "example": {
+   "zh": "今天股市下跌了兩百點。",
+   "en": "The stock market fell two hundred points today."
+  }
+ },
+ {
+  "trad": "突破",
+  "tw": "tú pò",
+  "cn": "tū pò",
+  "en": "breakthrough; to break through",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 突 = tú rule.",
+  "example": {
+   "zh": "這項技術有了新的突破。",
+   "en": "There's been a new breakthrough in this technology."
+  }
+ },
+ {
+  "trad": "衝突",
+  "tw": "chōng tú",
+  "cn": "chōng tū",
+  "en": "conflict; clash",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 突 = tú rule.",
+  "example": {
+   "zh": "這兩個會議的時間衝突了。",
+   "en": "These two meetings clash."
+  }
+ },
+ {
+  "trad": "存檔",
+  "tw": "cún dǎng",
+  "cn": "cún dàng",
+  "en": "to save (a file)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 檔 = dǎng rule.",
+  "example": {
+   "zh": "關掉之前記得先存檔。",
+   "en": "Remember to save before you close it."
+  }
+ },
+ {
+  "trad": "高檔",
+  "tw": "gāo dǎng",
+  "cn": "gāo dàng",
+  "en": "high-end; upscale",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 檔 = dǎng rule.",
+  "example": {
+   "zh": "他們去了一家很高檔的餐廳。",
+   "en": "They went to a very upscale restaurant."
+  }
+ },
+ {
+  "trad": "傍晚",
+  "tw": "bāng wǎn",
+  "cn": "bàng wǎn",
+  "en": "dusk; early evening",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "傍 is bāng (1st tone) in 傍晚 in Taiwan.",
+  "example": {
+   "zh": "傍晚的時候我常去河邊散步。",
+   "en": "I often take a walk by the river at dusk."
+  }
+ },
+ {
+  "trad": "儲值",
+  "tw": "chú zhí",
+  "cn": "chǔ zhí",
+  "en": "to top up (a card)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan's word for topping up (mainland 充值); 儲 is chú.",
+  "example": {
+   "zh": "我的悠遊卡要儲值了。",
+   "en": "My EasyCard needs topping up."
+  }
+ },
+ {
+  "trad": "椰子",
+  "tw": "yé zi",
+  "cn": "yē zi",
+  "en": "coconut",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "椰 is yé (2nd tone) in Taiwan: 椰子, 椰奶.",
+  "example": {
+   "zh": "我想喝椰子水。",
+   "en": "I want to drink coconut water."
+  }
+ },
+ {
+  "trad": "虛偽",
+  "tw": "xū wèi",
+  "cn": "xū wěi",
+  "en": "hypocritical; fake",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "偽 is wèi (4th tone) in Taiwan: 虛偽, 偽造, 偽裝.",
+  "example": {
+   "zh": "我不喜歡虛偽的人。",
+   "en": "I don't like fake people."
+  }
+ },
+ {
+  "trad": "廣播",
+  "tw": "guǎng bò",
+  "cn": "guǎng bō",
+  "en": "broadcast; announcement; radio",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "播 is bò (4th tone) in Taiwan's standard; bō is also very common in speech.",
+  "example": {
+   "zh": "你有聽到車站的廣播嗎？",
+   "en": "Did you hear the station announcement?"
+  }
+ },
+ {
+  "trad": "播放",
+  "tw": "bò fàng",
+  "cn": "bō fàng",
+  "en": "to play (audio or video)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 播 = bò rule (bō also heard).",
+  "example": {
+   "zh": "電視正在播放新聞。",
+   "en": "The TV is showing the news."
+  }
+ },
+ {
+  "trad": "直播",
+  "tw": "zhí bò",
+  "cn": "zhí bō",
+  "en": "livestream; live broadcast",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "MOE reading is bò; among younger people zhí bō is at least as common.",
+  "example": {
+   "zh": "她每天晚上都會開直播。",
+   "en": "She livestreams every evening."
+  }
+ },
+ {
+  "trad": "主播",
+  "tw": "zhǔ bò",
+  "cn": "zhǔ bō",
+  "en": "news anchor; streamer",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 播 = bò rule (bō also heard).",
+  "example": {
+   "zh": "她是很有名的新聞主播。",
+   "en": "She's a very well-known news anchor."
+  }
+ },
+ {
+  "trad": "常識",
+  "tw": "cháng shì",
+  "cn": "cháng shí",
+  "en": "common sense; general knowledge",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "識 is shì (4th tone) in Taiwan: 常識, 意識, 共識, 認識, 知識.",
+  "example": {
+   "zh": "這是基本常識吧。",
+   "en": "That's just basic common sense."
+  }
+ },
+ {
+  "trad": "意識",
+  "tw": "yì shì",
+  "cn": "yì shí",
+  "en": "consciousness; awareness",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 識 = shì rule.",
+  "example": {
+   "zh": "他被送到醫院時已經失去意識。",
+   "en": "He had already lost consciousness when he was taken to the hospital."
+  }
+ },
+ {
+  "trad": "共識",
+  "tw": "gòng shì",
+  "cn": "gòng shí",
+  "en": "consensus",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same 識 = shì rule.",
+  "example": {
+   "zh": "大家還沒有達成共識。",
+   "en": "Everyone has yet to reach a consensus."
+  }
+ },
+ {
+  "trad": "友誼",
+  "tw": "yǒu yí",
+  "cn": "yǒu yì",
+  "en": "friendship",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Most Taiwanese say yí (友誼, 聯誼). MOE's current main reading is yì, with yí listed as a variant.",
+  "example": {
+   "zh": "我們的友誼已經超過二十年了。",
+   "en": "Our friendship has lasted more than twenty years."
+  }
+ },
+ {
+  "trad": "舞蹈",
+  "tw": "wǔ dào",
+  "cn": "wǔ dǎo",
+  "en": "dance",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "蹈 is dào (4th tone) in Taiwan.",
+  "example": {
+   "zh": "她從小就學舞蹈。",
+   "en": "She has studied dance since she was little."
+  }
+ },
+ {
+  "trad": "諷刺",
+  "tw": "fèng cì",
+  "cn": "fěng cì",
+  "en": "sarcastic; ironic; to satirize",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "諷 is fèng (4th tone) in Taiwan.",
+  "example": {
+   "zh": "他說話總是帶著諷刺。",
+   "en": "There's always sarcasm in the way he talks."
+  }
+ },
+ {
+  "trad": "細菌",
+  "tw": "xì jùn",
+  "cn": "xì jūn",
+  "en": "bacteria; germs",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "菌 is jùn (4th tone) in Taiwan's standard: 細菌, 殺菌, 益生菌. jūn is also heard.",
+  "example": {
+   "zh": "手機上面有很多細菌。",
+   "en": "There are lots of germs on your phone."
+  }
+ },
+ {
+  "trad": "暈車",
+  "tw": "yūn chē",
+  "cn": "yùn chē",
+  "en": "to get carsick",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan says yūn (1st tone) in 暈車, 暈船, 暈機; the mainland says yùn.",
+  "example": {
+   "zh": "我坐公車很容易暈車。",
+   "en": "I get carsick easily on buses."
+  }
+ },
+ {
+  "trad": "暈船",
+  "tw": "yūn chuán",
+  "cn": "yùn chuán",
+  "en": "to get seasick; (slang) to fall hard for someone",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Same yūn rule. In Taiwan slang 暈船 also means getting hopelessly infatuated.",
+  "example": {
+   "zh": "去綠島的路上很多人暈船。",
+   "en": "Lots of people got seasick on the way to Green Island."
+  }
+ },
+ {
+  "trad": "當天",
+  "tw": "dāng tiān",
+  "cn": "dàng tiān",
+  "en": "that day; the same day",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan says dāng tiān; the mainland standard is dàng tiān for 'the same day'.",
+  "example": {
+   "zh": "我們當天來回，不過夜。",
+   "en": "We'll go and come back the same day, without staying overnight."
+  }
+ },
+ {
+  "trad": "夾子",
+  "tw": "jiá zi",
+  "cn": "jiā zi",
+  "en": "clip; tongs",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "夾 is jiá (2nd tone) in Taiwan: 夾子, 夾克, 皮夾, 夾娃娃.",
+  "example": {
+   "zh": "麵包請用夾子夾。",
+   "en": "Please use the tongs to pick up the bread."
+  }
+ },
+ {
+  "trad": "皮夾",
+  "tw": "pí jiá",
+  "cn": "pí jiā",
+  "en": "wallet",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan's everyday word for wallet (mainland 钱包); 夾 is jiá.",
+  "example": {
+   "zh": "我的皮夾忘在家裡了。",
+   "en": "I left my wallet at home."
+  }
+ },
+ {
+  "trad": "寧願",
+  "tw": "níng yuàn",
+  "cn": "nìng yuàn",
+  "en": "would rather",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "寧 is níng (2nd tone) in Taiwan even in 寧願 and 寧可; the mainland says nìng.",
+  "example": {
+   "zh": "我寧願走路也不想等公車。",
+   "en": "I'd rather walk than wait for the bus."
+  }
+ },
+ {
+  "trad": "悄悄",
+  "tw": "qiǎo qiǎo",
+  "cn": "qiāo qiāo",
+  "en": "quietly; secretly",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps both syllables 3rd tone (sandhi: qiáo qiǎo); the mainland says qiāo qiāo. 悄悄話 = whispered secrets.",
+  "example": {
+   "zh": "他悄悄地走出教室。",
+   "en": "He quietly slipped out of the classroom."
+  }
+ },
+ {
+  "trad": "高麗菜",
+  "tw": "gāo lì cài",
+  "cn": "gāo lí cài",
+  "en": "cabbage",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Taiwan's word for cabbage (mainland 卷心菜 / 包菜). Everyone says gāo lì cài, though MOE's dictionary reading is gāo lí cài.",
+  "example": {
+   "zh": "我要一份炒高麗菜。",
+   "en": "I'd like an order of stir-fried cabbage."
+  }
+ },
+ {
+  "trad": "炸雞",
+  "tw": "zhà jī",
+  "cn": "zhá jī",
+  "en": "fried chicken",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Everyone in Taiwan says zhà for deep-frying (炸雞, 油炸, 炸物), although dictionaries on both sides give zhá.",
+  "example": {
+   "zh": "我們晚上叫炸雞外送好不好？",
+   "en": "Shall we order fried chicken delivery tonight?"
+  }
+ },
+ {
+  "trad": "踏實",
+  "tw": "tà shí",
+  "cn": "tā shi",
+  "en": "steady; at ease; down-to-earth",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan says tà shí; the mainland says tā shi (1st tone + neutral).",
+  "example": {
+   "zh": "把工作做完心裡比較踏實。",
+   "en": "I feel more at ease once the work is done."
+  }
+ },
+ {
+  "trad": "骨頭",
+  "tw": "gú tou",
+  "cn": "gǔ tou",
+  "en": "bone",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "MOE reads 骨頭 as gú tou (2nd-tone 骨, only in this word); the mainland standard is now gǔ tou. Taiwan speech often gives 頭 a full tóu.",
+  "example": {
+   "zh": "這鍋湯是用骨頭熬的。",
+   "en": "This pot of soup is simmered from bones."
+  }
+ },
+ {
+  "trad": "面膜",
+  "tw": "miàn mò",
+  "cn": "miàn mó",
+  "en": "facial mask (skincare)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Most Taiwanese say mò for 膜 (面膜, 保鮮膜), which MOE's Revised dictionary lists first; the newer Concised dictionary gives mó, like the mainland.",
+  "example": {
+   "zh": "我睡前會敷面膜。",
+   "en": "I put on a face mask before bed."
+  }
+ },
+ {
+  "trad": "著急",
+  "tw": "zhāo jí",
+  "cn": "zháo jí",
+  "en": "anxious; worried",
+  "group": "different-tone",
+  "status": "dictionary-only",
+  "common": 2,
+  "note": "MOE dictionaries give zhāo jí, so you'll see it in zhuyin, but most people say zháo jí like the mainland.",
+  "example": {
+   "zh": "你先別著急，慢慢說。",
+   "en": "Don't get anxious; tell me slowly."
+  }
+ },
+ {
+  "trad": "值得",
+  "tw": "zhí dé",
+  "cn": "zhí de",
+  "en": "to be worth",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Everyday Taiwan speech keeps the full tone on 得 (dé); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "這家餐廳值得再來一次。",
+   "en": "This restaurant is worth coming back to."
+  }
+ },
+ {
+  "trad": "捨不得",
+  "tw": "shě bù dé",
+  "cn": "shě bu de",
+  "en": "can't bear to part with; reluctant",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Taiwan says shě bù dé with full tones. MOE keeps 不 full but still lists a neutral 得; the mainland reads both light.",
+  "example": {
+   "zh": "我捨不得離開臺灣。",
+   "en": "I can't bear to leave Taiwan."
+  }
+ },
+ {
+  "trad": "來不及",
+  "tw": "lái bù jí",
+  "cn": "lái bu jí",
+  "en": "there's not enough time",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "The middle 不 keeps its 4th tone in Taiwan speech; the mainland reads it neutral.",
+  "example": {
+   "zh": "再不出門就來不及了。",
+   "en": "If we don't leave now we won't make it."
+  }
+ },
+ {
+  "trad": "力氣",
+  "tw": "lì qì",
+  "cn": "lì qi",
+  "en": "physical strength",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 氣 (qì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我累到沒有力氣說話。",
+   "en": "I'm so tired I have no strength to talk."
+  }
+ },
+ {
+  "trad": "脾氣",
+  "tw": "pí qì",
+  "cn": "pí qi",
+  "en": "temper",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 氣 (qì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他的脾氣很好，很少生氣。",
+   "en": "He's good-tempered and rarely gets angry."
+  }
+ },
+ {
+  "trad": "運氣",
+  "tw": "yùn qì",
+  "cn": "yùn qi",
+  "en": "luck",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Everyday Taiwan speech keeps the full tone on 氣 (qì); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "今天運氣真好，一出門就等到公車。",
+   "en": "What luck today: the bus came the moment I stepped out."
+  }
+ },
+ {
+  "trad": "小氣",
+  "tw": "xiǎo qì",
+  "cn": "xiǎo qi",
+  "en": "stingy; petty",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 氣 (qì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他很小氣，從來不請客。",
+   "en": "He's stingy and never treats anyone."
+  }
+ },
+ {
+  "trad": "商量",
+  "tw": "shāng liáng",
+  "cn": "shāng liang",
+  "en": "to discuss; to consult",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 量 (liáng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這件事我要先跟家人商量。",
+   "en": "I need to talk this over with my family first."
+  }
+ },
+ {
+  "trad": "收拾",
+  "tw": "shōu shí",
+  "cn": "shōu shi",
+  "en": "to tidy up; to pack",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 拾 (shí), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "出門前先把房間收拾一下。",
+   "en": "Tidy up your room before going out."
+  }
+ },
+ {
+  "trad": "主意",
+  "tw": "zhǔ yì",
+  "cn": "zhǔ yi",
+  "en": "idea",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 意 (yì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這是個好主意！",
+   "en": "That's a good idea!"
+  }
+ },
+ {
+  "trad": "道理",
+  "tw": "dào lǐ",
+  "cn": "dào li",
+  "en": "reason; sense",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 理 (lǐ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你說的很有道理。",
+   "en": "What you say makes a lot of sense."
+  }
+ },
+ {
+  "trad": "規矩",
+  "tw": "guī jǔ",
+  "cn": "guī ju",
+  "en": "rules; manners",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 矩 (jǔ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "每個家庭都有自己的規矩。",
+   "en": "Every family has its own rules."
+  }
+ },
+ {
+  "trad": "葡萄",
+  "tw": "pú táo",
+  "cn": "pú tao",
+  "en": "grape",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 萄 (táo), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這串葡萄好甜。",
+   "en": "This bunch of grapes is so sweet."
+  }
+ },
+ {
+  "trad": "玻璃",
+  "tw": "bō lí",
+  "cn": "bō li",
+  "en": "glass",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 璃 (lí), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "小心，地上有碎玻璃。",
+   "en": "Careful, there's broken glass on the floor."
+  }
+ },
+ {
+  "trad": "薪水",
+  "tw": "xīn shuǐ",
+  "cn": "xīn shui",
+  "en": "salary",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 水 (shuǐ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這份工作的薪水不錯。",
+   "en": "This job pays pretty well."
+  }
+ },
+ {
+  "trad": "丈夫",
+  "tw": "zhàng fū",
+  "cn": "zhàng fu",
+  "en": "husband",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 夫 (fū), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "她的丈夫是工程師。",
+   "en": "Her husband is an engineer."
+  }
+ },
+ {
+  "trad": "妻子",
+  "tw": "qī zǐ",
+  "cn": "qī zi",
+  "en": "wife",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Taiwan speech usually gives 子 its full 3rd tone here; MOE dictionaries list qī zi for 'wife', like the mainland.",
+  "example": {
+   "zh": "他和妻子結婚十年了。",
+   "en": "He and his wife have been married for ten years."
+  }
+ },
+ {
+  "trad": "親戚",
+  "tw": "qīn qī",
+  "cn": "qīn qi",
+  "en": "relatives",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 戚 (qī), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "過年要去親戚家拜年。",
+   "en": "At Lunar New Year we visit relatives to pay our respects."
+  }
+ },
+ {
+  "trad": "笑話",
+  "tw": "xiào huà",
+  "cn": "xiào hua",
+  "en": "joke",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 話 (huà), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他很會講笑話。",
+   "en": "He's great at telling jokes."
+  }
+ },
+ {
+  "trad": "身分",
+  "tw": "shēn fèn",
+  "cn": "shēn fen",
+  "en": "identity; status",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 分 (fèn), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "請出示你的身分證。",
+   "en": "Please show your ID card."
+  }
+ },
+ {
+  "trad": "緣分",
+  "tw": "yuán fèn",
+  "cn": "yuán fen",
+  "en": "fate (that brings people together)",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 分 (fèn), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "能認識你也是一種緣分。",
+   "en": "Getting to know you is a kind of fate too."
+  }
+ },
+ {
+  "trad": "委屈",
+  "tw": "wěi qū",
+  "cn": "wěi qu",
+  "en": "to feel wronged",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 屈 (qū), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "她覺得很委屈，就哭了。",
+   "en": "She felt wronged and started crying."
+  }
+ },
+ {
+  "trad": "好處",
+  "tw": "hǎo chù",
+  "cn": "hǎo chu",
+  "en": "benefit; advantage",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 處 (chù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "早睡早起對身體有好處。",
+   "en": "Going to bed and getting up early is good for your health."
+  }
+ },
+ {
+  "trad": "嘴巴",
+  "tw": "zuǐ bā",
+  "cn": "zuǐ ba",
+  "en": "mouth",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 巴 (bā), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "請把嘴巴張開。",
+   "en": "Please open your mouth."
+  }
+ },
+ {
+  "trad": "尾巴",
+  "tw": "wěi bā",
+  "cn": "wěi ba",
+  "en": "tail",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 巴 (bā), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "小狗一直搖尾巴。",
+   "en": "The puppy keeps wagging its tail."
+  }
+ },
+ {
+  "trad": "下巴",
+  "tw": "xià bā",
+  "cn": "xià ba",
+  "en": "chin",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 巴 (bā), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他的下巴長了一顆痘痘。",
+   "en": "He's got a pimple on his chin."
+  }
+ },
+ {
+  "trad": "屁股",
+  "tw": "pì gǔ",
+  "cn": "pì gu",
+  "en": "butt",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 股 (gǔ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "坐太久屁股會痛。",
+   "en": "Your butt hurts if you sit too long."
+  }
+ },
+ {
+  "trad": "腦袋",
+  "tw": "nǎo dài",
+  "cn": "nǎo dai",
+  "en": "head; brain",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 袋 (dài), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我的腦袋一片空白。",
+   "en": "My mind went completely blank."
+  }
+ },
+ {
+  "trad": "口袋",
+  "tw": "kǒu dài",
+  "cn": "kǒu dai",
+  "en": "pocket",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 袋 (dài), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "鑰匙在我的口袋裡。",
+   "en": "The keys are in my pocket."
+  }
+ },
+ {
+  "trad": "指甲",
+  "tw": "zhǐ jiǎ",
+  "cn": "zhǐ jia",
+  "en": "fingernail",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 甲 (jiǎ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "你的指甲該剪了。",
+   "en": "Your nails need cutting."
+  }
+ },
+ {
+  "trad": "石頭",
+  "tw": "shí tóu",
+  "cn": "shí tou",
+  "en": "stone; rock",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Taiwan speech usually gives the 頭 suffix a full tóu (石頭, 枕頭, 饅頭); MOE dictionaries list neutral tou, like the mainland.",
+  "example": {
+   "zh": "河邊有很多漂亮的石頭。",
+   "en": "There are lots of pretty stones by the river."
+  }
+ },
+ {
+  "trad": "枕頭",
+  "tw": "zhěn tóu",
+  "cn": "zhěn tou",
+  "en": "pillow",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Everyday Taiwan speech keeps the full tone on 頭 (tóu); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "這個枕頭太高了，睡起來脖子會痛。",
+   "en": "This pillow is too high; my neck hurts when I sleep on it."
+  }
+ },
+ {
+  "trad": "星星",
+  "tw": "xīng xīng",
+  "cn": "xīng xing",
+  "en": "star",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "Everyday Taiwan speech keeps the full tone on 星 (xīng); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "山上可以看到很多星星。",
+   "en": "You can see lots of stars up in the mountains."
+  }
+ },
+ {
+  "trad": "抽屜",
+  "tw": "chōu tì",
+  "cn": "chōu ti",
+  "en": "drawer",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 屜 (tì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "剪刀在第二個抽屜裡。",
+   "en": "The scissors are in the second drawer."
+  }
+ },
+ {
+  "trad": "玫瑰",
+  "tw": "méi guī",
+  "cn": "méi gui",
+  "en": "rose",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 瑰 (guī), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他送了我一束玫瑰花。",
+   "en": "He gave me a bouquet of roses."
+  }
+ },
+ {
+  "trad": "點心",
+  "tw": "diǎn xīn",
+  "cn": "diǎn xin",
+  "en": "snack; light refreshments",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 心 (xīn), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "下午我們準備了一些點心。",
+   "en": "We've prepared some snacks for the afternoon."
+  }
+ },
+ {
+  "trad": "糊塗",
+  "tw": "hú tú",
+  "cn": "hú tu",
+  "en": "muddled; scatterbrained",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 塗 (tú), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我真糊塗，又忘了帶手機。",
+   "en": "How scatterbrained of me; I forgot my phone again."
+  }
+ },
+ {
+  "trad": "模糊",
+  "tw": "mó hú",
+  "cn": "mó hu",
+  "en": "blurry; vague",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 糊 (hú), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這張照片拍得有點模糊。",
+   "en": "This photo came out a bit blurry."
+  }
+ },
+ {
+  "trad": "老實",
+  "tw": "lǎo shí",
+  "cn": "lǎo shi",
+  "en": "honest; frank",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 實 (shí), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "老實說，我不太喜歡這個顏色。",
+   "en": "Honestly, I don't much like this color."
+  }
+ },
+ {
+  "trad": "大方",
+  "tw": "dà fāng",
+  "cn": "dà fang",
+  "en": "generous; poised",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 方 (fāng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他對朋友很大方。",
+   "en": "He's very generous with his friends."
+  }
+ },
+ {
+  "trad": "打扮",
+  "tw": "dǎ bàn",
+  "cn": "dǎ ban",
+  "en": "to dress up; style of dress",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 扮 (bàn), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "她今天打扮得很漂亮。",
+   "en": "She's dressed up beautifully today."
+  }
+ },
+ {
+  "trad": "招呼",
+  "tw": "zhāo hū",
+  "cn": "zhāo hu",
+  "en": "to greet; greeting",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 呼 (hū), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "他看到我，就跟我打招呼。",
+   "en": "He greeted me when he saw me."
+  }
+ },
+ {
+  "trad": "在乎",
+  "tw": "zài hū",
+  "cn": "zài hu",
+  "en": "to care about",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 乎 (hū), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我不在乎別人怎麼看我。",
+   "en": "I don't care how others see me."
+  }
+ },
+ {
+  "trad": "應付",
+  "tw": "yìng fù",
+  "cn": "yìng fu",
+  "en": "to cope with; to handle",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 付 (fù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "工作太多，我快應付不來了。",
+   "en": "There's too much work; I can barely cope."
+  }
+ },
+ {
+  "trad": "佩服",
+  "tw": "pèi fú",
+  "cn": "pèi fu",
+  "en": "to admire",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 服 (fú), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我很佩服他的勇氣。",
+   "en": "I really admire his courage."
+  }
+ },
+ {
+  "trad": "耽誤",
+  "tw": "dān wù",
+  "cn": "dān wu",
+  "en": "to delay; to hold up",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 誤 (wù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "不好意思，耽誤你的時間了。",
+   "en": "Sorry for taking up your time."
+  }
+ },
+ {
+  "trad": "護士",
+  "tw": "hù shì",
+  "cn": "hù shi",
+  "en": "nurse",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 士 (shì), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "護士幫我量了體溫。",
+   "en": "The nurse took my temperature."
+  }
+ },
+ {
+  "trad": "師傅",
+  "tw": "shī fù",
+  "cn": "shī fu",
+  "en": "master (craftsman); skilled worker",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 傅 (fù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這位師傅做麵包做了三十年。",
+   "en": "This master baker has been making bread for thirty years."
+  }
+ },
+ {
+  "trad": "力量",
+  "tw": "lì liàng",
+  "cn": "lì liang",
+  "en": "power; strength",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 量 (liàng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "團結就是力量。",
+   "en": "Unity is strength."
+  }
+ },
+ {
+  "trad": "任務",
+  "tw": "rèn wù",
+  "cn": "rèn wu",
+  "en": "task; mission",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 務 (wù), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這次的任務很不簡單。",
+   "en": "This mission is no simple matter."
+  }
+ },
+ {
+  "trad": "招牌",
+  "tw": "zhāo pái",
+  "cn": "zhāo pai",
+  "en": "signboard; signature (dish)",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "Taiwan keeps the full tone on 牌 (pái), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "牛肉麵是這家店的招牌。",
+   "en": "Beef noodle soup is this shop's signature dish."
+  }
+ },
+ {
+  "trad": "講究",
+  "tw": "jiǎng jiù",
+  "cn": "jiǎng jiu",
+  "en": "particular about; refined",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 2,
+  "note": "究 is jiù (4th tone) in Taiwan and keeps its tone; the mainland says jiǎng jiu.",
+  "example": {
+   "zh": "他對咖啡很講究。",
+   "en": "He's very particular about coffee."
+  }
+ },
+ {
+  "trad": "差點",
+  "tw": "chà diǎn",
+  "cn": "chà diǎnr",
+  "cn_word": "差点儿",
+  "en": "almost; nearly",
+  "group": "erhua",
+  "status": "standard",
+  "common": 2,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "我今天早上差點遲到。",
+   "en": "I was almost late this morning."
+  }
+ },
+ {
+  "trad": "畫",
+  "tw": "huà",
+  "cn": "huàr",
+  "cn_word": "画儿",
+  "en": "painting; picture",
+  "group": "erhua",
+  "status": "standard",
+  "common": 2,
+  "note": "No 兒 in Taiwan.",
+  "example": {
+   "zh": "牆上掛著一幅畫。",
+   "en": "There's a painting hanging on the wall."
+  }
+ },
+ {
+  "trad": "普遍",
+  "tw": "pǔ piàn",
+  "cn": "pǔ biàn",
+  "en": "common; widespread",
+  "group": "colloquial",
+  "status": "spoken-only",
+  "common": 2,
+  "note": "The dictionary reading is biàn; many Taiwanese say piàn (also in 一遍). Recognize it, but biàn is the safe choice.",
+  "example": {
+   "zh": "這種情況很普遍。",
+   "en": "This kind of situation is very common."
+  }
+ },
+ {
+  "trad": "括號",
+  "tw": "guā hào",
+  "cn": "kuò hào",
+  "en": "parentheses; brackets",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "括 is guā in MOE's standard, and guā hào (also 括弧 guā hú) is common in Taiwan classrooms; kuò hào is heard too.",
+  "example": {
+   "zh": "請把答案寫在括號裡。",
+   "en": "Please write the answer inside the parentheses."
+  }
+ },
+ {
+  "trad": "懸崖",
+  "tw": "xuán yái",
+  "cn": "xuán yá",
+  "en": "cliff",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 3,
+  "note": "Both MOE dictionaries give yái, but in real life you will mostly hear xuán yá.",
+  "example": {
+   "zh": "不要太靠近懸崖邊。",
+   "en": "Don't get too close to the edge of the cliff."
+  }
+ },
+ {
+  "trad": "混淆",
+  "tw": "hùn yáo",
+  "cn": "hùn xiáo",
+  "en": "to confuse; to mix up",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "淆 is yáo in Taiwan (mainland xiáo).",
+  "example": {
+   "zh": "這兩個字很容易混淆。",
+   "en": "These two characters are easily confused."
+  }
+ },
+ {
+  "trad": "艘",
+  "tw": "sāo",
+  "cn": "sōu",
+  "en": "(measure word for ships)",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "MOE reading is sāo; sōu is also heard in casual speech.",
+  "example": {
+   "zh": "港口停了好幾艘漁船。",
+   "en": "Several fishing boats are docked in the harbor."
+  }
+ },
+ {
+  "trad": "酵素",
+  "tw": "xiào sù",
+  "cn": "jiào sù",
+  "en": "enzyme",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "酵 is xiào in Taiwan (mainland jiào): 酵素, 發酵, 酵母.",
+  "example": {
+   "zh": "這種水果含有很多酵素。",
+   "en": "This fruit contains a lot of enzymes."
+  }
+ },
+ {
+  "trad": "發酵",
+  "tw": "fā xiào",
+  "cn": "fā jiào",
+  "en": "to ferment",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 酵 = xiào rule.",
+  "example": {
+   "zh": "麵團要發酵一個小時。",
+   "en": "The dough needs to ferment for an hour."
+  }
+ },
+ {
+  "trad": "乳酪",
+  "tw": "rǔ luò",
+  "cn": "rǔ lào",
+  "en": "cheese",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "酪 is luò in Taiwan (mainland lào): 乳酪, 酪梨, 優酪乳.",
+  "example": {
+   "zh": "我想買一塊乳酪蛋糕。",
+   "en": "I'd like to buy a piece of cheesecake."
+  }
+ },
+ {
+  "trad": "酪梨",
+  "tw": "luò lí",
+  "cn": "lào lí",
+  "en": "avocado",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan's word for avocado (mainland 牛油果); 酪 is luò.",
+  "example": {
+   "zh": "這家的酪梨牛奶很好喝。",
+   "en": "This shop's avocado milk is really good."
+  }
+ },
+ {
+  "trad": "剝皮",
+  "tw": "bō pí",
+  "cn": "bāo pí",
+  "en": "to peel; to skin",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan reads 剝 as bō everywhere; the mainland uses bāo for the everyday verb.",
+  "example": {
+   "zh": "你可以幫我把橘子剝皮嗎？",
+   "en": "Can you peel the orange for me?"
+  }
+ },
+ {
+  "trad": "地殼",
+  "tw": "dì ké",
+  "cn": "dì qiào",
+  "en": "the earth's crust",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "殼 is always ké in Taiwan; the mainland uses qiào in 地壳, 甲壳.",
+  "example": {
+   "zh": "地震是地殼變動造成的。",
+   "en": "Earthquakes are caused by movements of the earth's crust."
+  }
+ },
+ {
+  "trad": "肉燥",
+  "tw": "ròu sào",
+  "cn": "ròu zào",
+  "en": "minced braised pork (topping)",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "Read sào here, not zào (the mainland writes this topping 肉臊 / 臊子). 肉燥飯 is a classic Taiwanese dish.",
+  "example": {
+   "zh": "我要一碗肉燥飯。",
+   "en": "I'd like a bowl of minced pork rice."
+  }
+ },
+ {
+  "trad": "檜木",
+  "tw": "kuài mù",
+  "cn": "guì mù",
+  "en": "Taiwan cypress (hinoki) wood",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "檜 is kuài in Taiwan (mainland guì). Alishan is famous for its 檜木.",
+  "example": {
+   "zh": "阿里山有很多千年檜木。",
+   "en": "Alishan has many thousand-year-old cypress trees."
+  }
+ },
+ {
+  "trad": "通緝",
+  "tw": "tōng qì",
+  "cn": "tōng jī",
+  "en": "to put on the wanted list",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "緝 is qì in Taiwan (mainland jī): 通緝, 緝毒.",
+  "example": {
+   "zh": "警方已經通緝那名嫌犯。",
+   "en": "Police have put that suspect on the wanted list."
+  }
+ },
+ {
+  "trad": "天秤座",
+  "tw": "tiān píng zuò",
+  "cn": "tiān chèng zuò",
+  "en": "Libra",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 3,
+  "note": "MOE's Concised dictionary reads 天秤 as tiān píng, but most people say tiān chèng zuò, like the mainland. Both are understood.",
+  "example": {
+   "zh": "我是天秤座的。",
+   "en": "I'm a Libra."
+  }
+ },
+ {
+  "trad": "包紮",
+  "tw": "bāo zhá",
+  "cn": "bāo zā",
+  "en": "to bandage",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "紮 is zhá in Taiwan (mainland 包扎 bāo zā).",
+  "example": {
+   "zh": "護理師幫我把傷口包紮好了。",
+   "en": "The nurse bandaged my wound."
+  }
+ },
+ {
+  "trad": "堤防",
+  "tw": "tí fáng",
+  "cn": "dī fáng",
+  "en": "embankment; levee",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "堤 is tí in Taiwan (mainland dī): 堤防, 河堤. 提防 (to guard against) is also tí fáng, mainland dī fang.",
+  "example": {
+   "zh": "我們沿著堤防騎腳踏車。",
+   "en": "We rode our bikes along the levee."
+  }
+ },
+ {
+  "trad": "起勁",
+  "tw": "qǐ jìng",
+  "cn": "qǐ jìn",
+  "en": "with gusto; enthusiastic",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "MOE's Concised dictionary reads 勁 as jìng (起勁, 使勁, 幹勁); the mainland says jìn.",
+  "example": {
+   "zh": "他們聊得很起勁。",
+   "en": "They're chatting away with great gusto."
+  }
+ },
+ {
+  "trad": "挾持",
+  "tw": "xiá chí",
+  "cn": "xié chí",
+  "en": "to hold hostage; to seize by force",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "挾 is xiá in MOE's Concised dictionary and in Taiwan news speech; the mainland (and MOE's Revised dictionary) say xié.",
+  "example": {
+   "zh": "歹徒挾持了一名人質。",
+   "en": "The criminal took a hostage."
+  }
+ },
+ {
+  "trad": "浣熊",
+  "tw": "wǎn xióng",
+  "cn": "huàn xióng",
+  "en": "raccoon",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan says wǎn xióng (MOE's Concised reading; the older Revised dictionary has huǎn). The mainland says huàn xióng.",
+  "example": {
+   "zh": "動物園新來了一隻浣熊。",
+   "en": "A raccoon has just arrived at the zoo."
+  }
+ },
+ {
+  "trad": "肋骨",
+  "tw": "lè gǔ",
+  "cn": "lèi gǔ",
+  "en": "rib",
+  "group": "different-syllable",
+  "status": "dictionary-only",
+  "common": 3,
+  "note": "MOE dictionaries give lè gǔ, but in daily life people say lèi gǔ (and 肋排 lèi pái), same as the mainland.",
+  "example": {
+   "zh": "他騎車摔倒，斷了兩根肋骨。",
+   "en": "He fell off his scooter and broke two ribs."
+  }
+ },
+ {
+  "trad": "柏油",
+  "tw": "bó yóu",
+  "cn": "bǎi yóu",
+  "en": "asphalt",
+  "group": "different-syllable",
+  "status": "standard",
+  "common": 3,
+  "note": "柏 is bó in Taiwan's standard (柏油, 松柏); the mainland says bǎi except in names like 柏林.",
+  "example": {
+   "zh": "這條柏油路是去年才鋪的。",
+   "en": "This asphalt road was only laid last year."
+  }
+ },
+ {
+  "trad": "微信",
+  "tw": "wéi xìn",
+  "cn": "wēi xìn",
+  "en": "WeChat",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 微 = wéi rule. Taiwanese mostly use LINE, so this comes up when talking about China.",
+  "example": {
+   "zh": "他在上海工作，所以都用微信聯絡。",
+   "en": "He works in Shanghai, so he keeps in touch through WeChat."
+  }
+ },
+ {
+  "trad": "理髮",
+  "tw": "lǐ fǎ",
+  "cn": "lǐ fà",
+  "en": "to get a haircut",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 髮 = fǎ rule. Everyday Taiwan speech prefers 剪頭髮.",
+  "example": {
+   "zh": "巷口那家理髮店很便宜。",
+   "en": "The barbershop at the end of the alley is cheap."
+  }
+ },
+ {
+  "trad": "質量",
+  "tw": "zhí liàng",
+  "cn": "zhì liàng",
+  "en": "mass (physics)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "In Taiwan 質量 mostly means 'mass' in physics; for 'quality' say 品質.",
+  "example": {
+   "zh": "物理課今天教質量和重量的差別。",
+   "en": "Today's physics class covered the difference between mass and weight."
+  }
+ },
+ {
+  "trad": "襲擊",
+  "tw": "xí jí",
+  "cn": "xí jī",
+  "en": "to raid; surprise attack",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 擊 = jí rule.",
+  "example": {
+   "zh": "村子昨晚遭到襲擊。",
+   "en": "The village was attacked last night."
+  }
+ },
+ {
+  "trad": "射擊",
+  "tw": "shè jí",
+  "cn": "shè jī",
+  "en": "shooting; to shoot",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 擊 = jí rule.",
+  "example": {
+   "zh": "他當兵的時候射擊成績很好。",
+   "en": "He scored well in shooting during his military service."
+  }
+ },
+ {
+  "trad": "七夕",
+  "tw": "qī xì",
+  "cn": "qī xī",
+  "en": "Qixi (Chinese Valentine's Day)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 夕 = xì rule.",
+  "example": {
+   "zh": "七夕那天餐廳都客滿了。",
+   "en": "The restaurants were all fully booked on Qixi."
+  }
+ },
+ {
+  "trad": "熄火",
+  "tw": "xí huǒ",
+  "cn": "xī huǒ",
+  "en": "to turn off the engine; to stall",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "熄 is xí in Taiwan (mainland xī): 熄火, 熄燈, 熄滅.",
+  "example": {
+   "zh": "停紅燈的時候機車突然熄火了。",
+   "en": "The scooter suddenly stalled at the red light."
+  }
+ },
+ {
+  "trad": "相框",
+  "tw": "xiàng kuāng",
+  "cn": "xiàng kuàng",
+  "en": "picture frame",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "框 is kuāng (1st tone) in Taiwan (mainland kuàng): 相框, 框架, 框框; likewise 眶 in 眼眶.",
+  "example": {
+   "zh": "我買了一個相框放全家福。",
+   "en": "I bought a frame for the family photo."
+  }
+ },
+ {
+  "trad": "儲蓄",
+  "tw": "chú xù",
+  "cn": "chǔ xù",
+  "en": "savings; to save money",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "儲 is chú (2nd tone) in Taiwan's standard: 儲蓄, 儲存, 儲值. chǔ is also heard.",
+  "example": {
+   "zh": "他每個月都會儲蓄一萬塊。",
+   "en": "He saves ten thousand NT every month."
+  }
+ },
+ {
+  "trad": "樸素",
+  "tw": "pú sù",
+  "cn": "pǔ sù",
+  "en": "plain; simple",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "樸 is pú (2nd tone) in Taiwan: 樸素, 樸實.",
+  "example": {
+   "zh": "她平常穿得很樸素。",
+   "en": "She usually dresses very plainly."
+  }
+ },
+ {
+  "trad": "帆船",
+  "tw": "fán chuán",
+  "cn": "fān chuán",
+  "en": "sailboat",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "帆 is fán (2nd tone) in Taiwan: 帆船, 帆布.",
+  "example": {
+   "zh": "海上有幾艘帆船。",
+   "en": "There are a few sailboats out on the sea."
+  }
+ },
+ {
+  "trad": "鞠躬",
+  "tw": "jú gōng",
+  "cn": "jū gōng",
+  "en": "to bow",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "鞠 is jú (2nd tone) in Taiwan.",
+  "example": {
+   "zh": "他向老師深深一鞠躬。",
+   "en": "He bowed deeply to his teacher."
+  }
+ },
+ {
+  "trad": "記載",
+  "tw": "jì zài",
+  "cn": "jì zǎi",
+  "en": "to record; written account",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan reads 載 as zài for both 'carry' and 'record'; the mainland uses zǎi in 记载, 刊载, 连载.",
+  "example": {
+   "zh": "這件事在史書上有記載。",
+   "en": "This event is recorded in the history books."
+  }
+ },
+ {
+  "trad": "刊載",
+  "tw": "kān zài",
+  "cn": "kān zǎi",
+  "en": "to publish (in a periodical)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 載 = zài rule.",
+  "example": {
+   "zh": "這篇文章刊載在昨天的報紙上。",
+   "en": "This article was published in yesterday's paper."
+  }
+ },
+ {
+  "trad": "解剖",
+  "tw": "jiě pǒu",
+  "cn": "jiě pōu",
+  "en": "to dissect; anatomy",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "剖 is pǒu (3rd tone) in Taiwan: 解剖, 剖腹產, 剖析.",
+  "example": {
+   "zh": "生物課要解剖青蛙。",
+   "en": "We have to dissect a frog in biology class."
+  }
+ },
+ {
+  "trad": "洞穴",
+  "tw": "dòng xuè",
+  "cn": "dòng xué",
+  "en": "cave",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "穴 is xuè (4th tone) in Taiwan's standard: 洞穴, 穴道, 巢穴. The mainland says xué.",
+  "example": {
+   "zh": "蝙蝠住在洞穴裡。",
+   "en": "Bats live in caves."
+  }
+ },
+ {
+  "trad": "聯誼",
+  "tw": "lián yí",
+  "cn": "lián yì",
+  "en": "social mixer; group date",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 3,
+  "note": "Same 誼 = yí habit (MOE's main reading is yì). In Taiwan 聯誼 usually means a group date or mixer.",
+  "example": {
+   "zh": "我們系下禮拜要跟護理系聯誼。",
+   "en": "Our department is having a mixer with the nursing department next week."
+  }
+ },
+ {
+  "trad": "公噸",
+  "tw": "gōng dùn",
+  "cn": "gōng dūn",
+  "en": "metric ton",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "噸 is dùn (4th tone) in Taiwan (mainland dūn).",
+  "example": {
+   "zh": "這輛卡車可以載十公噸的貨。",
+   "en": "This truck can carry ten metric tons of cargo."
+  }
+ },
+ {
+  "trad": "笨拙",
+  "tw": "bèn zhuó",
+  "cn": "bèn zhuō",
+  "en": "clumsy",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "拙 is zhuó (2nd tone) in Taiwan.",
+  "example": {
+   "zh": "他的動作有點笨拙。",
+   "en": "His movements are a bit clumsy."
+  }
+ },
+ {
+  "trad": "淑女",
+  "tw": "shú nǚ",
+  "cn": "shū nǚ",
+  "en": "lady",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "淑 is shú (2nd tone) in Taiwan, like 叔.",
+  "example": {
+   "zh": "她今天穿得很淑女。",
+   "en": "She's dressed very ladylike today."
+  }
+ },
+ {
+  "trad": "侮辱",
+  "tw": "wǔ rù",
+  "cn": "wǔ rǔ",
+  "en": "to insult",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "辱 is rù (4th tone) in Taiwan: 侮辱, 羞辱, 恥辱.",
+  "example": {
+   "zh": "你這樣說是在侮辱我。",
+   "en": "Saying that is an insult to me."
+  }
+ },
+ {
+  "trad": "簽署",
+  "tw": "qiān shù",
+  "cn": "qiān shǔ",
+  "en": "to sign (an agreement)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "署 is shù (4th tone) in Taiwan when it means to sign or arrange: 簽署, 部署, 署名. In agency names (警政署) it is shǔ.",
+  "example": {
+   "zh": "兩國昨天簽署了合作協議。",
+   "en": "The two countries signed a cooperation agreement yesterday."
+  }
+ },
+ {
+  "trad": "褐色",
+  "tw": "hé sè",
+  "cn": "hè sè",
+  "en": "brown",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "褐 is hé (2nd tone) in Taiwan. Everyday speech prefers 咖啡色.",
+  "example": {
+   "zh": "他穿著一件褐色的外套。",
+   "en": "He's wearing a brown jacket."
+  }
+ },
+ {
+  "trad": "蒙古",
+  "tw": "méng gǔ",
+  "cn": "měng gǔ",
+  "en": "Mongolia",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan says méng gǔ, as in 蒙古烤肉 (Mongolian barbecue); the mainland says měng gǔ.",
+  "example": {
+   "zh": "我一直很想去蒙古看草原。",
+   "en": "I've always wanted to go see the grasslands in Mongolia."
+  }
+ },
+ {
+  "trad": "劈腿",
+  "tw": "pī tuǐ",
+  "cn": "pǐ tuǐ",
+  "en": "to cheat on one's partner; to do the splits",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan says pī tuǐ. The 'two-timing' sense started as Taiwan slang.",
+  "example": {
+   "zh": "她發現男朋友劈腿，就分手了。",
+   "en": "She found out her boyfriend was cheating and broke up with him."
+  }
+ },
+ {
+  "trad": "壓軸",
+  "tw": "yā zhóu",
+  "cn": "yā zhòu",
+  "en": "grand finale; the last big act",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "軸 is always zhóu in Taiwan; the mainland says yā zhòu.",
+  "example": {
+   "zh": "今晚的壓軸表演是五月天。",
+   "en": "Tonight's finale act is Mayday."
+  }
+ },
+ {
+  "trad": "籠罩",
+  "tw": "lóng zhào",
+  "cn": "lǒng zhào",
+  "en": "to envelop; to shroud",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan says lóng zhào; the mainland says lǒng zhào.",
+  "example": {
+   "zh": "整座山都被濃霧籠罩。",
+   "en": "The whole mountain is shrouded in thick fog."
+  }
+ },
+ {
+  "trad": "剝削",
+  "tw": "bō xuè",
+  "cn": "bō xuē",
+  "en": "to exploit",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "削 is xuè (4th tone) in Taiwan in 剝削, 削減, 削弱; the mainland says xuē. (For peeling, both sides say xiāo.)",
+  "example": {
+   "zh": "他覺得老闆在剝削員工。",
+   "en": "He feels the boss is exploiting the employees."
+  }
+ },
+ {
+  "trad": "削減",
+  "tw": "xuè jiǎn",
+  "cn": "xuē jiǎn",
+  "en": "to cut; to reduce (a budget etc.)",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Same 削 = xuè rule.",
+  "example": {
+   "zh": "公司決定削減明年的預算。",
+   "en": "The company decided to cut next year's budget."
+  }
+ },
+ {
+  "trad": "潔癖",
+  "tw": "jié pì",
+  "cn": "jié pǐ",
+  "en": "obsession with cleanliness",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 3,
+  "note": "MOE's main reading is pǐ (pì is listed as a variant), but jié pì is what you usually hear in Taiwan.",
+  "example": {
+   "zh": "他有潔癖，每天都要拖地。",
+   "en": "He's a clean freak and has to mop the floor every day."
+  }
+ },
+ {
+  "trad": "蝙蝠",
+  "tw": "biǎn fú",
+  "cn": "biān fú",
+  "en": "bat (animal)",
+  "group": "different-tone",
+  "status": "spoken-only",
+  "common": 3,
+  "note": "MOE's main reading is biān fú, same as the mainland; biǎn is a listed variant that many Taiwanese use (蝙蝠俠).",
+  "example": {
+   "zh": "晚上公園裡有蝙蝠在飛。",
+   "en": "Bats fly around the park at night."
+  }
+ },
+ {
+  "trad": "淋病",
+  "tw": "lín bìng",
+  "cn": "lìn bìng",
+  "en": "gonorrhea",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "淋 is always lín in Taiwan; the mainland reads lìn only in this word (淋雨, 淋浴 are lín on both sides).",
+  "example": {
+   "zh": "淋病可以用抗生素治療。",
+   "en": "Gonorrhea can be treated with antibiotics."
+  }
+ },
+ {
+  "trad": "束縛",
+  "tw": "shù fú",
+  "cn": "shù fù",
+  "en": "to bind; constraint",
+  "group": "different-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "縛 is fú (2nd tone) in Taiwan (mainland fù).",
+  "example": {
+   "zh": "他不想被傳統觀念束縛。",
+   "en": "He doesn't want to be bound by traditional ideas."
+  }
+ },
+ {
+  "trad": "滑稽",
+  "tw": "huá jī",
+  "cn": "huá ji",
+  "en": "funny; comical",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan says huá jī with a full 1st tone (mainland huá ji). MOE also lists a classical reading gǔ jī that nobody uses.",
+  "example": {
+   "zh": "他走路的樣子很滑稽。",
+   "en": "The way he walks is comical."
+  }
+ },
+ {
+  "trad": "薄荷",
+  "tw": "bò hé",
+  "cn": "bò he",
+  "en": "mint",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "薄 is bò in this word on both sides; Taiwan keeps the full 2nd tone on 荷.",
+  "example": {
+   "zh": "我喜歡薄荷口味的口香糖。",
+   "en": "I like mint-flavored gum."
+  }
+ },
+ {
+  "trad": "饅頭",
+  "tw": "mán tóu",
+  "cn": "mán tou",
+  "en": "steamed bun",
+  "group": "neutral-tone",
+  "status": "spoken-only",
+  "common": 3,
+  "note": "Everyday Taiwan speech keeps the full tone on 頭 (tóu); MOE dictionaries still list the neutral tone, like the mainland.",
+  "example": {
+   "zh": "我早餐買了一個饅頭夾蛋。",
+   "en": "I bought a steamed bun with egg for breakfast."
+  }
+ },
+ {
+  "trad": "燒餅",
+  "tw": "shāo bǐng",
+  "cn": "shāo bing",
+  "en": "sesame flatbread",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan keeps the full tone on 餅 (bǐng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "我要一套燒餅油條。",
+   "en": "I'd like a sesame flatbread with a fried dough stick."
+  }
+ },
+ {
+  "trad": "月餅",
+  "tw": "yuè bǐng",
+  "cn": "yuè bing",
+  "en": "mooncake",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan keeps the full tone on 餅 (bǐng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "中秋節大家都會送月餅。",
+   "en": "Everyone gives mooncakes at Mid-Autumn Festival."
+  }
+ },
+ {
+  "trad": "狐狸",
+  "tw": "hú lí",
+  "cn": "hú li",
+  "en": "fox",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan keeps the full tone on 狸 (lí), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這個故事的主角是一隻狐狸。",
+   "en": "The main character of this story is a fox."
+  }
+ },
+ {
+  "trad": "風箏",
+  "tw": "fēng zhēng",
+  "cn": "fēng zheng",
+  "en": "kite",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan keeps the full tone on 箏 (zhēng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "小朋友在公園放風箏。",
+   "en": "The kids are flying kites in the park."
+  }
+ },
+ {
+  "trad": "燈籠",
+  "tw": "dēng lóng",
+  "cn": "dēng long",
+  "en": "lantern",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan keeps the full tone on 籠 (lóng), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "元宵節小朋友會提燈籠。",
+   "en": "Children carry lanterns at the Lantern Festival."
+  }
+ },
+ {
+  "trad": "傢伙",
+  "tw": "jiā huǒ",
+  "cn": "jiā huo",
+  "en": "guy; fellow",
+  "group": "neutral-tone",
+  "status": "standard",
+  "common": 3,
+  "note": "Taiwan keeps the full tone on 伙 (huǒ), as MOE lists it; the mainland reads it in neutral tone.",
+  "example": {
+   "zh": "這傢伙又遲到了。",
+   "en": "This guy is late again."
+  }
+ }
+]

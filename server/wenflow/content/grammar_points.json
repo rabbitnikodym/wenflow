@@ -1,0 +1,5069 @@
+[
+  {
+    "id": "g-001",
+    "title": "有 + V — 'did / have done' (perfective 有)",
+    "pattern": "S + 有 + V (+ O)",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "In Taiwan Mandarin 有 goes straight before a verb to assert that an action happened or has been experienced, mirroring 沒(有) + V. It is the normal way to answer a 有沒有 question and to stress 'yes, I did'. Fully standard in everyday Taiwan speech and informal writing; formal writing uses V + 了 / V + 過.",
+    "contrast": "Mainland/textbook: 我去了 / 我去過 / 我吃了; 我有去 sounds southern or wrong there. Don't add 了 after 有 + V (✗ 我有去了) and don't use it for future plans.",
+    "examples": [
+      {
+        "zh": "你昨天有去上課嗎？",
+        "en": "Did you go to class yesterday?"
+      },
+      {
+        "zh": "我有跟他說，可是他沒回。",
+        "en": "I did tell him, but he didn't reply."
+      },
+      {
+        "zh": "這部影片我有看過，還不錯。",
+        "en": "I've seen this video; it's pretty good."
+      },
+      {
+        "zh": "我早上有吃早餐，現在還不餓。",
+        "en": "I did eat breakfast this morning, so I'm not hungry yet."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Did you eat breakfast? — Yes, I did.",
+        "zh": "你有吃早餐嗎？——有啊，我有吃。"
+      },
+      {
+        "en": "I did send you a LINE message. Didn't you see it?",
+        "zh": "我有傳 LINE 給你啊，你沒看到嗎？"
+      }
+    ]
+  },
+  {
+    "id": "g-002",
+    "title": "一…就… / 一點都不 — 'as soon as' and 'not at all'",
+    "pattern": "一 + V1，就 + V2 ; 一 + M (+ N) + 都/也 + 不/沒 + V",
+    "category": "structures",
+    "level": 1,
+    "explanation": "一…就 links two actions where the second follows immediately or habitually ('as soon as', 'whenever'). 一 + measure + 都/也 + negative means 'not even one / not at all' (一點都不累, 一句話也沒說). Both are high-frequency in speech and writing.",
+    "contrast": "Learners drop 就 or put the subject after it (✗ 就我回家). In Taiwan 一點都不 is the usual spoken form; never add 兒 (✗ 一點兒也不).",
+    "examples": [
+      {
+        "zh": "我一下班就直接回家了。",
+        "en": "I went straight home as soon as I got off work."
+      },
+      {
+        "zh": "他一緊張就會講不出話。",
+        "en": "Whenever he gets nervous he can't get a word out."
+      },
+      {
+        "zh": "這部電影我一點都不想看。",
+        "en": "I don't want to see this movie at all."
+      },
+      {
+        "zh": "他整個晚上一句話也沒說。",
+        "en": "He didn't say a single word all evening."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Text me as soon as you get home.",
+        "zh": "你一到家就傳訊息給我。"
+      },
+      {
+        "en": "I'm not hungry at all.",
+        "zh": "我一點都不餓。"
+      }
+    ]
+  },
+  {
+    "id": "g-003",
+    "title": "喔 — friendly reminder, new information, warm tone",
+    "pattern": "statement / imperative + 喔",
+    "category": "particles",
+    "level": 1,
+    "explanation": "喔 is the signature Taiwan particle. After statements it flags information the listener should take note of (明天要開會喔); after imperatives it turns an order into a friendly reminder (小心喔); in service talk it simply sounds warm (謝謝喔). As a one-word reply, 喔 means 'oh, okay' and can feel cold.",
+    "contrast": "Mainland speech uses 啊 / 哦 / 哈 here or nothing, and has no service-talk 喔. Minimal pair: 要記得 (flat instruction) vs 要記得喔 (friendly reminder). A bare 喔 as a LINE reply can read as indifference.",
+    "examples": [
+      {
+        "zh": "明天早上九點要開會喔。",
+        "en": "Remember, there's a meeting at nine tomorrow morning."
+      },
+      {
+        "zh": "湯很燙，要小心喔。",
+        "en": "The soup is hot, so be careful."
+      },
+      {
+        "zh": "您的餐點好了喔，謝謝。",
+        "en": "Your order is ready. Thank you."
+      },
+      {
+        "zh": "我先走了喔，明天見。",
+        "en": "I'm heading out now — see you tomorrow."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Don't forget to bring your umbrella, okay?",
+        "zh": "不要忘記帶雨傘喔。"
+      },
+      {
+        "en": "Just so you know, this one is really spicy.",
+        "zh": "這個很辣喔。"
+      }
+    ]
+  },
+  {
+    "id": "g-004",
+    "title": "有沒有 + V / 有 + V + 嗎 — asking whether something happened",
+    "pattern": "S + 有沒有 + V (+ O)？ / S + 有 + V + 嗎？ → 有。/ 沒有。",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "To ask whether something happened or has ever happened, Taiwanese put 有沒有 before the verb (the A-not-A form of perfective 有) or use 有 + V + 嗎. The short answers are simply 有 or 沒有. The same frame asks about what a shop offers or what someone habitually does (你們有沒有賣…？).",
+    "contrast": "Mainland/textbook: 你吃了嗎？/ 你吃了沒有？/ 你去過沒有？ with 沒有 at the end. In Taiwan 你有沒有吃？ is the default, and answering 吃了 instead of 有 sounds mainland.",
+    "examples": [
+      {
+        "zh": "你有沒有看到我的悠遊卡？",
+        "en": "Have you seen my EasyCard?"
+      },
+      {
+        "zh": "你們昨天有沒有去逛夜市？",
+        "en": "Did you guys go to the night market yesterday?"
+      },
+      {
+        "zh": "你有沒有收到我寄的信？",
+        "en": "Did you get the email I sent?"
+      },
+      {
+        "zh": "老闆，你們有沒有賣無糖豆漿？",
+        "en": "Excuse me, do you sell unsweetened soy milk?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Have you ever been to Tainan? — No, I haven't.",
+        "zh": "你有沒有去過台南？——沒有，我沒去過。"
+      },
+      {
+        "en": "Did you bring an umbrella today?",
+        "zh": "你今天有沒有帶雨傘？"
+      }
+    ]
+  },
+  {
+    "id": "g-005",
+    "title": "然後 — the all-purpose linker and filler",
+    "pattern": "…，然後 (+ 就 / 又 / 我) … ; 然後呢？",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "In Taiwan speech 然後 is the default linker for any next thought, not just 'afterwards': it adds points, shifts sub-topics and fills pauses. 然後呢？ prompts someone to go on. Natural in conversation; trim it in presentations and never chain it in writing.",
+    "contrast": "Mainland fillers include 完了 / 那什麼. Learners overuse 還有 or 而且 as additive linkers where Taiwanese simply say 然後.",
+    "examples": [
+      {
+        "zh": "我昨天去逛夜市，然後遇到以前的同學。",
+        "en": "I went to the night market yesterday and ran into an old classmate."
+      },
+      {
+        "zh": "這家很便宜，然後份量又很大。",
+        "en": "This place is cheap, and on top of that the portions are huge."
+      },
+      {
+        "zh": "然後我就想說，乾脆不要去好了。",
+        "en": "And then I figured I might as well just not go."
+      },
+      {
+        "zh": "然後呢？他後來有跟你道歉嗎？",
+        "en": "And then? Did he apologize to you afterwards?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "The boss is nice, and the pay isn't bad either.",
+        "zh": "老闆人很好，然後薪水也不錯。"
+      },
+      {
+        "en": "And then what happened?",
+        "zh": "然後呢？後來怎麼了？"
+      }
+    ]
+  },
+  {
+    "id": "g-006",
+    "title": "連…都 / 也 — 'even'",
+    "pattern": "連 + N/V + 都/也 + (不/沒) V",
+    "category": "structures",
+    "level": 1,
+    "explanation": "連…都/也 singles out an extreme case to imply that everything less extreme is also true. The focus can be a subject, a fronted object or a verb (連看都沒看). 都 is more common than 也 in Taiwan speech.",
+    "contrast": "Learners leave the object after the verb (✗ 他不喝連水) or omit 都/也. Word order: 連 + focus + 都 + verb.",
+    "examples": [
+      {
+        "zh": "他忙到連午餐都沒吃。",
+        "en": "He's been so busy he didn't even eat lunch."
+      },
+      {
+        "zh": "這題連老師都不會。",
+        "en": "Even the teacher can't solve this question."
+      },
+      {
+        "zh": "他連看都沒看就說不要。",
+        "en": "He said no without even looking."
+      },
+      {
+        "zh": "過年的時候連早餐店都沒開。",
+        "en": "During Lunar New Year even the breakfast shops are closed."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I don't even know his name.",
+        "zh": "我連他的名字都不知道。"
+      },
+      {
+        "en": "Even little kids know this.",
+        "zh": "這個連小孩子都知道。"
+      }
+    ]
+  },
+  {
+    "id": "g-007",
+    "title": "有在 + V / 沒在 + V — habitual 'do / don't (as a regular thing)'",
+    "pattern": "S + 有在 + V ; S + 沒(有)在 + V",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "有在 + V says an activity is part of your current routine ('I do work out'); 沒在 + V denies it ('I don't really…', 'I'm not … these days'). Very common in Taiwan speech for habits, hobbies, medication, shows you follow. 沒在 + V can also be a blunt denial: 我沒在開玩笑, 沒在怕的.",
+    "contrast": "Mainland/textbook: 我平常運動 / 我經常鍛鍊 / 我不怎麼看電視. Learners say only 我常常運動; 有在 adds the nuance 'it's a thing I do'.",
+    "examples": [
+      {
+        "zh": "我最近有在運動，體力好很多。",
+        "en": "I've been working out lately, and my stamina is a lot better."
+      },
+      {
+        "zh": "你有在追那部韓劇嗎？",
+        "en": "Are you following that Korean drama?"
+      },
+      {
+        "zh": "我平常沒在喝咖啡，喝了會睡不著。",
+        "en": "I don't normally drink coffee; it keeps me awake."
+      },
+      {
+        "zh": "我沒在開玩笑，我是認真的。",
+        "en": "I'm not joking; I'm serious."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Do you work out? — Yes, I go to the gym twice a week.",
+        "zh": "你有在運動嗎？——有啊，我一個禮拜去兩次健身房。"
+      },
+      {
+        "en": "I don't really use Facebook anymore.",
+        "zh": "我現在已經沒在用臉書了。"
+      }
+    ]
+  },
+  {
+    "id": "g-008",
+    "title": "會 + Adj — 'is it …?' / 不會 + Adj — 'it isn't …'",
+    "pattern": "會 + Adj + 嗎？ ; 不會 + Adj ; 會不會 + (太) Adj？",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "Taiwanese put 會 before adjectives and feeling verbs (冷, 痛, 辣, 遠, 貴, 累) to ask or state whether something is the case right now, not only in the future. 會冷嗎？ means 'Are you cold?'; 不會痛 means 'it doesn't hurt'. Extremely frequent in service encounters and small talk.",
+    "contrast": "Mainland/textbook: 你冷嗎？/ 不疼 / 辣不辣？ Learners read 會 as future ('will it be cold?') and miss that it is a present-tense question. Taiwan also says 痛, rarely 疼.",
+    "examples": [
+      {
+        "zh": "冷氣這樣會冷嗎？要不要關小一點？",
+        "en": "Is the AC too cold like this? Should I turn it down?"
+      },
+      {
+        "zh": "打針不會痛啦，一下就好了。",
+        "en": "The shot doesn't hurt; it'll be over in a second."
+      },
+      {
+        "zh": "這個會辣嗎？我不太敢吃辣。",
+        "en": "Is this spicy? I can't really handle spicy food."
+      },
+      {
+        "zh": "從這裡走到捷運站會很遠嗎？",
+        "en": "Is it far to walk from here to the MRT station?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Are you tired? — No, I'm fine.",
+        "zh": "你會累嗎？——不會啊，還好。"
+      },
+      {
+        "en": "Is this too sweet? — No, it's just right.",
+        "zh": "這個會太甜嗎？——不會，剛剛好。"
+      }
+    ]
+  },
+  {
+    "id": "g-009",
+    "title": "越…越 / 越來越 — 'the more… the more'",
+    "pattern": "越 + A + 越 + B ; 越來越 + Adj/V ; 愈…愈 (written)",
+    "category": "structures",
+    "level": 1,
+    "explanation": "越 A 越 B means 'the more A, the more B'; 越來越 means 'more and more'. The two halves can have different subjects. 愈…愈 / 愈來愈 is the written variant, common in Taiwan news and essays.",
+    "contrast": "✗ 越來越很忙 — no 很 or 更 after 越來越. Learners also forget that the second 越 goes right before the changing quality.",
+    "examples": [
+      {
+        "zh": "物價越來越高，薪水卻沒有漲。",
+        "en": "Prices keep getting higher, but salaries haven't gone up."
+      },
+      {
+        "zh": "這首歌我越聽越喜歡。",
+        "en": "The more I listen to this song, the more I like it."
+      },
+      {
+        "zh": "你越催他，他動作越慢。",
+        "en": "The more you rush him, the slower he gets."
+      },
+      {
+        "zh": "天氣愈來愈熱，冷氣開整天。",
+        "en": "The weather is getting hotter and hotter; the AC is on all day."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The more I think about it, the angrier I get.",
+        "zh": "我越想越生氣。"
+      },
+      {
+        "en": "Fewer and fewer people use cash.",
+        "zh": "用現金的人越來越少。"
+      }
+    ]
+  },
+  {
+    "id": "g-010",
+    "title": "啦 — insistence, impatience, reassurance",
+    "pattern": "clause + 啦",
+    "category": "particles",
+    "level": 1,
+    "explanation": "啦 adds the attitude that the matter is settled or obvious. Depending on tone it reassures (沒關係啦), urges (快點啦), gives in (好啦好啦), or softens a refusal or disagreement (不用啦, 不是啦). In Taiwan it is not just 了 + 啊; it attaches to almost anything.",
+    "contrast": "Mainland 啦 is mostly 了 + 啊 marking a change (他來啦). Minimal pairs: 不用 (curt) vs 不用啦 (friendly decline); 好 (agreement) vs 好啦 (reluctant 'fine, fine').",
+    "examples": [
+      {
+        "zh": "沒關係啦，這種事誰都會忘記。",
+        "en": "It's fine, anybody could forget something like this."
+      },
+      {
+        "zh": "快點啦，電影要開始了！",
+        "en": "Hurry up, the movie's about to start!"
+      },
+      {
+        "zh": "好啦好啦，我去洗碗就是了。",
+        "en": "All right, all right, I'll go do the dishes."
+      },
+      {
+        "zh": "不用啦，我自己來就好。",
+        "en": "No need, really — I can do it myself."
+      }
+    ],
+    "practice": [
+      {
+        "en": "It's nothing, don't mention it.",
+        "zh": "沒什麼啦，不用客氣。"
+      },
+      {
+        "en": "Just tell me already!",
+        "zh": "你就跟我講啦！"
+      }
+    ]
+  },
+  {
+    "id": "g-011",
+    "title": "將 — formal 把 and future 'will'",
+    "pattern": "將 + O + V … (= 把) ; 將 + V (= 會 / 要)",
+    "category": "formal-written",
+    "level": 1,
+    "explanation": "In written Chinese 將 replaces 把 to mark a disposed object (將垃圾分類) and also marks the future (將於明日舉行). You'll see it in news, notices, recipes and instructions. Said aloud in conversation, it sounds like an announcement.",
+    "contrast": "Spoken: 把 / 會 / 要. Don't mix registers in one sentence (✗ 將它弄好啦). In recipes and signs Taiwan writes 將 where a textbook has 把.",
+    "examples": [
+      {
+        "zh": "請將手機調成靜音，謝謝合作。",
+        "en": "Please switch your phone to silent. Thank you for your cooperation."
+      },
+      {
+        "zh": "颱風將於今晚登陸，請民眾做好防颱準備。",
+        "en": "The typhoon will make landfall tonight; the public is asked to make preparations."
+      },
+      {
+        "zh": "市府將在明年推出新的補助方案。",
+        "en": "The city government will launch a new subsidy program next year."
+      },
+      {
+        "zh": "將雞蛋打散後，倒入鍋中。",
+        "en": "Beat the eggs, then pour them into the pan."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Please place your personal belongings in the locker. (sign)",
+        "zh": "請將個人物品放入置物櫃。"
+      },
+      {
+        "en": "The results will be announced next Monday.",
+        "zh": "結果將於下週一公佈。"
+      }
+    ]
+  },
+  {
+    "id": "g-012",
+    "title": "不會 — 'you're welcome / not at all'",
+    "pattern": "A：謝謝！ B：不會。 ; A：不好意思… B：不會不會。",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "不會 is the default Taiwanese reply to thanks and to apologies, meaning 'not at all, it's no trouble'. Doubling it (不會不會) or adding 啦 sounds warmer. It also politely denies an imposition someone worries about (會不會太麻煩你？——不會啦).",
+    "contrast": "Mainland/textbook: 不客氣 / 不用謝 / 沒事兒. 不客氣 is understood in Taiwan but feels stiffer; 不用謝 and 沒事兒 sound distinctly mainland.",
+    "examples": [
+      {
+        "zh": "謝謝你幫我拿包裹。——不會啦！",
+        "en": "Thanks for picking up my package. — No problem!"
+      },
+      {
+        "zh": "不好意思，讓你等這麼久。——不會不會。",
+        "en": "Sorry to keep you waiting so long. — Not at all."
+      },
+      {
+        "zh": "這樣會不會太麻煩你？——不會，順路而已。",
+        "en": "Is this too much trouble for you? — Not at all, it's on my way."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Thank you so much! — You're welcome.",
+        "zh": "真的很謝謝你！——不會。"
+      },
+      {
+        "en": "Sorry to bother you. — Not at all, what's up?",
+        "zh": "不好意思打擾你。——不會，怎麼了？"
+      }
+    ]
+  },
+  {
+    "id": "g-013",
+    "title": "就是(說) — 'I mean / like / so you mean'",
+    "pattern": "就是… (pause) ; 就是說 + rephrase ; 就是說啊！",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "就是 buys time while you look for words and introduces a clarification: 'it's like…', 'I mean…'. 就是說 restates or draws a consequence: 'so that means…'. As a reply, 就是啊 / 就是說啊 is strong agreement: 'exactly!'.",
+    "contrast": "Mainland: 就是 / 那個 as fillers and 可不是嘛 for agreement (not used in Taiwan). Don't confuse filler 就是 with 就是 'is precisely'.",
+    "examples": [
+      {
+        "zh": "我覺得他就是，比較不會表達。",
+        "en": "I think he's just, like, not very good at expressing himself."
+      },
+      {
+        "zh": "就是說，我們下禮拜要全部重做？",
+        "en": "So you mean we have to redo everything next week?"
+      },
+      {
+        "zh": "那種感覺就是很難形容。",
+        "en": "That feeling is just, well, hard to describe."
+      },
+      {
+        "zh": "就是說啊，哪有人這樣的！",
+        "en": "Exactly! Who does that!"
+      }
+    ],
+    "practice": [
+      {
+        "en": "So what you mean is, you're not coming?",
+        "zh": "就是說，你不來了？"
+      },
+      {
+        "en": "It's just, like, a little awkward.",
+        "zh": "就是，有一點尷尬。"
+      }
+    ]
+  },
+  {
+    "id": "g-014",
+    "title": "只要…就 vs 只有…才 — 'as long as' vs 'only if'",
+    "pattern": "只要 + sufficient condition，就… ; 只有 + necessary condition，才…",
+    "category": "structures",
+    "level": 1,
+    "explanation": "只要…就 states a sufficient condition ('as long as X, then Y') and usually sounds encouraging. 只有…才 states the one necessary condition ('only if X can Y') and sounds restrictive. Choosing 就 vs 才 correctly is the key.",
+    "contrast": "Learners mix the pairs (✗ 只要…才 / ✗ 只有…就). In Taiwan speech 只有…才 is often replaced by 要…才 or 一定要…才.",
+    "examples": [
+      {
+        "zh": "只要有網路，我在哪裡都可以工作。",
+        "en": "As long as there's internet, I can work anywhere."
+      },
+      {
+        "zh": "只要提早訂位，就不用排隊。",
+        "en": "As long as you book ahead, you don't have to line up."
+      },
+      {
+        "zh": "只有會員才可以用這個優惠。",
+        "en": "Only members can use this discount."
+      },
+      {
+        "zh": "這種水果只有夏天才吃得到。",
+        "en": "You can only get this fruit in summer."
+      }
+    ],
+    "practice": [
+      {
+        "en": "As long as you're happy, that's fine.",
+        "zh": "只要你開心就好。"
+      },
+      {
+        "en": "Only by trying it yourself will you know.",
+        "zh": "只有自己試過才會知道。"
+      }
+    ]
+  },
+  {
+    "id": "g-015",
+    "title": "用 + V + 的 — 'by V-ing' (means / manner)",
+    "pattern": "用 + V + 的 (+ VP)",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "用 + verb + 的 names the method by which something is done: 用走的 'on foot', 用講的 'by talking', 用猜的 'by guessing'. It answers 怎麼…？ and often contrasts two methods. Colloquial, modeled on Taiwanese (Southern Min) grammar, and used by everyone in Taiwan.",
+    "contrast": "Mainland/textbook: 走路去 / 走著去 / 當面說 / 靠猜. ✗ 用走 without 的 is wrong; the 的 is obligatory.",
+    "examples": [
+      {
+        "zh": "不遠啦，我們用走的就好。",
+        "en": "It's not far; let's just walk."
+      },
+      {
+        "zh": "這種事用講的比較快，我打給你。",
+        "en": "This kind of thing is faster to explain by talking; I'll call you."
+      },
+      {
+        "zh": "這題我不會，答案是用猜的。",
+        "en": "I didn't know this question; I guessed the answer."
+      },
+      {
+        "zh": "用想的很簡單，做起來很難。",
+        "en": "It's easy when you just think about it, but hard to actually do."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Did you take the MRT here? — No, I walked.",
+        "zh": "你搭捷運來的嗎？——沒有，我用走的。"
+      },
+      {
+        "en": "Don't text me; just tell me in person.",
+        "zh": "不要傳訊息，直接用講的。"
+      }
+    ]
+  },
+  {
+    "id": "g-016",
+    "title": "V + 看看 / 試試看 — 'try V-ing and see'",
+    "pattern": "V + 看看 ; V + V + 看 ; 試試看",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "Adding 看看 (or reduplicating the verb + 看) means 'try it and see what happens'. Taiwanese use it constantly to make suggestions and offers tentative: 問看看, 吃吃看, 找看看. 試試看 is the fixed 'give it a try'.",
+    "contrast": "Mainland/textbook: 問問看 / 試一下 / 嚐嚐. The form V + 看看 with an unreduplicated verb (問看看, 找看看, 等看看) is rare on the mainland but everyday in Taiwan.",
+    "examples": [
+      {
+        "zh": "這個口味是新的，你吃吃看。",
+        "en": "This flavor is new; try it."
+      },
+      {
+        "zh": "我不確定，我幫你問看看。",
+        "en": "I'm not sure; let me ask around for you."
+      },
+      {
+        "zh": "你再找看看，會不會在包包裡？",
+        "en": "Look again — could it be in your bag?"
+      },
+      {
+        "zh": "沒做過沒關係，試試看嘛。",
+        "en": "It's fine if you've never done it; just give it a try."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Try this on and see if it fits.",
+        "zh": "你穿穿看，看合不合身。"
+      },
+      {
+        "en": "I'll think about it and get back to you.",
+        "zh": "我想想看，再跟你說。"
+      }
+    ]
+  },
+  {
+    "id": "g-017",
+    "title": "耶 — surprise, delight, 'oh, look at that'",
+    "pattern": "clause + 耶",
+    "category": "particles",
+    "level": 1,
+    "explanation": "Sentence-final 耶 marks something as noteworthy to the speaker: pleasant surprise, admiration, or a newly noticed fact (真的耶, 好好吃耶). It also softens a statement that goes against the listener's expectation (我不知道耶, 我沒空耶). Shouted alone, 耶！ is 'yay!'.",
+    "contrast": "Mainland speech would use 啊 / 呢 or nothing. Minimal pair: 我不知道 (flat, can sound curt) vs 我不知道耶 (apologetic 'hmm, I don't know'). 耶 is brighter than 欸.",
+    "examples": [
+      {
+        "zh": "真的耶，這家的蛋餅超好吃。",
+        "en": "You're right — the egg crepes here are amazing."
+      },
+      {
+        "zh": "你今天穿得好正式耶。",
+        "en": "Wow, you're dressed so formally today."
+      },
+      {
+        "zh": "我不太確定耶，你問一下別人。",
+        "en": "Hmm, I'm not too sure; ask someone else."
+      },
+      {
+        "zh": "下雨了耶，還好我有帶傘。",
+        "en": "Oh, it's raining — good thing I brought an umbrella."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Wow, your room is so clean!",
+        "zh": "你房間好乾淨耶！"
+      },
+      {
+        "en": "Hmm, I'm not free tomorrow.",
+        "zh": "我明天沒空耶。"
+      }
+    ]
+  },
+  {
+    "id": "g-018",
+    "title": "既然…就 — 'since / now that'",
+    "pattern": "既然 + known fact，(那) + 就 + suggestion / conclusion",
+    "category": "structures",
+    "level": 1,
+    "explanation": "既然 takes an established fact as the starting point and draws a conclusion or suggestion from it. The second clause usually has 就 or 那, or is a rhetorical question (既然不喜歡，幹嘛買？).",
+    "contrast": "Don't use 既然 for an objective cause — that's 因為 (✗ 既然下雨，比賽取消了). 既然 presupposes the listener already accepts the fact.",
+    "examples": [
+      {
+        "zh": "既然你已經決定了，我就不多說了。",
+        "en": "Since you've already decided, I won't say any more."
+      },
+      {
+        "zh": "既然都來了，就進去看看吧。",
+        "en": "Now that we're here, let's go in and have a look."
+      },
+      {
+        "zh": "既然不喜歡，幹嘛還要買？",
+        "en": "If you don't like it, why buy it?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Since you're not feeling well, go home and rest.",
+        "zh": "既然你不舒服，就回家休息吧。"
+      },
+      {
+        "en": "Since everyone's here, let's begin.",
+        "zh": "既然大家都到了，那就開始吧。"
+      }
+    ]
+  },
+  {
+    "id": "g-019",
+    "title": "我想說… — 'I figured / I was thinking'",
+    "pattern": "(S +) 想說 + clause",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "想說 reports a thought, assumption or intention you had, usually to explain why you did something: 'I figured…', 'I thought I'd…'. It often implies the assumption turned out wrong or that you are justifying yourself. One of the most characteristic Taiwan expressions; it does not mean 'want to say'.",
+    "contrast": "Mainland/textbook: 我以為… / 我心想… / 我本來打算…. Learners parse 我想說 as 'I want to say', which is almost never what a Taiwanese speaker means.",
+    "examples": [
+      {
+        "zh": "我想說你在忙，就沒有打給你。",
+        "en": "I figured you were busy, so I didn't call."
+      },
+      {
+        "zh": "我想說順便買個飲料，結果排超久。",
+        "en": "I thought I'd grab a drink while I was at it, and ended up in line forever."
+      },
+      {
+        "zh": "我本來想說今天可以早點下班。",
+        "en": "I was thinking I could get off work early today."
+      },
+      {
+        "zh": "她想說你不來了，就先走了。",
+        "en": "She figured you weren't coming, so she left."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I figured you had already eaten, so I didn't buy you anything.",
+        "zh": "我想說你已經吃過了，就沒有幫你買。"
+      },
+      {
+        "en": "I thought it would be cheaper to buy it online.",
+        "zh": "我想說網路上買會比較便宜。"
+      }
+    ]
+  },
+  {
+    "id": "g-020",
+    "title": "就算 / 即使 / 哪怕…也 — 'even if'",
+    "pattern": "就算 / 即使 / 哪怕 + hypothetical，也/還是 + result",
+    "category": "structures",
+    "level": 1,
+    "explanation": "All three set up a concession that the result survives. 就算 is the spoken default in Taiwan; 即使 is neutral-to-written; 哪怕 stresses an extreme case ('even if it's only…'). The main clause needs 也, 還是 or 都.",
+    "contrast": "Mainland speech also uses 就是…也 and 哪怕 freely; in Taiwan 就是…也 is rare and 哪怕 is mostly written. Don't confuse with 雖然 (a real fact): 就算 is hypothetical.",
+    "examples": [
+      {
+        "zh": "就算下雨，演唱會也會照常舉行。",
+        "en": "Even if it rains, the concert will go ahead as planned."
+      },
+      {
+        "zh": "就算你現在出門也來不及了。",
+        "en": "Even if you left now, you wouldn't make it."
+      },
+      {
+        "zh": "即使失敗了，也是很好的經驗。",
+        "en": "Even if you fail, it's still good experience."
+      },
+      {
+        "zh": "哪怕只有一點機會，我也想試試看。",
+        "en": "Even if there's only a slight chance, I want to try."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Even if it's expensive, I still want to buy it.",
+        "zh": "就算很貴，我還是想買。"
+      },
+      {
+        "en": "Even if you don't tell me, I'll find out.",
+        "zh": "就算你不說，我也會知道。"
+      }
+    ]
+  },
+  {
+    "id": "g-021",
+    "title": "那個… / 怎麼講 — hesitating like a native",
+    "pattern": "那個，… ; 那個誰 / 那個什麼 ; …，怎麼講 / 怎麼說呢，…",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "那個… fills the gap while you search for a word or work up to a request; 那個誰 and 那個什麼 stand in for a name or thing you can't recall. 怎麼講 / 怎麼說呢 signals that you're hunting for the right wording, usually before something delicate. Both make you sound fluent rather than stuck.",
+    "contrast": "Mainland uses 那個 / 這個 / 那什麼 similarly; 怎麼講 (with 講) is the Taiwan-flavored version of 怎麼說呢. Learners freeze in silence or say 'um' — use these instead.",
+    "examples": [
+      {
+        "zh": "那個，不好意思，可以借過一下嗎？",
+        "en": "Um, excuse me, could I get by?"
+      },
+      {
+        "zh": "你有沒有看到那個誰，新來的那個？",
+        "en": "Have you seen what's-his-name, the new guy?"
+      },
+      {
+        "zh": "他這個人，怎麼講，比較有自己的想法。",
+        "en": "He's, how should I put it, someone with his own ideas."
+      },
+      {
+        "zh": "也不是不好吃，怎麼說呢，就是普通。",
+        "en": "It's not that it's bad — how to put it — it's just average."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Um, there's something I'd like to ask you.",
+        "zh": "那個，我有件事想請問你。"
+      },
+      {
+        "en": "How should I put it… it's a bit complicated.",
+        "zh": "怎麼講，有一點複雜。"
+      }
+    ]
+  },
+  {
+    "id": "g-022",
+    "title": "比較 + V / Adj — softening 'kind of / rather'",
+    "pattern": "比較 + Adj ; 比較 + 不/沒/少/常 + V",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "Beyond explicit comparison, Taiwanese use 比較 as a hedge that makes statements less absolute: 我比較不喜歡 ('I'm not that into it'), 這樣比較好 ('that would be better'). It softens preferences, refusals and criticism. 比較不會 and 比較沒有那麼… are very common collocations.",
+    "contrast": "Mainland/textbook states it directly: 我不喜歡 / 不太喜歡. Leaving out 比較 can sound blunt in Taiwan. Learners also overuse 更 where Taiwanese say 比較.",
+    "examples": [
+      {
+        "zh": "我比較不喜歡吃太甜的東西。",
+        "en": "I'm not really into food that's too sweet."
+      },
+      {
+        "zh": "平日去比較不會那麼多人。",
+        "en": "It's less crowded if you go on a weekday."
+      },
+      {
+        "zh": "你早點出門比較好，路上會塞車。",
+        "en": "You'd better leave early; there'll be traffic."
+      },
+      {
+        "zh": "他這個人比較慢熟，不是不理你。",
+        "en": "He's kind of slow to warm up; he's not ignoring you."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'd rather not go out on rainy days.",
+        "zh": "下雨天我比較不想出門。"
+      },
+      {
+        "en": "This one is a bit pricier, but the quality is better.",
+        "zh": "這個比較貴，可是品質比較好。"
+      }
+    ]
+  },
+  {
+    "id": "g-023",
+    "title": "欸 — 'hey' as an opener, low-key 耶 as an ending",
+    "pattern": "欸，+ clause ; clause + 欸 ; 欸？",
+    "category": "particles",
+    "level": 1,
+    "explanation": "At the start of a sentence 欸 grabs attention like 'hey' or signals you just thought of something (欸，對了). At the end it is a flatter 耶: mild surprise, hesitation or a hint to reconsider (很貴欸). A rising 欸？ shows puzzlement. Often typed ㄟ in chat.",
+    "contrast": "Mainland: 哎 / 誒 / 喂 as openers, with no final-particle use. Minimal pair: 很貴 (plain fact) vs 很貴欸 ('that's pricey, you know'). Don't hail strangers or superiors with 欸; say 不好意思.",
+    "examples": [
+      {
+        "zh": "欸，你有看到我的手機嗎？",
+        "en": "Hey, have you seen my phone?"
+      },
+      {
+        "zh": "欸，對了，你明天有空嗎？",
+        "en": "Oh hey, by the way, are you free tomorrow?"
+      },
+      {
+        "zh": "這個很貴欸，你確定要買？",
+        "en": "This is pretty expensive, you know — are you sure you want it?"
+      },
+      {
+        "zh": "欸？門怎麼沒鎖？",
+        "en": "Huh? Why isn't the door locked?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Hey, wait for me!",
+        "zh": "欸，等我一下！"
+      },
+      {
+        "en": "It's really far, you know.",
+        "zh": "真的很遠欸。"
+      }
+    ]
+  },
+  {
+    "id": "g-024",
+    "title": "不管 / 無論…都 — 'no matter'",
+    "pattern": "不管 / 無論 + question form (誰/什麼/多/A不A/A還是B)，都/也…",
+    "category": "structures",
+    "level": 1,
+    "explanation": "The first clause must contain a question word, an A-not-A form or an A 還是 B alternative; the second needs 都 (or 也). 不管 is spoken; 無論 and 不論 are neutral-to-formal.",
+    "contrast": "✗ 不管下雨，我都去 — the first clause needs an alternative: 不管下不下雨 / 不管雨多大. Mainland 甭管 is not used in Taiwan.",
+    "examples": [
+      {
+        "zh": "不管多忙，他每天都會運動。",
+        "en": "No matter how busy he is, he exercises every day."
+      },
+      {
+        "zh": "不管你去不去，我都要去。",
+        "en": "Whether you go or not, I'm going."
+      },
+      {
+        "zh": "無論結果如何，我們都盡力了。",
+        "en": "Whatever the outcome, we did our best."
+      },
+      {
+        "zh": "不管是誰打來，都說我不在。",
+        "en": "No matter who calls, say I'm not here."
+      }
+    ],
+    "practice": [
+      {
+        "en": "No matter what you say, I won't change my mind.",
+        "zh": "不管你怎麼說，我都不會改變主意。"
+      },
+      {
+        "en": "No matter how late it is, call me.",
+        "zh": "不管多晚，都要打給我。"
+      }
+    ]
+  },
+  {
+    "id": "g-025",
+    "title": "蠻 / 滿 + Adj + 的、還蠻…的 — 'pretty / quite'",
+    "pattern": "蠻/滿 + Adj + 的 ; 還蠻 + Adj/V + 的",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "蠻 (also written 滿) is the everyday Taiwan word for 'quite, pretty', usually closed off with 的. 還蠻…的 is a slightly more measured 'actually pretty…', a favorite for giving opinions without overcommitting. Neutral-to-casual in register.",
+    "contrast": "Mainland/textbook: 挺…的 / 還挺…的. 挺 is rarely used in Taiwan and marks you as mainland-trained.",
+    "examples": [
+      {
+        "zh": "這家拉麵蠻好吃的，下次帶你來。",
+        "en": "This ramen place is pretty good; I'll bring you next time."
+      },
+      {
+        "zh": "新同事人蠻好的，很好相處。",
+        "en": "The new coworker is quite nice and easy to get along with."
+      },
+      {
+        "zh": "我還蠻喜歡這首歌的。",
+        "en": "I actually quite like this song."
+      },
+      {
+        "zh": "他滿常遲到的，你不用太早到。",
+        "en": "He's late pretty often, so you don't need to get there too early."
+      }
+    ],
+    "practice": [
+      {
+        "en": "That movie was actually pretty good.",
+        "zh": "那部電影還蠻好看的。"
+      },
+      {
+        "en": "Living near an MRT station is quite convenient.",
+        "zh": "住在捷運站附近蠻方便的。"
+      }
+    ]
+  },
+  {
+    "id": "g-026",
+    "title": "超 / 爆 / 有夠 + Adj — strong casual intensifiers",
+    "pattern": "超 + Adj/V ; Adj + 爆 / 爆 + Adj ; 有夠 + Adj",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "超 is the default casual 'super'; 有夠 (from Taiwanese) means 'so damn…' and often carries complaint; 爆 after an adjective (累爆, 熱爆) or before it (爆多, 爆好吃) is youthful slang for 'insanely'. All are casual: fine in LINE and with friends, not in formal writing.",
+    "contrast": "Mainland: 特別 / 巨 / 賊 / …死了. 特別 as an intensifier and 挺 are much less common in Taiwan speech; 超 does most of the work.",
+    "examples": [
+      {
+        "zh": "這家的珍珠奶茶超好喝！",
+        "en": "This place's bubble tea is super good!"
+      },
+      {
+        "zh": "今天有夠熱，我完全不想出門。",
+        "en": "It's so damn hot today; I have zero desire to go out."
+      },
+      {
+        "zh": "上班第一天就加班，累爆了。",
+        "en": "Overtime on my very first day — I'm exhausted."
+      },
+      {
+        "zh": "連假的時候墾丁人爆多。",
+        "en": "Kenting is insanely crowded on long weekends."
+      }
+    ],
+    "practice": [
+      {
+        "en": "That exam was super hard.",
+        "zh": "那個考試超難的。"
+      },
+      {
+        "en": "This guy is so annoying!",
+        "zh": "這個人有夠煩！"
+      }
+    ]
+  },
+  {
+    "id": "g-027",
+    "title": "除非…不然 / 否則 — 'unless'",
+    "pattern": "除非 + condition，不然/否則 + result ; 除非…，才…",
+    "category": "structures",
+    "level": 1,
+    "explanation": "除非 names the only condition that would change the outcome. Follow it with 不然 (spoken) or 否則 (written) for what happens otherwise, or with 才 for what the condition enables. It can also trail as an afterthought (…，除非你幫我).",
+    "contrast": "English 'unless' takes one clause; Chinese usually spells out 不然 / 否則. Taiwan speech prefers 不然; 要不 is mainland.",
+    "examples": [
+      {
+        "zh": "除非你先道歉，不然我不會理你。",
+        "en": "Unless you apologize first, I'm not talking to you."
+      },
+      {
+        "zh": "除非下大雨，否則活動照常舉行。",
+        "en": "Unless it rains heavily, the event will be held as scheduled."
+      },
+      {
+        "zh": "除非有預約，才可以進去參觀。",
+        "en": "You can go in for a visit only if you have a reservation."
+      },
+      {
+        "zh": "我今天做不完，除非有人幫我。",
+        "en": "I can't finish today — unless someone helps me."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Unless you have a better idea, we'll do it this way.",
+        "zh": "除非你有更好的辦法，不然就這樣做。"
+      },
+      {
+        "en": "I won't go unless you go too.",
+        "zh": "除非你也去，不然我不去。"
+      }
+    ]
+  },
+  {
+    "id": "g-028",
+    "title": "對啊 / 對對對 / 嘿啊 — agreeing while you listen",
+    "pattern": "對啊 ; 對對對 ; 嘿啊 / 嘿對 ; 真的 ; 沒錯",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "Taiwanese listeners show they're following with steady agreement tokens: 對啊 (yeah), 對對對 (yes, exactly — rapid), 嘿啊 / 嘿對 (Taiwanese-flavored 'yep'), 真的 (so true), 沒錯 (right). Staying silent while someone talks can feel cold; sprinkle these in.",
+    "contrast": "Mainland: 是啊 / 可不是嘛 / 沒錯兒 / 嗯嗯. 是啊 is less common in Taiwan than 對啊, and 可不是 isn't used.",
+    "examples": [
+      {
+        "zh": "對啊，我也是這樣想的。",
+        "en": "Yeah, that's what I think too."
+      },
+      {
+        "zh": "對對對，就是那家，在巷子裡面。",
+        "en": "Yes, yes, that's the one — inside the alley."
+      },
+      {
+        "zh": "嘿啊，最近真的什麼都在漲價。",
+        "en": "Yep, everything really is getting more expensive lately."
+      },
+      {
+        "zh": "真的，他每次都這樣。",
+        "en": "So true — he does that every time."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Yeah, the weather has been really weird lately.",
+        "zh": "對啊，最近天氣真的很怪。"
+      },
+      {
+        "en": "Yes, exactly, that's what I meant.",
+        "zh": "對對對，我就是這個意思。"
+      }
+    ]
+  },
+  {
+    "id": "g-029",
+    "title": "V / Adj + 到 + extent — 'so … that' (累到不行、笑到肚子痛)",
+    "pattern": "V/Adj + 到 + result clause ; Adj + 到不行 / 到爆",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "到 links a verb or adjective to the extreme it reaches: 笑到肚子痛 'laughed until my stomach hurt'. The fixed endings 到不行 and 到爆 just mean 'extremely'. In Taiwan 到 is used in most places where a textbook has the extent complement 得.",
+    "contrast": "Mainland/textbook: 累得不行 / 笑得肚子疼 / 忙得沒時間吃飯. Taiwanese strongly prefer 到 in speech; 得 here sounds bookish. …到爆 is slang.",
+    "examples": [
+      {
+        "zh": "我昨天加班到十一點，累到不行。",
+        "en": "I worked overtime until eleven yesterday and I'm completely wiped out."
+      },
+      {
+        "zh": "那部影片超好笑，我笑到肚子痛。",
+        "en": "That video was hilarious; I laughed until my stomach hurt."
+      },
+      {
+        "zh": "他忙到連午餐都沒時間吃。",
+        "en": "He's so busy he doesn't even have time for lunch."
+      },
+      {
+        "zh": "週末的夜市人多到爆。",
+        "en": "The night market is unbelievably packed on weekends."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I was so hungry I couldn't sleep.",
+        "zh": "我餓到睡不著。"
+      },
+      {
+        "en": "This cake is ridiculously good.",
+        "zh": "這個蛋糕好吃到不行。"
+      }
+    ]
+  },
+  {
+    "id": "g-030",
+    "title": "啊 (final) — engaged replies and 'as you know'",
+    "pattern": "對啊 / 好啊 / 有啊 / 沒有啊 ; statement + 啊 ; question + 啊",
+    "category": "particles",
+    "level": 1,
+    "explanation": "Final 啊 makes replies sound engaged: 好啊 (gladly), 對啊 (yeah), 有啊 / 會啊 (answering with a hint of 'of course'). After statements it implies 'as you should know' (我有跟你說啊); after questions it softens them (你要去哪裡啊？). In Taiwan it is written 啊 whatever the preceding sound.",
+    "contrast": "Mainland writing varies the particle by sound (好呀, 走哇, 難哪); Taiwanese rarely use 呀 / 哇 / 哪 this way. Minimal pair: 好 (neutral OK) vs 好啊 (sure, gladly).",
+    "examples": [
+      {
+        "zh": "好啊，那我們六點在捷運站見。",
+        "en": "Sure, let's meet at the MRT station at six then."
+      },
+      {
+        "zh": "對啊，我也覺得他最近怪怪的。",
+        "en": "Yeah, I also think he's been acting weird lately."
+      },
+      {
+        "zh": "我有跟你說啊，是你自己忘記的。",
+        "en": "I did tell you — you're the one who forgot."
+      },
+      {
+        "zh": "你怎麼這麼晚才回來啊？",
+        "en": "How come you're back so late?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Are you coming tomorrow? — Of course I am!",
+        "zh": "你明天會來嗎？——會啊！"
+      },
+      {
+        "en": "Who are you looking for?",
+        "zh": "你要找誰啊？"
+      }
+    ]
+  },
+  {
+    "id": "g-031",
+    "title": "如果…的話 / 要是 / 萬一 / 倘若 — the 'if' family",
+    "pattern": "如果/要是 … (的話)，就… ; 萬一 + unwanted event ; 倘若 / 假如 / 若 (written)",
+    "category": "structures",
+    "level": 1,
+    "explanation": "如果 and 要是 are the everyday 'if', often closed with 的話. 萬一 is 'in the unlikely but worrying event that' and is used only for bad possibilities. 倘若, 假如, 假使 and 若 are written. Taiwan speech favors 如果…的話 and 萬一.",
+    "contrast": "Northern bare 要 ('要下雨就不去了') is rare in Taiwan. ✗ 萬一我中樂透 — 萬一 isn't for hoped-for events.",
+    "examples": [
+      {
+        "zh": "如果你有空的話，可以幫我看一下嗎？",
+        "en": "If you're free, could you take a look for me?"
+      },
+      {
+        "zh": "要是早點出門，就不會遲到了。",
+        "en": "If we had left earlier, we wouldn't have been late."
+      },
+      {
+        "zh": "萬一下雨怎麼辦？要不要帶傘？",
+        "en": "What if it rains? Should we bring umbrellas?"
+      },
+      {
+        "zh": "倘若計畫失敗，後果將由誰承擔？",
+        "en": "Should the plan fail, who will bear the consequences?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "If I were you, I wouldn't go.",
+        "zh": "如果我是你，我就不會去。"
+      },
+      {
+        "en": "What if he doesn't agree?",
+        "zh": "萬一他不答應怎麼辦？"
+      }
+    ]
+  },
+  {
+    "id": "g-032",
+    "title": "很 + V — 很會、很愛、很敢、很常",
+    "pattern": "很 + 會/愛/敢/常 + V",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "很 freely modifies certain verbs in Taiwan speech: 很會 + V 'really good at', 很愛 + V 'always / loves to', 很敢 + V 'has the nerve to', 很常 + V 'does a lot'. 很會 can be praise or sarcasm (你很會欸), and 你很愛… is a common mild complaint.",
+    "contrast": "Mainland/textbook: 很擅長 / 特別喜歡 / 經常 / 真敢. ✗ 很常 is considered non-standard on the mainland (經常 / 常常) but is completely normal in Taiwan.",
+    "examples": [
+      {
+        "zh": "你很會煮欸，可以開店了。",
+        "en": "You're a great cook — you could open a restaurant."
+      },
+      {
+        "zh": "他很愛遲到，每次都說塞車。",
+        "en": "He's always late and blames traffic every time."
+      },
+      {
+        "zh": "你很敢講耶，不怕被主管聽到？",
+        "en": "You've got some nerve saying that — aren't you afraid the manager will hear?"
+      },
+      {
+        "zh": "我很常來這家早餐店。",
+        "en": "I come to this breakfast shop a lot."
+      }
+    ],
+    "practice": [
+      {
+        "en": "She's really good at taking photos.",
+        "zh": "她很會拍照。"
+      },
+      {
+        "en": "My mom loves to nag.",
+        "zh": "我媽很愛唸。"
+      }
+    ]
+  },
+  {
+    "id": "g-033",
+    "title": "於 — formal 'at / in / from / than'",
+    "pattern": "於 + time/place ; V + 於 ; Adj + 於 (comparison)",
+    "category": "formal-written",
+    "level": 1,
+    "explanation": "於 is the written all-purpose preposition: time and place (= 在: 於台北舉行), origin and target (畢業於, 有助於, 致力於), and comparison (高於, 低於). Essential for reading news and for writing formal emails and essays.",
+    "contrast": "Spoken: 在 / 從 / 對 / 比. 在於 is a different word meaning 'lies in'. Learners coming from simplified text must write 於 everywhere except in the surname.",
+    "examples": [
+      {
+        "zh": "記者會將於下午三點在台北舉行。",
+        "en": "The press conference will be held in Taipei at 3 p.m."
+      },
+      {
+        "zh": "她畢業於台灣大學外文系。",
+        "en": "She graduated from the Department of Foreign Languages at National Taiwan University."
+      },
+      {
+        "zh": "規律運動有助於改善睡眠品質。",
+        "en": "Regular exercise helps improve sleep quality."
+      },
+      {
+        "zh": "今年的降雨量明顯低於往年。",
+        "en": "This year's rainfall is clearly lower than in previous years."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The exhibition will open on March 1.",
+        "zh": "展覽將於三月一日開幕。"
+      },
+      {
+        "en": "Today's temperatures are higher than yesterday's.",
+        "zh": "今日氣溫高於昨日。"
+      }
+    ]
+  },
+  {
+    "id": "g-034",
+    "title": "哪有 — 'no way / that's not true / since when?'",
+    "pattern": "哪有 (+ clause / Adj)？ ; 哪有人… ; 哪有這樣的",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "哪有 rejects what was just said — a compliment, an accusation or a claim — like 'not at all' or 'that's not true'. On its own (哪有！) it is the standard protest. 哪有人… / 哪有這樣的 means 'who on earth does that?'.",
+    "contrast": "Mainland/textbook: 哪裡哪裡 for compliments, 沒有啊 for accusations. 哪裡哪裡 sounds old-fashioned in Taiwan; 哪有 or 沒有啦 is the natural deflection.",
+    "examples": [
+      {
+        "zh": "你變瘦了欸！——哪有，我還胖了兩公斤。",
+        "en": "You've lost weight! — No way, I actually gained two kilos."
+      },
+      {
+        "zh": "你每次都遲到。——哪有每次！",
+        "en": "You're late every time. — Not every time!"
+      },
+      {
+        "zh": "哪有人吃火鍋不加沙茶醬的？",
+        "en": "Who eats hot pot without shacha sauce?"
+      },
+      {
+        "zh": "哪有這麼好的事，一定有問題。",
+        "en": "Nothing is ever that good; there must be a catch."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Your Chinese is so good! — Not at all, I still have a long way to go.",
+        "zh": "你中文好好喔！——哪有，還差得遠。"
+      },
+      {
+        "en": "You never do the dishes. — That's not true! I did them yesterday.",
+        "zh": "你都不洗碗。——哪有！我昨天有洗。"
+      }
+    ]
+  },
+  {
+    "id": "g-035",
+    "title": "反正 — 'anyway / in any case'",
+    "pattern": "反正 + clause",
+    "category": "structures",
+    "level": 1,
+    "explanation": "反正 says that whatever else is true, this fact holds, so the conclusion follows. It often justifies a decision (反正我也沒事) or closes off further discussion (反正我不去).",
+    "contrast": "Don't use 反正 to change topic like English 'anyway…' (use 對了 / 總之). It always supplies a reason or a bottom line.",
+    "examples": [
+      {
+        "zh": "你慢慢來，反正時間還早。",
+        "en": "Take your time; it's still early anyway."
+      },
+      {
+        "zh": "反正我也沒事，我陪你去好了。",
+        "en": "I've got nothing to do anyway, so I'll go with you."
+      },
+      {
+        "zh": "信不信由你，反正我說的是真的。",
+        "en": "Believe it or not — either way, what I said is true."
+      },
+      {
+        "zh": "多買一點沒關係，反正會用到。",
+        "en": "It's fine to buy extra; we'll use it anyway."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let's walk; it's not far anyway.",
+        "zh": "我們用走的吧，反正不遠。"
+      },
+      {
+        "en": "Say what you like, I'm not going anyway.",
+        "zh": "隨便你怎麼說，反正我不去。"
+      }
+    ]
+  },
+  {
+    "id": "g-036",
+    "title": "吧 — suggestion, guess, reluctant acceptance",
+    "pattern": "clause + 吧 ; 應該…吧 ; 好吧 / 算了吧",
+    "category": "particles",
+    "level": 1,
+    "explanation": "吧 softens a suggestion (走吧), marks a guess you expect to be confirmed (你是新來的吧？), and shows grudging acceptance (好吧). 應該…吧 is the standard Taiwan hedge for 'probably'. Because Taiwanese often choose 好了 or 要不要 for suggestions, 吧 can sound a little more decisive.",
+    "contrast": "Northern Mandarin uses 吧 very heavily, including for mild commands (你去吧). Minimal pairs: 好啊 (happy yes) vs 好吧 (reluctant yes); 走吧 (let's go) vs 走啦 (come on, let's go already).",
+    "examples": [
+      {
+        "zh": "時間差不多了，我們走吧。",
+        "en": "It's about time; let's go."
+      },
+      {
+        "zh": "你應該還沒吃晚餐吧？",
+        "en": "You probably haven't had dinner yet, have you?"
+      },
+      {
+        "zh": "好吧，那就照你說的做。",
+        "en": "All right then, we'll do it your way."
+      },
+      {
+        "zh": "他應該快到了吧，再等一下。",
+        "en": "He should be here soon, I guess; let's wait a bit more."
+      }
+    ],
+    "practice": [
+      {
+        "en": "You're Professor Chen's student, aren't you?",
+        "zh": "你是陳老師的學生吧？"
+      },
+      {
+        "en": "It should be fine, I guess.",
+        "zh": "應該沒問題吧。"
+      }
+    ]
+  },
+  {
+    "id": "g-037",
+    "title": "…好了 — deciding or suggesting 'let's just…'",
+    "pattern": "(那 / 不然 +) clause + 好了",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "Clause-final 好了 presents an option as the decision you've settled on or as a casual suggestion: 'let's just…', 'I'll go with…'. It signals 'this is good enough, let's move on', so it is the usual way to order, choose, or propose a compromise.",
+    "contrast": "Mainland speakers more often use …吧 or 那就…吧. Don't confuse it with completive 好了 (飯煮好了 'the rice is done') or 好了啦 'enough already'.",
+    "examples": [
+      {
+        "zh": "那我點牛肉麵好了。",
+        "en": "I'll just have the beef noodles then."
+      },
+      {
+        "zh": "下雨了，我們搭計程車好了。",
+        "en": "It's raining; let's just take a taxi."
+      },
+      {
+        "zh": "不然你先回家好了，剩下的我來。",
+        "en": "How about you head home first; I'll handle the rest."
+      },
+      {
+        "zh": "算了，我自己去好了。",
+        "en": "Forget it, I'll just go by myself."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let's just order delivery.",
+        "zh": "我們叫外送好了。"
+      },
+      {
+        "en": "Then I'll take the large one.",
+        "zh": "那我要大杯的好了。"
+      }
+    ]
+  },
+  {
+    "id": "g-038",
+    "title": "是喔 / 真的假的 — reacting to news",
+    "pattern": "是喔 ; 真的假的？/ 真假？ ; 不會吧 ; 也太…了吧",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "是喔 ('oh really? / I see') acknowledges new information — a flat tone can sound uninterested, a rising tone shows surprise. 真的假的 / 真假 means 'seriously?!'. 不會吧 is 'no way', and 也太…了吧 exclaims that something is over the top.",
+    "contrast": "Mainland: 是嗎？/ 真的嗎？/ 不是吧. 是嗎 can sound doubtful in Taiwan; 是喔 is the neutral receipt of news.",
+    "examples": [
+      {
+        "zh": "是喔，我都不知道他結婚了。",
+        "en": "Oh really? I had no idea he got married."
+      },
+      {
+        "zh": "真的假的？他發票中了兩百萬？",
+        "en": "Seriously? He won two million in the receipt lottery?"
+      },
+      {
+        "zh": "不會吧，又要改時間喔？",
+        "en": "No way — the time's changing again?"
+      },
+      {
+        "zh": "這也太便宜了吧，哪裡買的？",
+        "en": "That's ridiculously cheap — where did you buy it?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Oh really? I thought you were still in Kaohsiung.",
+        "zh": "是喔，我以為你還在高雄。"
+      },
+      {
+        "en": "Seriously? Are you kidding me?",
+        "zh": "真的假的？你在開玩笑嗎？"
+      }
+    ]
+  },
+  {
+    "id": "g-039",
+    "title": "到底 / 究竟 — pressing for an answer",
+    "pattern": "(S) 到底 / 究竟 + wh-question / A-not-A",
+    "category": "structures",
+    "level": 1,
+    "explanation": "到底 presses for a definite answer: 'what on earth…', '…or not, exactly?'. It goes before the question word or verb and can't be combined with 嗎. 究竟 is the formal equivalent seen in headlines and essays.",
+    "contrast": "✗ 你到底去嗎？ → 你到底去不去？ The subject precedes 到底 unless the subject is itself the question word (到底誰…).",
+    "examples": [
+      {
+        "zh": "你到底要不要去？給我一個答案。",
+        "en": "Are you going or not? Give me an answer."
+      },
+      {
+        "zh": "他到底在想什麼，我真的不懂。",
+        "en": "I really don't get what on earth he's thinking."
+      },
+      {
+        "zh": "到底是誰把冷氣關掉的？",
+        "en": "Who on earth turned off the AC?"
+      },
+      {
+        "zh": "問題究竟出在哪裡，目前仍不清楚。",
+        "en": "Where exactly the problem lies is still unclear."
+      }
+    ],
+    "practice": [
+      {
+        "en": "What on earth happened?",
+        "zh": "到底發生什麼事了？"
+      },
+      {
+        "en": "Do you like him or not?",
+        "zh": "你到底喜不喜歡他？"
+      }
+    ]
+  },
+  {
+    "id": "g-040",
+    "title": "…而已 — 'that's all / only'",
+    "pattern": "(只 / 才 / 就) … + 而已",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "Sentence-final 而已 minimizes: 'only', 'nothing more than'. It often teams up with 只, 才 or 就 and is far more common in Taiwan speech than 罷了. Use it to downplay prices, quantities, effort and intentions.",
+    "contrast": "Mainland casual speech tends to use 就… / 才…呢 / …罷了 and uses 而已 less. Learners say only 只…, which sounds unfinished to Taiwanese ears.",
+    "examples": [
+      {
+        "zh": "我只是問一下而已，你不要緊張。",
+        "en": "I was just asking; don't get nervous."
+      },
+      {
+        "zh": "這杯才三十五塊而已，很划算。",
+        "en": "This cup is only thirty-five NT; it's a great deal."
+      },
+      {
+        "zh": "走路五分鐘而已，不用騎車。",
+        "en": "It's just a five-minute walk; no need to ride the scooter."
+      },
+      {
+        "zh": "我們是朋友而已，你想太多了。",
+        "en": "We're just friends; you're reading too much into it."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I only slept four hours last night.",
+        "zh": "我昨天晚上只睡四個小時而已。"
+      },
+      {
+        "en": "It's nothing, just a little cold.",
+        "zh": "沒什麼，小感冒而已。"
+      }
+    ]
+  },
+  {
+    "id": "g-041",
+    "title": "跟 + 人 + 講 / 說 — the everyday 'tell'",
+    "pattern": "跟 + person + 講/說 (+ content)",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "In Taiwan the normal way to say 'tell someone' is 跟 + person + 講/說; 告訴 exists but feels more formal or serious. 講 is at least as common as 說 in casual speech. The person must be introduced by 跟, never placed directly after 說.",
+    "contrast": "Textbook: 告訴他 / 對他說. ✗ 說他 means 'scold him', and 告訴 can't take 跟. 告訴 is used far more casually on the mainland than in Taiwan.",
+    "examples": [
+      {
+        "zh": "你到了再跟我講，我下去接你。",
+        "en": "Tell me when you get here and I'll come down to get you."
+      },
+      {
+        "zh": "這件事你先不要跟別人說。",
+        "en": "Don't tell anyone else about this for now."
+      },
+      {
+        "zh": "你有跟老闆說你明天要請假嗎？",
+        "en": "Did you tell the boss you're taking tomorrow off?"
+      },
+      {
+        "zh": "他沒有跟我講他要搬家。",
+        "en": "He didn't tell me he was moving."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Why didn't you tell me earlier?",
+        "zh": "你怎麼不早點跟我講？"
+      },
+      {
+        "en": "I'll tell him tomorrow.",
+        "zh": "我明天再跟他說。"
+      }
+    ]
+  },
+  {
+    "id": "g-042",
+    "title": "果然 vs 居然 / 竟然 — expected vs unexpected",
+    "pattern": "S + 果然 + as expected ; S + 居然/竟然 + contrary to expectation",
+    "category": "structures",
+    "level": 1,
+    "explanation": "果然 confirms an expectation ('sure enough'); 居然 and 竟然 say that something goes against expectation ('actually', 'to my surprise'). 竟然 is slightly more written and 居然 more spoken, but Taiwanese use both in conversation.",
+    "contrast": "Learners use 竟然 for both; if you predicted it, use 果然. In casual Taiwan speech 沒想到 often does the job of 居然.",
+    "examples": [
+      {
+        "zh": "我就知道會塞車，果然塞了一個小時。",
+        "en": "I knew there'd be traffic, and sure enough we were stuck for an hour."
+      },
+      {
+        "zh": "他居然忘了今天是我的生日。",
+        "en": "He actually forgot that today is my birthday."
+      },
+      {
+        "zh": "這麼難的考試，她竟然考了滿分。",
+        "en": "Such a hard exam, and she got a perfect score."
+      },
+      {
+        "zh": "你果然在這裡，我找你好久。",
+        "en": "So you are here after all — I've been looking for you for ages."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Sure enough, it started raining.",
+        "zh": "果然下雨了。"
+      },
+      {
+        "en": "I can't believe you've never had stinky tofu.",
+        "zh": "你居然沒吃過臭豆腐。"
+      }
+    ]
+  },
+  {
+    "id": "g-043",
+    "title": "嘛 — 'obviously', coaxing, and topic pause",
+    "pattern": "clause + 嘛 ; request + 嘛 ; topic + 嘛，…",
+    "category": "particles",
+    "level": 1,
+    "explanation": "嘛 presents something as self-evident or as the natural reason (他是新人嘛, 我就說嘛). With requests it coaxes or pleads (陪我去嘛). After a topic it marks a thoughtful pause (這個嘛，…). The tone ranges from cute to mildly impatient.",
+    "contrast": "Don't confuse it with question 嗎. Minimal pair: 他是新人 (he's new) vs 他是新人嘛 (well, he's new — what do you expect). The coaxing use is especially common in Taiwan.",
+    "examples": [
+      {
+        "zh": "他還是新人嘛，慢慢教就好。",
+        "en": "He's still new, after all; just teach him slowly."
+      },
+      {
+        "zh": "我就說嘛，這條路一定會塞車。",
+        "en": "See, I told you this road would be jammed."
+      },
+      {
+        "zh": "陪我去嘛，一個人逛很無聊。",
+        "en": "Come with me, please — shopping alone is boring."
+      },
+      {
+        "zh": "這個嘛，我要回去問一下主管。",
+        "en": "Well, about that — I'll have to go back and ask my manager."
+      }
+    ],
+    "practice": [
+      {
+        "en": "It's a holiday, after all; of course it's crowded.",
+        "zh": "放假嘛，人當然多。"
+      },
+      {
+        "en": "Come on, just one bite!",
+        "zh": "吃一口嘛！"
+      }
+    ]
+  },
+  {
+    "id": "g-044",
+    "title": "幫我 + V — the polite request frame",
+    "pattern": "(可以) 幫我 + V (+ 一下) (+ 嗎)？",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "Taiwanese frame requests as 幫我 + verb, literally 'help me V', even when the listener does the whole thing: 幫我開一下門 'could you open the door'. With 可以…嗎 or 一下 it is the default polite request to staff, coworkers and strangers. Staff mirror it back as 幫您….",
+    "contrast": "Mainland/textbook: 請你… / 麻煩你… / 給我…. 請 + V is correct but sounds like a written instruction in Taiwan; 給我… sounds rude.",
+    "examples": [
+      {
+        "zh": "可以幫我拍一張照嗎？",
+        "en": "Could you take a picture for me?"
+      },
+      {
+        "zh": "幫我開一下冷氣，謝謝。",
+        "en": "Turn on the AC for me, thanks."
+      },
+      {
+        "zh": "不好意思，可以幫我加熱嗎？",
+        "en": "Excuse me, could you heat this up for me?"
+      },
+      {
+        "zh": "這邊幫您結帳喔。",
+        "en": "I'll ring you up over here."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Could you hold this for me for a second?",
+        "zh": "可以幫我拿一下嗎？"
+      },
+      {
+        "en": "Half sugar, no ice, please.",
+        "zh": "幫我做半糖去冰，謝謝。"
+      }
+    ]
+  },
+  {
+    "id": "g-045",
+    "title": "我跟你講 / 我跟你說 — 'let me tell you'",
+    "pattern": "我跟你講/說 (喔 / 啦)，… ; 跟你講一件事",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "This opener claims the floor before gossip, advice, a complaint or an emphatic opinion: 'listen, this is worth hearing'. Variants: 我跟你說喔 (confiding), 跟你講一件事 (I've got news), 我跟你講啦 (insisting).",
+    "contrast": "Mainland: 我告訴你 / 跟你說個事兒. 我告訴你 can sound like a warning in Taiwan; 我跟你講 is friendlier.",
+    "examples": [
+      {
+        "zh": "我跟你講，那家牛肉麵真的不要錯過。",
+        "en": "I'm telling you, do not miss that beef noodle place."
+      },
+      {
+        "zh": "我跟你說喔，我下個月要換工作了。",
+        "en": "Guess what — I'm changing jobs next month."
+      },
+      {
+        "zh": "跟你講一件事，你不要生氣。",
+        "en": "I need to tell you something; don't be mad."
+      },
+      {
+        "zh": "我跟你講啦，他不會來的。",
+        "en": "I'm telling you, he's not going to come."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let me tell you, this is the best bubble tea in Taipei.",
+        "zh": "我跟你講，這是全台北最好喝的珍奶。"
+      },
+      {
+        "en": "I have something to tell you.",
+        "zh": "我跟你說一件事。"
+      }
+    ]
+  },
+  {
+    "id": "g-046",
+    "title": "順便 — 'while you're at it'",
+    "pattern": "(V1，) 順便 + V2 ; 可以順便幫我…嗎？",
+    "category": "structures",
+    "level": 1,
+    "explanation": "順便 means doing a second thing conveniently while doing the first. It is also a polite way to ask a favor that costs little extra effort. Related: 順路 'on one's route', 順手 'with a free hand'.",
+    "contrast": "✗ 順便說一下 for 'by the way' is unnatural — use 對了. Mainland also has 捎帶 / 順道.",
+    "examples": [
+      {
+        "zh": "你去便利商店的話，順便幫我買咖啡。",
+        "en": "If you're going to the convenience store, grab me a coffee while you're at it."
+      },
+      {
+        "zh": "我去台中出差，順便找朋友吃飯。",
+        "en": "I went to Taichung on business and took the chance to eat with a friend."
+      },
+      {
+        "zh": "出門的時候順便把垃圾拿去丟。",
+        "en": "Take the trash out on your way out."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Could you pick up my package on your way?",
+        "zh": "你可以順便幫我拿包裹嗎？"
+      },
+      {
+        "en": "I went to the bank and stopped by the post office too.",
+        "zh": "我去銀行，順便去了郵局。"
+      }
+    ]
+  },
+  {
+    "id": "g-047",
+    "title": "可以…嗎 / 方便…嗎 — asking permission and favors",
+    "pattern": "可以 + V + 嗎？ ; 可不可以 + V？ ; 方便 + V + 嗎？",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "可以…嗎 is the all-purpose Taiwan frame for asking permission and making requests; 可不可以 is a bit more insistent or pleading. 方便…嗎 is the courteous version for asking about someone's time or information. Usual answers: 可以啊 / 好啊 / 不好意思，可能沒辦法.",
+    "contrast": "Mainland/textbook also uses 能…嗎 / 能不能 / 行嗎. In Taiwan 能不能 is less common in speech, and answering 行 / 不行 sounds mainland (Taiwan: 可以 / 不行 only for a firm no).",
+    "examples": [
+      {
+        "zh": "請問這裡可以刷卡嗎？",
+        "en": "Excuse me, can I pay by card here?"
+      },
+      {
+        "zh": "我可以坐這裡嗎？",
+        "en": "May I sit here?"
+      },
+      {
+        "zh": "你可不可以講慢一點？我聽不太懂。",
+        "en": "Could you speak a bit slower? I can't quite follow."
+      },
+      {
+        "zh": "請問現在方便講電話嗎？",
+        "en": "Is now a good time to talk on the phone?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Can I try this on?",
+        "zh": "這件可以試穿嗎？"
+      },
+      {
+        "en": "Would it be okay to add you on LINE?",
+        "zh": "方便加你的 LINE 嗎？"
+      }
+    ]
+  },
+  {
+    "id": "g-048",
+    "title": "要不要 + V — offers and suggestions",
+    "pattern": "(你) 要不要 + V (+ O)？ ; 要不要我 + V？",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "要不要 turns a suggestion or offer into a low-pressure question: 'want to…?', 'how about…?'. Taiwanese use it where English uses 'you should' or 'let's', which keeps advice from sounding pushy. It also works as a gentle hint (你要不要先休息一下？).",
+    "contrast": "Mainland/textbook: …吧 / 你應該… / 你想不想…. Direct 你應該 advice sounds bossy in Taiwan; 要不要 is the polite default.",
+    "examples": [
+      {
+        "zh": "你要不要喝點什麼？",
+        "en": "Would you like something to drink?"
+      },
+      {
+        "zh": "下班要不要一起去吃火鍋？",
+        "en": "Want to get hot pot together after work?"
+      },
+      {
+        "zh": "你臉色不太好，要不要去看醫生？",
+        "en": "You don't look well — maybe you should see a doctor?"
+      },
+      {
+        "zh": "要不要我幫你訂位？",
+        "en": "Do you want me to book a table for you?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Do you want to come with us?",
+        "zh": "你要不要跟我們一起去？"
+      },
+      {
+        "en": "Maybe you should ask him directly?",
+        "zh": "你要不要直接問他？"
+      }
+    ]
+  },
+  {
+    "id": "g-049",
+    "title": "囉 — breezy announcement of a new situation",
+    "pattern": "clause + 囉",
+    "category": "particles",
+    "level": 1,
+    "explanation": "囉 announces that something is now happening or settled in a light, upbeat tone: 走囉, 開動囉, 那就這樣囉. It works like 了 plus friendliness and is frequent in service talk, with children, and when wrapping up. It can also mark a resigned conclusion (只好等囉).",
+    "contrast": "Mainland: 了 / 嘍 / 咯. Minimal pair: 我走了 (neutral 'I'm off') vs 我走囉 (breezy 'off I go!'). Too much 囉 with superiors sounds overly cute.",
+    "examples": [
+      {
+        "zh": "我先下班囉，大家明天見。",
+        "en": "I'm off work now — see you all tomorrow."
+      },
+      {
+        "zh": "菜都上齊了，可以開動囉。",
+        "en": "All the dishes are here; we can dig in."
+      },
+      {
+        "zh": "那就這樣囉，我們禮拜五見。",
+        "en": "So that's settled then; see you Friday."
+      },
+      {
+        "zh": "沒有位子的話，只好外帶囉。",
+        "en": "If there are no seats, I guess we'll just get takeout."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Time to get up!",
+        "zh": "起床囉！"
+      },
+      {
+        "en": "Then I'm going to place the order now!",
+        "zh": "那我要訂囉！"
+      }
+    ]
+  },
+  {
+    "id": "g-050",
+    "title": "趁 — 'while the chance lasts'",
+    "pattern": "趁 (著) + opportunity / time + VP",
+    "category": "structures",
+    "level": 1,
+    "explanation": "趁 means taking advantage of a moment or condition before it passes: 趁熱吃, 趁年輕, 趁他不在. 趁早 is 'as early as possible'; 趁機 is 'seize the opportunity', often slyly.",
+    "contrast": "Learners say 當…的時候, which loses the 'before it's too late' urgency. The 趁-phrase comes before the main verb.",
+    "examples": [
+      {
+        "zh": "趁熱吃，冷掉就不好吃了。",
+        "en": "Eat it while it's hot; it won't taste good once it's cold."
+      },
+      {
+        "zh": "我想趁年輕多去幾個國家看看。",
+        "en": "I want to see more countries while I'm still young."
+      },
+      {
+        "zh": "趁現在沒下雨，趕快去收衣服。",
+        "en": "While it's not raining, hurry and bring in the laundry."
+      },
+      {
+        "zh": "趁週年慶打折，我買了一台氣炸鍋。",
+        "en": "I took advantage of the anniversary sale to buy an air fryer."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let's leave while the traffic is light.",
+        "zh": "趁現在車少，我們趕快出發。"
+      },
+      {
+        "en": "Get some sleep while the baby is sleeping.",
+        "zh": "趁小孩在睡覺，你也睡一下。"
+      }
+    ]
+  },
+  {
+    "id": "g-051",
+    "title": "對不對 / 好不好 / 是不是 — tag questions",
+    "pattern": "statement + 對不對？/ 好不好？ ; S + 是不是 + VP？",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "These tags turn a statement into a check for agreement. 對不對 seeks confirmation ('right?'); 好不好 softens a request or, in an annoyed tone, rebuts ('come on, I am listening'); 是不是 checks an inference and can sit mid-sentence. Taiwanese use them more than 吧 for these jobs.",
+    "contrast": "Mainland speakers lean on …吧？/ …是吧？/ …行嗎？ The defensive 好不好 (我很認真好不好) and 對不對 as a rhythm filler in explanations are especially Taiwanese.",
+    "examples": [
+      {
+        "zh": "你是台中人，對不對？",
+        "en": "You're from Taichung, right?"
+      },
+      {
+        "zh": "我們明天再討論，好不好？",
+        "en": "Let's discuss it tomorrow, OK?"
+      },
+      {
+        "zh": "我有在聽好不好，你不要亂講。",
+        "en": "I am listening, OK? Don't make stuff up."
+      },
+      {
+        "zh": "你是不是忘了帶鑰匙？",
+        "en": "Did you forget your keys?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "This one is cuter, right?",
+        "zh": "這個比較可愛，對不對？"
+      },
+      {
+        "en": "Stop looking at your phone, OK?",
+        "zh": "不要再滑手機了，好不好？"
+      }
+    ]
+  },
+  {
+    "id": "g-052",
+    "title": "差點 (沒) — 'almost / nearly'",
+    "pattern": "差點 (就) + V ; 差點沒 + V",
+    "category": "structures",
+    "level": 1,
+    "explanation": "差點 says something nearly happened but didn't. For unwanted events, 差點 and 差點沒 mean the same: 差點(沒)遲到 = 'almost late'. For wanted events they differ: 差點趕上 = 'just missed it', 差點沒趕上 = 'barely made it'. Taiwan says 差點 or 差一點.",
+    "contrast": "Mainland: 差點兒. The 沒 asymmetry trips learners up — check whether the event was wanted. When unsure, use 差點 + bad event.",
+    "examples": [
+      {
+        "zh": "我今天早上差點遲到。",
+        "en": "I was almost late this morning."
+      },
+      {
+        "zh": "剛剛好險，差點被機車撞到。",
+        "en": "That was close — I almost got hit by a scooter."
+      },
+      {
+        "zh": "我差點沒趕上最後一班捷運。",
+        "en": "I barely made the last MRT train."
+      },
+      {
+        "zh": "他差一點就考上台大了。",
+        "en": "He came very close to getting into NTU (but didn't)."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I almost forgot to bring my passport.",
+        "zh": "我差點忘了帶護照。"
+      },
+      {
+        "en": "I nearly fell asleep in the meeting.",
+        "zh": "我開會的時候差點睡著。"
+      }
+    ]
+  },
+  {
+    "id": "g-053",
+    "title": "其實 — 'actually' as a softener",
+    "pattern": "其實 + clause ; 其實也還好 / 其實都可以",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "其實 introduces what you really think or what is really the case, gently correcting an assumption. Taiwanese use it very often to make disagreement, confession or advice sound considered: 其實我覺得…, 其實也沒有那麼難. 其實還好 means 'it's actually no big deal'.",
+    "contrast": "Learners reach for 實際上 or 事實上, which are heavier and written. Mainland 其實 is the same word but less of a habitual softener.",
+    "examples": [
+      {
+        "zh": "其實我不太喜歡吃香菜。",
+        "en": "Actually, I'm not that fond of cilantro."
+      },
+      {
+        "zh": "其實也沒有那麼遠，騎車十分鐘就到了。",
+        "en": "It's actually not that far — ten minutes by scooter."
+      },
+      {
+        "zh": "我其實有點緊張，只是看不出來。",
+        "en": "I'm actually a bit nervous; it just doesn't show."
+      },
+      {
+        "zh": "其實你可以直接跟他講。",
+        "en": "You could actually just tell him directly."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Actually, I've never been to Hualien.",
+        "zh": "其實我從來沒去過花蓮。"
+      },
+      {
+        "en": "It's actually pretty simple.",
+        "zh": "其實還蠻簡單的。"
+      }
+    ]
+  },
+  {
+    "id": "g-054",
+    "title": "V + 一下 — softening a request or action",
+    "pattern": "V + 一下 (+ O) ; 等一下 (= later)",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "V + 一下 makes an action sound brief and light, so requests and announcements are less abrupt: 看一下, 借過一下, 等我一下. In Taiwan it is added almost by reflex in polite speech and service talk. 等一下 additionally means 'in a bit, later' (我等一下再吃).",
+    "contrast": "Mainland speech also uses V + 一 + V and 兒-forms (等會兒, 一會兒), which Taiwanese don't say. ✗ 等一會兒 → 等一下.",
+    "examples": [
+      {
+        "zh": "不好意思，借過一下。",
+        "en": "Excuse me, coming through."
+      },
+      {
+        "zh": "你等我一下，我馬上好。",
+        "en": "Wait for me a sec; I'll be ready right away."
+      },
+      {
+        "zh": "這份資料可以幫我看一下嗎？",
+        "en": "Could you take a look at this document for me?"
+      },
+      {
+        "zh": "我等一下要開會，晚點回你。",
+        "en": "I have a meeting in a bit; I'll get back to you later."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let me think for a moment.",
+        "zh": "讓我想一下。"
+      },
+      {
+        "en": "Could you come over here for a second?",
+        "zh": "你可以過來一下嗎？"
+      }
+    ]
+  },
+  {
+    "id": "g-055",
+    "title": "與 / 及 / 以及 / 並 — the written 'and's",
+    "pattern": "N + 與/及/以及 + N ; V1 …，並 (且) + V2",
+    "category": "formal-written",
+    "level": 1,
+    "explanation": "Written Chinese distinguishes its 'and's: 與 joins two nouns (also 'with'); 及 and 以及 add items to a list, with 以及 able to join longer phrases before the last item; 並 / 並且 joins verbs or clauses that share a subject. Spoken 跟 and 和 are avoided in formal text.",
+    "contrast": "Spoken Taiwan: 跟 (most common) and 和. ✗ Joining verbs with 和 / 與 (✗ 檢討制度和提出方案 → 並). Taiwan news strongly prefers 與 and 及.",
+    "examples": [
+      {
+        "zh": "本活動歡迎學生與社會人士參加。",
+        "en": "This event welcomes both students and working adults."
+      },
+      {
+        "zh": "請攜帶身分證及健保卡辦理。",
+        "en": "Please bring your ID card and health insurance card to apply."
+      },
+      {
+        "zh": "政府將檢討現行制度，並提出改善方案。",
+        "en": "The government will review the current system and put forward improvements."
+      },
+      {
+        "zh": "會中討論了預算、人力以及時程。",
+        "en": "The meeting covered budget, staffing and the schedule."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Please fill in your name and phone number. (form)",
+        "zh": "請填寫姓名及電話。"
+      },
+      {
+        "en": "The company will investigate the cause and announce the results.",
+        "zh": "公司將調查原因，並公佈結果。"
+      }
+    ]
+  },
+  {
+    "id": "g-056",
+    "title": "蛤 — 'huh? / what?'",
+    "pattern": "蛤？ ; 蛤，+ clause",
+    "category": "particles",
+    "level": 1,
+    "explanation": "蛤 (há, rising) is the everyday Taiwan 'huh?' when you didn't catch something or can't believe it. It is not rude among friends and family, though with elders, customers or bosses 不好意思，你說什麼？ is safer. Drawn out, it shows dismay.",
+    "contrast": "Mainland: 啊？/ 什麼？ Mainland visitors sometimes hear 蛤 as rude; in Taiwan it is neutral in casual settings.",
+    "examples": [
+      {
+        "zh": "蛤？你說什麼？這裡太吵了。",
+        "en": "Huh? What did you say? It's too noisy here."
+      },
+      {
+        "zh": "蛤，明天還要上班喔？",
+        "en": "What, we still have to work tomorrow?"
+      },
+      {
+        "zh": "蛤？他們分手了？什麼時候的事？",
+        "en": "What? They broke up? When did that happen?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Huh? I didn't hear you. Say it again.",
+        "zh": "蛤？我沒聽到，你再講一次。"
+      },
+      {
+        "en": "What? It's sold out already?",
+        "zh": "蛤？已經賣完了喔？"
+      }
+    ]
+  },
+  {
+    "id": "g-057",
+    "title": "好不容易 — 'finally, after a lot of trouble'",
+    "pattern": "好不容易 + 才 + V",
+    "category": "structures",
+    "level": 1,
+    "explanation": "好不容易 means 'with great difficulty, at long last'. It normally pairs with 才 and is often followed by a 'but then…' twist. It means the same as 好容易, though Taiwanese almost always say 好不容易.",
+    "contrast": "It is an adverb, not a predicate meaning 'very hard' (✗ 這個工作好不容易 → 這個工作很不容易).",
+    "examples": [
+      {
+        "zh": "我好不容易才買到演唱會的票。",
+        "en": "I finally managed to get concert tickets after a lot of trouble."
+      },
+      {
+        "zh": "好不容易放假，結果整天都在下雨。",
+        "en": "I finally got a day off, and it ended up raining all day."
+      },
+      {
+        "zh": "小孩好不容易才睡著，你小聲一點。",
+        "en": "The kid finally fell asleep, so keep it down."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I finally found a parking space.",
+        "zh": "我好不容易才找到停車位。"
+      },
+      {
+        "en": "I finally finished it, and now you say you don't want it?",
+        "zh": "我好不容易才做完，你說不要了？"
+      }
+    ]
+  },
+  {
+    "id": "g-058",
+    "title": "不然 — 'otherwise' and 'or how about…'",
+    "pattern": "…，不然 + consequence ; 不然 + suggestion (+ 好了)",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "不然 has two everyday jobs: warning of the consequence if something isn't done ('otherwise'), and floating an alternative ('or how about…', often with 好了). 要不然 is a slightly longer variant. It is the normal spoken choice in Taiwan; 否則 is written.",
+    "contrast": "Mainland speech uses 要不 / 要不然 / 不然的話; 要不 as a suggestion-opener is rare in Taiwan.",
+    "examples": [
+      {
+        "zh": "快點出門，不然會趕不上高鐵。",
+        "en": "Hurry up and leave, or we'll miss the high-speed rail."
+      },
+      {
+        "zh": "不然我們改天再約好了。",
+        "en": "How about we just meet another day instead."
+      },
+      {
+        "zh": "還好你有提醒我，不然我就忘了。",
+        "en": "Good thing you reminded me, otherwise I'd have forgotten."
+      },
+      {
+        "zh": "這家沒位子，不然去對面那家？",
+        "en": "This place is full — how about the one across the street?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Bring a jacket, otherwise you'll catch a cold.",
+        "zh": "帶件外套，不然會感冒。"
+      },
+      {
+        "en": "Or how about I go pick it up for you?",
+        "zh": "不然我去幫你拿好了。"
+      }
+    ]
+  },
+  {
+    "id": "g-059",
+    "title": "難怪 — 'no wonder'",
+    "pattern": "難怪 + clause ; 難怪！",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "難怪 marks a sudden realization that explains something you had noticed. It often stands alone as a response (難怪！). Taiwanese say 難怪 in speech; 怪不得 is understood but much less common.",
+    "contrast": "Mainland/textbook: 怪不得 / 難怪. In Taiwan 怪不得 sounds bookish or mainland.",
+    "examples": [
+      {
+        "zh": "原來今天放假，難怪捷運上沒什麼人。",
+        "en": "Oh, today's a holiday — no wonder the MRT is so empty."
+      },
+      {
+        "zh": "你昨天三點才睡？難怪一直打哈欠。",
+        "en": "You went to bed at three? No wonder you keep yawning."
+      },
+      {
+        "zh": "他是廚師喔？難怪這麼會煮。",
+        "en": "He's a chef? No wonder he cooks so well."
+      }
+    ],
+    "practice": [
+      {
+        "en": "No wonder you're so tired.",
+        "zh": "難怪你這麼累。"
+      },
+      {
+        "en": "He lived in Japan for five years. — No wonder his Japanese is so good.",
+        "zh": "他在日本住了五年。——難怪他日文這麼好。"
+      }
+    ]
+  },
+  {
+    "id": "g-060",
+    "title": "V來V去 — 'back and forth, over and over'",
+    "pattern": "V + 來 + V + 去 (，還是/都/也 …)",
+    "category": "structures",
+    "level": 1,
+    "explanation": "V來V去 describes doing something repeatedly or back and forth, usually without a satisfying result: 想來想去 'thinking it over and over', 找來找去 'looking everywhere'. It is normally followed by the outcome, often with 還是 or 都.",
+    "contrast": "It can't take an object directly (✗ 想來想去這個問題); put the object first or in the next clause.",
+    "examples": [
+      {
+        "zh": "我想來想去，還是覺得不要辭職。",
+        "en": "I've thought it over and over, and I still think I shouldn't quit."
+      },
+      {
+        "zh": "逛來逛去，最後什麼都沒買。",
+        "en": "We browsed around and around and ended up buying nothing."
+      },
+      {
+        "zh": "他們講來講去都是那幾句話。",
+        "en": "They keep saying the same few things over and over."
+      },
+      {
+        "zh": "找來找去都找不到我的鑰匙。",
+        "en": "I've looked everywhere and can't find my keys."
+      }
+    ],
+    "practice": [
+      {
+        "en": "After comparing them again and again, I still like the first one best.",
+        "zh": "比來比去，我還是最喜歡第一個。"
+      },
+      {
+        "en": "The kids are running around in the living room.",
+        "zh": "小孩在客廳跑來跑去。"
+      }
+    ]
+  },
+  {
+    "id": "g-061",
+    "title": "Softening a refusal — 可能沒辦法欸 / 我再看看",
+    "pattern": "可能沒辦法欸/耶 ; 不太方便 ; 我再看看 / 我再考慮一下 ; 下次吧 / 改天",
+    "category": "discourse",
+    "level": 1,
+    "explanation": "Taiwanese rarely refuse with a bare 不行 or 不要. Typical moves: hedge with 可能 + 沒辦法 + 欸/耶, cite inconvenience (不太方便), defer (我再看看, 我考慮一下, 改天), or thank first (謝謝，不用了). Learn to hear 我再看看 and 下次吧 as a probable 'no'.",
+    "contrast": "Mainland refusals can be more direct: 不行 / 不了 / 去不了. A direct 我不要 or 不行 sounds harsh in Taiwan outside close relationships; in shops say 我再看看, not 不買.",
+    "examples": [
+      {
+        "zh": "禮拜六喔？我可能沒辦法欸，要加班。",
+        "en": "Saturday? I probably can't make it — I have to work."
+      },
+      {
+        "zh": "不好意思，我今天不太方便。",
+        "en": "Sorry, today's not really convenient for me."
+      },
+      {
+        "zh": "謝謝，我再看看，有需要再跟你說。",
+        "en": "Thanks, I'll keep looking and let you know if I need anything."
+      },
+      {
+        "zh": "這次先不用了，下次再約吧。",
+        "en": "I'll pass this time; let's do it another time."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'm afraid I can't make it tomorrow night.",
+        "zh": "明天晚上我可能沒辦法欸。"
+      },
+      {
+        "en": "Thanks, but I'll think about it some more.",
+        "zh": "謝謝，我再考慮一下。"
+      }
+    ]
+  },
+  {
+    "id": "g-062",
+    "title": "還好 — 'it's okay / not really / luckily'",
+    "pattern": "還好 (啦 / 欸) ; 還好 + clause",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "As a reply, 還好 is a lukewarm 'so-so / not especially', often a polite way to disagree with 'is it expensive / hard / tasty?' (還好欸 = 'not really'). At the start of a clause it means 'luckily' (還好有你). Taiwanese use it constantly to avoid extremes.",
+    "contrast": "Mainland: 還行 / 一般 / 幸好. 還行 and 一般(般) as answers sound mainland; in Taiwan say 還好 or 普通.",
+    "examples": [
+      {
+        "zh": "這家很貴嗎？——還好啦，跟別家差不多。",
+        "en": "Is this place expensive? — Not really, about the same as others."
+      },
+      {
+        "zh": "聽說那部電影很好看。——我覺得還好欸。",
+        "en": "I heard that movie is great. — I thought it was just okay."
+      },
+      {
+        "zh": "還好我有帶傘，不然就淋濕了。",
+        "en": "Good thing I brought an umbrella, or I'd be soaked."
+      },
+      {
+        "zh": "你最近工作還好嗎？",
+        "en": "How's work been lately — all right?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Was the test hard? — Not really.",
+        "zh": "考試很難嗎？——還好。"
+      },
+      {
+        "en": "Luckily we left early.",
+        "zh": "還好我們有提早出門。"
+      }
+    ]
+  },
+  {
+    "id": "g-063",
+    "title": "好 + particle — 好啊 / 好喔 / 好啦 / 好吧 / 好的",
+    "pattern": "好 + 啊 / 喔 / 啦 / 吧 / 耶 / 的",
+    "category": "particles",
+    "level": 1,
+    "explanation": "The same 好 changes meaning with its particle: 好啊 = glad to; 好喔 = okay, noted (neutral, common in LINE); 好啦 = fine, fine (giving in); 好吧 = all right then (reluctant); 好耶 = yay; 好的 = certainly (polite, service). The wrong particle sends the wrong attitude.",
+    "contrast": "Mainland replies: 行 / 成 / 好的 / 好嘞 / 嗯嗯. Learners overuse bare 好 or 好的; among Taiwanese friends 好的 feels distant and 好喔 / 好啊 is normal.",
+    "examples": [
+      {
+        "zh": "要不要一起吃午餐？——好啊，走。",
+        "en": "Want to have lunch together? — Sure, let's go."
+      },
+      {
+        "zh": "我晚十分鐘到。——好喔，慢慢來。",
+        "en": "I'll be ten minutes late. — Okay, take your time."
+      },
+      {
+        "zh": "好啦，我知道了，你不要再唸了。",
+        "en": "Fine, I get it — stop nagging."
+      },
+      {
+        "zh": "好吧，既然你這麼說，那就算了。",
+        "en": "All right, if you say so, let's drop it."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Could you send me the file? — Certainly, right away. (to a client)",
+        "zh": "可以把檔案寄給我嗎？——好的，馬上寄。"
+      },
+      {
+        "en": "Fine, fine, I'll go with you.",
+        "zh": "好啦好啦，我陪你去。"
+      }
+    ]
+  },
+  {
+    "id": "g-064",
+    "title": "聽說 / 據說 — 'I heard / reportedly'",
+    "pattern": "聽說 + clause ; 聽 + source + 說 + clause ; 據說 + clause",
+    "category": "structures",
+    "level": 1,
+    "explanation": "聽說 is the everyday 'I heard that'; a source can be inserted (聽我同事說). 據說 is 'reportedly, it is said' — more detached and written — and never takes a source inside it. Both mark information as second-hand.",
+    "contrast": "✗ 據說他說… ; ✗ 我聽說了他 for 'I've heard of him' → 我聽過他. Don't use 聽說 for something you witnessed yourself.",
+    "examples": [
+      {
+        "zh": "聽說那家店要收掉了，好可惜。",
+        "en": "I heard that shop is closing down — what a pity."
+      },
+      {
+        "zh": "我聽同事說下個月要調薪。",
+        "en": "I heard from a coworker that there'll be a pay adjustment next month."
+      },
+      {
+        "zh": "據說這間廟已經有三百年的歷史。",
+        "en": "This temple is said to have three hundred years of history."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I heard you're moving to Taichung.",
+        "zh": "聽說你要搬去台中。"
+      },
+      {
+        "en": "It is said that this tea helps you sleep.",
+        "zh": "據說這種茶可以幫助睡眠。"
+      }
+    ]
+  },
+  {
+    "id": "g-065",
+    "title": "V + 了沒 — 'have you … yet?'",
+    "pattern": "V (+ O) + 了沒？ ; 好了沒？",
+    "category": "taiwan-usage",
+    "level": 1,
+    "explanation": "The compact question ending 了沒 asks whether something has been done yet: 吃飽了沒？ 到了沒？ 好了沒？. It is short for …了沒有 and is the default in casual Taiwan speech; 吃飽沒？ doubles as a greeting. Answer with verb + 了 or 還沒.",
+    "contrast": "Mainland/textbook: 吃了嗎？/ 到了沒有？/ 好了嗎？ The mainland greeting 吃了嗎 corresponds to Taiwan 吃飽沒 / 吃飽了沒.",
+    "examples": [
+      {
+        "zh": "你吃飽了沒？要不要再點一些？",
+        "en": "Have you had enough? Want to order some more?"
+      },
+      {
+        "zh": "你到了沒？我已經在門口了。",
+        "en": "Are you here yet? I'm already at the entrance."
+      },
+      {
+        "zh": "報告寫完了沒？明天就要交了。",
+        "en": "Have you finished the report? It's due tomorrow."
+      },
+      {
+        "zh": "好了沒啦？電影快開始了。",
+        "en": "Are you ready yet? The movie's about to start."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Have you booked the tickets yet? — Not yet.",
+        "zh": "你票訂了沒？——還沒。"
+      },
+      {
+        "en": "Are you off work yet?",
+        "zh": "你下班了沒？"
+      }
+    ]
+  },
+  {
+    "id": "g-066",
+    "title": "再…也 — 'no matter how…, still'",
+    "pattern": "再 + Adj/V + 也 + … ; 再怎麼 + V + 也 + …",
+    "category": "structures",
+    "level": 2,
+    "explanation": "再…也 means 'however (much)…, still…'. 再 here is not 'again' but 'to whatever further degree'. It is a compact, very natural alternative to 不管多…都, common in sayings and encouragement.",
+    "contrast": "Learners overuse 不管多麼…都 or misread 再 as 'again'. 再怎麼 + V + 也 is the fuller spoken form (再怎麼說也是你爸).",
+    "examples": [
+      {
+        "zh": "再忙也要記得吃飯。",
+        "en": "No matter how busy you are, remember to eat."
+      },
+      {
+        "zh": "你再怎麼解釋，他也不會相信。",
+        "en": "No matter how you explain, he won't believe it."
+      },
+      {
+        "zh": "再便宜我也不會買，根本用不到。",
+        "en": "However cheap it is I won't buy it; I'd never use it."
+      },
+      {
+        "zh": "東西再好吃，也不能天天吃。",
+        "en": "However tasty something is, you can't eat it every day."
+      }
+    ],
+    "practice": [
+      {
+        "en": "However tired I am, I walk the dog every day.",
+        "zh": "再累我也每天遛狗。"
+      },
+      {
+        "en": "No matter how hard it is, I won't give up.",
+        "zh": "再難我也不會放棄。"
+      }
+    ]
+  },
+  {
+    "id": "g-067",
+    "title": "而 — 'and / whereas / and so'",
+    "pattern": "Adj + 而 + Adj ; clause，而 + contrasting clause ; 因/為/由 … 而 + V",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "而 is the most versatile written connective. It joins two qualities (簡單而有效), contrasts two clauses ('whereas'), and links a reason, purpose or manner to the verb (因大雨而延期, 為生活而努力). Mastering 而 immediately makes writing sound more mature.",
+    "contrast": "Spoken equivalents: 又…又 / 可是 / 因為…所以. Learners overuse 但是 and 而且 where a light 而 is enough.",
+    "examples": [
+      {
+        "zh": "這個方法簡單而有效，值得推廣。",
+        "en": "This method is simple and effective, and worth promoting."
+      },
+      {
+        "zh": "北部連日下雨，而南部卻持續缺水。",
+        "en": "It has rained for days in the north, whereas the south remains short of water."
+      },
+      {
+        "zh": "比賽因大雨而延期。",
+        "en": "The game was postponed due to heavy rain."
+      },
+      {
+        "zh": "許多年輕人為了工作而離開家鄉。",
+        "en": "Many young people leave their hometowns for work."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The flight was cancelled because of the typhoon.",
+        "zh": "班機因颱風而取消。"
+      },
+      {
+        "en": "He works for his ideals, not for money.",
+        "zh": "他是為理想而工作，不是為了錢。"
+      }
+    ]
+  },
+  {
+    "id": "g-068",
+    "title": "才不會 / 才沒有 / 才怪 — emphatic denial",
+    "pattern": "(S +) 才 + 不/沒有 + V ; … 才怪 (咧)",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "才 before a negative makes a spirited, slightly childish or teasing denial: 'no way', 'I do not!'. 才怪 tacked onto a statement flips it: 'as if!'. Used among friends, family and couples, often followed by 咧 or 啦.",
+    "contrast": "A plain 不會 / 沒有 lacks the pushback. Learners confuse this with 才 = 'only then'; here 才 is purely emphatic.",
+    "examples": [
+      {
+        "zh": "我才沒有生氣，是你想太多。",
+        "en": "I am not mad; you're overthinking it."
+      },
+      {
+        "zh": "他才不會幫你，他只會出一張嘴。",
+        "en": "He's not going to help you; he's all talk."
+      },
+      {
+        "zh": "你說你會早起？才怪咧。",
+        "en": "You say you'll get up early? Yeah, right."
+      },
+      {
+        "zh": "我才不要跟他坐在一起。",
+        "en": "No way am I sitting with him."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'm not jealous!",
+        "zh": "我才沒有吃醋！"
+      },
+      {
+        "en": "He said he'd treat us? As if!",
+        "zh": "他說要請客？才怪！"
+      }
+    ]
+  },
+  {
+    "id": "g-069",
+    "title": "與其…不如 — 'rather than A, better B'",
+    "pattern": "與其 + A，(還/倒) 不如 + B ; 不如 + B (好了)",
+    "category": "structures",
+    "level": 2,
+    "explanation": "The speaker rejects option A and recommends B. In speech Taiwanese often drop 與其 and just say …還不如… or 不如…好了. The full pattern is common in essays and advice.",
+    "contrast": "Learners reverse the options — the rejected one follows 與其. Don't confuse with 寧可 A 也不 B, where the speaker chooses A.",
+    "examples": [
+      {
+        "zh": "與其在這裡等，不如先去吃飯。",
+        "en": "Rather than waiting here, we'd be better off going to eat first."
+      },
+      {
+        "zh": "與其抱怨，還不如想辦法解決。",
+        "en": "Rather than complaining, it's better to find a way to fix it."
+      },
+      {
+        "zh": "與其買便宜的常常壞，不如買好一點的。",
+        "en": "Rather than buying cheap stuff that keeps breaking, buy something better."
+      },
+      {
+        "zh": "天氣這麼好，不如去河濱公園走走。",
+        "en": "The weather's so nice — why not take a walk in the riverside park?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Rather than worry, you might as well ask him directly.",
+        "zh": "與其擔心，不如直接問他。"
+      },
+      {
+        "en": "Rather than taking the bus, walking is faster.",
+        "zh": "與其搭公車，還不如用走的比較快。"
+      }
+    ]
+  },
+  {
+    "id": "g-070",
+    "title": "所 + V — 'that which is V-ed'",
+    "pattern": "(S) 所 + V + 的 + N ; 所 + V (as noun) ; 有所 + V ; 所謂",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "所 before a verb forms a noun phrase: 他所說的話 'what he said', 所需 'what is needed'. It adds formality without changing meaning. Fixed forms include 有所 + V ('to some degree': 有所改善) and 所謂 ('so-called').",
+    "contrast": "Spoken Chinese simply drops 所: 他說的話. Don't use 所 with intransitive verbs or adjectives (✗ 所漂亮的).",
+    "examples": [
+      {
+        "zh": "以上所說的內容，僅供參考。",
+        "en": "The content mentioned above is for reference only."
+      },
+      {
+        "zh": "這正是我們目前所面臨的問題。",
+        "en": "This is precisely the problem we are currently facing."
+      },
+      {
+        "zh": "經過治療，他的病情已有所改善。",
+        "en": "After treatment, his condition has improved somewhat."
+      },
+      {
+        "zh": "所謂的成功，每個人的定義都不同。",
+        "en": "Everyone defines so-called success differently."
+      }
+    ],
+    "practice": [
+      {
+        "en": "This is not the result we expected.",
+        "zh": "這不是我們所期待的結果。"
+      },
+      {
+        "en": "Please prepare the required documents.",
+        "zh": "請準備所需文件。"
+      }
+    ]
+  },
+  {
+    "id": "g-071",
+    "title": "寧可 / 寧願…也 — 'would rather'",
+    "pattern": "寧可/寧願 + A，也不 + B ; 寧可 + A，也要 + B",
+    "category": "structures",
+    "level": 2,
+    "explanation": "寧可 / 寧願 states the option you'd choose despite its cost: 'would rather A than B' (也不) or 'would rather put up with A in order to B' (也要). Taiwanese use 寧願 and 寧可 about equally; both sound firm, even stubborn.",
+    "contrast": "Opposite orientation from 與其…不如: after 寧可 comes the chosen option. Mainland also has 寧肯, rare in Taiwan.",
+    "examples": [
+      {
+        "zh": "我寧可多花一點錢，也不要排隊。",
+        "en": "I'd rather spend a bit more than stand in line."
+      },
+      {
+        "zh": "他寧願自己加班，也不想麻煩別人。",
+        "en": "He'd rather work overtime himself than trouble others."
+      },
+      {
+        "zh": "我寧可少睡一點，也要把報告做完。",
+        "en": "I'd rather lose some sleep and get this report finished."
+      },
+      {
+        "zh": "她寧願走路，也不搭他的車。",
+        "en": "She'd rather walk than ride in his car."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'd rather stay home than go to that party.",
+        "zh": "我寧可待在家，也不要去那個聚會。"
+      },
+      {
+        "en": "I'd rather pay more and buy a better one.",
+        "zh": "我寧願多付一點錢，也要買好一點的。"
+      }
+    ]
+  },
+  {
+    "id": "g-072",
+    "title": "這樣(子) — 'like this / in that case / I see'",
+    "pattern": "這樣 + V/Adj ; 這樣的話 ; 是這樣喔 ; …，這樣(子)。",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "這樣 / 這樣子 is a workhorse in Taiwan speech: 'this way' (這樣可以嗎？), 'in that case' (這樣的話), a response token (是這樣喔 'oh, I see') and a vague closer meaning 'that's about it' (大概就這樣). Trailing …這樣 after a statement softens it, a habit of younger speakers; in chat it contracts to 醬.",
+    "contrast": "Mainland speakers use 這樣 too, but the sentence-final filler …這樣子 and the reply 是這樣喔 are strongly Taiwanese. Mainland 這麼著 / 這樣兒 are not used.",
+    "examples": [
+      {
+        "zh": "這樣可以嗎？還是要再大一點？",
+        "en": "Is this OK? Or should it be a bit bigger?"
+      },
+      {
+        "zh": "這樣的話，我們改約禮拜六好了。",
+        "en": "In that case, let's reschedule for Saturday."
+      },
+      {
+        "zh": "喔，是這樣喔，我之前都不知道。",
+        "en": "Oh, so that's how it is — I never knew."
+      },
+      {
+        "zh": "我就想說先問一下，這樣子。",
+        "en": "I just figured I'd ask first — that's all."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Don't be like this; let's talk it through.",
+        "zh": "你不要這樣，我們好好講。"
+      },
+      {
+        "en": "So that's about it for today.",
+        "zh": "今天大概就這樣。"
+      }
+    ]
+  },
+  {
+    "id": "g-073",
+    "title": "齁 / 吼 — 'right?' and exasperation",
+    "pattern": "clause + 齁？ ; 齁 / 吼，+ clause ; 吼唷",
+    "category": "particles",
+    "level": 2,
+    "explanation": "At the end of a statement, 齁 (from Taiwanese) asks the listener to confirm something you both know: 'isn't it?', 'right?'. At the start (also written 吼) it vents annoyance or teasing: 齁，你又遲到. 吼唷 is a whiny 'ugh, come on'. Colloquial and very local in flavor.",
+    "contrast": "Mainland: 是吧？/ 對吧？/ 哎呀. Minimal pair: 很熱吧？ (I guess it's hot?) vs 很熱齁？ (it's hot, isn't it — we both feel it).",
+    "examples": [
+      {
+        "zh": "今天很熱齁？要不要喝點涼的？",
+        "en": "Hot today, isn't it? Want something cold to drink?"
+      },
+      {
+        "zh": "你是第一次來齁？我幫你介紹。",
+        "en": "It's your first time here, right? Let me show you around."
+      },
+      {
+        "zh": "齁，你又忘記帶鑰匙了！",
+        "en": "Ugh, you forgot your keys again!"
+      },
+      {
+        "zh": "吼唷，不要再鬧了啦。",
+        "en": "Ugh, come on, stop messing around."
+      }
+    ],
+    "practice": [
+      {
+        "en": "This one tastes better, right?",
+        "zh": "這個比較好吃齁？"
+      },
+      {
+        "en": "Ugh, why didn't you say so earlier?",
+        "zh": "齁，你怎麼不早講！"
+      }
+    ]
+  },
+  {
+    "id": "g-074",
+    "title": "不是啊 / 沒有啦 — pushing back and deflecting",
+    "pattern": "不是啊，+ objection ; 沒有啦，+ downplaying",
+    "category": "discourse",
+    "level": 2,
+    "explanation": "不是啊 opens an objection or self-defense ('no, but look…') and doesn't necessarily negate anything literal. 沒有啦 downplays — a compliment, a suspicion, or your own earlier statement ('nah, it's nothing'). Both keep disagreement conversational rather than confrontational.",
+    "contrast": "Mainland: 不是，… / 沒有沒有 / 哪裡哪裡. Learners accept compliments with only 謝謝; Taiwanese typically deflect first with 沒有啦.",
+    "examples": [
+      {
+        "zh": "不是啊，你這樣講對他不公平。",
+        "en": "No, but come on — putting it that way isn't fair to him."
+      },
+      {
+        "zh": "不是啊，我明明有先跟你說。",
+        "en": "No, hang on, I clearly told you beforehand."
+      },
+      {
+        "zh": "你好厲害喔！——沒有啦，運氣好而已。",
+        "en": "You're amazing! — Nah, I just got lucky."
+      },
+      {
+        "zh": "沒有啦，我只是有點累，沒事。",
+        "en": "Oh, it's nothing, I'm just a bit tired. I'm fine."
+      }
+    ],
+    "practice": [
+      {
+        "en": "No, but listen — it's really not my fault.",
+        "zh": "不是啊，這真的不是我的問題。"
+      },
+      {
+        "en": "Your English is so good! — Not really, I just watch a lot of shows.",
+        "zh": "你英文好好喔！——沒有啦，只是常看影集。"
+      }
+    ]
+  },
+  {
+    "id": "g-075",
+    "title": "之所以…是因為 — 'the reason why… is that'",
+    "pattern": "S + 之所以 + result，是因為 + cause",
+    "category": "structures",
+    "level": 2,
+    "explanation": "This pattern states the result first and then reveals the reason, foregrounding the explanation. It is typical of essays, speeches and careful argument; in conversation it sounds deliberate.",
+    "contrast": "Don't write ✗ 之所以…所以 or put 之所以 before the subject. The casual equivalent is 我會…是因為…, which Taiwanese use in speech.",
+    "examples": [
+      {
+        "zh": "他之所以辭職，是因為想出國念書。",
+        "en": "The reason he resigned is that he wants to study abroad."
+      },
+      {
+        "zh": "我之所以沒說，是因為怕你擔心。",
+        "en": "The reason I didn't say anything is that I was afraid you'd worry."
+      },
+      {
+        "zh": "這家店之所以受歡迎，是因為價格實在。",
+        "en": "This shop is popular because its prices are honest."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The reason I chose this company is that it's close to home.",
+        "zh": "我之所以選這家公司，是因為離家近。"
+      },
+      {
+        "en": "The reason he was late is that the MRT broke down.",
+        "zh": "他之所以遲到，是因為捷運故障。"
+      }
+    ]
+  },
+  {
+    "id": "g-076",
+    "title": "之 — formal 的 and its fixed frames",
+    "pattern": "N + 之 + N ; …之一 / 之間 / 之後 / 之下 ; X 分之 Y",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "之 is classical 的, kept in formal writing for a compact rhythm (成功之道, 當務之急) and in many fixed frames: 之一 'one of', 之間, 之內, 之下, 百分之…. Taiwan signage, slogans and official writing use 之 liberally.",
+    "contrast": "Spoken: 的. Mainland prose uses 之 somewhat less than Taiwan formal writing. Don't replace every 的 with 之 — it needs a formal, usually four-syllable rhythm.",
+    "examples": [
+      {
+        "zh": "台北是亞洲最適合居住的城市之一。",
+        "en": "Taipei is one of the most livable cities in Asia."
+      },
+      {
+        "zh": "這項政策有百分之六十的民眾支持。",
+        "en": "Sixty percent of the public supports this policy."
+      },
+      {
+        "zh": "在父母的鼓勵之下，他決定出國留學。",
+        "en": "With his parents' encouragement, he decided to study abroad."
+      },
+      {
+        "zh": "改善交通是市府的當務之急。",
+        "en": "Improving transportation is the city government's top priority."
+      }
+    ],
+    "practice": [
+      {
+        "en": "This is one of my favorite restaurants.",
+        "zh": "這是我最喜歡的餐廳之一。"
+      },
+      {
+        "en": "Three-quarters of the students passed the exam.",
+        "zh": "四分之三的學生通過了考試。"
+      }
+    ]
+  },
+  {
+    "id": "g-077",
+    "title": "先…再說 — 'do this first, worry about the rest later'",
+    "pattern": "先 + V + 再說 ; (等) … + 再說 ; 到時候再說",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "先…再說 postpones a decision: do the first thing now and deal with everything else afterwards. On its own, 再說 / 到時候再說 means 'we'll see'. It is a very common, non-committal way to defer or softly decline.",
+    "contrast": "Don't read 再說 here as 'say again' or as the written connective 再說 'moreover'. Mainland equivalents: 先…再看 / 回頭再說 (回頭 in this sense isn't used in Taiwan).",
+    "examples": [
+      {
+        "zh": "先吃飯再說，我快餓死了。",
+        "en": "Let's eat first and deal with it later; I'm starving."
+      },
+      {
+        "zh": "你先試用看看，買不買再說。",
+        "en": "Try it out first; whether to buy it can wait."
+      },
+      {
+        "zh": "這個等我領薪水再說。",
+        "en": "Let's talk about this after I get paid."
+      },
+      {
+        "zh": "還不確定，到時候再說吧。",
+        "en": "Not sure yet; we'll see when the time comes."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let's finish this first and talk about the rest later.",
+        "zh": "先把這個做完再說。"
+      },
+      {
+        "en": "I'll decide after I get home.",
+        "zh": "等我回家再說。"
+      }
+    ]
+  },
+  {
+    "id": "g-078",
+    "title": "一旦…就 — 'once'",
+    "pattern": "一旦 + threshold event，就/便 + consequence",
+    "category": "structures",
+    "level": 2,
+    "explanation": "一旦 introduces a threshold event whose consequence then follows inevitably and is usually serious or hard to reverse. Neutral-to-formal; common in news, warnings and contracts.",
+    "contrast": "一旦 is weightier than 一…就 and 如果: it implies a point of no return. Not for trivial routines (✗ 我一旦下班就回家).",
+    "examples": [
+      {
+        "zh": "一旦養成習慣，就很難改掉。",
+        "en": "Once a habit is formed, it's very hard to break."
+      },
+      {
+        "zh": "合約一旦簽了，就不能隨便更改。",
+        "en": "Once the contract is signed, it can't be changed at will."
+      },
+      {
+        "zh": "個人資料一旦外洩，後果不堪設想。",
+        "en": "Once personal data is leaked, the consequences are unthinkable."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Once you start, you can't stop.",
+        "zh": "一旦開始，就停不下來。"
+      },
+      {
+        "en": "Once trust is lost, it is hard to rebuild.",
+        "zh": "信任一旦失去，就很難重建。"
+      }
+    ]
+  },
+  {
+    "id": "g-079",
+    "title": "不但不 / 不但沒…反而 — 'far from…, instead'",
+    "pattern": "S + 不但不/沒 + expected，反而 + opposite ; …，反而 …",
+    "category": "structures",
+    "level": 2,
+    "explanation": "反而 marks a result opposite to what one would expect: 'on the contrary, instead'. With 不但不 / 不但沒 in the first clause it means 'not only did X not happen, the opposite did'. 反而 follows the subject; 反倒 is a variant.",
+    "contrast": "Learners use 但是 or 相反 here. 相反地 starts a new sentence contrasting two situations, while 反而 marks a counter-expectation result within one.",
+    "examples": [
+      {
+        "zh": "吃了藥不但沒好，反而更嚴重。",
+        "en": "After taking the medicine it didn't get better; it actually got worse."
+      },
+      {
+        "zh": "他被罵不但不生氣，反而笑了出來。",
+        "en": "Instead of getting angry at the scolding, he burst out laughing."
+      },
+      {
+        "zh": "平日人多，假日反而比較少。",
+        "en": "It's crowded on weekdays; on holidays there are actually fewer people."
+      },
+      {
+        "zh": "你這樣幫他，反而會害了他。",
+        "en": "Helping him like this will actually end up hurting him."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The more I rest, the more tired I feel instead.",
+        "zh": "我越休息反而越累。"
+      },
+      {
+        "en": "He didn't thank me; instead, he blamed me.",
+        "zh": "他不但沒謝謝我，反而怪我。"
+      }
+    ]
+  },
+  {
+    "id": "g-080",
+    "title": "此 / 該 / 本 — formal 'this / the said / our'",
+    "pattern": "此 + N (= 這) ; 該 + N (= the aforementioned) ; 本 + N (= this / our) ; 就此 / 因此 / 在此 / 藉此",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "Formal demonstratives: 此 = 這 (此事, 此外, 因此, 在此, 藉此); 該 = 'the said' for something already named (該公司, 該名男子); 本 = 'this, our own' (本公司, 本校, 本週). 就此 means 'at this point / on this matter' (就此結束, 就此發表聲明).",
+    "contrast": "Spoken: 這個 / 那個 / 我們. ✗ 該 on first mention; it must point back. Don't confuse it with 該 = 應該. Taiwan notices use 本 + organization where English says 'we'.",
+    "examples": [
+      {
+        "zh": "本公司將於下週一恢復正常營業。",
+        "en": "Our company will resume normal business next Monday."
+      },
+      {
+        "zh": "警方表示，該名男子已被逮捕。",
+        "en": "Police said the man in question has been arrested."
+      },
+      {
+        "zh": "此事仍在調查中，暫不對外說明。",
+        "en": "This matter is still under investigation, and no public comment will be made for now."
+      },
+      {
+        "zh": "雙方的合作關係就此結束。",
+        "en": "The partnership between the two sides ended at this point."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Our store is closed every Monday. (notice)",
+        "zh": "本店每週一公休。"
+      },
+      {
+        "en": "The company has not yet responded to this matter.",
+        "zh": "該公司尚未對此事做出回應。"
+      }
+    ]
+  },
+  {
+    "id": "g-081",
+    "title": "害 + 人 + V — 'made me … (and that's bad)'",
+    "pattern": "X + 害 + person + V ; 都是你害的",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "害 + person + verb blames someone or something for an unwanted result: 'because of you I…'. It ranges from real complaint to playful teasing (害我笑出來). 都是你害的 means 'it's all your fault'.",
+    "contrast": "Mainland/textbook: 讓我… / 弄得我… / 搞得我…. 讓 is neutral; 害 marks the result as bad (or mock-bad). 搞得 is less common in Taiwan.",
+    "examples": [
+      {
+        "zh": "你怎麼沒叫我？害我遲到了。",
+        "en": "Why didn't you wake me? You made me late."
+      },
+      {
+        "zh": "公車突然改路線，害我多走十分鐘。",
+        "en": "The bus suddenly changed its route and I had to walk an extra ten minutes."
+      },
+      {
+        "zh": "你不要逗我啦，害我一直笑場。",
+        "en": "Stop making me laugh — I keep cracking up."
+      },
+      {
+        "zh": "都是你害的，我現在好想吃宵夜。",
+        "en": "It's all your fault; now I really want a late-night snack."
+      }
+    ],
+    "practice": [
+      {
+        "en": "You made me spend so much money.",
+        "zh": "你害我花了好多錢。"
+      },
+      {
+        "en": "The rain made me miss my bus.",
+        "zh": "下雨害我沒搭上公車。"
+      }
+    ]
+  },
+  {
+    "id": "g-082",
+    "title": "不得不 / 非…不可 — 'have no choice but' and 'simply must'",
+    "pattern": "不得不 + V ; 非 + V + 不可 ; 非要 + V",
+    "category": "structures",
+    "level": 2,
+    "explanation": "不得不 means circumstances force you to do something you'd rather not. 非…不可 means something absolutely must happen, by necessity or stubborn will ('simply must', 'insists on'). In speech 不可 is often dropped: 你非要現在講嗎？",
+    "contrast": "不得不 ≠ 不得 ('must not'). Colloquial Taiwan alternatives: 只好, 一定要, 不…不行. Mainland 非得…不行 is less common in Taiwan.",
+    "examples": [
+      {
+        "zh": "末班車走了，我不得不搭計程車回家。",
+        "en": "The last train had left, so I had no choice but to take a taxi home."
+      },
+      {
+        "zh": "我不得不承認，他說的有道理。",
+        "en": "I have to admit that what he said makes sense."
+      },
+      {
+        "zh": "這件事非你出面不可。",
+        "en": "This matter absolutely requires you to step in."
+      },
+      {
+        "zh": "你非要現在跟我吵嗎？",
+        "en": "Do you have to argue with me right now?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "I had no choice but to cancel the trip.",
+        "zh": "我不得不取消這次旅行。"
+      },
+      {
+        "en": "This problem must be solved today.",
+        "zh": "這個問題今天非解決不可。"
+      }
+    ]
+  },
+  {
+    "id": "g-083",
+    "title": "亦 / 均 / 皆 — formal 也 and 都",
+    "pattern": "亦 + V (= 也) ; 均 / 皆 + V (= 都)",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "亦 is written 也; 均 and 皆 are written 都. 均 is the usual choice in reports, notices and statistics (均已完成, 均可使用); 皆 is slightly more literary (人人皆知). They let formal sentences avoid colloquial 也 and 都.",
+    "contrast": "Spoken: 也 / 都. Don't stack them with their spoken twins (✗ 均都). 亦 and 皆 are somewhat more frequent in Taiwan formal writing than on the mainland.",
+    "examples": [
+      {
+        "zh": "本館週一休館，除夕亦不開放。",
+        "en": "The museum is closed on Mondays and is also closed on Lunar New Year's Eve."
+      },
+      {
+        "zh": "以上商品均可使用信用卡付款。",
+        "en": "All of the above items may be paid for by credit card."
+      },
+      {
+        "zh": "所有參賽者皆須於九點前報到。",
+        "en": "All contestants must check in before nine o'clock."
+      },
+      {
+        "zh": "此次地震各地均未傳出災情。",
+        "en": "No damage from this earthquake has been reported anywhere."
+      }
+    ],
+    "practice": [
+      {
+        "en": "All of the above prices include tax.",
+        "zh": "以上價格均含稅。"
+      },
+      {
+        "en": "The second floor is also open to visitors.",
+        "zh": "二樓亦開放民眾參觀。"
+      }
+    ]
+  },
+  {
+    "id": "g-084",
+    "title": "未必 / 不見得 — 'not necessarily'",
+    "pattern": "未必 / 不見得 / 不一定 + V/Adj",
+    "category": "structures",
+    "level": 2,
+    "explanation": "All mean 'not necessarily'. 不見得 is the natural spoken choice in Taiwan and can stand alone as a reply; 未必 is neutral-to-written; 不一定 also covers 'it depends'. They politely challenge a generalization.",
+    "contrast": "Learners default to 不一定 for everything. Standalone 那可不見得 / 那可未必 has a mainland ring; in Taiwan say 不見得吧.",
+    "examples": [
+      {
+        "zh": "貴的東西不見得比較好用。",
+        "en": "Expensive things aren't necessarily better to use."
+      },
+      {
+        "zh": "他說的未必是真的，你再查一下。",
+        "en": "What he said isn't necessarily true; check again."
+      },
+      {
+        "zh": "學歷高不見得就找得到好工作。",
+        "en": "A high degree doesn't necessarily land you a good job."
+      },
+      {
+        "zh": "這樣做未必能解決問題。",
+        "en": "Doing this won't necessarily solve the problem."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Rich people aren't necessarily happy.",
+        "zh": "有錢人不見得快樂。"
+      },
+      {
+        "en": "The newest phone isn't necessarily the best.",
+        "zh": "最新的手機未必是最好的。"
+      }
+    ]
+  },
+  {
+    "id": "g-085",
+    "title": "給 + 人 + V — 'let someone V' and other Taiwanese-style 給",
+    "pattern": "給 + person + V ; 你給我 + V！",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "Influenced by Taiwanese hōo, 給 can mean 'let / allow' (給他等 'let him wait', 給我看一下 'let me see') and, more colloquially, mark the person you suffer something from (給人家笑 'get laughed at'). 你給我 + V is a stern command. Colloquial; in careful speech 讓 replaces it.",
+    "contrast": "Mainland/textbook: 讓他等 / 讓我看一下 / 被人笑. Learners know 給 only as 'give' or 'for'; in Taiwan 給我看 is 'let me see'.",
+    "examples": [
+      {
+        "zh": "沒關係，給他等一下又不會怎樣。",
+        "en": "It's fine; letting him wait a bit won't hurt."
+      },
+      {
+        "zh": "手機借我，給我看一下那張照片。",
+        "en": "Lend me your phone and let me see that photo."
+      },
+      {
+        "zh": "你這樣穿出去會給人家笑。",
+        "en": "You'll get laughed at if you go out dressed like that."
+      },
+      {
+        "zh": "你給我過來，把話講清楚！",
+        "en": "Get over here and explain yourself!"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Let me think about it for a bit.",
+        "zh": "給我想一下。"
+      },
+      {
+        "en": "Don't let the kid play on the phone for too long.",
+        "zh": "不要給小孩玩手機玩太久。"
+      }
+    ]
+  },
+  {
+    "id": "g-086",
+    "title": "儘管…還是 — 'even though / despite' and 'feel free to'",
+    "pattern": "儘管 + fact，(S) 還是/仍然/卻 + result ; 儘管 + V (imperative)",
+    "category": "structures",
+    "level": 2,
+    "explanation": "儘管 concedes a real fact more emphatically than 雖然; the second clause takes 還是, 仍然, 依然 or 卻. In invitations, 儘管 + V means 'feel free to' (有問題儘管問).",
+    "contrast": "Write 儘管 (not 盡管) in Taiwan — simplified script merges 儘 and 盡 into one character, so converted text is often wrong. Don't confuse it with hypothetical 就算.",
+    "examples": [
+      {
+        "zh": "儘管下著大雨，他還是準時到了。",
+        "en": "Despite the heavy rain, he still arrived on time."
+      },
+      {
+        "zh": "儘管大家都反對，她仍然堅持要去。",
+        "en": "Even though everyone objected, she still insisted on going."
+      },
+      {
+        "zh": "有什麼問題儘管問，不用客氣。",
+        "en": "If you have any questions, feel free to ask; don't be shy."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Although he was very tired, he still finished the work.",
+        "zh": "儘管很累，他還是把工作做完了。"
+      },
+      {
+        "en": "If you need help, feel free to tell me.",
+        "zh": "需要幫忙的話，儘管跟我說。"
+      }
+    ]
+  },
+  {
+    "id": "g-087",
+    "title": "尚未 / 尚 / 仍 / 已 / 曾 — one-syllable formal adverbs",
+    "pattern": "尚未 + V (= 還沒) ; 尚 (= 還) ; 仍 (= 還是) ; 已 (= 已經) ; 曾 (= 曾經)",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "Formal writing compresses time adverbs to one syllable: 已 (已經), 仍 (仍然 / 還), 尚 (還), 尚未 (還沒), 曾 (曾經), 未 (沒有). News leads rely on them: 已完成, 仍在調查, 尚未決定.",
+    "contrast": "Spoken: 已經 / 還 / 還沒. Slipping 還沒 into a formal report weakens the register; conversely 尚未 in speech sounds like reading a statement.",
+    "examples": [
+      {
+        "zh": "事故原因尚未查明，警方仍在調查。",
+        "en": "The cause of the accident has not yet been determined; police are still investigating."
+      },
+      {
+        "zh": "相關法案已送交立法院審議。",
+        "en": "The relevant bill has been sent to the Legislative Yuan for review."
+      },
+      {
+        "zh": "目前疫情尚屬穩定，民眾不必恐慌。",
+        "en": "The outbreak is still stable for now; there is no need for the public to panic."
+      },
+      {
+        "zh": "他曾在國外工作多年。",
+        "en": "He once worked abroad for many years."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The date of the meeting has not yet been decided.",
+        "zh": "會議日期尚未決定。"
+      },
+      {
+        "en": "That section of road is still closed.",
+        "zh": "該路段目前仍封閉中。"
+      }
+    ]
+  },
+  {
+    "id": "g-088",
+    "title": "V + 說 — 說 as 'that' (complementizer)",
+    "pattern": "覺得 / 想 / 以為 / 擔心 / 變成 + 說 + clause",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "After verbs of thinking, saying and feeling, Taiwanese often insert 說 before the clause, much like English 'that': 我覺得說…, 他以為說…, 變成說…. It carries no meaning of speaking; it buys planning time and signals that a full clause follows. Spoken only — never write it in essays.",
+    "contrast": "Mainland/textbook: 我覺得… directly, with no 說. Don't translate it, and don't use it in every clause — that sounds rambling.",
+    "examples": [
+      {
+        "zh": "我覺得說，這件事還是當面講比較好。",
+        "en": "I feel that this is still better discussed face to face."
+      },
+      {
+        "zh": "他以為說我們已經出發了。",
+        "en": "He thought that we had already set off."
+      },
+      {
+        "zh": "後來就變成說，每個人都要加班。",
+        "en": "And then it ended up that everybody had to work overtime."
+      },
+      {
+        "zh": "我是擔心說時間會來不及。",
+        "en": "I'm just worried that there won't be enough time."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I feel that it's a bit too expensive.",
+        "zh": "我覺得說有點太貴了。"
+      },
+      {
+        "en": "She thought that you didn't like her.",
+        "zh": "她以為說你不喜歡她。"
+      }
+    ]
+  },
+  {
+    "id": "g-089",
+    "title": "咧 — casual 呢, teasing emphasis",
+    "pattern": "N + 咧？ ; 然後咧？ ; 才怪咧 ; 還…咧",
+    "category": "particles",
+    "level": 2,
+    "explanation": "咧 is the casual Taiwan counterpart of 呢 in follow-up questions (你咧？ 然後咧？) and 'where is…?' questions (我的筆咧？). After denials it adds a teasing punch (才怪咧), and 還…咧 mocks a claim ('and you said…').",
+    "contrast": "Mainland/textbook: 你呢？/ 然後呢？/ 才怪呢. Minimal pair: 你呢？ (neutral) vs 你咧？ (casual, local). Avoid 咧 in formal settings.",
+    "examples": [
+      {
+        "zh": "我吃飽了，你咧？",
+        "en": "I'm full. What about you?"
+      },
+      {
+        "zh": "然後咧？他後來怎麼說？",
+        "en": "And then? What did he say after that?"
+      },
+      {
+        "zh": "我的悠遊卡咧？剛剛還在啊。",
+        "en": "Where's my EasyCard? It was just here."
+      },
+      {
+        "zh": "還說要早起咧，結果睡到中午。",
+        "en": "And you said you'd get up early — you slept till noon."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'm having noodles. What about you?",
+        "zh": "我要吃麵，你咧？"
+      },
+      {
+        "en": "Where's my phone?",
+        "zh": "我的手機咧？"
+      }
+    ]
+  },
+  {
+    "id": "g-090",
+    "title": "基本上 / 老實說 / 說真的 — stance openers",
+    "pattern": "基本上，… ; 老實說 / 說真的 / 坦白講，…",
+    "category": "discourse",
+    "level": 2,
+    "explanation": "基本上 hedges a generalization ('basically, for the most part') and is a favorite of Taiwanese office and interview speech. 老實說, 說真的 and 坦白講 announce a candid opinion, usually a negative one, and cushion it. They buy thinking time and signal what kind of statement is coming.",
+    "contrast": "Mainland: 說實話 / 講真 / 實話實說. 說實話 is understood; 老實說 and 說真的 are more common in Taiwan.",
+    "examples": [
+      {
+        "zh": "基本上我都在家煮，很少叫外送。",
+        "en": "For the most part I cook at home; I rarely order delivery."
+      },
+      {
+        "zh": "基本上沒什麼問題，細節再調整就好。",
+        "en": "Basically there's no problem; we just need to adjust the details."
+      },
+      {
+        "zh": "老實說，我覺得這個價錢太高了。",
+        "en": "Honestly, I think this price is too high."
+      },
+      {
+        "zh": "說真的，你不用太在意別人怎麼看。",
+        "en": "Seriously, you don't need to care so much about what others think."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Basically, I agree with you.",
+        "zh": "基本上我同意你的看法。"
+      },
+      {
+        "en": "To be honest, I didn't really understand it.",
+        "zh": "老實說，我不太懂。"
+      }
+    ]
+  },
+  {
+    "id": "g-091",
+    "title": "至於 / 不至於 — 'as for' and 'not to the point of'",
+    "pattern": "…。至於 + new topic，… ; (還) 不至於 + V",
+    "category": "structures",
+    "level": 2,
+    "explanation": "至於 shifts to a related but separate item: 'as for'. It is how you set something aside to treat it separately. 不至於 means 'wouldn't go so far as to'.",
+    "contrast": "The mainland retort 至於嗎？ is replaced in Taiwan by 有需要這樣嗎？/ 有這麼誇張嗎？ Don't open a brand-new topic with 至於 (use 關於).",
+    "examples": [
+      {
+        "zh": "機票我來訂，至於住宿就交給你了。",
+        "en": "I'll book the flights; as for accommodation, I'll leave that to you."
+      },
+      {
+        "zh": "我只負責設計，至於價錢要問老闆。",
+        "en": "I only handle the design; as for the price, you'll have to ask the boss."
+      },
+      {
+        "zh": "他雖然生氣，但還不至於不理你。",
+        "en": "He's angry, but not to the point of ignoring you."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'll bring the drinks. As for food, everyone brings their own.",
+        "zh": "飲料我帶，至於吃的，大家自己準備。"
+      },
+      {
+        "en": "It's a little expensive, but not so much that I can't afford it.",
+        "zh": "是有點貴，但還不至於買不起。"
+      }
+    ]
+  },
+  {
+    "id": "g-092",
+    "title": "並未 / 並非 / 並不 — emphatic formal negation",
+    "pattern": "並 + 未 / 非 / 不 / 無 + …",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "並 before a negative stresses that reality differs from what was assumed: 並未 'has not in fact', 並非 'is not actually', 並不 'not at all', 並無 'there is in fact no'. A standard tool for denial and clarification in statements and essays.",
+    "contrast": "Spoken: 並沒有 / 並不是 / 其實沒有. ✗ 並 without a following negative for emphasis. 並非 + noun/clause; 並不 + adjective/verb.",
+    "examples": [
+      {
+        "zh": "該公司並未對此事做出回應。",
+        "en": "The company has not in fact responded to the matter."
+      },
+      {
+        "zh": "成功並非一朝一夕可以達成。",
+        "en": "Success is not something achieved overnight."
+      },
+      {
+        "zh": "調查顯示，這種說法並無根據。",
+        "en": "The investigation shows that this claim is groundless."
+      },
+      {
+        "zh": "事情並不像外界想的那麼簡單。",
+        "en": "The matter is not as simple as outsiders think."
+      }
+    ],
+    "practice": [
+      {
+        "en": "This is not the final decision.",
+        "zh": "這並非最後的決定。"
+      },
+      {
+        "en": "The police did not find any suspicious items.",
+        "zh": "警方並未發現任何可疑物品。"
+      }
+    ]
+  },
+  {
+    "id": "g-093",
+    "title": "關於 / 對於 / 就…而言 — 'regarding / toward / as far as … goes'",
+    "pattern": "關於 + topic ; 對於 + target of attitude ; 就 + N + 而言/來說 ; 對 + person + 來說",
+    "category": "structures",
+    "level": 2,
+    "explanation": "關於 introduces what something is about and can modify nouns (關於…的問題). 對於 marks the target of an attitude or action. 就…而言 / 就…來說 limits the viewpoint ('as far as … is concerned'); 對…來說 is the spoken 'for (someone)'.",
+    "contrast": "✗ 對於這件事的消息 → 關於這件事的消息. A 關於-phrase can't follow the subject (✗ 我關於這件事不清楚). 就…而言 is formal; say 對…來說 in speech.",
+    "examples": [
+      {
+        "zh": "關於這個問題，我們下次開會再討論。",
+        "en": "Regarding this issue, we'll discuss it at the next meeting."
+      },
+      {
+        "zh": "對於這次的結果，他不太滿意。",
+        "en": "He's not very satisfied with this result."
+      },
+      {
+        "zh": "就價格而言，這家算是很合理。",
+        "en": "As far as price goes, this place is quite reasonable."
+      },
+      {
+        "zh": "對我來說，通勤時間比薪水重要。",
+        "en": "For me, commute time matters more than salary."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I'd like to ask a question about refunds.",
+        "zh": "我想問一個關於退費的問題。"
+      },
+      {
+        "en": "As far as quality is concerned, this one is the best.",
+        "zh": "就品質而言，這個是最好的。"
+      }
+    ]
+  },
+  {
+    "id": "g-094",
+    "title": "在那邊 + V — dismissive 'sitting there V-ing'",
+    "pattern": "(還 / 一直 / 只會 / 不要) 在那邊 + V",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "在那邊 (or 在那裡) before a verb has nothing to do with location: it disparages the action as pointless, annoying or pretentious. Typical with 還, 一直, 只會 and verbs like 講, 抱怨, 裝, 拖. Colloquial and critical in tone.",
+    "contrast": "Mainland: 還在那兒… / 瞎… / 淨…. Learners take it literally as 'over there'; tone and context show it's a complaint.",
+    "examples": [
+      {
+        "zh": "都幾點了，你還在那邊滑手機。",
+        "en": "Look at the time, and you're still scrolling on your phone."
+      },
+      {
+        "zh": "他只會在那邊抱怨，都不想辦法。",
+        "en": "All he does is complain; he never tries to find a solution."
+      },
+      {
+        "zh": "你不要在那邊亂講，我哪有說過。",
+        "en": "Stop making things up; I never said that."
+      },
+      {
+        "zh": "不會就問啊，不要在那邊裝懂。",
+        "en": "If you don't know, ask — don't pretend you understand."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Stop making excuses.",
+        "zh": "你不要在那邊找藉口。"
+      },
+      {
+        "en": "He just keeps dragging his feet.",
+        "zh": "他一直在那邊拖。"
+      }
+    ]
+  },
+  {
+    "id": "g-095",
+    "title": "把 — beyond the basics",
+    "pattern": "把 + O + V + 成/作/在/到/給 … ; 把 + O + 給 + V 了 ; 把它 + V + 掉",
+    "category": "structures",
+    "level": 2,
+    "explanation": "把 is required when the verb is followed by 成, 作, 在, 到 or 給 plus a second element (把 A 當成 B, 把車停在…). Colloquially 給 can be inserted before the verb for emphasis (把這件事給忘了), and Taiwanese say 把它 + V + 掉 constantly. The formal written equivalent is 將.",
+    "contrast": "✗ 我放書在桌上 → 我把書放在桌上. The verb can't be bare (✗ 把飯吃). Learners avoid 把 and produce unnatural SVO sentences.",
+    "examples": [
+      {
+        "zh": "他把我當成他的親妹妹。",
+        "en": "He treats me as his own little sister."
+      },
+      {
+        "zh": "請把這份文件翻成英文。",
+        "en": "Please translate this document into English."
+      },
+      {
+        "zh": "我居然把他的生日給忘了。",
+        "en": "I actually went and forgot his birthday."
+      },
+      {
+        "zh": "剩下的菜你把它吃掉，不要浪費。",
+        "en": "Finish off the leftover dishes; don't waste them."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Please park the car in the basement.",
+        "zh": "請把車停在地下室。"
+      },
+      {
+        "en": "Don't treat me like a child.",
+        "zh": "不要把我當成小孩子。"
+      }
+    ]
+  },
+  {
+    "id": "g-096",
+    "title": "以…為 — 'take A as B'",
+    "pattern": "以 + A + 為 + B (主 / 例 / 目標 / 基礎 / 優先 / 榮)",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "以 A 為 B means 'take A as B / with A as B': 以學生為主 'mainly students', 以…為例 'take … as an example', 以…為目標. A core structure of expository writing, also heard in formal speech and presentations.",
+    "contrast": "Spoken: 把 A 當作 B / 主要是 A / 拿 A 來說. 為 here is second tone (wéi). ✗ 以…做為例 is redundant.",
+    "examples": [
+      {
+        "zh": "這家餐廳的客人以上班族為主。",
+        "en": "This restaurant's customers are mainly office workers."
+      },
+      {
+        "zh": "以台北為例，房價十年內漲了一倍。",
+        "en": "Take Taipei as an example: housing prices doubled within ten years."
+      },
+      {
+        "zh": "我們以顧客的需求為優先。",
+        "en": "We put customers' needs first."
+      },
+      {
+        "zh": "全家人都以她為榮。",
+        "en": "The whole family is proud of her."
+      }
+    ],
+    "practice": [
+      {
+        "en": "This course consists mainly of conversation practice.",
+        "zh": "這門課以會話練習為主。"
+      },
+      {
+        "en": "Take me as an example: I commute an hour every day.",
+        "zh": "以我為例，我每天通勤一個小時。"
+      }
+    ]
+  },
+  {
+    "id": "g-097",
+    "title": "被 — beyond the basics (被…給、遭、受)",
+    "pattern": "被 + (agent) + (給) + V ; 遭(到) + V ; 受(到) + V/N",
+    "category": "structures",
+    "level": 2,
+    "explanation": "被 typically marks something unwelcome and may omit the agent (被罵了) or add colloquial 給 (被他給騙了). News prose prefers 遭 / 遭到 for harm (遭竊, 遭到拒絕) and 受 / 受到 for influence or favor (受到歡迎, 受到影響).",
+    "contrast": "Mainland colloquial passives with 叫 / 讓 (我叫他騙了) are uncommon in Taiwan. Avoid 被 for neutral results where Chinese prefers a topic sentence (✗ 信被寫好了 → 信寫好了).",
+    "examples": [
+      {
+        "zh": "我的腳踏車昨天被偷了。",
+        "en": "My bicycle was stolen yesterday."
+      },
+      {
+        "zh": "我差點被他給騙了。",
+        "en": "I was nearly fooled by him."
+      },
+      {
+        "zh": "他的提案遭到主管拒絕。",
+        "en": "His proposal was rejected by the manager."
+      },
+      {
+        "zh": "這部電影在年輕人當中很受歡迎。",
+        "en": "This film is very popular among young people."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I got scolded by my boss this morning.",
+        "zh": "我今天早上被老闆罵了。"
+      },
+      {
+        "en": "This policy has been strongly criticized.",
+        "zh": "這項政策受到強烈批評。"
+      }
+    ]
+  },
+  {
+    "id": "g-098",
+    "title": "也是啦 / 是沒錯啦…可是 — conceding before disagreeing",
+    "pattern": "也是啦。 ; (這樣講) 是沒錯啦，可是/但是… ; Adj 是 Adj 啦，可是…",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "Taiwanese conversation avoids flat contradiction. 也是啦 grants the other person's point ('true, I guess'); 是沒錯啦…可是 concedes before raising an objection ('that's true, but…'). The 啦 makes the concession sound reluctant and friendly rather than final.",
+    "contrast": "Mainland: 那倒也是 / 話是這麼說，但是…. A learner's direct 不對 or 我不同意 comes across as confrontational in Taiwan.",
+    "examples": [
+      {
+        "zh": "也是啦，現在買房真的太貴了。",
+        "en": "True, I guess — buying a home really is too expensive now."
+      },
+      {
+        "zh": "是沒錯啦，可是我還是覺得怪怪的。",
+        "en": "That's true, but it still feels off to me."
+      },
+      {
+        "zh": "便宜是便宜啦，但是品質不太好。",
+        "en": "It is cheap, sure, but the quality isn't great."
+      },
+      {
+        "zh": "你這樣講也是啦，那再看看好了。",
+        "en": "You have a point there; let's wait and see then."
+      }
+    ],
+    "practice": [
+      {
+        "en": "That's true, but we don't have enough time.",
+        "zh": "是沒錯啦，可是我們時間不夠。"
+      },
+      {
+        "en": "Fair enough, health is the most important thing.",
+        "zh": "也是啦，身體健康最重要。"
+      }
+    ]
+  },
+  {
+    "id": "g-099",
+    "title": "進行 + N — formal 'carry out'",
+    "pattern": "(對 + O) + 進行 + two-syllable action noun",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "進行 followed by a two-syllable action noun is the standard formal way to describe organized activity: 進行調查, 進行討論, 進行維修. Similar light verbs: 展開 (launch), 舉行 (hold), 實施 (implement), 做出 (make: 做出決定).",
+    "contrast": "Spoken: just the verb (調查 / 討論 / 修). ✗ 進行 + a casual or one-syllable verb (✗ 進行吃飯, ✗ 進行看).",
+    "examples": [
+      {
+        "zh": "警方正在對這起案件進行調查。",
+        "en": "Police are conducting an investigation into this case."
+      },
+      {
+        "zh": "電梯進行維修，請改走樓梯。",
+        "en": "The elevator is under maintenance; please use the stairs."
+      },
+      {
+        "zh": "雙方將於下週進行第二次協商。",
+        "en": "The two sides will hold a second round of talks next week."
+      },
+      {
+        "zh": "系統將於凌晨兩點進行更新。",
+        "en": "The system will undergo an update at 2 a.m."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The school will hold a fire drill tomorrow.",
+        "zh": "學校明天將進行消防演習。"
+      },
+      {
+        "en": "We are currently testing the new system.",
+        "zh": "我們目前正在對新系統進行測試。"
+      }
+    ]
+  },
+  {
+    "id": "g-100",
+    "title": "幾乎 vs 簡直 — 'almost' vs 'simply / practically'",
+    "pattern": "幾乎 + 都/每/沒/全 … ; 簡直 + 是/像/太…了/讓人…",
+    "category": "structures",
+    "level": 2,
+    "explanation": "幾乎 is factual 'almost, nearly' and combines with totals and negatives (幾乎每天, 幾乎沒有). 簡直 is rhetorical 'simply, practically' — it exaggerates for effect and introduces a comparison or judgment (簡直像做夢).",
+    "contrast": "✗ 簡直每天都下雨 (factual → 幾乎). 差不多 is the looser spoken 'almost'. Taiwanese also use 根本 for the exaggerating sense (根本是詐騙).",
+    "examples": [
+      {
+        "zh": "我幾乎每天都會經過這家店。",
+        "en": "I pass by this shop almost every day."
+      },
+      {
+        "zh": "這個月的薪水幾乎都花光了。",
+        "en": "I've spent almost all of this month's salary."
+      },
+      {
+        "zh": "這裡的風景簡直像明信片一樣。",
+        "en": "The scenery here is practically like a postcard."
+      },
+      {
+        "zh": "他講話的態度簡直讓人受不了。",
+        "en": "His attitude when he talks is simply unbearable."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Almost nobody knew about this.",
+        "zh": "這件事幾乎沒有人知道。"
+      },
+      {
+        "en": "That is simply impossible.",
+        "zh": "這簡直是不可能的事。"
+      }
+    ]
+  },
+  {
+    "id": "g-101",
+    "title": "畢竟 — 'after all'",
+    "pattern": "畢竟 + decisive fact",
+    "category": "structures",
+    "level": 2,
+    "explanation": "畢竟 brings in the fundamental fact that explains or excuses a situation. It can go before or after the subject and often softens criticism (他畢竟還是個孩子).",
+    "contrast": "Don't use 畢竟 in questions (use 到底 / 究竟) or for 'finally' (use 終於). 終究 is a more literary relative meaning 'in the end'.",
+    "examples": [
+      {
+        "zh": "不要太苛責他，畢竟他才剛來。",
+        "en": "Don't be too hard on him; after all, he just got here."
+      },
+      {
+        "zh": "畢竟是自己的選擇，再累也要撐下去。",
+        "en": "It was my own choice after all, so I have to hang in there however tiring."
+      },
+      {
+        "zh": "我們畢竟認識十年了，我很瞭解他。",
+        "en": "We've known each other ten years, after all; I know him well."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Listen to her; after all, she has more experience.",
+        "zh": "聽她的吧，畢竟她比較有經驗。"
+      },
+      {
+        "en": "After all, health is what matters most.",
+        "zh": "畢竟健康才是最重要的。"
+      }
+    ]
+  },
+  {
+    "id": "g-102",
+    "title": "講 / 說 / 提 / 聊 — choosing the right 'say'",
+    "pattern": "講/說 + content ; 講話 / 講電話 ; 提(到) + topic ; 聊 + topic",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "講 and 說 both mean 'say / speak'; Taiwan speech favors 講 (講話, 講電話, 亂講, 講不聽), while 說 stays in quoting and set words (聽說, 說不定, 說明). 提 / 提到 means 'bring up, mention' without detail; 聊 is 'chat about'. 講 also means 'explain' (老師講得很清楚).",
+    "contrast": "Mainland speech defaults to 說 (說話, 打電話, 瞎說). Learners trained on 說 sound more Taiwanese simply by switching to 講 in casual talk. ✗ 提 + a full quotation.",
+    "examples": [
+      {
+        "zh": "他在講電話，你等一下再找他。",
+        "en": "He's on the phone; look for him later."
+      },
+      {
+        "zh": "你上次提到的那家店叫什麼？",
+        "en": "What's the name of that shop you mentioned last time?"
+      },
+      {
+        "zh": "我們聊了一個晚上，聊到店都要關了。",
+        "en": "We chatted the whole evening, until the shop was about to close."
+      },
+      {
+        "zh": "你不要亂講，他聽到會生氣。",
+        "en": "Don't talk nonsense; he'll be mad if he hears it."
+      }
+    ],
+    "practice": [
+      {
+        "en": "She never mentioned this to me.",
+        "zh": "她從來沒有跟我提過這件事。"
+      },
+      {
+        "en": "Can you say it again? I didn't hear clearly.",
+        "zh": "你可以再講一次嗎？我沒聽清楚。"
+      }
+    ]
+  },
+  {
+    "id": "g-103",
+    "title": "據…表示 / 指出 — attributing information",
+    "pattern": "據 + source + 表示/指出/報導/統計/瞭解，… ; source + 表示/指出/強調/呼籲，…",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "News style attributes information with 據…: 據報導 'reportedly', 據統計 'according to statistics', 據瞭解 'it is understood that'. Speakers are quoted with 表示 (stated), 指出 (pointed out), 強調 (stressed), 坦言 (admitted) or 呼籲 (urged) rather than 說.",
+    "contrast": "Spoken: 聽說 / 他說. ✗ 根據他表示 → 據他表示 / 根據他的說法. Repeating 說 throughout an essay reads as immature.",
+    "examples": [
+      {
+        "zh": "據氣象署表示，本週末將有寒流來襲。",
+        "en": "According to the weather administration, a cold wave will hit this weekend."
+      },
+      {
+        "zh": "專家指出，睡眠不足會影響記憶力。",
+        "en": "Experts point out that lack of sleep affects memory."
+      },
+      {
+        "zh": "據統計，台灣每年有超過一千萬人次出國。",
+        "en": "Statistics show that people in Taiwan make over ten million trips abroad each year."
+      },
+      {
+        "zh": "市長強調，絕不會調漲捷運票價。",
+        "en": "The mayor stressed that MRT fares will absolutely not be raised."
+      }
+    ],
+    "practice": [
+      {
+        "en": "According to reports, the accident injured three people.",
+        "zh": "據報導，這起事故造成三人受傷。"
+      },
+      {
+        "en": "Doctors urge the public to get vaccinated early.",
+        "zh": "醫師呼籲民眾儘早接種疫苗。"
+      }
+    ]
+  },
+  {
+    "id": "g-104",
+    "title": "偏偏 — 'of all things / it just had to'",
+    "pattern": "偏偏 + clause ; S + 偏偏 + V ; 偏要 / 偏不",
+    "category": "structures",
+    "level": 2,
+    "explanation": "偏偏 says that reality perversely goes against what one wants ('of all times…', 'it just had to…') or that someone willfully does the opposite of what they're told (偏要, 偏不). It carries frustration.",
+    "contrast": "Learners use 但是 and lose the 'just my luck' feeling. Mainland 偏生 / 偏巧 aren't used in Taiwan.",
+    "examples": [
+      {
+        "zh": "我趕時間，偏偏遇到大塞車。",
+        "en": "I was in a hurry, and of all things I hit a huge traffic jam."
+      },
+      {
+        "zh": "平常都沒事，偏偏今天電腦壞了。",
+        "en": "It's normally fine, but the computer just had to break today."
+      },
+      {
+        "zh": "叫他不要去，他偏要去。",
+        "en": "I told him not to go, but he insists on going."
+      },
+      {
+        "zh": "這麼多人，為什麼偏偏選我？",
+        "en": "With so many people, why pick me of all people?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "I wanted to sleep in, but the neighbors just had to start renovating.",
+        "zh": "我想睡晚一點，偏偏鄰居在裝潢。"
+      },
+      {
+        "en": "I told her not to buy it, but she insisted on buying it.",
+        "zh": "我叫她不要買，她偏要買。"
+      }
+    ]
+  },
+  {
+    "id": "g-105",
+    "title": "呢 — what Taiwan keeps and what it drops",
+    "pattern": "N + 呢？ ; wh-question + 呢？ ; (✗ 在 V 呢 / 還沒 V 呢)",
+    "category": "particles",
+    "level": 2,
+    "explanation": "Taiwanese use 呢 mainly in follow-up questions (那你呢？) and to make wh-questions sound thoughtful or polite (該怎麼辦呢？), which gives it a gentle, slightly written feel. The northern uses for ongoing action or emphasis (他正吃飯呢, 還早呢) are uncommon; Taiwan uses 在 + V, 還 or 耶 / 啊 instead.",
+    "contrast": "Mainland/textbook: 他在睡覺呢 / 我還沒吃呢 / 可好吃呢. In Taiwan: 他在睡覺 / 我還沒吃 / 很好吃耶. Minimal pair: 怎麼辦？ (urgent) vs 怎麼辦呢？ (musing, softer).",
+    "examples": [
+      {
+        "zh": "我要點珍奶，那你呢？",
+        "en": "I'm getting bubble tea — what about you?"
+      },
+      {
+        "zh": "這麼多東西，要怎麼帶回去呢？",
+        "en": "With this much stuff, how are we going to carry it back?"
+      },
+      {
+        "zh": "請問您要找哪一位呢？",
+        "en": "May I ask who you're looking for?"
+      },
+      {
+        "zh": "他還在睡覺，你晚點再打來。",
+        "en": "He's still asleep; call again later. (no 呢, the Taiwan way)"
+      }
+    ],
+    "practice": [
+      {
+        "en": "I like summer. And you?",
+        "zh": "我喜歡夏天，你呢？"
+      },
+      {
+        "en": "I haven't eaten yet. (Taiwan style, without 呢)",
+        "zh": "我還沒吃。"
+      }
+    ]
+  },
+  {
+    "id": "g-106",
+    "title": "對了 / 話說 / 話說回來 — steering the topic",
+    "pattern": "對了，… ; 話說，… ; 話說回來，…",
+    "category": "discourse",
+    "level": 2,
+    "explanation": "對了 introduces something you just remembered ('oh, by the way'). 話說 opens a new or loosely related topic ('so, speaking of which'), common in chat and online posts. 話說回來 returns to the main point or adds a balancing view ('that said').",
+    "contrast": "Mainland: 話又說回來 / 說起來. 順便說一下 is a literal translation of 'by the way' and sounds stiff; use 對了.",
+    "examples": [
+      {
+        "zh": "對了，你上次說的那本書叫什麼？",
+        "en": "Oh, by the way, what was that book you mentioned last time?"
+      },
+      {
+        "zh": "話說，你後來有去面試嗎？",
+        "en": "So, did you end up going to the interview?"
+      },
+      {
+        "zh": "話說回來，他也不是故意的。",
+        "en": "That said, he didn't do it on purpose."
+      },
+      {
+        "zh": "對了，明天記得帶健保卡。",
+        "en": "Oh right — remember to bring your health insurance card tomorrow."
+      }
+    ],
+    "practice": [
+      {
+        "en": "By the way, have you booked the hotel yet?",
+        "zh": "對了，你訂飯店了沒？"
+      },
+      {
+        "en": "That said, the price really is reasonable.",
+        "zh": "話說回來，價錢真的很合理。"
+      }
+    ]
+  },
+  {
+    "id": "g-107",
+    "title": "乾脆 — 'might as well just'",
+    "pattern": "(那 / 不然) 乾脆 + VP (+ 好了 / 算了)",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "乾脆 proposes the simplest, most decisive option after the alternatives look troublesome: 'might as well just…'. It often pairs with 好了 or 算了. As an adjective it describes someone decisive and straightforward (他很乾脆).",
+    "contrast": "Mainland alternatives are 索性 (written) and northern …得了, which Taiwan doesn't use. Learners underuse 乾脆 and say 不如 for everything.",
+    "examples": [
+      {
+        "zh": "等公車要二十分鐘，乾脆用走的好了。",
+        "en": "The bus is twenty minutes away; we might as well walk."
+      },
+      {
+        "zh": "修理這麼貴，乾脆買一台新的。",
+        "en": "Repairs cost this much — might as well buy a new one."
+      },
+      {
+        "zh": "既然都來了，乾脆多住一天。",
+        "en": "Since we're already here, we might as well stay one more day."
+      },
+      {
+        "zh": "他做事很乾脆，不會拖拖拉拉。",
+        "en": "He's decisive and doesn't drag things out."
+      }
+    ],
+    "practice": [
+      {
+        "en": "It's already so late; you might as well stay over.",
+        "zh": "都這麼晚了，你乾脆住下來好了。"
+      },
+      {
+        "en": "If you don't like it, just don't go.",
+        "zh": "不喜歡的話，乾脆不要去。"
+      }
+    ]
+  },
+  {
+    "id": "g-108",
+    "title": "難道 — rhetorical 'surely not? / could it be?'",
+    "pattern": "難道 + clause + (嗎)？ ; 該不會 … 吧？",
+    "category": "structures",
+    "level": 2,
+    "explanation": "難道 opens a rhetorical question that expects 'surely not' or voices a dawning suspicion ('don't tell me…'). It goes before or after the subject and usually ends in 嗎. In casual Taiwan speech 該不會…吧 often replaces it for the suspicion sense.",
+    "contrast": "It is not a neutral question — don't use it simply to ask for information. ✗ 難道 with a wh-question word.",
+    "examples": [
+      {
+        "zh": "難道你不知道今天要交報告嗎？",
+        "en": "Don't you know the report is due today?"
+      },
+      {
+        "zh": "他到現在還沒來，難道是忘了？",
+        "en": "He still isn't here — could he have forgotten?"
+      },
+      {
+        "zh": "難道就沒有別的辦法了嗎？",
+        "en": "Is there really no other way?"
+      },
+      {
+        "zh": "你該不會又忘記帶錢包了吧？",
+        "en": "Don't tell me you forgot your wallet again?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Do you really think I don't care?",
+        "zh": "難道你覺得我不在乎嗎？"
+      },
+      {
+        "en": "Could it be that he already knows?",
+        "zh": "難道他已經知道了？"
+      }
+    ]
+  },
+  {
+    "id": "g-109",
+    "title": "導致 / 造成 / 致使 / 以致 — negative causation",
+    "pattern": "cause + 導致/造成/致使 + (bad) result ; …，以致 (於) + result clause",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "These mark negative causation in formal writing. 造成 takes a noun result (造成損失, 造成不便); 導致 takes a noun or clause (導致交通中斷); 致使 + clause is more literary. 以致 / 以致於 is a conjunction introducing the unfortunate consequence of the preceding clause.",
+    "contrast": "Spoken: 害 / 讓 / 結果. Don't use these for good results (use 使 / 促成 / 帶來). 以致 (bad result) ≠ 以至 (extent: 'up to, even').",
+    "examples": [
+      {
+        "zh": "連日豪雨造成多處道路坍方。",
+        "en": "Days of torrential rain caused landslides on many roads."
+      },
+      {
+        "zh": "駕駛疲勞是導致這起車禍的主因。",
+        "en": "Driver fatigue was the main cause of this car accident."
+      },
+      {
+        "zh": "施工期間造成不便，敬請見諒。",
+        "en": "We apologize for any inconvenience caused during construction."
+      },
+      {
+        "zh": "他長期熬夜，以致健康出了問題。",
+        "en": "He stayed up late for a long time, with the result that his health suffered."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The power outage caused the trains to be delayed.",
+        "zh": "停電導致列車誤點。"
+      },
+      {
+        "en": "The typhoon caused serious agricultural losses.",
+        "zh": "颱風造成嚴重的農業損失。"
+      }
+    ]
+  },
+  {
+    "id": "g-110",
+    "title": "隨著 — 'as / along with (a change)'",
+    "pattern": "隨著 + N (的 + V)，… 越來越 / 逐漸 / 也 …",
+    "category": "structures",
+    "level": 2,
+    "explanation": "隨著 links a gradual change to the trend behind it. The main clause typically has 越來越, 逐漸 or 也. Neutral-to-formal; a standard opening for essays and news paragraphs.",
+    "contrast": "隨著 needs a noun phrase, not a finished clause (✗ 隨著科技發展了). It is not 跟著 ('follow physically / right after').",
+    "examples": [
+      {
+        "zh": "隨著年紀增加，他越來越注重健康。",
+        "en": "As he gets older, he pays more and more attention to his health."
+      },
+      {
+        "zh": "隨著科技的進步，生活變得更方便。",
+        "en": "With advances in technology, life has become more convenient."
+      },
+      {
+        "zh": "隨著物價上漲，外食族的負擔也加重。",
+        "en": "As prices rise, the burden on people who eat out also grows."
+      }
+    ],
+    "practice": [
+      {
+        "en": "As time passed, he gradually got used to it.",
+        "zh": "隨著時間過去，他漸漸習慣了。"
+      },
+      {
+        "en": "As smartphones became common, fewer and fewer people buy cameras.",
+        "zh": "隨著手機普及，買相機的人越來越少。"
+      }
+    ]
+  },
+  {
+    "id": "g-111",
+    "title": "有 + Adj — 'it really is / is it any …?'",
+    "pattern": "有 + (比較 / 這麼 / 那麼) + Adj (+ 嗎) ; 沒有 + Adj",
+    "category": "taiwan-usage",
+    "level": 2,
+    "explanation": "Taiwan Mandarin lets 有 precede adjectives to assert or question that a quality really holds or has changed: 有比較好嗎？ 'is it any better?', 有好吃 'it IS tasty', 有這麼誇張嗎？ 'is it really that extreme?'. It answers doubt, like stressed 'is / does' in English.",
+    "contrast": "Mainland/textbook: 好點兒了嗎？/ 確實好吃 / 至於這麼誇張嗎？ ✗ 有好吃 is rejected in mainland standard usage but normal in Taiwan speech.",
+    "examples": [
+      {
+        "zh": "吃了藥以後，喉嚨有比較好嗎？",
+        "en": "Is your throat any better after taking the medicine?"
+      },
+      {
+        "zh": "我覺得這家有好吃，值得排隊。",
+        "en": "I think this place really is good; it's worth the line."
+      },
+      {
+        "zh": "有這麼誇張嗎？不過是遲到五分鐘。",
+        "en": "Is it really that big a deal? It's only five minutes late."
+      },
+      {
+        "zh": "換了新枕頭，睡覺有比較舒服。",
+        "en": "With the new pillow, sleeping really is more comfortable."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Is it any cheaper to buy online?",
+        "zh": "網路上買有比較便宜嗎？"
+      },
+      {
+        "en": "Is it really that cold?",
+        "zh": "有那麼冷嗎？"
+      }
+    ]
+  },
+  {
+    "id": "g-112",
+    "title": "是否 / 如何 / 為何 / 何時 — formal question words",
+    "pattern": "是否 + V (= …不… / …嗎) ; 如何 (= 怎麼 / 怎麼樣) ; 為何 (= 為什麼) ; 何時 / 何處",
+    "category": "formal-written",
+    "level": 2,
+    "explanation": "Formal writing swaps colloquial question words for classical ones: 是否 'whether' (是否參加), 如何 'how' (如何解決), 為何 'why', 何時 'when', 何處 'where', 能否 / 可否 'can … or not'. They appear in headlines, forms, emails and embedded questions.",
+    "contrast": "Spoken: 要不要 / 怎麼 / 為什麼 / 什麼時候. ✗ 是否…嗎 (double question marking). Sentence-final 如何 = 怎麼樣 (結果如何？).",
+    "examples": [
+      {
+        "zh": "請於週五前回覆是否出席。",
+        "en": "Please reply by Friday as to whether you will attend."
+      },
+      {
+        "zh": "如何兼顧工作與家庭，是許多人的難題。",
+        "en": "How to balance work and family is a difficult question for many."
+      },
+      {
+        "zh": "目前仍不清楚火災為何發生。",
+        "en": "It remains unclear why the fire broke out."
+      },
+      {
+        "zh": "捷運新路線何時通車，市府尚未確定。",
+        "en": "The city government has not yet confirmed when the new MRT line will open."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Please confirm whether the information is correct.",
+        "zh": "請確認資料是否正確。"
+      },
+      {
+        "en": "How to reduce plastic waste is an important issue.",
+        "zh": "如何減少塑膠垃圾是一個重要的議題。"
+      }
+    ]
+  },
+  {
+    "id": "g-113",
+    "title": "根據 / 按照 / 依照 — 'according to' vs 'in accordance with'",
+    "pattern": "根據 + source/basis，… ; 按照 / 依照 / 依 + rule/plan/order + V ; 照 + V",
+    "category": "structures",
+    "level": 2,
+    "explanation": "根據 cites the basis of a claim or decision (data, reports, law). 按照 means following a standard, plan or sequence; 依照 / 依 is its more formal version, favored in Taiwan regulations and notices. 照 alone is the spoken short form (照你說的做).",
+    "contrast": "✗ 按照新聞報導 (a source → 根據). ✗ 根據他說 → 根據他的說法. Mainland notices use 按 / 按照; Taiwan official text prefers 依 / 依照 / 依規定.",
+    "examples": [
+      {
+        "zh": "根據氣象預報，明天會有午後雷陣雨。",
+        "en": "According to the forecast, there will be afternoon thundershowers tomorrow."
+      },
+      {
+        "zh": "請按照說明書的步驟安裝。",
+        "en": "Please install it following the steps in the manual."
+      },
+      {
+        "zh": "違規停車將依照規定開罰。",
+        "en": "Illegal parking will be fined in accordance with regulations."
+      },
+      {
+        "zh": "就照你說的做吧，我沒意見。",
+        "en": "Let's do it the way you said; I have no objection."
+      }
+    ],
+    "practice": [
+      {
+        "en": "According to the survey, most people support this plan.",
+        "zh": "根據調查，大部分的人支持這個計畫。"
+      },
+      {
+        "en": "Please line up in order.",
+        "zh": "請按照順序排隊。"
+      }
+    ]
+  },
+  {
+    "id": "g-114",
+    "title": "其 — formal 'its / his / their'",
+    "pattern": "其 + N (= 他的 / 它的 / 他們的) ; 其中 / 其餘 / 其次",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "其 is the written third-person possessive and demonstrative: 其原因 'its cause', 其家屬 'his or her family'. It refers back to something just mentioned and keeps formal sentences compact. Related words: 其中 'among them', 其餘 'the rest', 其次 'secondly'.",
+    "contrast": "Spoken: 他的 / 它的 / 那個. ✗ 其 as a subject (✗ 其很重要) — it only modifies a noun or serves as object in set phrases (任其發展).",
+    "examples": [
+      {
+        "zh": "該公司宣佈裁員，其原因尚未說明。",
+        "en": "The company announced layoffs; the reason has not yet been explained."
+      },
+      {
+        "zh": "這款手機很受歡迎，其價格卻不便宜。",
+        "en": "This phone is very popular, yet its price is not cheap."
+      },
+      {
+        "zh": "報名者共兩百人，其中一半是學生。",
+        "en": "There were 200 applicants in total, half of whom were students."
+      },
+      {
+        "zh": "警方已通知其家屬到場。",
+        "en": "The police have notified his family to come to the scene."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Every plan has its advantages and disadvantages.",
+        "zh": "每個方案都有其優缺點。"
+      },
+      {
+        "en": "There are five candidates, three of whom are women.",
+        "zh": "候選人共五位，其中三位是女性。"
+      }
+    ]
+  },
+  {
+    "id": "g-115",
+    "title": "何況 vs 況且 — 'let alone' vs 'besides'",
+    "pattern": "(連) A 都…，(更) 何況 B ; …，況且 + additional reason",
+    "category": "structures",
+    "level": 3,
+    "explanation": "何況 is rhetorical: if A is so, B is even more obviously so ('let alone, not to mention'). 況且 adds a further supporting reason ('besides, moreover'). Both are fairly formal; in speech Taiwanese say 更不用說 and 而且 / 再說.",
+    "contrast": "Learners swap the two. 何況 builds an a fortiori argument (often after 連…都); 況且 only adds a reason. 更何況 can do either.",
+    "examples": [
+      {
+        "zh": "連大人都搬不動，何況是小孩？",
+        "en": "Even adults can't lift it, let alone a child."
+      },
+      {
+        "zh": "平日都要排隊，更何況是假日。",
+        "en": "You have to queue even on weekdays, never mind holidays."
+      },
+      {
+        "zh": "這間套房太小，況且離公司也很遠。",
+        "en": "This studio is too small, and besides, it's far from the office."
+      },
+      {
+        "zh": "時間不夠，況且預算也有限。",
+        "en": "There isn't enough time, and moreover the budget is limited."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I can't even afford rent, let alone a house.",
+        "zh": "我連房租都付不起，更何況買房子。"
+      },
+      {
+        "en": "It's already late; besides, it's raining outside.",
+        "zh": "已經很晚了，況且外面在下雨。"
+      }
+    ]
+  },
+  {
+    "id": "g-116",
+    "title": "則 — 'whereas' and 'then'",
+    "pattern": "A …，B 則 … (contrast) ; 若/如 …，則 … (consequence) ; 一則 + 新聞/留言",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "則 has two main written uses: marking a contrast between parallel topics ('for its part, whereas': 北部多雨，南部則乾燥) and marking the consequence of a condition ('then': 若有疑問，則…). It sits after the subject of the second clause. As a measure word it counts news items and messages.",
+    "contrast": "Spoken: 就 / …的話就 / 而. Learners put 則 before the subject (✗ 則南部乾燥).",
+    "examples": [
+      {
+        "zh": "北部今天多雲，南部則是晴朗的好天氣。",
+        "en": "The north is cloudy today, while the south has fine, sunny weather."
+      },
+      {
+        "zh": "大人票價三百元，兒童則免費入場。",
+        "en": "Adult tickets are NT$300, while children enter free."
+      },
+      {
+        "zh": "如未在期限內繳費，則視同放棄。",
+        "en": "Failure to pay within the deadline will be deemed a forfeit."
+      },
+      {
+        "zh": "這則新聞在網路上引起熱烈討論。",
+        "en": "This news item sparked heated discussion online."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Some people support it, while others have reservations.",
+        "zh": "有些人支持，有些人則持保留態度。"
+      },
+      {
+        "en": "If it rains, the event will be moved indoors.",
+        "zh": "若遇雨天，活動則改在室內舉行。"
+      }
+    ]
+  },
+  {
+    "id": "g-117",
+    "title": "都馬 — 'always, as a matter of fact'",
+    "pattern": "S + 都馬 + VP",
+    "category": "taiwan-usage",
+    "level": 3,
+    "explanation": "都馬 (from Taiwanese lóng-mā) is an emphatic 都 for stating what is always true, usually to correct someone's assumption or to complain: 我都馬自己煮 'I always cook myself, actually'. Very colloquial and very Taiwanese; common in speech and chat, never in formal writing.",
+    "contrast": "Mainland: 都是 / 一直都 / 明明都是. No exact equivalent; recognize it first, then use it in casual talk for the 'actually, it's always…' rebuttal.",
+    "examples": [
+      {
+        "zh": "我都馬自己帶便當，很少吃外面。",
+        "en": "I always bring my own lunch box; I rarely eat out."
+      },
+      {
+        "zh": "他都馬這樣，講了也不會改。",
+        "en": "He's always like that; telling him won't change anything."
+      },
+      {
+        "zh": "都馬是你一直催，我才會忘記帶。",
+        "en": "It's because you kept rushing me that I forgot to bring it."
+      },
+      {
+        "zh": "大家都馬用 LINE 聯絡，誰還在打電話？",
+        "en": "Everyone uses LINE to keep in touch — who still makes calls?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "I always take the MRT to work, actually.",
+        "zh": "我都馬搭捷運上班。"
+      },
+      {
+        "en": "You always say that.",
+        "zh": "你都馬這樣講。"
+      }
+    ]
+  },
+  {
+    "id": "g-118",
+    "title": "以免 / 免得 / 省得 vs 以便 — negative and positive purpose",
+    "pattern": "…，以免 / 免得 / 省得 + unwanted result ; …，以便 + intended result",
+    "category": "structures",
+    "level": 3,
+    "explanation": "以免 and 免得 introduce what an action is meant to avoid ('so as not to, lest'): 以免 is written and found on signs, 免得 is spoken. 省得 means 'saving the trouble of'. 以便 is the positive counterpart in formal style: 'so that … can'.",
+    "contrast": "Mainland speech uses 省得 freely; in Taiwan 免得 or 才不會 is more usual (早點出門才不會遲到). Don't put 不 after 以免 (✗ 以免不遲到).",
+    "examples": [
+      {
+        "zh": "請提早出門，以免錯過班機。",
+        "en": "Please leave early so as not to miss your flight."
+      },
+      {
+        "zh": "你先打電話問一下，免得白跑一趟。",
+        "en": "Call and ask first so you don't make the trip for nothing."
+      },
+      {
+        "zh": "我直接傳給你，省得你再找。",
+        "en": "I'll send it straight to you to save you looking for it."
+      },
+      {
+        "zh": "請留下聯絡電話，以便我們通知您。",
+        "en": "Please leave a contact number so that we can notify you."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Write it down so you don't forget.",
+        "zh": "你寫下來，免得忘記。"
+      },
+      {
+        "en": "Please arrive ten minutes early so as not to delay the meeting.",
+        "zh": "請提早十分鐘到，以免耽誤會議。"
+      }
+    ]
+  },
+  {
+    "id": "g-119",
+    "title": "即 — formal 就 (即可、即將、亦即)",
+    "pattern": "A 即 B (= 就是) ; V1 + 即 + V2 (= 就) ; 即可 / 即將 / 立即 / 亦即",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "即 is the written 就: 'is precisely' (此即問題所在), 'then, right away' (用畢即丟) and part of many formal words: 即將 'about to', 即可 'will suffice', 立即 'at once', 亦即 'that is'. 即可 is everywhere in Taiwan instructions.",
+    "contrast": "Spoken: 就是 / 就可以了 / 馬上. Learners write 就可以 in formal instructions where 即可 is expected.",
+    "examples": [
+      {
+        "zh": "掃描 QR Code 即可完成報名。",
+        "en": "Simply scan the QR code to complete registration."
+      },
+      {
+        "zh": "新制度即將上路，請民眾多加留意。",
+        "en": "The new system is about to take effect; the public is asked to take note."
+      },
+      {
+        "zh": "加熱三分鐘即可食用。",
+        "en": "Heat for three minutes and it is ready to eat."
+      },
+      {
+        "zh": "所謂通膨，即物價持續上漲的現象。",
+        "en": "Inflation is the phenomenon of prices rising continuously."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Simply show your student ID to get the discount.",
+        "zh": "出示學生證即可享有優惠。"
+      },
+      {
+        "en": "The typhoon is about to make landfall.",
+        "zh": "颱風即將登陸。"
+      }
+    ]
+  },
+  {
+    "id": "g-120",
+    "title": "啊 as a sentence opener — 'so… / and… / but…'",
+    "pattern": "啊 + 你/就/不是/後來 + clause",
+    "category": "particles",
+    "level": 3,
+    "explanation": "An unstressed 啊 at the very start of a sentence comes from Taiwanese and works as a casual linker: 啊你呢？ 'and you?'; 啊就… introduces an obvious or reluctant explanation; 啊你不是說… points out a contradiction. Homey and informal, typical of family talk and southern speech.",
+    "contrast": "Mainland: 那你呢？/ 不是說…嗎？ with no opener. Don't confuse it with exclamatory 啊！ — the opener is short, flat and attached to the next word.",
+    "examples": [
+      {
+        "zh": "我要回家了，啊你呢？",
+        "en": "I'm heading home. And you?"
+      },
+      {
+        "zh": "啊你不是說今天要加班？",
+        "en": "Wait, didn't you say you were working late today?"
+      },
+      {
+        "zh": "啊就很忙啊，哪有時間運動。",
+        "en": "Well, I'm just busy — where would I find time to exercise?"
+      },
+      {
+        "zh": "啊你們吃飽了沒？",
+        "en": "So, have you guys eaten yet?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "And then what happened?",
+        "zh": "啊後來咧？"
+      },
+      {
+        "en": "But didn't you say you don't eat spicy food?",
+        "zh": "啊你不是說你不吃辣？"
+      }
+    ]
+  },
+  {
+    "id": "g-121",
+    "title": "所以說 / 反正就是 — getting to the point",
+    "pattern": "所以說 (嘛)，… ; 反正就是 …",
+    "category": "discourse",
+    "level": 3,
+    "explanation": "所以說 draws the moral of what was just discussed ('so you see', 'which is why'), sometimes with an I-told-you-so tone. 反正就是 cuts through the details to the bottom line ('anyway, the point is'). Both help you wrap up a story or steer back to the main point.",
+    "contrast": "總之 does this job in writing; in Taiwan conversation 反正就是 and 所以說 do the work. Don't open a reply with 所以說 to a superior — it can sound like a lecture.",
+    "examples": [
+      {
+        "zh": "所以說，出門前一定要先查天氣。",
+        "en": "So you see, you really have to check the weather before going out."
+      },
+      {
+        "zh": "所以說嘛，便宜的東西不一定划算。",
+        "en": "That's why I say cheap things aren't necessarily a bargain."
+      },
+      {
+        "zh": "反正就是我搞錯時間，白跑一趟。",
+        "en": "Anyway, bottom line: I got the time wrong and made the trip for nothing."
+      },
+      {
+        "zh": "細節我忘了，反正就是他不來了。",
+        "en": "I forget the details; the point is he's not coming."
+      }
+    ],
+    "practice": [
+      {
+        "en": "So that's why you should always back up your files.",
+        "zh": "所以說，檔案一定要備份。"
+      },
+      {
+        "en": "Anyway, the point is we need more time.",
+        "zh": "反正就是我們需要更多時間。"
+      }
+    ]
+  },
+  {
+    "id": "g-122",
+    "title": "難免 — 'bound to, can't be helped'",
+    "pattern": "(S) 難免 (會/有) + V/Adj ; …是難免的",
+    "category": "structures",
+    "level": 3,
+    "explanation": "難免 means 'hard to avoid', used to excuse or normalize an imperfect outcome. It usually comes with 會 or 有, and …是難免的 works as a comforting conclusion. 免不了 is the more colloquial variant.",
+    "contrast": "難免 ≠ 未必, and it isn't used for good outcomes. 不免 is more literary and only precedes affirmative verbs.",
+    "examples": [
+      {
+        "zh": "第一次上台，難免會緊張。",
+        "en": "It's your first time on stage; being nervous is only natural."
+      },
+      {
+        "zh": "剛到新環境，難免有點不習慣。",
+        "en": "Having just arrived in a new environment, feeling a bit unsettled is inevitable."
+      },
+      {
+        "zh": "人多的地方難免會有摩擦。",
+        "en": "Where there are lots of people, friction is bound to occur."
+      },
+      {
+        "zh": "做生意有賺有賠是難免的。",
+        "en": "In business, both gains and losses are unavoidable."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Everyone is bound to make mistakes sometimes.",
+        "zh": "每個人難免都會犯錯。"
+      },
+      {
+        "en": "Living abroad, it's natural to feel homesick.",
+        "zh": "住在國外，難免會想家。"
+      }
+    ]
+  },
+  {
+    "id": "g-123",
+    "title": "為…所 — the literary passive",
+    "pattern": "為 + agent + 所 + V",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "為…所 is the classical-style passive of formal writing: 為人所知 'known to people', 為生活所迫 'forced by circumstances'. It is common in four-character-style phrases and in essays that want to avoid repeating 被.",
+    "contrast": "Spoken: 被 + agent + V. The verb is usually a fixed or two-syllable item and takes no 了; don't use it for casual events (✗ 為老闆所罵).",
+    "examples": [
+      {
+        "zh": "這位作家的作品廣為讀者所喜愛。",
+        "en": "This writer's works are widely loved by readers."
+      },
+      {
+        "zh": "他不為金錢所動，堅持自己的原則。",
+        "en": "Unmoved by money, he holds to his principles."
+      },
+      {
+        "zh": "這個小鎮過去鮮為人所知。",
+        "en": "This small town was little known in the past."
+      },
+      {
+        "zh": "許多人為生活所迫，不得不離鄉工作。",
+        "en": "Forced by circumstances, many people have to leave home to work."
+      }
+    ],
+    "practice": [
+      {
+        "en": "This fact is known to few people.",
+        "zh": "這個事實鮮為人所知。"
+      },
+      {
+        "en": "We should not be swayed by rumors.",
+        "zh": "我們不應為謠言所影響。"
+      }
+    ]
+  },
+  {
+    "id": "g-124",
+    "title": "鑑於 / 有鑑於此 / 基於 — 'in view of' and 'on the basis of'",
+    "pattern": "鑑於 / 有鑑於 + situation，… ; 有鑑於此，… ; 基於 + reason/principle，…",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "鑑於 / 有鑑於 means 'in view of' an observed situation that motivates a decision; 有鑑於此 ('in view of this') opens the sentence that announces the response. 基於 means 'on the basis of / out of' a principle or consideration (基於安全考量). All are official-register.",
+    "contrast": "Spoken: 因為 / 考慮到. Taiwan writes 鑑 (not 鑒). ✗ 基於 for evidence — that is 根據.",
+    "examples": [
+      {
+        "zh": "鑑於疫情升溫，主辦單位決定取消活動。",
+        "en": "In view of the worsening outbreak, the organizers decided to cancel the event."
+      },
+      {
+        "zh": "有鑑於此，教育部將修訂相關規定。",
+        "en": "In view of this, the Ministry of Education will revise the relevant rules."
+      },
+      {
+        "zh": "基於安全考量，頂樓暫不開放。",
+        "en": "For safety reasons, the rooftop is temporarily closed."
+      },
+      {
+        "zh": "基於個資保護，本公司無法提供名單。",
+        "en": "For reasons of personal data protection, our company cannot provide the list."
+      }
+    ],
+    "practice": [
+      {
+        "en": "For safety reasons, please do not use the elevator.",
+        "zh": "基於安全考量，請勿使用電梯。"
+      },
+      {
+        "en": "In view of the heavy rain, classes are suspended today.",
+        "zh": "鑑於雨勢過大，今日停止上課。"
+      }
+    ]
+  },
+  {
+    "id": "g-125",
+    "title": "無非 / 不外乎 — 'nothing more than / comes down to'",
+    "pattern": "無非 (是) + … ; 不外乎 (是) + A、B (、C)",
+    "category": "structures",
+    "level": 3,
+    "explanation": "Both reduce something to its essentials: 無非 = 'nothing but, simply' (often revealing a motive); 不外乎 = 'comes down to', usually followed by a short list. Formal-leaning; common in commentary and essays.",
+    "contrast": "Spoken equivalents: 只不過是 / 就是…而已 / 不就是. Don't follow 無非 with a negative verb.",
+    "examples": [
+      {
+        "zh": "父母這麼嘮叨，無非是擔心你。",
+        "en": "Parents nag like this simply because they worry about you."
+      },
+      {
+        "zh": "他這麼說，無非是想推卸責任。",
+        "en": "He says this for no other reason than to dodge responsibility."
+      },
+      {
+        "zh": "失敗的原因不外乎準備不足。",
+        "en": "The cause of failure basically comes down to insufficient preparation."
+      },
+      {
+        "zh": "上班族的煩惱不外乎錢和時間。",
+        "en": "Office workers' worries boil down to money and time."
+      }
+    ],
+    "practice": [
+      {
+        "en": "He did this simply to get attention.",
+        "zh": "他這麼做，無非是想引起注意。"
+      },
+      {
+        "en": "People's reasons for changing jobs come down to salary and environment.",
+        "zh": "換工作的理由不外乎薪水和環境。"
+      }
+    ]
+  },
+  {
+    "id": "g-126",
+    "title": "…的啦 / …的說 — reassuring and afterthought endings",
+    "pattern": "clause + 的啦 ; clause + 的說",
+    "category": "taiwan-usage",
+    "level": 3,
+    "explanation": "的啦 adds casual reassurance or insistence ('it'll be fine, really'). 的說 is a chatty afterthought ending that marks mild surprise, regret or contradiction ('…and here I thought'). Both are informal and common in LINE messages; use 的說 sparingly.",
+    "contrast": "No mainland equivalent for 的說 (roughly …來著 / …呢); plain 的 or nothing would be used. Overusing 的說 sounds childish.",
+    "examples": [
+      {
+        "zh": "不用擔心，一定會過的啦。",
+        "en": "Don't worry, you'll definitely pass."
+      },
+      {
+        "zh": "沒關係的啦，下次再約就好。",
+        "en": "It's really fine; we'll just meet next time."
+      },
+      {
+        "zh": "我本來想請你吃飯的說。",
+        "en": "And here I was going to treat you to a meal."
+      },
+      {
+        "zh": "這家以前很好吃的說，怎麼變了？",
+        "en": "This place used to be really good — what happened?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "It'll be fine, really.",
+        "zh": "不會有事的啦。"
+      },
+      {
+        "en": "I thought you were coming, though.",
+        "zh": "我以為你會來的說。"
+      }
+    ]
+  },
+  {
+    "id": "g-127",
+    "title": "加以 / 予以 / 給予 — formal 'dummy' verbs",
+    "pattern": "(對 + O) + 加以 + V ; 予以 + V ; 給予 + N (支持 / 協助 / 肯定)",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "These verbs turn an action into a formal verb–object phrase. 加以 means 'subject it to' (加以改善, 加以說明), 予以 means 'officially apply or grant' (予以補助, 予以處分), and 給予 means 'give' an abstract noun (給予支持). The real object comes earlier, after 對 or as the topic.",
+    "contrast": "Spoken: just the verb (改善 / 幫). ✗ 加以 + one-syllable verb (✗ 加以改) or with the object after it (✗ 加以改善這個問題 → 對這個問題加以改善).",
+    "examples": [
+      {
+        "zh": "對於民眾反映的問題，市府將加以改善。",
+        "en": "The city government will address the problems raised by the public."
+      },
+      {
+        "zh": "違反規定者，將依法予以處分。",
+        "en": "Violators will be penalized in accordance with the law."
+      },
+      {
+        "zh": "感謝各位一直以來給予的支持。",
+        "en": "Thank you all for the support you have given all along."
+      },
+      {
+        "zh": "這些資料必須加以整理後才能使用。",
+        "en": "These materials must be sorted out before they can be used."
+      }
+    ],
+    "practice": [
+      {
+        "en": "The government should give these families more assistance.",
+        "zh": "政府應給予這些家庭更多協助。"
+      },
+      {
+        "en": "These problems must be discussed further.",
+        "zh": "這些問題必須進一步加以討論。"
+      }
+    ]
+  },
+  {
+    "id": "g-128",
+    "title": "固然…但 — 'admittedly… but'",
+    "pattern": "A 固然 + Adj/V，但(是) / 卻 / 不過 + B",
+    "category": "structures",
+    "level": 3,
+    "explanation": "固然 fully grants a point before introducing a more important consideration. It sounds measured and is a staple of argumentative essays. 固然 follows the subject.",
+    "contrast": "Unlike 雖然, 固然 can't start the sentence before the subject. The spoken Taiwan equivalent is …是…啦，可是… (便宜是便宜啦，可是…).",
+    "examples": [
+      {
+        "zh": "成績固然重要，但健康更重要。",
+        "en": "Grades are certainly important, but health matters more."
+      },
+      {
+        "zh": "這個方法固然可行，但成本太高。",
+        "en": "This method is admittedly workable, but the cost is too high."
+      },
+      {
+        "zh": "網路固然方便，卻也帶來不少問題。",
+        "en": "The internet is certainly convenient, yet it also brings quite a few problems."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Money is admittedly important, but it isn't everything.",
+        "zh": "錢固然重要，但不是一切。"
+      },
+      {
+        "en": "Experience certainly matters, but attitude matters more.",
+        "zh": "經驗固然重要，但態度更重要。"
+      }
+    ]
+  },
+  {
+    "id": "g-129",
+    "title": "從而 / 進而 — 'thereby' and 'and then go on to'",
+    "pattern": "…，從而 + result ; …，進而 + further step",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "從而 links a method or cause to the result it brings about ('thereby'). 進而 introduces a further stage that builds on the first ('and in turn'). Both follow a complete first clause and share its subject; they are staples of analytical writing.",
+    "contrast": "Spoken: 這樣就… / 然後還…. ✗ 從而 with a new subject or after an unrelated clause. 因而 = 'therefore' (pure cause); 進而 = progression.",
+    "examples": [
+      {
+        "zh": "多閱讀可以增加詞彙量，從而提升寫作能力。",
+        "en": "Reading more can expand vocabulary, thereby improving writing ability."
+      },
+      {
+        "zh": "政府希望降低稅率，從而刺激消費。",
+        "en": "The government hopes to lower tax rates and thereby stimulate consumption."
+      },
+      {
+        "zh": "先瞭解問題的原因，進而找出解決方法。",
+        "en": "First understand the cause of the problem, then go on to find a solution."
+      },
+      {
+        "zh": "壓力過大會影響睡眠，進而損害健康。",
+        "en": "Excessive stress affects sleep and in turn damages health."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Exercise reduces stress and thereby improves work efficiency.",
+        "zh": "運動可以減輕壓力，從而提高工作效率。"
+      },
+      {
+        "en": "We should first build mutual trust and then deepen cooperation.",
+        "zh": "我們應先建立互信，進而深化合作。"
+      }
+    ]
+  },
+  {
+    "id": "g-130",
+    "title": "甚至 / 乃至 — 'even' and 'and even as far as'",
+    "pattern": "…，甚至 (連) … ; A、B 乃至 (於) C",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "甚至 escalates to a more extreme case ('even, go so far as to') and is used in both speech and writing. 乃至 / 乃至於 is literary and typically closes a widening list: 個人、家庭乃至整個社會.",
+    "contrast": "Spoken Taiwan: 甚至 / 連…都. 乃至 is written only. ✗ 甚至 before the first item of a list.",
+    "examples": [
+      {
+        "zh": "他忙到沒時間吃飯，甚至連水都忘了喝。",
+        "en": "He was too busy to eat, and even forgot to drink water."
+      },
+      {
+        "zh": "有些人甚至願意排隊三個小時。",
+        "en": "Some people are even willing to queue for three hours."
+      },
+      {
+        "zh": "這項技術將影響台灣乃至全球的產業。",
+        "en": "This technology will affect industry in Taiwan and even worldwide."
+      },
+      {
+        "zh": "少子化衝擊學校、企業乃至整個社會。",
+        "en": "The falling birthrate is hitting schools, businesses and even society as a whole."
+      }
+    ],
+    "practice": [
+      {
+        "en": "Some people don't even know who their neighbors are.",
+        "zh": "有些人甚至不知道鄰居是誰。"
+      },
+      {
+        "en": "This issue concerns individuals, families and even the whole country.",
+        "zh": "這個議題關係到個人、家庭乃至整個國家。"
+      }
+    ]
+  },
+  {
+    "id": "g-131",
+    "title": "恨不得 / 巴不得 — 'wish I could' and 'can't wait for'",
+    "pattern": "恨不得 + (unrealizable) VP ; 巴不得 + (hoped-for) clause",
+    "category": "structures",
+    "level": 3,
+    "explanation": "恨不得 expresses an intense wish to do something that isn't actually possible right now ('I wish I could just…'). 巴不得 is an eager wish for something that could well happen ('would love nothing more than'). Both are vivid, spoken and slightly dramatic.",
+    "contrast": "恨不得 has nothing to do with hating. ✗ 恨不得 with an ordinary realizable plan (use 很想). The standalone reply 我巴不得呢 is mainland; in Taiwan say 求之不得.",
+    "examples": [
+      {
+        "zh": "我恨不得現在就飛回台灣。",
+        "en": "I wish I could fly back to Taiwan right this minute."
+      },
+      {
+        "zh": "當時好丟臉，恨不得找個洞鑽進去。",
+        "en": "It was so embarrassing I wished I could crawl into a hole."
+      },
+      {
+        "zh": "他巴不得明天就放暑假。",
+        "en": "He can't wait for summer vacation to start tomorrow."
+      },
+      {
+        "zh": "她巴不得你趕快離職。",
+        "en": "She'd love nothing more than for you to quit soon."
+      }
+    ],
+    "practice": [
+      {
+        "en": "I wish I could quit right now.",
+        "zh": "我恨不得現在就辭職。"
+      },
+      {
+        "en": "He'd love for the meeting to be cancelled.",
+        "zh": "他巴不得會議取消。"
+      }
+    ]
+  },
+  {
+    "id": "g-132",
+    "title": "捏 / 餒 — cutesy chat spellings of 耶 / 呢",
+    "pattern": "clause + 捏 / 餒",
+    "category": "particles",
+    "level": 3,
+    "explanation": "In messages and cutesy speech, 耶 and 呢 are respelled 捏 or 餒 to sound playful, hesitant or sweet: 不知道捏, 好可愛捏. Internet-flavored and mostly used by younger speakers in LINE, Dcard and Instagram captions. Recognize it; use it only in very casual chat.",
+    "contrast": "Standard spelling: 不知道耶 / 好可愛喔. Never use it in work email or essays, and note that it can read as overly cute from someone you don't know well.",
+    "examples": [
+      {
+        "zh": "我也不知道捏，你問他看看。",
+        "en": "I dunno either~ try asking him."
+      },
+      {
+        "zh": "這隻貓好可愛捏！",
+        "en": "This cat is sooo cute!"
+      },
+      {
+        "zh": "今天有點懶，不太想出門捏。",
+        "en": "Feeling a bit lazy today; don't really wanna go out~"
+      }
+    ],
+    "practice": [
+      {
+        "en": "Hmm, I'm not sure~ (cute, in chat)",
+        "zh": "我不太確定捏。"
+      },
+      {
+        "en": "It looks really yummy~ (cute, in chat)",
+        "zh": "看起來好好吃捏。"
+      }
+    ]
+  },
+  {
+    "id": "g-133",
+    "title": "你知道嗎 / 你懂我意思嗎 — pulling the listener in",
+    "pattern": "你知道嗎，… ; …，你知道嗎？ ; 你懂我意思嗎？",
+    "category": "discourse",
+    "level": 3,
+    "explanation": "你知道嗎 hooks the listener before surprising news; tacked on at the end it seeks empathy ('you know?'). 你懂我意思嗎 checks that a hard-to-express point landed. Used with feeling they make storytelling sound native; overused they become a verbal tic.",
+    "contrast": "Mainland: 你明白我意思吧 / 你造嗎 (slang). Don't say 你懂嗎 to superiors — it sounds condescending; use 不知道我這樣講清不清楚.",
+    "examples": [
+      {
+        "zh": "你知道嗎，他們兩個居然在一起了。",
+        "en": "You know what? Those two actually got together."
+      },
+      {
+        "zh": "我真的很努力了，你知道嗎？",
+        "en": "I really did try my best, you know?"
+      },
+      {
+        "zh": "就是那種很悶的感覺，你懂我意思嗎？",
+        "en": "It's that kind of stifling feeling — you know what I mean?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "You know what? I ran into our teacher on the MRT today.",
+        "zh": "你知道嗎，我今天在捷運上遇到老師。"
+      },
+      {
+        "en": "It's really tiring, you know?",
+        "zh": "真的很累，你知道嗎？"
+      }
+    ]
+  },
+  {
+    "id": "g-134",
+    "title": "值得一提的是 / 值得注意的是 — highlighting a point",
+    "pattern": "值得一提 / 值得注意 的是，+ clause ; 更重要的是，… ; 不可否認的是，…",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "These sentence openers highlight a point: 值得一提的是 adds a notable extra; 值得注意的是 flags something the reader should weigh. The same frame gives 更重要的是, 令人意外的是 and 不可否認的是.",
+    "contrast": "Spoken: 對了 / 還有一點 / 重點是. Learners who want 'by the way' in an essay should use these, not 順便說.",
+    "examples": [
+      {
+        "zh": "值得一提的是，這部電影全程在台南拍攝。",
+        "en": "It is worth mentioning that this film was shot entirely in Tainan."
+      },
+      {
+        "zh": "值得注意的是，年輕族群的投票率明顯上升。",
+        "en": "Notably, turnout among young voters rose markedly."
+      },
+      {
+        "zh": "更重要的是，這項改變並不需要額外經費。",
+        "en": "More importantly, this change requires no additional funding."
+      },
+      {
+        "zh": "不可否認的是，科技也帶來了新的問題。",
+        "en": "It cannot be denied that technology has also brought new problems."
+      }
+    ],
+    "practice": [
+      {
+        "en": "It is worth mentioning that all the staff are volunteers.",
+        "zh": "值得一提的是，所有工作人員都是志工。"
+      },
+      {
+        "en": "It is worth noting that prices are still rising.",
+        "zh": "值得注意的是，物價仍持續上漲。"
+      }
+    ]
+  },
+  {
+    "id": "g-135",
+    "title": "何必 / 何苦 — 'why bother?'",
+    "pattern": "何必 + V (呢)？ ; 何苦 (呢)？ / 何苦 + V",
+    "category": "structures",
+    "level": 3,
+    "explanation": "何必 asks rhetorically why someone bothers: 'there's no need to…'. 何苦 adds that the person is only making themselves suffer. Both are gentle, somewhat literary ways to advise against something. Spoken Taiwan equivalents: 幹嘛 / 不用 / 沒必要.",
+    "contrast": "何必 ≠ 何不 ('why not', a suggestion). Mainland 犯不著 isn't used in Taiwan.",
+    "examples": [
+      {
+        "zh": "都是小事，何必這麼生氣呢？",
+        "en": "It's a trivial thing — why get so angry?"
+      },
+      {
+        "zh": "既然不喜歡，何必勉強自己？",
+        "en": "If you don't like it, why force yourself?"
+      },
+      {
+        "zh": "為了這種人難過，何苦呢？",
+        "en": "Being upset over a person like that — why do that to yourself?"
+      },
+      {
+        "zh": "捷運五分鐘就到，何必搭計程車？",
+        "en": "The MRT gets there in five minutes — why take a taxi?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "It's only a few dollars; why make a fuss?",
+        "zh": "才幾塊錢，何必計較？"
+      },
+      {
+        "en": "It's all in the past; why torment yourself?",
+        "zh": "事情都過去了，何苦折磨自己？"
+      }
+    ]
+  },
+  {
+    "id": "g-136",
+    "title": "啊不然咧 / 不然咧 — 'well, what else?'",
+    "pattern": "(啊) 不然咧？ ; 不然要怎麼辦？",
+    "category": "taiwan-usage",
+    "level": 3,
+    "explanation": "A rhetorical comeback meaning 'obviously — what did you expect?' or 'what's the alternative?'. With the Taiwanese-style opener 啊 and final 咧 it sounds cheeky: playful among friends, rude to strangers or superiors. 不然要怎麼辦 is the resigned, non-sassy version.",
+    "contrast": "Mainland: 那不然呢？/ 要不然呢？/ 那還能怎樣？ The 啊…咧 packaging is distinctly Taiwanese.",
+    "examples": [
+      {
+        "zh": "你又吃泡麵喔？——啊不然咧，我沒錢了。",
+        "en": "Instant noodles again? — Well, what else? I'm broke."
+      },
+      {
+        "zh": "你真的要自己搬？——不然咧？",
+        "en": "You're really moving it yourself? — What else would I do?"
+      },
+      {
+        "zh": "只能等了，不然要怎麼辦？",
+        "en": "All we can do is wait — what else is there?"
+      }
+    ],
+    "practice": [
+      {
+        "en": "You're working on Saturday? — Well, what choice do I have?",
+        "zh": "你禮拜六要上班喔？——啊不然咧？"
+      },
+      {
+        "en": "We'll just have to redo it. What else can we do?",
+        "zh": "只好重做了，不然要怎麼辦？"
+      }
+    ]
+  },
+  {
+    "id": "g-137",
+    "title": "換言之 / 也就是說 / 簡言之 — restating",
+    "pattern": "…。換言之 / 也就是說 / 簡言之，+ restatement",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "換言之 ('in other words') restates a point more plainly or draws out its implication; 也就是說 is the neutral equivalent that also works in speech; 簡言之 / 簡單來說 means 'in short'. They tell the reader you are clarifying, not adding.",
+    "contrast": "Spoken: 就是說 / 意思就是. ✗ Writing 換言之 and then saying something new rather than a paraphrase.",
+    "examples": [
+      {
+        "zh": "出生率持續下降，換言之，勞動力將越來越少。",
+        "en": "The birthrate keeps falling; in other words, the workforce will keep shrinking."
+      },
+      {
+        "zh": "他沒有回覆，也就是說他不打算參加。",
+        "en": "He didn't reply, which is to say he doesn't intend to take part."
+      },
+      {
+        "zh": "簡言之，這項計畫的成本遠高於效益。",
+        "en": "In short, the costs of this plan far exceed the benefits."
+      }
+    ],
+    "practice": [
+      {
+        "en": "In other words, we have to start over.",
+        "zh": "換言之，我們必須重新開始。"
+      },
+      {
+        "en": "That is to say, the deadline is this Friday.",
+        "zh": "也就是說，期限是這個禮拜五。"
+      }
+    ]
+  },
+  {
+    "id": "g-138",
+    "title": "不妨 — 'there's no harm in / you might'",
+    "pattern": "(S) 不妨 + V (+ 看看 / 一下)",
+    "category": "structures",
+    "level": 3,
+    "explanation": "不妨 makes a polite, low-pressure suggestion. It suits advice columns, customer service and courteous speech, and often pairs with 試試, 考慮, 參考. The spoken equivalent is 可以…看看.",
+    "contrast": "Learners overuse 應該, which sounds like an obligation. Don't use 不妨 for urgent or serious advice.",
+    "examples": [
+      {
+        "zh": "有空的話，不妨去那家店看看。",
+        "en": "If you have time, you might drop by that shop."
+      },
+      {
+        "zh": "如果睡不著，不妨試試聽輕音樂。",
+        "en": "If you can't sleep, try listening to some soft music."
+      },
+      {
+        "zh": "遇到問題時，不妨先問問同事。",
+        "en": "When you hit a problem, there's no harm in asking a coworker first."
+      }
+    ],
+    "practice": [
+      {
+        "en": "You might consider a different approach.",
+        "zh": "你不妨考慮換個方法。"
+      },
+      {
+        "en": "If you're interested, you might sign up and give it a try.",
+        "zh": "有興趣的話，不妨報名試試看。"
+      }
+    ]
+  },
+  {
+    "id": "g-139",
+    "title": "總而言之 / 綜上所述 / 由此可見 — concluding and inferring",
+    "pattern": "總而言之 / 總之 / 綜上所述，+ conclusion ; 由此可見 / 由此可知，+ inference",
+    "category": "formal-written",
+    "level": 3,
+    "explanation": "總而言之 and 總之 ('in sum') wrap up an argument; 綜上所述 ('in light of the above') is the classic essay-conclusion opener. 由此可見 / 由此可知 draws an inference from evidence just presented. Such signposts are expected in TOCFL and HSK 6 essays.",
+    "contrast": "Spoken: 反正 / 所以說. ✗ 由此可見 with no evidence before it. Don't conclude an argument with 最後 alone.",
+    "examples": [
+      {
+        "zh": "總而言之，這次活動算是相當成功。",
+        "en": "All in all, this event can be considered quite successful."
+      },
+      {
+        "zh": "綜上所述，遠距工作利大於弊。",
+        "en": "In light of the above, the benefits of remote work outweigh the drawbacks."
+      },
+      {
+        "zh": "由此可見，飲食習慣對健康影響很大。",
+        "en": "From this it is clear that eating habits greatly affect health."
+      },
+      {
+        "zh": "總之，我們需要更多時間來評估。",
+        "en": "In short, we need more time to evaluate."
+      }
+    ],
+    "practice": [
+      {
+        "en": "In sum, there is no perfect answer to this question.",
+        "zh": "總而言之，這個問題沒有完美的答案。"
+      },
+      {
+        "en": "From this we can see that education is very important.",
+        "zh": "由此可見，教育非常重要。"
+      }
+    ]
+  }
+]

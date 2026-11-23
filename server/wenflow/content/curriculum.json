@@ -1,0 +1,1833 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "phase": 0,
+      "title": "Zhuyin Initials and the 言 Radical",
+      "title_zh": "注音聲母與言字旁",
+      "theme": "Learn the 21 zhuyin initials and start reading Traditional characters through the most common radical change, 讠→言.",
+      "goals": [
+        "Read and say all 21 initials ㄅㄆㄇㄈ ㄉㄊㄋㄌ ㄍㄎㄏ ㄐㄑㄒ ㄓㄔㄕㄖ ㄗㄘㄙ with correct pronunciation",
+        "Find every initial on the 大千 keyboard and type them blind",
+        "Recognise 30 common 言-radical characters (說話請謝認識課) in Traditional",
+        "Order a drink and a breakfast item using set phrases"
+      ],
+      "zhuyin_focus": "Initials ㄅ through ㄙ: their sounds, their order (ㄅㄆㄇㄈ chant) and their keys on the 大千 layout (number row and left-hand rows). Install a 注音 input method and type single initials without looking.",
+      "traditional_focus": "讠→言: 說, 話, 請, 謝, 認識, 課, 讀, 語, 記, 試. Read every word in this week's materials in Traditional only.",
+      "vocab_domains": [
+        "greetings",
+        "food and drink ordering",
+        "numbers and prices"
+      ],
+      "taiwan_categories": [
+        "food",
+        "shopping",
+        "discourse"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-bubble-tea",
+        "sc-breakfast-shop"
+      ],
+      "reading_genre": "zhuyin-annotated menu and short dialogue",
+      "writing_task": "Type your name in zhuyin, then type 5 greetings and a 2-line drink order (e.g. 珍奶半糖少冰).",
+      "speaking_focus": "Retroflex initials ㄓㄔㄕㄖ versus flat ㄗㄘㄙ: Taiwanese often soften zh→z in casual speech, but learn and produce the standard contrast.",
+      "book_target": "0%",
+      "milestone": null
+    },
+    {
+      "week": 2,
+      "phase": 0,
+      "title": "Medials, Finals and 金/食",
+      "title_zh": "介音、韻母與金食旁",
+      "theme": "Complete the zhuyin system with medials ㄧㄨㄩ and finals ㄚ through ㄦ, and add the 金 and 食 radical families.",
+      "goals": [
+        "Read all 16 finals ㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦ and the medials ㄧㄨㄩ",
+        "Spell 40 syllables with medial + final combinations (ㄧㄠ, ㄨㄛ, ㄩㄝ, ㄧㄢ …)",
+        "Read 40 Traditional words containing 金 and 食 radicals",
+        "Buy something at a convenience store and order night-market food"
+      ],
+      "zhuyin_focus": "Medials ㄧㄨㄩ and finals ㄚ through ㄦ; three-symbol syllables (ㄐㄧㄠ, ㄒㄩㄝ). Locate the medial and final keys on the 大千 layout and type 40 syllables without tones.",
+      "traditional_focus": "钅→金 (錢, 鐵, 銀行, 錯, 鍋) and 饣→食 (飯, 餓, 餃子, 館, 飲料, 餅).",
+      "vocab_domains": [
+        "convenience store",
+        "night-market food",
+        "money"
+      ],
+      "taiwan_categories": [
+        "food",
+        "shopping",
+        "money"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-convenience-store",
+        "sc-night-market"
+      ],
+      "reading_genre": "zhuyin-annotated dialogue",
+      "writing_task": "Type 20 food words in zhuyin, then a 3-sentence self-introduction.",
+      "speaking_focus": "Finals: ㄥ versus ㄣ (many Taiwanese merge them, but keep them distinct), ㄛ after ㄅㄆㄇㄈ, and ㄦ without 兒化 (Taiwan rarely uses the -r suffix).",
+      "book_target": "0%",
+      "milestone": null
+    },
+    {
+      "week": 3,
+      "phase": 0,
+      "title": "Tones, Tone Marks and Spelling Rules",
+      "title_zh": "聲調、調號與拼寫規則",
+      "theme": "Master tone marks and zhuyin spelling rules so you can read zhuyin-annotated text, and add the 糸 and 門 families.",
+      "goals": [
+        "Write and type tones correctly: first tone unmarked, ˊ ˇ ˋ, and the neutral-tone dot ˙ written before the syllable",
+        "Apply spelling rules: no vowel after ㄓㄔㄕㄖㄗㄘㄙ (知 = ㄓ), ㄩ after ㄐㄑㄒ, ㄧㄡ/ㄨㄟ/ㄨㄣ full spellings",
+        "Read a zhuyin-annotated (注音版) children's text aloud",
+        "Ride the MRT and buy 鹽酥雞 using only spoken Mandarin"
+      ],
+      "zhuyin_focus": "Tones and tone marks on the 大千 keyboard (space = 1st tone, 6 ˊ, 3 ˇ, 4 ˋ, 7 ˙), syllables with empty rimes, and the spelling rules. Practise typing full syllables with tones and choosing the right character from the candidate list.",
+      "traditional_focus": "纟→糸 (紅, 給, 經驗, 線, 紙, 結婚) and 门→門 (問, 間, 聞, 們, 閉); watch the trap 闹→鬧.",
+      "vocab_domains": [
+        "transport",
+        "directions",
+        "street food"
+      ],
+      "taiwan_categories": [
+        "transit",
+        "food",
+        "money"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-mrt-easycard",
+        "sc-salty-chicken"
+      ],
+      "reading_genre": "zhuyin-annotated menu and MRT signs",
+      "writing_task": "Type your order for 5 drinks and 2 snacks with all tones correct, then a short message asking a friend where to meet at an MRT exit.",
+      "speaking_focus": "Tone basics as spoken in Taiwan: the 3rd tone is usually a low 'half-third' without a rise, and Taiwan uses far fewer neutral tones than Beijing speech.",
+      "book_target": "0%",
+      "milestone": null
+    },
+    {
+      "week": 4,
+      "phase": 0,
+      "title": "Daqian Keyboard and Speed Typing",
+      "title_zh": "大千鍵盤與速打",
+      "theme": "Consolidate zhuyin typing on the 大千 layout and finish the core radical families 貝 and 見; first checkpoint.",
+      "goals": [
+        "Type any syllable on the 大千 layout without looking at the keyboard",
+        "Use the IME efficiently: type whole words, let the IME choose, fix wrong candidates",
+        "Read 80 Traditional words from the 言/金/食/糸/門/貝/見 families",
+        "Get a SIM card and take a taxi"
+      ],
+      "zhuyin_focus": "Full 大千 layout drills, typing whole words and short phrases, using punctuation 「」，。？！ and the 選字 candidate window. Speed typing sprints: reach 10 字/分 by the end of the week.",
+      "traditional_focus": "贝→貝 (貴, 貨, 費, 購, 負) and 见→見 (現, 視, 規, 覺, 親); mixed review of all seven radicals so far.",
+      "vocab_domains": [
+        "telecom",
+        "taxis",
+        "time and appointments"
+      ],
+      "taiwan_categories": [
+        "tech",
+        "transit",
+        "discourse"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-sim-card",
+        "sc-taxi"
+      ],
+      "reading_genre": "LINE chat",
+      "writing_task": "Write a LINE message (about 50 characters) to a friend planning dinner tonight: time, place, what to eat.",
+      "speaking_focus": "Tone sandhi: 3rd + 3rd (你好), 一 (一個 yí, 一天 yì) and 不 (不是 bú); reading zhuyin aloud with sandhi applied.",
+      "book_target": "0%",
+      "milestone": "Checkpoint 1: read a 60-character zhuyin-annotated passage aloud with correct tones; type a 50-character message in zhuyin at 10+ 字/分; convert 40 simplified words from the 言/金/食/糸/門/貝/見 families to Traditional with 90% accuracy."
+    },
+    {
+      "week": 5,
+      "phase": 1,
+      "title": "Breakfast Shops and Mornings",
+      "title_zh": "早餐店的早晨",
+      "theme": "Taiwan's morning routine: the 早餐店, the convenience store and the commute; start reading the novel's opening pages.",
+      "goals": [
+        "Order a full Taiwan breakfast (蛋餅, 蘿蔔糕, 大冰奶) with preferences",
+        "Handle the convenience-store questions (袋子, 載具, 微波)",
+        "Use 有 + verb and 會 the way Taiwanese do",
+        "Read the first pages of the novel with a glossary"
+      ],
+      "zhuyin_focus": "Typing dictation: listen to this week's breakfast dialogues and type them in zhuyin. Target: 12 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "车→車 and 马→馬 families (軍, 較, 輸, 連; 嗎, 媽, 騎, 驗).",
+      "vocab_domains": [
+        "breakfast food",
+        "daily routine",
+        "convenience stores"
+      ],
+      "taiwan_categories": [
+        "food",
+        "shopping",
+        "discourse"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-breakfast-shop",
+        "sc-convenience-store"
+      ],
+      "reading_genre": "breakfast-shop menu and dialogue",
+      "writing_task": "Type a LINE message ordering breakfast for three coworkers, with each person's 甜度/冰塊 or sauce preferences.",
+      "speaking_focus": "Polite ordering register (阿姨, 老闆, 麻煩, 謝謝) and Taiwan's 這個 pronounced zhèi ge.",
+      "book_target": "1%",
+      "milestone": null
+    },
+    {
+      "week": 6,
+      "phase": 1,
+      "title": "Night Markets and Street Food",
+      "title_zh": "逛夜市",
+      "theme": "Explore night-market culture: food names, Taiwanese loanwords and the particles that make speech sound local.",
+      "goals": [
+        "Name 20 night-market foods, including Taiwanese-derived names (蚵仔煎, 甜不辣)",
+        "Order food, ask prices and get recommendations",
+        "Use 喔 and 啦 naturally in short reactions",
+        "Write a short food review"
+      ],
+      "zhuyin_focus": "Typing food names quickly, including Taiwanese-derived words that the IME may not suggest first (蚵仔煎, 雞排, 臭豆腐). Target: 14 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "鸟→鳥, 鱼→魚, 页→頁 (雞, 鴨, 島; 鮮, 魯, 漁; 題, 順, 顏).",
+      "vocab_domains": [
+        "night-market food",
+        "tastes and textures",
+        "prices"
+      ],
+      "taiwan_categories": [
+        "food",
+        "money",
+        "slang"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-night-market",
+        "sc-salty-chicken",
+        "sc-bubble-tea"
+      ],
+      "reading_genre": "night-market food blog",
+      "writing_task": "Type a 100-character review of a night-market snack, as if posting on Google Maps.",
+      "speaking_focus": "Taiwanese loanwords in Mandarin (蚵仔煎, 歹勢, 古錐) and the particles 喔/啦: friendly versus impatient intonation.",
+      "book_target": "2%",
+      "milestone": null
+    },
+    {
+      "week": 7,
+      "phase": 1,
+      "title": "Getting Around Town",
+      "title_zh": "搭捷運、坐計程車、騎機車",
+      "theme": "Navigate Taiwanese cities by MRT, taxi and scooter, including the rules newcomers get wrong.",
+      "goals": [
+        "Give and follow directions with 往, 轉乘, 出口, 路口",
+        "Top up an EasyCard and take a taxi to a specific spot",
+        "Explain scooter rules such as 兩段式左轉",
+        "Read MRT notices and route maps in Traditional"
+      ],
+      "zhuyin_focus": "Typing directions and place names: station names, road names (路/街/巷/弄) and numbers. Target: 15 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Component families 長, 東, 韋, 風, 侖, 區 (張, 陳, 偉, 瘋, 論, 歐).",
+      "vocab_domains": [
+        "transport",
+        "directions",
+        "city places"
+      ],
+      "taiwan_categories": [
+        "transit",
+        "travel",
+        "government"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-mrt-easycard",
+        "sc-taxi",
+        "sc-scooter-rental"
+      ],
+      "reading_genre": "MRT signs and service notices",
+      "writing_task": "Type step-by-step directions for a friend arriving at 台北車站 who needs to reach your apartment.",
+      "speaking_focus": "Taiwan-specific readings, part 1: 星期 qí, 期 qí, 垃圾 lè sè, 微 wéi; know both forms, prefer the Taiwan one.",
+      "book_target": "3%",
+      "milestone": null
+    },
+    {
+      "week": 8,
+      "phase": 1,
+      "title": "Long-Distance Travel by Rail",
+      "title_zh": "搭高鐵、坐台鐵",
+      "theme": "Plan intercity trips by 高鐵 and 台鐵, including a first trip to 彰化, the novel's setting.",
+      "goals": [
+        "Buy HSR and TRA tickets with time, seat and discount requests",
+        "Read timetables and ticket information",
+        "Talk about times, dates and durations fluently",
+        "Describe 彰化 and the novel's setting in a few sentences"
+      ],
+      "zhuyin_focus": "Typing numbers, times and dates mixed with characters (下午1點, 12月3日), and typing train names and station names. Target: 16 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Families 龍, 堯, 戔, 專, 會, 單 (寵, 燒, 錢, 傳, 會, 單).",
+      "vocab_domains": [
+        "rail travel",
+        "time and dates",
+        "Taiwan geography"
+      ],
+      "taiwan_categories": [
+        "transit",
+        "travel",
+        "money"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-hsr-booking",
+        "sc-tra-train"
+      ],
+      "reading_genre": "HSR/TRA timetable and ticket rules",
+      "writing_task": "Type a weekend itinerary for a trip to 彰化 (trains, times, places to visit), about 150 characters.",
+      "speaking_focus": "Numbers, prices and times said fast; 101 read as yī líng yī; dates and the 民國 year system.",
+      "book_target": "4%",
+      "milestone": null
+    },
+    {
+      "week": 9,
+      "phase": 1,
+      "title": "Home and Neighbourhood",
+      "title_zh": "租屋與鄰里",
+      "theme": "Rent a room, deal with a landlord and fit into neighbourhood life, from the garbage truck to the 里長.",
+      "goals": [
+        "Ask about rent, deposit, utilities and house rules",
+        "Explain a repair problem to a landlord",
+        "Sort rubbish correctly and talk to neighbours",
+        "Read a rental listing on 591"
+      ],
+      "zhuyin_focus": "Typing a message to a landlord: polite openings, describing problems, asking for times. Target: 18 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Families 闌, 兩, 盧, 羅, 買/賣, 䜌 (欄, 輛, 爐, 蘿, 讀, 戀, 變, 灣).",
+      "vocab_domains": [
+        "housing",
+        "household items",
+        "neighbourhood"
+      ],
+      "taiwan_categories": [
+        "home",
+        "money",
+        "government"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-apartment-rental",
+        "sc-garbage-truck"
+      ],
+      "reading_genre": "rental listing (591) and building notice",
+      "writing_task": "Type a LINE message to your 房東 reporting a broken water heater and proposing repair times.",
+      "speaking_focus": "Taiwan's reduced neutral tone: 東西, 衣服, 時候, 先生, 地方 often keep full tones; practise both and notice the Taiwan pattern.",
+      "book_target": "6%",
+      "milestone": null
+    },
+    {
+      "week": 10,
+      "phase": 1,
+      "title": "Health and Clinics",
+      "title_zh": "看醫生",
+      "theme": "Use Taiwan's health system: 健保卡, 掛號, clinics and pharmacies.",
+      "goals": [
+        "Register at a clinic and describe symptoms precisely",
+        "Understand dosage instructions on a 藥袋",
+        "Ask for sick leave and a doctor's note",
+        "Buy over-the-counter medicine and mention allergies"
+      ],
+      "zhuyin_focus": "Typing symptoms and body vocabulary; dictation of a doctor's instructions. Target: 19 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Families 監, 當, 𤇾 (營/榮/勞), 𦥯 (學/覺), 臤 (堅/緊), 戠 (識/職).",
+      "vocab_domains": [
+        "health and symptoms",
+        "body",
+        "medicine"
+      ],
+      "taiwan_categories": [
+        "health",
+        "government",
+        "work"
+      ],
+      "grammar_level": 4,
+      "scenario_ids": [
+        "sc-clinic",
+        "sc-pharmacy"
+      ],
+      "reading_genre": "medicine-bag label and clinic notice",
+      "writing_task": "Type a sick-leave message to your manager explaining symptoms and the doctor's advice.",
+      "speaking_focus": "Taiwan-specific readings, part 2: 液 yì, 質 zhí, 咳嗽 ké sou, 頭髮 tóu fǎ.",
+      "book_target": "7%",
+      "milestone": null
+    },
+    {
+      "week": 11,
+      "phase": 1,
+      "title": "Shopping and Errands",
+      "title_zh": "購物與辦事",
+      "theme": "Get things done: supermarkets, Costco, the post office and returning faulty goods.",
+      "goals": [
+        "Compare prices, promotions and member cards",
+        "Send a parcel and choose a shipping method",
+        "Return or exchange an item politely but firmly",
+        "Read receipts (發票) and product labels"
+      ],
+      "zhuyin_focus": "Typing complaint and request emails with formal set phrases (您好, 麻煩您, 謝謝您的協助). Target: 20 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Families 昜, 咼, 僉, 將, 齊, 麗, 岡, 夾, 倉, 亞; 发 as a component (撥, 廢) and the 广/廣 trap.",
+      "vocab_domains": [
+        "shopping",
+        "post and parcels",
+        "complaints"
+      ],
+      "taiwan_categories": [
+        "shopping",
+        "money",
+        "home"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-pxmart-costco",
+        "sc-post-office",
+        "sc-return-item"
+      ],
+      "reading_genre": "receipts, product labels and store policy",
+      "writing_task": "Type a 150-character return request to an online shop citing the 七天鑑賞期.",
+      "speaking_focus": "Polite complaints: softening with 不好意思, 可能, 是不是, and the rising intonation of 可以……嗎？",
+      "book_target": "9%",
+      "milestone": null
+    },
+    {
+      "week": 12,
+      "phase": 1,
+      "title": "Money, Banking and Checkpoint 2",
+      "title_zh": "開戶理財與第二次檢測",
+      "theme": "Open a bank account, handle payments and review the first quarter.",
+      "goals": [
+        "Open a bank account and set up online banking",
+        "Talk about payments: 轉帳, LINE Pay, 刷卡, 現金",
+        "Read Traditional text from all 48 component families without help",
+        "Hold a 2-minute monologue about your week in Taiwan"
+      ],
+      "zhuyin_focus": "Typing review: timed transcription of a familiar dialogue, then free typing of a diary entry. Target: 22 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Review all component families; start whole-character changes with the highest-frequency words: 這, 個, 們, 來, 時, 會, 為, 樣, 還, 過, 從, 開.",
+      "vocab_domains": [
+        "banking",
+        "payments",
+        "personal admin"
+      ],
+      "taiwan_categories": [
+        "money",
+        "government",
+        "tech"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-bank-account",
+        "sc-sim-card"
+      ],
+      "reading_genre": "bank form and LINE chat",
+      "writing_task": "Type a 200-character diary entry: 我在台灣的一個禮拜.",
+      "speaking_focus": "Fluency check: a 2-minute monologue recorded and compared with a native model for tones and rhythm.",
+      "book_target": "10%",
+      "milestone": "Checkpoint 2: (1) 15-minute conversation covering 5 daily-life scenarios; (2) type a 200-character diary at 22+ 字/分; (3) convert a 150-character simplified passage to Traditional with 90%+ accuracy; (4) summarise what has happened so far in the novel (about 10%) in 5 sentences."
+    },
+    {
+      "week": 13,
+      "phase": 1,
+      "title": "Eating Out with Friends",
+      "title_zh": "熱炒與聚餐",
+      "theme": "Group dinners, 熱炒, KTV and the etiquette of treating, toasting and splitting the bill.",
+      "goals": [
+        "Order shared dishes and drinks for a group",
+        "Toast with 乾杯 and decline with 隨意",
+        "Split the bill or treat someone naturally",
+        "Use banter particles 啦, 欸, 耶 correctly"
+      ],
+      "zhuyin_focus": "Typing in a group chat in real time: organising a dinner, replying quickly, using stickers sparingly. Target: 23 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for food and eating out: 點, 熱, 鹽, 蝦, 盤, 條, 鳳, 豬, 麥, 樣.",
+      "vocab_domains": [
+        "restaurants",
+        "drinks and toasting",
+        "entertainment"
+      ],
+      "taiwan_categories": [
+        "food",
+        "social",
+        "money"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-rechao",
+        "sc-ktv"
+      ],
+      "reading_genre": "restaurant reviews (Google 評論)",
+      "writing_task": "Type a group-chat message organising a 熱炒 dinner and, afterwards, a message asking everyone to transfer their share.",
+      "speaking_focus": "Banter particles 啦, 欸, 耶, 喔 and their intonation; teasing and replying to teasing.",
+      "book_target": "12%",
+      "milestone": null
+    },
+    {
+      "week": 14,
+      "phase": 1,
+      "title": "Self-Care and Services",
+      "title_zh": "剪頭髮、上健身房",
+      "theme": "Hair salons, gyms and personal services: describe what you want and decline upselling.",
+      "goals": [
+        "Describe a haircut, colour and style",
+        "Explain fitness goals and ask about plans and contracts",
+        "Decline a sales pitch politely",
+        "Write an online review of a service"
+      ],
+      "zhuyin_focus": "Typing descriptive language (adjectives, comparisons) for reviews. Target: 24 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for the body and self-care: 頭, 體, 醫, 藥, 傷, 療, 壓, 養, 衛, 適.",
+      "vocab_domains": [
+        "personal care",
+        "fitness",
+        "appearance"
+      ],
+      "taiwan_categories": [
+        "health",
+        "shopping",
+        "social"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-hair-salon",
+        "sc-gym"
+      ],
+      "reading_genre": "Instagram captions and service ads",
+      "writing_task": "Type a 200-character Google review of a hair salon or gym.",
+      "speaking_focus": "Retroflex softening: recognise z/c/s for zh/ch/sh in fast Taiwanese speech while keeping your own standard.",
+      "book_target": "14%",
+      "milestone": null
+    },
+    {
+      "week": 15,
+      "phase": 1,
+      "title": "Weather and Typhoons",
+      "title_zh": "天氣與颱風假",
+      "theme": "Weather talk, typhoon culture and dealing with things going wrong.",
+      "goals": [
+        "Discuss weather forecasts and typhoon warnings",
+        "Follow a 停班停課 announcement",
+        "Complain effectively about a delivery problem",
+        "Read a short typhoon news brief"
+      ],
+      "zhuyin_focus": "Typing news-style sentences; dictation of a weather forecast. Target: 25 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for home and weather: 電, 燈, 廳, 廚, 牆, 樓, 陽, 陰, 掃, 曬.",
+      "vocab_domains": [
+        "weather",
+        "natural disasters",
+        "food delivery"
+      ],
+      "taiwan_categories": [
+        "home",
+        "media",
+        "government"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-typhoon-day",
+        "sc-delivery-complaint"
+      ],
+      "reading_genre": "typhoon news brief (颱風快訊)",
+      "writing_task": "Type a Facebook-style post about your typhoon day (about 200 characters).",
+      "speaking_focus": "Tag particles 齁 and 吼 and the reactions 對啊, 真的假的, 是喔.",
+      "book_target": "16%",
+      "milestone": null
+    },
+    {
+      "week": 16,
+      "phase": 1,
+      "title": "Weekend Outings",
+      "title_zh": "週末出遊",
+      "theme": "Hiking, hot springs and day trips: narrate experiences in the past.",
+      "goals": [
+        "Plan a weekend outing and invite friends",
+        "Describe scenery and feelings during a hike",
+        "Explain hot-spring etiquette",
+        "Write a travel blog post"
+      ],
+      "zhuyin_focus": "Typing narrative paragraphs with time sequencing (先, 然後, 後來, 最後). Target: 26 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for travel: 飛, 機, 遠, 邊, 園, 鄉, 縣, 橋, 廟, 陸.",
+      "vocab_domains": [
+        "outdoor activities",
+        "nature",
+        "leisure"
+      ],
+      "taiwan_categories": [
+        "travel",
+        "culture",
+        "health"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-hiking-xiangshan",
+        "sc-beitou-hot-spring"
+      ],
+      "reading_genre": "travel blog",
+      "writing_task": "Type a 250-character travel blog post about a day trip.",
+      "speaking_focus": "Storytelling past events with 有 + verb (我有去), 了 and 過; Taiwan's 夕 read xì.",
+      "book_target": "18%",
+      "milestone": null
+    },
+    {
+      "week": 17,
+      "phase": 2,
+      "title": "Taiwanese School Life",
+      "title_zh": "台灣的校園生活",
+      "theme": "School and exam culture then and now: 聯考, 學測, 補習班; the heart of the novel's world.",
+      "goals": [
+        "Describe the Taiwanese school system and entrance exams",
+        "Talk about study stress and cram schools",
+        "Understand school vocabulary in the novel (班導, 週記, 考卷, 模擬考)",
+        "Write a 週記 like a Taiwanese high-schooler"
+      ],
+      "zhuyin_focus": "Typing a weekly journal; practising 「」 quotation marks for dialogue. Target: 27 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for school: 書, 筆, 畢, 業, 習, 補, 聯, 導, 寫, 數.",
+      "vocab_domains": [
+        "education",
+        "exams",
+        "school life"
+      ],
+      "taiwan_categories": [
+        "school",
+        "culture",
+        "emotion"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-xuece-study",
+        "sc-cram-school"
+      ],
+      "reading_genre": "school notice and student 週記",
+      "writing_task": "Type a 300-character 週記 (weekly journal) in the voice of a 1990s 彰化 high-school student.",
+      "speaking_focus": "Classroom reading voice (國語課朗讀) versus natural speech; school slang.",
+      "book_target": "20%",
+      "milestone": null
+    },
+    {
+      "week": 18,
+      "phase": 2,
+      "title": "LINE and Online Chat",
+      "title_zh": "LINE與網路聊天",
+      "theme": "Chat culture: LINE etiquette, stickers, 已讀不回 and the particles that carry tone in text.",
+      "goals": [
+        "Chat naturally in LINE with particles and emoji-like expressions",
+        "Interpret tone from particles (喔 vs 喔～ vs 哦)",
+        "Make and change plans by phone and chat",
+        "Understand common chat abbreviations"
+      ],
+      "zhuyin_focus": "Live chat with the tutor typed in zhuyin; aim to reply within 30 seconds. Target: 28 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for social life and emotion: 愛, 歡, 懷, 夢, 難, 驚, 興, 態, 雙, 隨.",
+      "vocab_domains": [
+        "online communication",
+        "plans and invitations",
+        "feelings"
+      ],
+      "taiwan_categories": [
+        "tech",
+        "social",
+        "slang"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-line-call-classmate",
+        "sc-dcard-slang"
+      ],
+      "reading_genre": "LINE group chat",
+      "writing_task": "Type replies in a simulated LINE group: invite, reschedule, apologise, using particles naturally.",
+      "speaking_focus": "Fast casual phone speech: 喂, 欸, fillers 然後, 就是, 那個; ending calls with 先這樣.",
+      "book_target": "22%",
+      "milestone": null
+    },
+    {
+      "week": 19,
+      "phase": 2,
+      "title": "PTT, Dcard and Internet Slang",
+      "title_zh": "鄉民用語",
+      "theme": "Taiwan's internet culture: PTT, Dcard, memes and slang, many from Taiwanese Hokkien.",
+      "goals": [
+        "Explain 15 internet slang terms (母湯, 87, 傻眼貓咪, 吃土, 魯蛇)",
+        "Read a PTT post and its 推文",
+        "Recognise which slang is dated and which is current",
+        "React to posts like a 鄉民"
+      ],
+      "zhuyin_focus": "Typing slang, numbers-as-words (87) and English mixed in; fast short replies. Target: 29 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Whole-character changes for media and internet: 網, 號, 顯, 響, 戲, 劇, 圖, 錄, 聲, 聽.",
+      "vocab_domains": [
+        "internet culture",
+        "slang",
+        "memes"
+      ],
+      "taiwan_categories": [
+        "slang",
+        "media",
+        "tech"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-dcard-slang",
+        "sc-ktv"
+      ],
+      "reading_genre": "PTT post with 推文",
+      "writing_task": "Type a PTT-style post (標題 + 內文) and write five 推文 replies to it.",
+      "speaking_focus": "Pronouncing slang: 87 (bā qī), 母湯, 是在哈囉, letters inside Chinese (K書, OK, CP值).",
+      "book_target": "24%",
+      "milestone": null
+    },
+    {
+      "week": 20,
+      "phase": 2,
+      "title": "Dating and Relationships",
+      "title_zh": "約會與感情",
+      "theme": "Crushes, confessions and relationships: the emotional language the novel lives on.",
+      "goals": [
+        "Describe crushes, 曖昧 and 告白",
+        "Ask someone out and respond to an invitation",
+        "Talk through a relationship problem",
+        "Understand romantic scenes in the novel"
+      ],
+      "zhuyin_focus": "Typing emotional language; one-to-many traps first appear in typing drills. Target: 30 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 發/髮 and 乾/幹/干 (note 幹 as the novel's favourite swear word).",
+      "vocab_domains": [
+        "romance",
+        "feelings",
+        "personality"
+      ],
+      "taiwan_categories": [
+        "emotion",
+        "social",
+        "slang"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-first-date",
+        "sc-breakup"
+      ],
+      "reading_genre": "Dcard relationship post",
+      "writing_task": "Type a 告白 message (about 200 characters) and a reply turning it down kindly.",
+      "speaking_focus": "Softening and 撒嬌 register with 啦, 嘛, 喔; emotional prosody.",
+      "book_target": "26%",
+      "milestone": null
+    },
+    {
+      "week": 21,
+      "phase": 2,
+      "title": "Family and Lunar New Year",
+      "title_zh": "過年回家",
+      "theme": "Family life and New Year customs: 圍爐, 紅包, nosy relatives and speaking with elders.",
+      "goals": [
+        "Give New Year greetings and blessings",
+        "Talk to elders respectfully and deflect nosy questions",
+        "Explain New Year foods and customs",
+        "Understand Taiwanese-accented Mandarin (台灣國語)"
+      ],
+      "zhuyin_focus": "Typing blessings and four-character expressions (恭喜發財, 身體健康, 年年有餘). Target: 31 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 麵/面, 後/后, 鹹/咸, 薑/姜.",
+      "vocab_domains": [
+        "family",
+        "festivals",
+        "traditional food"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "food",
+        "social"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-ama-new-year",
+        "sc-meet-parents"
+      ],
+      "reading_genre": "New Year customs article",
+      "writing_task": "Type New Year messages to three people (a boss, a grandparent, a friend) in suitable registers.",
+      "speaking_focus": "Understanding older speakers: ㄈ/ㄏ merging, flattened retroflexes and Hokkien words such as 呷飽未, 乖孫, 歹勢.",
+      "book_target": "29%",
+      "milestone": null
+    },
+    {
+      "week": 22,
+      "phase": 2,
+      "title": "Temples and Folk Religion",
+      "title_zh": "廟宇與拜拜",
+      "theme": "Taiwanese folk religion: temples, 拜拜, 擲筊, 抽籤, 月老 and 媽祖.",
+      "goals": [
+        "Describe how to worship at a temple step by step",
+        "Explain 擲筊 results and fortune poems",
+        "Discuss the role of temples in community life",
+        "Read temple signage in Traditional"
+      ],
+      "zhuyin_focus": "Typing explanations of a process with ordinal markers (首先, 接著, 然後, 最後). Target: 32 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 裡/里, 隻/只, 籤/簽.",
+      "vocab_domains": [
+        "religion and ritual",
+        "festivals",
+        "community"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "government",
+        "social"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-temple-baibai",
+        "sc-ama-new-year"
+      ],
+      "reading_genre": "temple signage and 籤詩 explanation",
+      "writing_task": "Type a 300-character explanation of a temple visit for a foreign friend.",
+      "speaking_focus": "Ritual and respectful register; Hokkien terms used in Mandarin (拜拜, 擲筊, 媽祖遶境).",
+      "book_target": "31%",
+      "milestone": null
+    },
+    {
+      "week": 23,
+      "phase": 2,
+      "title": "Sports and Youth",
+      "title_zh": "打球與青春",
+      "theme": "Basketball, school sports and male friendship, central to the novel's group of friends.",
+      "goals": [
+        "Talk during a pickup basketball game",
+        "Describe a game and a player's performance",
+        "Banter and trash-talk playfully",
+        "Discuss friendship among the novel's characters"
+      ],
+      "zhuyin_focus": "Typing live commentary in short bursts. Target: 33 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 鬥/斗, 衝/沖, 準/准.",
+      "vocab_domains": [
+        "sports",
+        "friendship",
+        "competition"
+      ],
+      "taiwan_categories": [
+        "social",
+        "slang",
+        "school"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-basketball",
+        "sc-hs-reunion"
+      ],
+      "reading_genre": "sports news brief",
+      "writing_task": "Type a 250-character sports news brief about a school basketball game.",
+      "speaking_focus": "Quick reactions and shouting: 好球, 加油, 傳球, 欸欸欸; rhythm in rapid exchanges.",
+      "book_target": "33%",
+      "milestone": null
+    },
+    {
+      "week": 24,
+      "phase": 2,
+      "title": "Pop Music and Checkpoint 3",
+      "title_zh": "流行音樂與第三次檢測",
+      "theme": "Mandopop, KTV culture and the film of 那些年; mid-year checkpoint.",
+      "goals": [
+        "Discuss Taiwanese pop music and KTV culture",
+        "Explain lyrics of one Taiwanese song",
+        "Talk about the novel's first third and its characters",
+        "Hold a 3-minute spontaneous conversation"
+      ],
+      "zhuyin_focus": "Typing song lyrics from listening (dictation). Target: 35 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 颱/檯/台 and 復/複/覆; review all traps so far.",
+      "vocab_domains": [
+        "music",
+        "entertainment",
+        "film"
+      ],
+      "taiwan_categories": [
+        "media",
+        "culture",
+        "emotion"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-ktv",
+        "sc-nxn-movie-book"
+      ],
+      "reading_genre": "song lyrics (五月天) and a fan article",
+      "writing_task": "Type a 400-character essay: 我這半年的中文.",
+      "speaking_focus": "3-minute spontaneous talk recorded and compared with a native model.",
+      "book_target": "35%",
+      "milestone": "Checkpoint 3: (1) 20-minute conversation on media, slang and relationships; (2) type a 400-character essay at 35+ 字/分; (3) 50-item one-to-many quiz (90%); (4) explain the novel's first 35% (characters, setting, key events) for 3 minutes."
+    },
+    {
+      "week": 25,
+      "phase": 2,
+      "title": "Office Life",
+      "title_zh": "職場文化",
+      "theme": "Taiwanese office culture: hierarchy, lunch, overtime, leave and the 尾牙.",
+      "goals": [
+        "Make office small talk and join group orders",
+        "Use workplace titles (經理, 協理, 副理) and polite forms",
+        "Request leave and discuss workload",
+        "Toast at a 尾牙"
+      ],
+      "zhuyin_focus": "Typing formal emails: subject line, greeting, request, closing (敬祝 商祺). Target: 36 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 係/繫/系, 製/制, 徵/征.",
+      "vocab_domains": [
+        "workplace",
+        "office events",
+        "leave and overtime"
+      ],
+      "taiwan_categories": [
+        "work",
+        "social",
+        "culture"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-office-small-talk",
+        "sc-weiya"
+      ],
+      "reading_genre": "office email",
+      "writing_task": "Type a formal email to your manager requesting annual leave and handing over tasks.",
+      "speaking_focus": "Workplace register: 您, 麻煩, 辛苦了, 不好意思打擾一下.",
+      "book_target": "38%",
+      "milestone": null
+    },
+    {
+      "week": 26,
+      "phase": 2,
+      "title": "Taiwanese Food Culture",
+      "title_zh": "台灣飲食文化",
+      "theme": "Food as culture: 古早味, north-south rivalry, bubble tea history and food memories.",
+      "goals": [
+        "Describe flavours and textures (QQ, Q彈, 古早味)",
+        "Compare northern and southern Taiwanese food",
+        "Explain the history of a Taiwanese dish",
+        "Give an opinion in podcast style"
+      ],
+      "zhuyin_focus": "Typing a longer descriptive essay with sensory vocabulary. Target: 37 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 歷/曆, 鐘/鍾, 嚐/嘗, 餵/喂.",
+      "vocab_domains": [
+        "food culture",
+        "taste and texture",
+        "history of food"
+      ],
+      "taiwan_categories": [
+        "food",
+        "culture",
+        "media"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-food-podcast",
+        "sc-rechao"
+      ],
+      "reading_genre": "food essay",
+      "writing_task": "Type a 350-character essay about a Taiwanese dish and what it means to you.",
+      "speaking_focus": "Describing taste vividly; ㄥ/ㄣ contrast (清/親, 冰/賓).",
+      "book_target": "40%",
+      "milestone": null
+    },
+    {
+      "week": 27,
+      "phase": 2,
+      "title": "Travelling Around Taiwan",
+      "title_zh": "環島旅行",
+      "theme": "Plan a round-island trip (環島): east coast, the south and small towns.",
+      "goals": [
+        "Plan a multi-day itinerary with transport",
+        "Book a 民宿 and ask about local tips",
+        "Describe places and compare regions",
+        "Pronounce Taiwanese place names correctly"
+      ],
+      "zhuyin_focus": "Typing place names and itineraries quickly. Target: 38 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 遊/游, 週/周, 迴/回, 劃/划.",
+      "vocab_domains": [
+        "travel",
+        "geography",
+        "accommodation"
+      ],
+      "taiwan_categories": [
+        "travel",
+        "transit",
+        "culture"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-kenting-beach",
+        "sc-scooter-rental",
+        "sc-tra-train"
+      ],
+      "reading_genre": "travel guide",
+      "writing_task": "Type a 5-day 環島 itinerary with reasons for each stop (about 400 characters).",
+      "speaking_focus": "Place names: 基隆, 淡水, 嘉義, 屏東, 恆春, 花蓮, 台東, 彰化, 鹿港.",
+      "book_target": "42%",
+      "milestone": null
+    },
+    {
+      "week": 28,
+      "phase": 2,
+      "title": "News and Current Affairs",
+      "title_zh": "看新聞",
+      "theme": "Read and listen to Taiwanese news: headlines, structure and vocabulary.",
+      "goals": [
+        "Summarise a news story in your own words",
+        "Recognise news register and set phrases (據了解, 記者報導)",
+        "Discuss causes and effects of a current issue",
+        "Shadow a news anchor for 2 minutes"
+      ],
+      "zhuyin_focus": "Typing news summaries from listening; dictation of a 公視 news clip. Target: 39 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 獲/穫, 匯/彙, 颳/刮.",
+      "vocab_domains": [
+        "news",
+        "society",
+        "economy"
+      ],
+      "taiwan_categories": [
+        "media",
+        "government",
+        "money"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-news-discussion",
+        "sc-typhoon-day"
+      ],
+      "reading_genre": "news brief",
+      "writing_task": "Type a 300-character summary of a news story you watched this week.",
+      "speaking_focus": "News-anchor register: clear retroflexes and full tones; shadowing practice.",
+      "book_target": "44%",
+      "milestone": null
+    },
+    {
+      "week": 29,
+      "phase": 2,
+      "title": "Politics and Elections",
+      "title_zh": "選舉文化",
+      "theme": "How elections work in Taiwan and how people talk about politics, kept balanced and respectful.",
+      "goals": [
+        "Explain how voting works (戶籍, 投票所, 返鄉投票)",
+        "Discuss policy issues without taking sides",
+        "Understand campaign language (凍蒜, 拜票, 政見)",
+        "Read an opinion piece and identify its argument"
+      ],
+      "zhuyin_focus": "Typing opinion paragraphs with connectors (雖然……但是, 一方面……另一方面). Target: 40 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 盡/儘, 幾/几, 鬆/松, 並/併.",
+      "vocab_domains": [
+        "politics",
+        "elections",
+        "civic life"
+      ],
+      "taiwan_categories": [
+        "government",
+        "media",
+        "culture"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-election-talk",
+        "sc-social-debate"
+      ],
+      "reading_genre": "opinion piece (投書)",
+      "writing_task": "Type a balanced 350-character 投書 on an election issue that presents two sides.",
+      "speaking_focus": "Persuasive intonation and emphasis with 其實, 根本, 真的.",
+      "book_target": "47%",
+      "milestone": null
+    },
+    {
+      "week": 30,
+      "phase": 2,
+      "title": "Feelings and Support",
+      "title_zh": "安慰與傾聽",
+      "theme": "Emotional vocabulary and supporting others through hard times.",
+      "goals": [
+        "Describe complex emotions precisely",
+        "Comfort a friend without lecturing",
+        "Give advice tactfully",
+        "Discuss emotional turning points in the novel"
+      ],
+      "zhuyin_focus": "Typing an advice-column reply. Target: 41 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 鬍/胡, 鬚/須, 髒/臟, 噁/惡.",
+      "vocab_domains": [
+        "emotions",
+        "mental health",
+        "advice"
+      ],
+      "taiwan_categories": [
+        "emotion",
+        "health",
+        "social"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-consoling-friend",
+        "sc-breakup"
+      ],
+      "reading_genre": "advice column",
+      "writing_task": "Type a 350-character reply to an advice-column letter from a heartbroken student.",
+      "speaking_focus": "Gentle, comforting prosody; pauses and fillers under control.",
+      "book_target": "49%",
+      "milestone": null
+    },
+    {
+      "week": 31,
+      "phase": 2,
+      "title": "Film and Television",
+      "title_zh": "台灣電影與綜藝",
+      "theme": "Taiwanese film and TV: the 那些年 film, classic coming-of-age films and variety shows.",
+      "goals": [
+        "Summarise a film plot without spoilers",
+        "Compare the novel and the film adaptation so far",
+        "Discuss acting, music and themes",
+        "Write a film review"
+      ],
+      "zhuyin_focus": "Typing a review with structure: summary, opinion, recommendation. Target: 42 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 範/范, 豐/丰, 穀/谷, 齣/出.",
+      "vocab_domains": [
+        "film",
+        "television",
+        "storytelling"
+      ],
+      "taiwan_categories": [
+        "media",
+        "culture",
+        "emotion"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-nxn-movie-book",
+        "sc-first-date"
+      ],
+      "reading_genre": "film review",
+      "writing_task": "Type a 400-character review of a Taiwanese coming-of-age film.",
+      "speaking_focus": "Comparing with 比較, 更, 不如; awareness of Taiwan versus Beijing accents in film.",
+      "book_target": "52%",
+      "milestone": null
+    },
+    {
+      "week": 32,
+      "phase": 2,
+      "title": "Social Issues",
+      "title_zh": "社會議題",
+      "theme": "Current social debates: housing, low wages, low birth rate, ageing society.",
+      "goals": [
+        "Explain a social issue and its causes",
+        "Argue a position with evidence",
+        "Rebut an opposing argument politely",
+        "Write an opinion piece"
+      ],
+      "zhuyin_focus": "Typing a structured argument (立場, 理由, 反駁, 結論). Target: 43 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 捲/卷, 摺/折, 託/托, 擺/襬.",
+      "vocab_domains": [
+        "social issues",
+        "economy",
+        "policy"
+      ],
+      "taiwan_categories": [
+        "government",
+        "money",
+        "media"
+      ],
+      "grammar_level": 5,
+      "scenario_ids": [
+        "sc-social-debate",
+        "sc-news-discussion"
+      ],
+      "reading_genre": "opinion piece",
+      "writing_task": "Type a 450-character opinion piece on 居住正義 or 少子化.",
+      "speaking_focus": "Debate register: stress and pausing to structure arguments.",
+      "book_target": "55%",
+      "milestone": null
+    },
+    {
+      "week": 33,
+      "phase": 3,
+      "title": "Job Hunting",
+      "title_zh": "求職面試",
+      "theme": "Job hunting in Taiwan: 104人力銀行, 履歷, 自傳 and interviews.",
+      "goals": [
+        "Write a 自傳 and describe your experience",
+        "Answer common interview questions",
+        "Ask informed questions about a role",
+        "Use HSK6 four-character expressions naturally"
+      ],
+      "zhuyin_focus": "Typing a formal 自傳 with polished vocabulary. Target: 44 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 誌/志, 緻/致, 餘/余, 嚮/向.",
+      "vocab_domains": [
+        "careers",
+        "job applications",
+        "skills"
+      ],
+      "taiwan_categories": [
+        "work",
+        "money",
+        "social"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-job-interview",
+        "sc-office-small-talk"
+      ],
+      "reading_genre": "job posting (104)",
+      "writing_task": "Type a 500-character 自傳 for a job application.",
+      "speaking_focus": "Concise interview answers; four-character expressions said with even rhythm.",
+      "book_target": "58%",
+      "milestone": null
+    },
+    {
+      "week": 34,
+      "phase": 3,
+      "title": "Presenting at Work",
+      "title_zh": "職場簡報",
+      "theme": "Business presentations: structure, data and handling questions.",
+      "goals": [
+        "Present data with trends and comparisons",
+        "Use signposting and formal connectors",
+        "Handle tough questions and defer gracefully",
+        "Write a slide script"
+      ],
+      "zhuyin_focus": "Typing a slide script and speaker notes. Target: 45 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "One-to-many traps: 鬱/郁, 捨/舍, 麼/么, 於/于.",
+      "vocab_domains": [
+        "business",
+        "data and statistics",
+        "meetings"
+      ],
+      "taiwan_categories": [
+        "work",
+        "money",
+        "tech"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-work-presentation",
+        "sc-weiya"
+      ],
+      "reading_genre": "business report",
+      "writing_task": "Type a 500-character presentation script with an opening, three points and a closing.",
+      "speaking_focus": "Presentation delivery: signposting (首先, 接著, 最後) and pace control.",
+      "book_target": "61%",
+      "milestone": null
+    },
+    {
+      "week": 35,
+      "phase": 3,
+      "title": "Negotiation",
+      "title_zh": "談判與加薪",
+      "theme": "Negotiation and persuasion in professional settings.",
+      "goals": [
+        "Negotiate salary and conditions tactfully",
+        "Use hedging and indirect requests",
+        "Explain compensation structures (年終, 分紅, 保障)",
+        "Write a negotiation email"
+      ],
+      "zhuyin_focus": "Typing a negotiation email with hedged, formal phrasing. Target: 46 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Remaining one-to-many traps: 藉/借, 團/糰, 錶/表, 採/采, 闆/板, 霉/黴 (倒楣), 兇/凶.",
+      "vocab_domains": [
+        "negotiation",
+        "compensation",
+        "contracts"
+      ],
+      "taiwan_categories": [
+        "work",
+        "money",
+        "discourse"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-salary-negotiation",
+        "sc-job-interview"
+      ],
+      "reading_genre": "contract excerpt and HR email",
+      "writing_task": "Type a 450-character email negotiating an offer.",
+      "speaking_focus": "Tactful hedging: 可能, 是否, 不知道……能不能, 或許.",
+      "book_target": "64%",
+      "milestone": null
+    },
+    {
+      "week": 36,
+      "phase": 3,
+      "title": "Literary Narration and Checkpoint 4",
+      "title_zh": "小說的敘事語言與第四次檢測",
+      "theme": "Analyse how 九把刀 narrates: first-person voice, humour, swearing and nostalgia; third checkpoint of the year.",
+      "goals": [
+        "Identify features of the novel's narrative voice",
+        "Read a page of the novel aloud with natural prosody",
+        "Discuss the first two-thirds of the novel in depth",
+        "Pass the one-to-many trap test"
+      ],
+      "zhuyin_focus": "Typing a book report; transcribing a novel passage from audio. Target: 48 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Full one-to-many review test (all 60 traps).",
+      "vocab_domains": [
+        "literature",
+        "narrative style",
+        "humour"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "slang",
+        "emotion"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-nxn-movie-book",
+        "sc-hs-reunion"
+      ],
+      "reading_genre": "novel excerpt",
+      "writing_task": "Type a 500-character book report on the novel so far.",
+      "speaking_focus": "Reading the novel aloud: dialogue voices, comic timing and natural prosody.",
+      "book_target": "66%",
+      "milestone": "Checkpoint 4: (1) 25-minute conversation including a negotiation and a debate; (2) type a 500-character book report at 48+ 字/分; (3) one-to-many test on all 60 traps (90%); (4) read a page of the novel aloud and discuss it for 5 minutes."
+    },
+    {
+      "week": 37,
+      "phase": 3,
+      "title": "Memory and Nostalgia",
+      "title_zh": "懷舊與青春",
+      "theme": "Nostalgia and coming of age: writing about your own youth in the novel's spirit.",
+      "goals": [
+        "Narrate memories with vivid detail",
+        "Use literary devices: flashback, contrast, understatement",
+        "Discuss the theme of 遺憾 in the novel",
+        "Write a nostalgic essay"
+      ],
+      "zhuyin_focus": "Typing a personal essay in one sitting. Target: 49 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Taiwan variant forms: 台/臺, 裡/裏, 著/着.",
+      "vocab_domains": [
+        "memory",
+        "youth",
+        "literary expression"
+      ],
+      "taiwan_categories": [
+        "emotion",
+        "school",
+        "culture"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-hs-reunion",
+        "sc-xuece-study"
+      ],
+      "reading_genre": "short essay (散文)",
+      "writing_task": "Type a 500-character nostalgic essay about your own high-school days.",
+      "speaking_focus": "Novel dialogue: recognise Taiwanese swear words (幹, 靠, 哇靠) and their force; don't overuse them.",
+      "book_target": "69%",
+      "milestone": null
+    },
+    {
+      "week": 38,
+      "phase": 3,
+      "title": "Education Debates",
+      "title_zh": "教育與升學",
+      "theme": "Debates about Taiwan's education system: exams, cram schools and reform.",
+      "goals": [
+        "Compare the 1990s 聯考 era with today's 學測 system",
+        "Argue for or against cram-school culture",
+        "Use academic vocabulary and HSK6 connectors",
+        "Write an argumentative essay"
+      ],
+      "zhuyin_focus": "Typing an argumentative essay with formal connectors (然而, 因此, 換言之). Target: 50 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Variant forms: 為/爲, 線/綫, 群/羣, 峰/峯.",
+      "vocab_domains": [
+        "education policy",
+        "exams",
+        "youth"
+      ],
+      "taiwan_categories": [
+        "school",
+        "government",
+        "culture"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-academic-discussion",
+        "sc-cram-school"
+      ],
+      "reading_genre": "education feature article",
+      "writing_task": "Type a 550-character argumentative essay on 補習文化.",
+      "speaking_focus": "Taiwan-specific readings, part 3: 研究 yán jiù, 綜合 zòng hé, 企業 qì yè, 危險 wéi xiǎn.",
+      "book_target": "72%",
+      "milestone": null
+    },
+    {
+      "week": 39,
+      "phase": 3,
+      "title": "Language and Identity",
+      "title_zh": "語言與認同",
+      "theme": "Taiwan's languages: Mandarin, Taiwanese Hokkien, Hakka and Indigenous languages, and what they mean for identity.",
+      "goals": [
+        "Describe Taiwan's language situation",
+        "Explain features of Taiwan Mandarin with examples",
+        "Use 20 everyday Taiwanese Hokkien loanwords",
+        "Discuss language and identity respectfully"
+      ],
+      "zhuyin_focus": "Typing an essay mixing Mandarin with Hokkien loanwords written in Chinese characters. Target: 51 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Variant forms: 眾/衆, 衛/衞, 啟/啓, 床/牀.",
+      "vocab_domains": [
+        "language",
+        "identity",
+        "culture"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "discourse",
+        "government"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-academic-discussion",
+        "sc-ama-new-year"
+      ],
+      "reading_genre": "essay on language",
+      "writing_task": "Type a 550-character essay: 台灣華語跟我學過的中文有什麼不一樣？",
+      "speaking_focus": "Hokkien words in Mandarin speech: 阿嬤, 呷飽未, 歹勢, 好康, 古錐, 凍蒜.",
+      "book_target": "75%",
+      "milestone": null
+    },
+    {
+      "week": 40,
+      "phase": 3,
+      "title": "History of Taiwan",
+      "title_zh": "台灣歷史",
+      "theme": "Key periods of Taiwanese history and how to discuss them, including the 1990s setting of the novel.",
+      "goals": [
+        "Outline major periods of Taiwanese history",
+        "Use historical vocabulary and date expressions (民國, 年代)",
+        "Describe 1990s Taiwan: society, school and pop culture",
+        "Summarise a history article"
+      ],
+      "zhuyin_focus": "Typing a summary with dates and names. Target: 52 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Variant forms: 嘆/歎, 汙/污, 祕/秘, 豔/艷.",
+      "vocab_domains": [
+        "history",
+        "society",
+        "the 1990s"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "government",
+        "media"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-academic-discussion",
+        "sc-temple-baibai"
+      ],
+      "reading_genre": "history article",
+      "writing_task": "Type a 500-character summary of a history article about 1990s Taiwan.",
+      "speaking_focus": "Lecture-style explanation; years and dates including the 民國 calendar (民國114年 = 2025).",
+      "book_target": "78%",
+      "milestone": null
+    },
+    {
+      "week": 41,
+      "phase": 3,
+      "title": "Economy and Technology",
+      "title_zh": "經濟與科技",
+      "theme": "Taiwan's economy and tech industry: semiconductors, startups and work culture.",
+      "goals": [
+        "Discuss Taiwan's role in the semiconductor industry",
+        "Use economic vocabulary (營收, 成長, 通膨, 供應鏈)",
+        "Understand code-switching in tech workplaces",
+        "Write a short analysis memo"
+      ],
+      "zhuyin_focus": "Typing technical vocabulary and mixed English terms quickly. Target: 53 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Variant forms: 菸/煙, 證/証, 跡/蹟, 鉤/鈎, 麵/麪, 雞/鷄.",
+      "vocab_domains": [
+        "economy",
+        "technology",
+        "industry"
+      ],
+      "taiwan_categories": [
+        "tech",
+        "work",
+        "money"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-news-discussion",
+        "sc-salary-negotiation"
+      ],
+      "reading_genre": "business and tech news",
+      "writing_task": "Type a 500-character memo analysing a Taiwanese company or trend.",
+      "speaking_focus": "Code-switching: how Taiwanese professionals say 'meeting', 'case', 'deadline' and KPI inside Mandarin.",
+      "book_target": "81%",
+      "milestone": null
+    },
+    {
+      "week": 42,
+      "phase": 3,
+      "title": "Environment and Society",
+      "title_zh": "環境議題",
+      "theme": "Environmental issues: energy, recycling, air quality and urban life.",
+      "goals": [
+        "Explain Taiwan's recycling system and why it works",
+        "Debate energy policy with evidence",
+        "Use cause-and-effect structures at HSK6 level",
+        "Write a letter to the editor"
+      ],
+      "zhuyin_focus": "Typing a letter to the editor. Target: 54 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Glyph-shape differences: Taiwan standard 戶, 溫, 內, 說, 吳 versus other forms.",
+      "vocab_domains": [
+        "environment",
+        "energy",
+        "urban life"
+      ],
+      "taiwan_categories": [
+        "government",
+        "home",
+        "media"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-social-debate",
+        "sc-garbage-truck"
+      ],
+      "reading_genre": "environmental report",
+      "writing_task": "Type a 500-character letter to the editor about an environmental issue.",
+      "speaking_focus": "Argument rhythm; pronouncing 成語 accurately.",
+      "book_target": "84%",
+      "milestone": null
+    },
+    {
+      "week": 43,
+      "phase": 3,
+      "title": "Humour and Wit",
+      "title_zh": "幽默與吐槽",
+      "theme": "Taiwanese humour: 吐槽, sarcasm, wordplay and the novel's comic style.",
+      "goals": [
+        "Recognise sarcasm and irony",
+        "Explain puns and wordplay",
+        "Tease and respond to teasing appropriately",
+        "Write a humorous column"
+      ],
+      "zhuyin_focus": "Typing a humorous column with dialogue. Target: 55 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Common 錯別字 that native Taiwanese make: 在/再, 的/得/地, 做/作, 部分/部份, 計畫/計劃.",
+      "vocab_domains": [
+        "humour",
+        "wordplay",
+        "social commentary"
+      ],
+      "taiwan_categories": [
+        "slang",
+        "discourse",
+        "media"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-dcard-slang",
+        "sc-weiya",
+        "sc-food-podcast"
+      ],
+      "reading_genre": "humorous column",
+      "writing_task": "Type a 500-character humorous column about something absurd in daily life.",
+      "speaking_focus": "Comic timing; intonation for sarcasm (是喔～, 好喔, 真的假的).",
+      "book_target": "87%",
+      "milestone": null
+    },
+    {
+      "week": 44,
+      "phase": 3,
+      "title": "Love Stories and Regret",
+      "title_zh": "愛情與遺憾",
+      "theme": "Love and regret in literature: the novel's romantic arc as it nears its end.",
+      "goals": [
+        "Analyse the romantic arc of the novel",
+        "Discuss counterfactuals (要是……就好了, 早知道)",
+        "Express regret and acceptance with nuance",
+        "Write a short story in the novel's style"
+      ],
+      "zhuyin_focus": "Typing a short story with dialogue in 「」. Target: 56 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Complex characters in the novel's later chapters; learn whole forms of 鬱, 籲, 龜, 鑼, 釁.",
+      "vocab_domains": [
+        "love",
+        "regret",
+        "storytelling"
+      ],
+      "taiwan_categories": [
+        "emotion",
+        "culture",
+        "slang"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-breakup",
+        "sc-consoling-friend"
+      ],
+      "reading_genre": "short story",
+      "writing_task": "Type a 600-character short story in 九把刀's casual first-person style.",
+      "speaking_focus": "Expressive storytelling of regret; prosody of 要是……就好了.",
+      "book_target": "90%",
+      "milestone": null
+    },
+    {
+      "week": 45,
+      "phase": 3,
+      "title": "Argument and Persuasion",
+      "title_zh": "論說與說服",
+      "theme": "Formal persuasion: editorials, speeches and structured debate.",
+      "goals": [
+        "Write a formal editorial",
+        "Give a 2-minute persuasive speech",
+        "Use HSK6 formal connectors (鑒於, 儘管, 由此可見)",
+        "Avoid homophone traps in formal writing"
+      ],
+      "zhuyin_focus": "Typing an editorial under time pressure. Target: 57 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Homophone traps in formal writing: 必須/必需, 截止/截至, 反應/反映, 權利/權力.",
+      "vocab_domains": [
+        "persuasion",
+        "public speaking",
+        "policy"
+      ],
+      "taiwan_categories": [
+        "government",
+        "media",
+        "discourse"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-social-debate",
+        "sc-election-talk"
+      ],
+      "reading_genre": "editorial",
+      "writing_task": "Type a 600-character editorial on a social issue.",
+      "speaking_focus": "Formal persuasive speech: a 2-minute speech with deliberate pauses and emphasis.",
+      "book_target": "93%",
+      "milestone": null
+    },
+    {
+      "week": 46,
+      "phase": 3,
+      "title": "Media Literacy",
+      "title_zh": "媒體識讀",
+      "theme": "Evaluate sources, spot bias and misinformation, and discuss media in Taiwan.",
+      "goals": [
+        "Identify bias and framing in news articles",
+        "Compare two outlets' coverage of the same story",
+        "Paraphrase and quote accurately",
+        "Write a media critique"
+      ],
+      "zhuyin_focus": "Typing paraphrases and quotations accurately. Target: 58 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Classical function characters in literary prose: 於 (not 于), 與, 乃, 甚, 而, 之, 其.",
+      "vocab_domains": [
+        "media",
+        "critical thinking",
+        "information"
+      ],
+      "taiwan_categories": [
+        "media",
+        "tech",
+        "government"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-news-discussion",
+        "sc-food-podcast"
+      ],
+      "reading_genre": "news analysis",
+      "writing_task": "Type a 550-character media critique comparing two news reports.",
+      "speaking_focus": "Critical discussion; quoting and paraphrasing aloud.",
+      "book_target": "95%",
+      "milestone": null
+    },
+    {
+      "week": 47,
+      "phase": 3,
+      "title": "Growing Up",
+      "title_zh": "成長與告別",
+      "theme": "Endings and growth: graduation, leaving home and the novel's final chapters.",
+      "goals": [
+        "Reflect on growth and change",
+        "Discuss how the novel's characters change",
+        "Give a reflective monologue",
+        "Write a reflective essay"
+      ],
+      "zhuyin_focus": "Typing a reflective essay at speed. Target: 59 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Timed mixed review of all Traditional traps from your error log.",
+      "vocab_domains": [
+        "growth",
+        "life stages",
+        "reflection"
+      ],
+      "taiwan_categories": [
+        "emotion",
+        "social",
+        "culture"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-consoling-friend",
+        "sc-meet-parents"
+      ],
+      "reading_genre": "essay",
+      "writing_task": "Type a 600-character reflective essay: 成長.",
+      "speaking_focus": "Reflective monologue with natural pauses and Taiwan-style prosody.",
+      "book_target": "98%",
+      "milestone": null
+    },
+    {
+      "week": 48,
+      "phase": 3,
+      "title": "Finishing the Novel and Checkpoint 5",
+      "title_zh": "讀完那些年與第五次檢測",
+      "theme": "Finish 那些年，我們一起追的女孩 and discuss it as a whole: themes, style and the film adaptation.",
+      "goals": [
+        "Finish reading the novel",
+        "Discuss its themes (青春, 遺憾, 友情) in depth",
+        "Compare the ending with the film's ending",
+        "Write a full book review"
+      ],
+      "zhuyin_focus": "Typing a long book review. Target: 60 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Full simplified-to-Traditional conversion test on a 500-character passage.",
+      "vocab_domains": [
+        "literature",
+        "themes",
+        "film adaptation"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "emotion",
+        "media"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-nxn-movie-book",
+        "sc-hs-reunion"
+      ],
+      "reading_genre": "novel ending and author's afterword",
+      "writing_task": "Type an 800-character book review of the whole novel.",
+      "speaking_focus": "5-minute book talk with questions.",
+      "book_target": "100%",
+      "milestone": "Checkpoint 5: (1) 5-minute book talk on the novel plus 10 minutes of questions; (2) type an 800-character review at 60 字/分; (3) convert a 500-character simplified passage to Traditional with 95%+ accuracy; (4) HSK 6-level reading comprehension practice test."
+    },
+    {
+      "week": 49,
+      "phase": 4,
+      "title": "Review: Daily Life Mastery",
+      "title_zh": "生活總複習",
+      "theme": "Consolidate daily-life skills under harder conditions: faster speech, unexpected problems, no glossary.",
+      "goals": [
+        "Handle three daily-life scenarios with complications",
+        "Use Taiwan-specific readings consistently",
+        "Fix recurring errors from your log",
+        "Rewrite an early essay at your current level"
+      ],
+      "zhuyin_focus": "Typing fluency at full speed with no IME look-ahead; error-log drills. Target: 60 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Review the weakest component families from your error log.",
+      "vocab_domains": [
+        "daily life",
+        "problem solving",
+        "review"
+      ],
+      "taiwan_categories": [
+        "home",
+        "health",
+        "shopping"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-apartment-rental",
+        "sc-clinic",
+        "sc-delivery-complaint"
+      ],
+      "reading_genre": "mixed: blog and LINE chat",
+      "writing_task": "Rewrite your week-12 diary at your current level and compare the two.",
+      "speaking_focus": "Review of Taiwan-specific readings and the reduced neutral tone.",
+      "book_target": "100%",
+      "milestone": null
+    },
+    {
+      "week": 50,
+      "phase": 4,
+      "title": "Review: Social and Media Mastery",
+      "title_zh": "社會與媒體總複習",
+      "theme": "Consolidate slang, media and social topics; speak like a Taiwanese peer.",
+      "goals": [
+        "Discuss a social or political topic for 10 minutes",
+        "Use slang appropriately for register",
+        "Summarise a news story and a PTT thread",
+        "Fix recurring one-to-many errors"
+      ],
+      "zhuyin_focus": "Typing a PTT post and a news summary back to back. Target: 62 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Review the one-to-many traps from your error log.",
+      "vocab_domains": [
+        "society",
+        "media",
+        "slang"
+      ],
+      "taiwan_categories": [
+        "slang",
+        "media",
+        "government"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-election-talk",
+        "sc-dcard-slang",
+        "sc-food-podcast"
+      ],
+      "reading_genre": "mixed: PTT thread and news",
+      "writing_task": "Type a PTT post and a 300-character news summary on the same topic, in two registers.",
+      "speaking_focus": "Particles and slang review; switching register between casual and formal.",
+      "book_target": "100%",
+      "milestone": null
+    },
+    {
+      "week": 51,
+      "phase": 4,
+      "title": "Review: Professional and Academic",
+      "title_zh": "職場與學術總複習",
+      "theme": "Consolidate formal registers: presentations, negotiations and academic discussion.",
+      "goals": [
+        "Give a 5-minute presentation and answer questions",
+        "Negotiate and discuss in formal register",
+        "Contribute to an academic discussion",
+        "Write a formal report"
+      ],
+      "zhuyin_focus": "Typing a formal report at full speed. Target: 64 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Review variant forms and glyph differences.",
+      "vocab_domains": [
+        "work",
+        "academia",
+        "formal register"
+      ],
+      "taiwan_categories": [
+        "work",
+        "discourse",
+        "money"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-salary-negotiation",
+        "sc-academic-discussion",
+        "sc-work-presentation"
+      ],
+      "reading_genre": "mixed: report and academic article",
+      "writing_task": "Type a 700-character formal report.",
+      "speaking_focus": "Formal register review: presentation delivery and academic phrasing.",
+      "book_target": "100%",
+      "milestone": null
+    },
+    {
+      "week": 52,
+      "phase": 4,
+      "title": "Final Mastery",
+      "title_zh": "總驗收",
+      "theme": "Final assessment of the year: Traditional reading, zhuyin typing, Taiwan Mandarin speaking and HSK 6.",
+      "goals": [
+        "Pass the final Traditional characters test",
+        "Type 65 字/分 in zhuyin",
+        "Hold a 30-minute conversation across all themes",
+        "Write a 1000-character final essay"
+      ],
+      "zhuyin_focus": "Final typing test: 1000-character essay plus a 5-minute dictation. Target: 65 字/分 typed in zhuyin (大千 layout) at 95%+ accuracy.",
+      "traditional_focus": "Final mastery test covering families, whole-character changes, one-to-many traps and variants.",
+      "vocab_domains": [
+        "all domains",
+        "reflection",
+        "future goals"
+      ],
+      "taiwan_categories": [
+        "culture",
+        "emotion",
+        "discourse"
+      ],
+      "grammar_level": 6,
+      "scenario_ids": [
+        "sc-nxn-movie-book",
+        "sc-hs-reunion",
+        "sc-academic-discussion"
+      ],
+      "reading_genre": "free reading",
+      "writing_task": "Type a 1000-character final essay: 我的台灣華語之路.",
+      "speaking_focus": "Final oral exam: 30-minute conversation and a 5-minute speech.",
+      "book_target": "100%",
+      "milestone": "Final checkpoint: (1) 30-minute conversation across all themes plus a 5-minute speech; (2) type a 1000-character essay at 65 字/分; (3) Traditional mastery test (95%+); (4) full HSK 6 mock exam; (5) discuss the novel and the film for 10 minutes without notes."
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "channels": [
+    {
+      "name": "Grace Mandarin Chinese",
+      "handle": "@GraceMandarinChinese",
+      "channel_id": "UCC_fdR7zZ_5SU--xuOrEdKw",
+      "category": "learner",
+      "level": 1,
+      "captions": "cc",
+      "note": "Taiwanese teacher (NTU TCSL master's); lessons explained in English plus all-Mandarin slow podcasts; very clear Taiwan accent."
+    },
+    {
+      "name": "Taiwanese Mandarin With Miss Lin",
+      "handle": "@MandarinWithMissLin",
+      "channel_id": "UCXYZ2Xk6JsJccQFwDsTkgyQ",
+      "category": "learner",
+      "level": 1,
+      "captions": "cc",
+      "note": "Taipei-born teacher; walk-and-learn vlogs and real conversations in slow Taiwanese Mandarin with culture notes."
+    },
+    {
+      "name": "Boba Taiwanese Mandarin",
+      "handle": "@bobaTaiwaneseMandarin",
+      "channel_id": "UCFr_YviLveNIuKXZkI7ymog",
+      "category": "learner",
+      "level": 1,
+      "captions": "burned",
+      "note": "Slow Taiwanese Mandarin listening videos on daily-life topics; Chinese, pinyin and English subtitles on screen."
+    },
+    {
+      "name": "Learn Mandarin with TaiwanPlus",
+      "handle": "@TaiwanPlusMandarin",
+      "channel_id": "UCJ10R97LkwGdTqBT6xz-v8g",
+      "category": "learner",
+      "level": 1,
+      "captions": "none",
+      "note": "TaiwanPlus series on Mandarin as spoken in Taiwan: short skits, phrase lessons, learner interviews; partly in English."
+    },
+    {
+      "name": "Taiwan Mandarin With Mavis",
+      "handle": "@TaiwanMandarinMavis",
+      "channel_id": "UCuBkR41UoNTHWFGF6HF_5QA",
+      "category": "learner",
+      "level": 1,
+      "captions": "none",
+      "note": "Taiwan-raised host: usage and grammar explainers (in English) plus casual all-Mandarin chats in Taiwanese Mandarin."
+    },
+    {
+      "name": "Mandarin Out Loud",
+      "handle": "@mandarinoutloud",
+      "channel_id": "UC4hqDL0d_O9-oDp5uaA8_KQ",
+      "category": "learner",
+      "level": 1,
+      "captions": "cc",
+      "note": "Wendy from Taiwan: comprehensible-input videos, slow vlogs and everyday expressions. Manual CC track is Simplified (zh-Hans)."
+    },
+    {
+      "name": "One Bite Taiwanese Mandarin",
+      "handle": "@mandarin.yvonneli",
+      "channel_id": "UC9CIlztEfh77wv9RTqfh6Bw",
+      "category": "learner",
+      "level": 1,
+      "captions": "cc",
+      "note": "Yvonne from Taiwan: comprehensible-input monologues and shadowing practice, slow to near-natural speed."
+    },
+    {
+      "name": "Bitesize Chinese 一口中文",
+      "handle": "@bitesize.chinese",
+      "channel_id": "UCpt-QaIqyu2dE6qKGcv-Cnw",
+      "category": "learner",
+      "level": 1,
+      "captions": "cc",
+      "note": "Mindy: graded podcast-style listening practice, short dialogues and Taiwan topics in Taiwanese Mandarin."
+    },
+    {
+      "name": "Chinese with Bella - Learn Taiwanese Mandarin",
+      "handle": "@chinesewithbella100",
+      "channel_id": "UCtXBla9pdT4BHiwvToRZwOg",
+      "category": "learner",
+      "level": 1,
+      "captions": "cc",
+      "note": "Online teacher from Taiwan; slow, natural-conversation lessons and daily-life vlogs (7-11, food, travel). Small channel."
+    },
+    {
+      "name": "SMART Mandarin - Katrina Lee",
+      "handle": "@smartmandarinkatrinalee",
+      "channel_id": "UCg5zAAP06T-PZyg1ydVmFeg",
+      "category": "learner",
+      "level": 2,
+      "captions": "none",
+      "note": "Licensed teacher from Taiwan; HSK4-5 level Chinese podcasts on current topics at a slowed, clear pace."
+    },
+    {
+      "name": "Talk Taiwanese Mandarin With Abby",
+      "handle": "@TalkTaiwaneseMandarin",
+      "channel_id": "UCSoH-pm1Rto-1-ls5iKsQFg",
+      "category": "learner",
+      "level": 2,
+      "captions": "none",
+      "note": "100% Mandarin podcast on Taiwanese life, films and society for intermediate-advanced learners; careful natural pace. Uploads are infrequent (latest Mar 2026)."
+    },
+    {
+      "name": "Mandarin Monkey",
+      "handle": "@MandarinMonkey",
+      "channel_id": "UC74G8nF0GZncPg_vv8cSXkQ",
+      "category": "learner",
+      "level": 2,
+      "captions": "none",
+      "note": "British-Taiwanese couple (Tom and Ula); hour-long bilingual English/Mandarin chat podcast, Ula speaks natural Taiwan Mandarin."
+    },
+    {
+      "name": "TW Mandarin Podcast",
+      "handle": "@TaiwaneseMandarinPodcast",
+      "channel_id": "UCO5PMHqsIFbEVEzDV63excw",
+      "category": "learner",
+      "level": 2,
+      "captions": "cc",
+      "note": "Podcast on Taiwanese culture and news in authentic Taiwanese Mandarin with multi-language subtitles; infrequent (latest May 2026)."
+    },
+    {
+      "name": "Learn Taiwanese Mandarin With Ben",
+      "handle": "@ListenTaiwaneseMandarinWithBen",
+      "channel_id": "UCziLq9gXf_qMIZJOF24W7uQ",
+      "category": "learner",
+      "level": 2,
+      "captions": "cc",
+      "note": "Native Taiwanese host's all-Mandarin listening podcast on everyday topics (catching a cold, new glasses), 15-55 min episodes at a measured pace. Small channel. Manual CC track is Simplified (zh-CN)."
+    },
+    {
+      "name": "小公視 PTS KIDS",
+      "handle": "@PTSKIDS",
+      "channel_id": "UCUK0qeXwXSu_sZukMo-gwpw",
+      "category": "kids",
+      "level": 2,
+      "captions": "burned",
+      "note": "PTS children's channel: animation, kids' drama, science and animal shows; clear standard Mandarin."
+    },
+    {
+      "name": "巧虎TV",
+      "handle": "@BenesseTaiwan",
+      "channel_id": "UCnjadOj5qlKXsTAXPSwc67A",
+      "category": "kids",
+      "level": 2,
+      "captions": "none",
+      "note": "Benesse Taiwan's Shimajiro (巧虎): preschool habit-teaching skits and songs in Taiwan Mandarin; very simple speech."
+    },
+    {
+      "name": "小行星樂樂TV",
+      "handle": "@XIAOXINGXING-樂樂TV",
+      "channel_id": "UCtWocEKhgpEffPDlwwozK9Q",
+      "category": "kids",
+      "level": 2,
+      "captions": "cc",
+      "note": "Animated kids' explainers (science, cities, jobs, famous scientists) with slow, clear narration."
+    },
+    {
+      "name": "水果冰淇淋",
+      "handle": "@fruitypie-pts",
+      "channel_id": "UC5RXIm3V5O1Vp7Jmlwbg9Mw",
+      "category": "kids",
+      "level": 2,
+      "captions": "none",
+      "note": "PTS preschool classic: puppet stories, songs and host segments; slow, clear, warm speech."
+    },
+    {
+      "name": "國語日報 課外小學堂",
+      "handle": "@國語日報副刊.課外小",
+      "channel_id": "UCZiXdc5Rbg0XMuldF7xyyYA",
+      "category": "kids",
+      "level": 2,
+      "captions": "none",
+      "note": "Mandarin Daily News: children read their own essays and a teacher explains the writing technique; careful, clear Mandarin."
+    },
+    {
+      "name": "momokids親子台",
+      "handle": "@momokidsYT",
+      "channel_id": "UCbHD6HX38bufVR1pF076Z0g",
+      "category": "kids",
+      "level": 2,
+      "captions": "none",
+      "note": "MOMO kids' TV: 'MOMO這一家' family/school drama episodes and hosted segments, plus short cartoon promos; simple clear speech."
+    },
+    {
+      "name": "均一教育平台 Junyi Academy",
+      "handle": "@JunyiAcademy",
+      "channel_id": "UCbDEamSXQhxqhovhd2NdEyg",
+      "category": "explainer",
+      "level": 2,
+      "captions": "none",
+      "note": "Taiwan school-curriculum lessons (math, science) and education talks; slow, clear teacher narration."
+    },
+    {
+      "name": "志祺七七",
+      "handle": "@shasha77",
+      "channel_id": "UCiWXd0nmBjlKROwzMyPV-Nw",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "Daily current-affairs explainers and expert interviews; brisk but very clearly articulated scripted Mandarin."
+    },
+    {
+      "name": "臺灣吧 Taiwan Bar",
+      "handle": "@TaiwanBar",
+      "channel_id": "UCRNsHFT7BFoAPBcuAa5sgEQ",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "Animated explainers on Taiwanese history, law, economics and science; lively scripted narration."
+    },
+    {
+      "name": "啾啾鞋",
+      "handle": "@chuchushoeTW",
+      "channel_id": "UCIF_gt4BfsWyM_2GOcKXyEQ",
+      "category": "explainer",
+      "level": 3,
+      "captions": "burned",
+      "note": "Trivia and science/history explainers plus long story recaps; calm, clear single-narrator voice."
+    },
+    {
+      "name": "PanSci 泛科學",
+      "handle": "@PanScitw",
+      "channel_id": "UCuHHKbwC0TWjeqxbqdO-N_g",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "Popular-science explainers on news topics; clear host narration with technical vocabulary."
+    },
+    {
+      "name": "好葉 Better Leaf",
+      "handle": "@betterleaf",
+      "channel_id": "UChjHWpmNm-3HbLFkQ3TPXaA",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "Animated book summaries on investing and self-improvement; steady, clear narration."
+    },
+    {
+      "name": "超級歪 SuperY",
+      "handle": "@superycinema",
+      "channel_id": "UCAM7yIYvZGYLJR6z6RqLlNw",
+      "category": "explainer",
+      "level": 3,
+      "captions": "burned",
+      "note": "Essay-style explainers on film, philosophy and social issues; clear scripted narration."
+    },
+    {
+      "name": "柴鼠兄弟 ZRBros",
+      "handle": "@ZRBro",
+      "channel_id": "UC45i13dEfEVac2IEJT_Nr5Q",
+      "category": "explainer",
+      "level": 3,
+      "captions": "burned",
+      "note": "Personal-finance and economy explainers with graphics; clear, measured narration."
+    },
+    {
+      "name": "文森說書",
+      "handle": "@vincent_reading",
+      "channel_id": "UCPgGtH2PxZ9xR0ehzQ27FHw",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "Book talks and long author interviews on psychology, parenting and growth; calm, clear speech."
+    },
+    {
+      "name": "LIS情境科學教材",
+      "handle": "@LISscience",
+      "channel_id": "UCEjSMfRDks28MYaJ4iPkQMQ",
+      "category": "explainer",
+      "level": 3,
+      "captions": "burned",
+      "note": "Non-profit science-education dramas and animations for school students; clear scripted dialogue."
+    },
+    {
+      "name": "曲博科技教室 Dr. J Class",
+      "handle": "@ansforce",
+      "channel_id": "UCq8Xi8muhehxRMIK76I1jog",
+      "category": "tech",
+      "level": 3,
+      "captions": "cc",
+      "note": "Semiconductor, AI and biotech industry explainers by an engineer-lecturer; slow, classroom-style delivery."
+    },
+    {
+      "name": "公視P#新聞實驗室",
+      "handle": "@Ppsharp_newslab",
+      "channel_id": "UCMDcOT4z7GS1SRGG2g7z43g",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "PTS news lab: data-driven explainers on public issues with a presenter; clear, well-paced."
+    },
+    {
+      "name": "那些電影教我的事",
+      "handle": "@lessonsfrommovies",
+      "channel_id": "UCt8mg-YL_ikTAJKuZ8GMtqg",
+      "category": "explainer",
+      "level": 3,
+      "captions": "cc",
+      "note": "Film recaps with life-lesson commentary by a husband-and-wife duo; slow, clear narration."
+    },
+    {
+      "name": "下一本讀什麼?",
+      "handle": "@readingoutpost",
+      "channel_id": "UCYmx5MYnmz5Y_otCrqPvEOw",
+      "category": "podcast",
+      "level": 3,
+      "captions": "cc",
+      "note": "Book-summary talks and author interviews; clear, well-paced host speech."
+    },
+    {
+      "name": "一天聽一點 (啟點文化)",
+      "handle": "@koob",
+      "channel_id": "UCywBTF8MXwyQU21F1vHMnfw",
+      "category": "talk",
+      "level": 3,
+      "captions": "cc",
+      "note": "Short daily talks on psychology, communication and relationships; warm, slow, clear solo speech."
+    },
+    {
+      "name": "大愛人文講堂",
+      "handle": "@daaitvtalks",
+      "channel_id": "UCzRwPtyz4ccyEiJ9KPgS5-w",
+      "category": "talk",
+      "level": 3,
+      "captions": "burned",
+      "note": "TED-style 20-40 minute talks by Taiwanese professionals and scholars; prepared, clear lecture speech."
+    },
+    {
+      "name": "公視 我們的島",
+      "handle": "@ourislandTAIWAN",
+      "channel_id": "UCiNrmbGfxRnzVVqg4a9banQ",
+      "category": "culture",
+      "level": 3,
+      "captions": "cc",
+      "note": "PTS weekly environmental documentary on Taiwan's land, wildlife and farming; clear narration plus interviews."
+    },
+    {
+      "name": "公視 獨立特派員",
+      "handle": "@ptsinnews",
+      "channel_id": "UC0UN_9ETd4_M_ZlkIncA18g",
+      "category": "news",
+      "level": 3,
+      "captions": "cc",
+      "note": "PTS in-depth news magazine: 10-25 minute reports with clear reporter narration and interviews."
+    },
+    {
+      "name": "報導者 The Reporter",
+      "handle": "@TwreporterOrg",
+      "channel_id": "UCbWm0FTcQgRyc--ZsAzGcRA",
+      "category": "news",
+      "level": 3,
+      "captions": "burned",
+      "note": "Investigative non-profit newsroom: short documentaries and explainers with clear narration."
+    },
+    {
+      "name": "天下雜誌 video",
+      "handle": "@cwvideo",
+      "channel_id": "UCoS753iLrVE-1PZrsUak6Qg",
+      "category": "explainer",
+      "level": 3,
+      "captions": "none",
+      "note": "CommonWealth Magazine: 5-10 minute business and world-affairs explainers plus interviews; formal clear narration."
+    },
+    {
+      "name": "華視新聞雜誌",
+      "handle": "@CTS_NewsMagazine",
+      "channel_id": "UClNO-leFBsGr5XEi5yce-Ew",
+      "category": "news",
+      "level": 3,
+      "captions": "burned",
+      "note": "CTS weekly news magazine: 15-minute feature reports with standard broadcast narration."
+    },
+    {
+      "name": "台灣演義",
+      "handle": "@FTVTaiwanHistory",
+      "channel_id": "UCdfOAzXudIsRx4EPJP6xuog",
+      "category": "culture",
+      "level": 3,
+      "captions": "burned",
+      "note": "FTV Taiwan-history documentary series; formal, clear voice-over narration."
+    },
+    {
+      "name": "公視 藝術很有事",
+      "handle": "@insidethearts",
+      "channel_id": "UCZiyLb0Ia0lo8cpJDz86rPg",
+      "category": "culture",
+      "level": 3,
+      "captions": "cc",
+      "note": "PTS arts documentary series: artists speaking about their work; unhurried, clear speech."
+    },
+    {
+      "name": "公視 青春發言人",
+      "handle": "@ptsyouthnews",
+      "channel_id": "UCs1CM12oLnhgJnEK32V2akg",
+      "category": "news",
+      "level": 3,
+      "captions": "cc",
+      "note": "PTS youth news: explainers and interviews on issues affecting teenagers; clear native pace."
+    },
+    {
+      "name": "消失的國界",
+      "handle": "@SETBorderlessWorld",
+      "channel_id": "UCaHvWPMrGgcd42waw4WYQ6w",
+      "category": "news",
+      "level": 3,
+      "captions": "burned",
+      "note": "SET international documentary magazine: world stories told from a Taiwanese viewpoint; clear voice-over narration."
+    },
+    {
+      "name": "浩克慢遊",
+      "handle": "@SlowTravelAdventures",
+      "channel_id": "UCutGG3CjPf_8yA7kX_GmuYw",
+      "category": "travel",
+      "level": 3,
+      "captions": "burned",
+      "note": "PTS slow-travel show: writers 劉克襄 and 王浩一 walk small towns talking history and food; unhurried, literate conversation."
+    },
+    {
+      "name": "公視新聞網 PNN",
+      "handle": "@PNNPTS",
+      "channel_id": "UCexpzYDEnfmAvPSfG4xbcjA",
+      "category": "news",
+      "level": 4,
+      "captions": "burned",
+      "note": "PTS news clips and full bulletins; standard anchor and reporter Mandarin at broadcast speed."
+    },
+    {
+      "name": "TVBS NEWS",
+      "handle": "@TVBSNEWS01",
+      "channel_id": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+      "category": "news",
+      "level": 4,
+      "captions": "burned",
+      "note": "Commercial TV news clips and live bulletins; fast anchor delivery, on-screen captions."
+    },
+    {
+      "name": "中央社 CNA",
+      "handle": "@CNA_Taiwan",
+      "channel_id": "UC7ymKGCl6EVLh7z6sq7TBZA",
+      "category": "news",
+      "level": 4,
+      "captions": "none",
+      "note": "Central News Agency video news: 1-3 minute reports with standard newsreader narration, plus raw press-event footage."
+    },
+    {
+      "name": "范琪斐的美國時間",
+      "handle": "@fanamericantime",
+      "channel_id": "UC2VKL-DkRvXtWkfjMzkYvmw",
+      "category": "news",
+      "level": 4,
+      "captions": "cc",
+      "note": "Veteran journalist's interviews and news explainers; relaxed conversational Mandarin."
+    },
+    {
+      "name": "親子天下",
+      "handle": "@parentingtv",
+      "channel_id": "UCJU_mEOzlhdKAAUyt08NGog",
+      "category": "talk",
+      "level": 4,
+      "captions": "cc",
+      "note": "Parenting and education interviews and podcasts with experts; natural conversational pace."
+    },
+    {
+      "name": "雲端世界 (李四端)",
+      "handle": "@newscloudworld",
+      "channel_id": "UC7_BFMWW2l5aXkx33ml0qOw",
+      "category": "talk",
+      "level": 4,
+      "captions": "burned",
+      "note": "Veteran anchor 李四端's sit-down interviews with newsmakers and celebrities; polished conversational Mandarin."
+    },
+    {
+      "name": "法律白話文 Plain Law Media",
+      "handle": "@plainlaw_me",
+      "channel_id": "UCXd6dUdTQchAg2P0QRh_42Q",
+      "category": "podcast",
+      "level": 4,
+      "captions": "cc",
+      "note": "Law and politics explained in plain language; panel podcasts and short explainers, conversational."
+    },
+    {
+      "name": "呱吉",
+      "handle": "@FroggyChiu",
+      "channel_id": "UC_XRq7JriAORvDe1lI1RAsA",
+      "category": "podcast",
+      "level": 4,
+      "captions": "none",
+      "note": "Long chat podcasts and interviews on politics, games and life; witty conversational Mandarin."
+    },
+    {
+      "name": "公視 誰來晚餐",
+      "handle": "@guesswhopts",
+      "channel_id": "UC4fg4ZSd-iV36FWUvCxl-Tg",
+      "category": "culture",
+      "level": 4,
+      "captions": "burned",
+      "note": "PTS documentary series visiting ordinary families for dinner; natural family conversation, some Taiwanese-Hokkien."
+    },
+    {
+      "name": "公視 一字千金",
+      "handle": "@ptsword",
+      "channel_id": "UCwBKCtnBuThmizhClo1nUFg",
+      "category": "culture",
+      "level": 4,
+      "captions": "burned",
+      "note": "PTS Chinese-character quiz show: contestants write hard characters and idioms; great for characters, host speaks clearly."
+    },
+    {
+      "name": "台客劇場 TKstory",
+      "handle": "@TKstorytw",
+      "channel_id": "UCghPiQIi_uyjF1YHKj-FhGw",
+      "category": "culture",
+      "level": 4,
+      "captions": "cc",
+      "note": "Environmental and social-issue mini documentaries and experiments; earnest conversational narration."
+    },
+    {
+      "name": "公視戲劇 PTS Drama",
+      "handle": "@ptsdrama",
+      "channel_id": "UCH_5vj94el18quHAg_QwlMw",
+      "category": "drama",
+      "level": 4,
+      "captions": "burned",
+      "note": "PTS drama: full 人生劇展/學生劇展 TV films, series clips and cast interviews; natural dialogue with Chinese subtitles."
+    },
+    {
+      "name": "三立戲劇 (三立華劇)",
+      "handle": "@SETdrama",
+      "channel_id": "UC0Bp71S54Jsw9XsapPoUVFQ",
+      "category": "drama",
+      "level": 4,
+      "captions": "burned",
+      "note": "SET Mandarin idol/family dramas: full episodes and highlight clips with Chinese subtitles."
+    },
+    {
+      "name": "GTV DRAMA 八大劇樂部",
+      "handle": "@gtv-drama",
+      "channel_id": "UCZ2EoLNz4EzAnAIKCGhiRzQ",
+      "category": "drama",
+      "level": 4,
+      "captions": "cc",
+      "note": "GTV dramas: full episodes and clips of Taiwanese Mandarin series."
+    },
+    {
+      "name": "TVBS劇在一起",
+      "handle": "@tvbsdrama",
+      "channel_id": "UCjs-hZfVAKEfrP_6y8cz2dA",
+      "category": "drama",
+      "level": 4,
+      "captions": "burned",
+      "note": "TVBS dramas (女兵日記, 加油喜事, 機智校園生活...): full episodes and clips with Chinese subtitles."
+    },
+    {
+      "name": "蔡阿嘎",
+      "handle": "@TsaiAGa",
+      "channel_id": "UCPwxSX0DYDMQxCvgfeVDv_g",
+      "category": "vlog",
+      "level": 4,
+      "captions": "burned",
+      "note": "One of Taiwan's biggest YouTubers: family vlogs, challenges and Taiwan-pride videos; lively casual Mandarin with some Taiwanese-Hokkien."
+    },
+    {
+      "name": "Joeman",
+      "handle": "@joeman",
+      "channel_id": "UCPRWWKG0VkBA0Pqa4Jr5j0Q",
+      "category": "vlog",
+      "level": 4,
+      "captions": "burned",
+      "note": "Price-comparison 'expensive vs cheap' food, hotel and gadget reviews; steady conversational pace."
+    },
+    {
+      "name": "低清DISSY",
+      "handle": "@dissy.official",
+      "channel_id": "UCFeErdI5a_YlUd1WzpVAZUQ",
+      "category": "vlog",
+      "level": 4,
+      "captions": "cc",
+      "note": "Daily-life, travel and chat vlogs; natural young conversational speech."
+    },
+    {
+      "name": "魚乾",
+      "handle": "@annie72127",
+      "channel_id": "UCpgt8SEyAy5tbr9BzVK8Lsg",
+      "category": "vlog",
+      "level": 4,
+      "captions": "cc",
+      "note": "Lifestyle, pets and travel vlogs; natural everyday speech."
+    },
+    {
+      "name": "千千進食中",
+      "handle": "@Chienseating",
+      "channel_id": "UC9i2Qgd5lizhVgJrdnxunKw",
+      "category": "food",
+      "level": 4,
+      "captions": "cc",
+      "note": "Mukbang and food-tasting videos; chatty, natural young-female speech."
+    },
+    {
+      "name": "食尚玩家",
+      "handle": "@supertaste",
+      "channel_id": "UC00wMIWR48SYidE6jmpL7Qg",
+      "category": "food",
+      "level": 4,
+      "captions": "burned",
+      "note": "TVBS food-and-travel show: hosts eat their way around Taiwan and abroad; lively, colloquial presenter talk."
+    },
+    {
+      "name": "the劉沛",
+      "handle": "@theLiuPei",
+      "channel_id": "UCK3Ycl9dcHk0qz8yoN-6phA",
+      "category": "travel",
+      "level": 4,
+      "captions": "cc",
+      "note": "Travel and culture-comparison vlogs by a Taiwanese creator; clear, expressive conversational Mandarin."
+    },
+    {
+      "name": "張修修的不正常人生",
+      "handle": "@shoshotw",
+      "channel_id": "UC7_BNdimJrNLPDeectTg6Ig",
+      "category": "travel",
+      "level": 4,
+      "captions": "cc",
+      "note": "Humorous travel vlogs around Taiwan and abroad; casual first-person narration."
+    },
+    {
+      "name": "3cTim哥生活日常",
+      "handle": "@3ctim",
+      "channel_id": "UCmoOnxeTHUcUBWFNSUR8HvQ",
+      "category": "tech",
+      "level": 4,
+      "captions": "cc",
+      "note": "Phone, gadget and home-appliance reviews; friendly conversational explanations."
+    },
+    {
+      "name": "壹加壹",
+      "handle": "@illyandlean",
+      "channel_id": "UCmArFxfDybtCbo0Fa0Z2xxA",
+      "category": "tech",
+      "level": 4,
+      "captions": "cc",
+      "note": "Tech and lifestyle-gadget reviews by a two-person team (Illy and Lean); easygoing conversational explanations."
+    },
+    {
+      "name": "木曜4超玩",
+      "handle": "@Muyao4",
+      "channel_id": "UCLW_SzI9txZvtOFTPDswxqg",
+      "category": "comedy",
+      "level": 5,
+      "captions": "burned",
+      "note": "Web variety show: games, challenges and travel specials with celebrity guests; fast overlapping banter and slang."
+    },
+    {
+      "name": "綜藝大熱門",
+      "handle": "@HotDoorNight",
+      "channel_id": "UCkELMMBdy4gPj6ooQwYJ-yg",
+      "category": "comedy",
+      "level": 5,
+      "captions": "burned",
+      "note": "Studio variety talk show with 吳宗憲: celebrity chat, quizzes and gags; quick wordplay."
+    },
+    {
+      "name": "STR Network 薩泰爾娛樂",
+      "handle": "@STRNetworkasia",
+      "channel_id": "UCDrswN-SqWh7Kii62h9aXGA",
+      "category": "comedy",
+      "level": 5,
+      "captions": "burned",
+      "note": "Stand-up, roasts and late-night satire (賀瓏夜夜秀); fast comedic delivery, heavy slang."
+    },
+    {
+      "name": "阿翰po影片",
+      "handle": "@hanhanpovideo",
+      "channel_id": "UCEBaVKCwLP3UOdSq3LNNqmw",
+      "category": "comedy",
+      "level": 5,
+      "captions": "burned",
+      "note": "One-man character sketches imitating Taiwanese aunties, Vietnamese brides, teachers; heavy accents and slang."
+    },
+    {
+      "name": "HahaTai 哈哈台",
+      "handle": "@Hahatai",
+      "channel_id": "UC9g4w3QvOCTM_3ok6WlH43Q",
+      "category": "street-interview",
+      "level": 5,
+      "captions": "cc",
+      "note": "Street interviews with passers-by and students plus comedy segments; spontaneous, fast, slangy."
+    },
+    {
+      "name": "Dcard Video",
+      "handle": "@DcardTaiwan",
+      "channel_id": "UCaaZYXjaVXrxegTZHCAxDmQ",
+      "category": "street-interview",
+      "level": 5,
+      "captions": "burned",
+      "note": "Student-community channel: campus street interviews, dating experiments and skits; young casual speech."
+    },
+    {
+      "name": "百靈果News",
+      "handle": "@bailingguo",
+      "channel_id": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+      "category": "podcast",
+      "level": 5,
+      "captions": "cc",
+      "note": "Irreverent news-commentary podcast with video; two hosts switching between Mandarin and English, fast and slangy."
+    },
+    {
+      "name": "關鍵時刻",
+      "handle": "@ebcCTime",
+      "channel_id": "UCKQVSNdzGBJSXaUmS4TOWww",
+      "category": "news",
+      "level": 5,
+      "captions": "none",
+      "note": "EBC nightly news-talk show; dramatic, rapid panel commentary on world affairs and science."
+    },
+    {
+      "name": "Gooaye 股癌",
+      "handle": "@Gooaye",
+      "channel_id": "UC23rnlQU_qE3cec9x709peA",
+      "category": "podcast",
+      "level": 5,
+      "captions": "none",
+      "note": "Top finance podcast uploaded to YouTube (audio-first); very fast solo monologue with market jargon and profanity."
+    }
+  ],
+  "queries": [
+    {
+      "q": "台灣華語 聽力練習 初級",
+      "level": 1,
+      "category": "learner"
+    },
+    {
+      "q": "Taiwanese Mandarin Listening 台灣中文聽力練習 中級",
+      "level": 2,
+      "category": "learner"
+    },
+    {
+      "q": "中文 聽力 台灣 華語",
+      "level": 2,
+      "category": "learner"
+    },
+    {
+      "q": "台灣華語 podcast 中級 學中文",
+      "level": 2,
+      "category": "learner"
+    },
+    {
+      "q": "TOCFL 華語文能力測驗 聽力 模擬",
+      "level": 2,
+      "category": "learner"
+    },
+    {
+      "q": "老師說故事 兒童故事繪本 幼兒睡前故事",
+      "level": 2,
+      "category": "kids"
+    },
+    {
+      "q": "公視 水果冰淇淋",
+      "level": 2,
+      "category": "kids"
+    },
+    {
+      "q": "下課花路米",
+      "level": 2,
+      "category": "kids"
+    },
+    {
+      "q": "小公視 兒童節目",
+      "level": 2,
+      "category": "kids"
+    },
+    {
+      "q": "科普 動畫 小學 自然 台灣",
+      "level": 2,
+      "category": "kids"
+    },
+    {
+      "q": "時事 懶人包 志祺七七",
+      "level": 3,
+      "category": "explainer"
+    },
+    {
+      "q": "臺灣吧 動畫 台灣史",
+      "level": 3,
+      "category": "explainer"
+    },
+    {
+      "q": "泛科學 科普",
+      "level": 3,
+      "category": "explainer"
+    },
+    {
+      "q": "說書 書評 台灣 YouTuber",
+      "level": 3,
+      "category": "explainer"
+    },
+    {
+      "q": "公視 我們的島",
+      "level": 3,
+      "category": "culture"
+    },
+    {
+      "q": "公視 獨立特派員",
+      "level": 3,
+      "category": "news"
+    },
+    {
+      "q": "一步一腳印 發現新台灣",
+      "level": 3,
+      "category": "culture"
+    },
+    {
+      "q": "公視 紀錄觀點 紀錄片",
+      "level": 3,
+      "category": "culture"
+    },
+    {
+      "q": "台灣演義 歷史",
+      "level": 3,
+      "category": "culture"
+    },
+    {
+      "q": "TEDxTaipei 演講",
+      "level": 3,
+      "category": "talk"
+    },
+    {
+      "q": "報導者 影音",
+      "level": 3,
+      "category": "news"
+    },
+    {
+      "q": "台灣 廣播劇",
+      "level": 3,
+      "category": "drama"
+    },
+    {
+      "q": "天下雜誌 8分鐘看懂天下",
+      "level": 3,
+      "category": "explainer"
+    },
+    {
+      "q": "公視晚間新聞",
+      "level": 4,
+      "category": "news"
+    },
+    {
+      "q": "台灣 高中生 vlog",
+      "level": 4,
+      "category": "vlog"
+    },
+    {
+      "q": "台灣 大學生 一日生活 vlog",
+      "level": 4,
+      "category": "vlog"
+    },
+    {
+      "q": "台北 上班族 一日 vlog",
+      "level": 4,
+      "category": "vlog"
+    },
+    {
+      "q": "租屋 開箱 台北 room tour",
+      "level": 4,
+      "category": "vlog"
+    },
+    {
+      "q": "台北 巷弄美食 必吃 排隊名店",
+      "level": 4,
+      "category": "food"
+    },
+    {
+      "q": "夜市 小吃 必吃 台灣 美食",
+      "level": 4,
+      "category": "food"
+    },
+    {
+      "q": "台南 小吃 在地人 推薦",
+      "level": 4,
+      "category": "food"
+    },
+    {
+      "q": "食尚玩家 完整版",
+      "level": 4,
+      "category": "food"
+    },
+    {
+      "q": "花蓮 台東 兩天一夜 行程 vlog",
+      "level": 4,
+      "category": "travel"
+    },
+    {
+      "q": "百岳 登山 vlog 台灣",
+      "level": 4,
+      "category": "travel"
+    },
+    {
+      "q": "機車環島 台灣 vlog",
+      "level": 4,
+      "category": "travel"
+    },
+    {
+      "q": "開箱 評測 3C 手機 台灣",
+      "level": 4,
+      "category": "tech"
+    },
+    {
+      "q": "專訪 人物 訪談 台灣 節目",
+      "level": 4,
+      "category": "talk"
+    },
+    {
+      "q": "公視 人生劇展",
+      "level": 4,
+      "category": "drama"
+    },
+    {
+      "q": "公視 學生劇展",
+      "level": 4,
+      "category": "drama"
+    },
+    {
+      "q": "偶像劇 EP01 完整版 三立華劇",
+      "level": 4,
+      "category": "drama"
+    },
+    {
+      "q": "街訪 台灣",
+      "level": 5,
+      "category": "street-interview"
+    },
+    {
+      "q": "街訪 大學生 哈哈台",
+      "level": 5,
+      "category": "street-interview"
+    },
+    {
+      "q": "薩泰爾娛樂 單口喜劇 專場",
+      "level": 5,
+      "category": "comedy"
+    },
+    {
+      "q": "綜藝大熱門 精華",
+      "level": 5,
+      "category": "comedy"
+    },
+    {
+      "q": "木曜4超玩 一日系列",
+      "level": 5,
+      "category": "comedy"
+    }
+  ]
+}

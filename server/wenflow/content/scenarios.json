@@ -1,0 +1,2853 @@
+[
+  {
+    "id": "sc-night-market",
+    "title": "Ordering at a night market",
+    "title_zh": "夜市點餐",
+    "level": 1,
+    "setting": "士林夜市 on a Saturday night around nine. The lanes are packed shoulder to shoulder, the air smells of 臭豆腐 and grilled squid, and vendors shout over the crowd under bright bulbs.",
+    "ai_role": "A friendly 阿姨 running a 蚵仔煎 stall who speaks quickly, calls everyone 帥哥 or 美女, mixes in Taiwanese words and uses lots of 喔 and 啦.",
+    "learner_role": "A hungry visitor who wants to eat a few classic snacks and find out what else is good nearby.",
+    "goals": [
+      "Order 蚵仔煎 with your sauce and spice preference",
+      "Say whether you will eat here or take it away and pay",
+      "Ask the 阿姨 to recommend another stall nearby"
+    ],
+    "key_phrases": [
+      {
+        "zh": "老闆，我要一份蚵仔煎，不要辣。",
+        "pinyin": "lǎo bǎn, wǒ yào yí fèn é ā jiān, bú yào là",
+        "en": "Boss, one oyster omelette please, not spicy.",
+        "note": "蚵仔煎 is usually said in Taiwanese: ô-á-tsian. In Mandarin people say é ā jiān or ô á jiān rather than the dictionary reading hé zǎi jiān."
+      },
+      {
+        "zh": "醬可以少一點嗎？",
+        "pinyin": "jiàng kě yǐ shǎo yì diǎn ma?",
+        "en": "Could I have less sauce?",
+        "note": "Taiwan says 一點, almost never 一點兒."
+      },
+      {
+        "zh": "這個怎麼賣？",
+        "pinyin": "zhè ge zěn me mài?",
+        "en": "How much is this?",
+        "note": "Many Taiwanese pronounce 這個 as zhèi ge."
+      },
+      {
+        "zh": "內用還是外帶？",
+        "pinyin": "nèi yòng hái shì wài dài?",
+        "en": "For here or to go?",
+        "note": "Taiwan terms. Mainland China says 堂食 and 打包."
+      },
+      {
+        "zh": "我要外帶，可以幫我裝袋嗎？",
+        "pinyin": "wǒ yào wài dài, kě yǐ bāng wǒ zhuāng dài ma?",
+        "en": "To go. Could you bag it for me?"
+      },
+      {
+        "zh": "可以用LINE Pay嗎？還是只收現金？",
+        "pinyin": "kě yǐ yòng LINE Pay ma? hái shì zhǐ shōu xiàn jīn?",
+        "en": "Can I use LINE Pay, or is it cash only?",
+        "note": "Many stalls are still cash only, though LINE Pay and 街口支付 are spreading."
+      },
+      {
+        "zh": "附近還有什麼好吃的？",
+        "pinyin": "fù jìn hái yǒu shén me hǎo chī de?",
+        "en": "What else is good to eat around here?"
+      }
+    ],
+    "native_tips": [
+      "Vendors call any customer 帥哥 or 美女. Just accept it with a smile; denying it sounds odd.",
+      "There is no tipping and no bargaining over food prices.",
+      "Praise sounds natural as 好好吃喔 or 超好吃的, not 很好吃 said flatly.",
+      "Bins are scarce at night markets, so people carry their rubbish until they find one."
+    ],
+    "opening_line": "帥哥美女，來喔！蚵仔煎現煎的喔，很好吃啦！要幾份？"
+  },
+  {
+    "id": "sc-convenience-store",
+    "title": "Parcel pickup and bill payment at 7-ELEVEN",
+    "title_zh": "超商取貨繳費",
+    "level": 1,
+    "setting": "A 7-ELEVEN on a busy corner on a weekday evening. The door chime rings constantly, the hot food counter steams with 茶葉蛋 and 關東煮, and a line forms at the register.",
+    "ai_role": "A young, efficient clerk who rattles off the standard questions (袋子、載具、集點) at high speed but is patient if you ask them to repeat.",
+    "learner_role": "A customer who needs to collect an online order and pay a phone bill.",
+    "goals": [
+      "Collect a store-to-store parcel by giving your name and the last three digits of your phone number",
+      "Pay a utility or phone bill with the barcode slip",
+      "Answer the clerk's questions about bags, e-receipt carrier and microwaving"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你好，我要取貨。",
+        "pinyin": "nǐ hǎo, wǒ yào qǔ huò.",
+        "en": "Hi, I'm here to pick up a parcel.",
+        "note": "取貨 = collect a package (店到店 shipments from Shopee etc.)."
+      },
+      {
+        "zh": "我的手機末三碼是五八七。",
+        "pinyin": "wǒ de shǒu jī mò sān mǎ shì wǔ bā qī.",
+        "en": "The last three digits of my phone number are 587.",
+        "note": "Clerks ask for your name and 末三碼 (also 後三碼)."
+      },
+      {
+        "zh": "我要繳費，這是帳單。",
+        "pinyin": "wǒ yào jiǎo fèi, zhè shì zhàng dān.",
+        "en": "I'd like to pay a bill. Here's the statement."
+      },
+      {
+        "zh": "不用袋子，謝謝。",
+        "pinyin": "bú yòng dài zi, xiè xie.",
+        "en": "No bag, thanks.",
+        "note": "Plastic bags cost NT$1-2, so the clerk will ask 要袋子嗎？"
+      },
+      {
+        "zh": "發票幫我存手機載具。",
+        "pinyin": "fā piào bāng wǒ cún shǒu jī zài jù.",
+        "en": "Please save the receipt to my phone carrier.",
+        "note": "載具 is a barcode in your phone that stores e-invoices (電子發票), which are also lottery tickets."
+      },
+      {
+        "zh": "這個可以幫我微波嗎？",
+        "pinyin": "zhè ge kě yǐ bāng wǒ wéi bō ma?",
+        "en": "Could you microwave this for me?",
+        "note": "Taiwan reads 微 as wéi (ㄨㄟˊ); mainland standard is wēi."
+      },
+      {
+        "zh": "這個有買一送一嗎？",
+        "pinyin": "zhè ge yǒu mǎi yī sòng yī ma?",
+        "en": "Is this buy-one-get-one-free?"
+      }
+    ],
+    "native_tips": [
+      "People call 7-ELEVEN 小七 and FamilyMart 全家.",
+      "You will hear 歡迎光臨 on entry and 謝謝光臨 on leaving; no reply is needed.",
+      "Companies ask for 統編 (tax ID) on receipts; if you are not claiming expenses just say 不用.",
+      "Convenience stores also handle ticket printing, ibon kiosks, laundry and even traffic fines."
+    ],
+    "opening_line": "歡迎光臨！您好，請問要結帳嗎？"
+  },
+  {
+    "id": "sc-bubble-tea",
+    "title": "Ordering bubble tea",
+    "title_zh": "手搖飲點餐",
+    "level": 1,
+    "setting": "A busy 手搖飲 shop next to an MRT exit at four in the afternoon. A wall-sized menu lists dozens of teas, and a queue of high-school students in uniform taps orders into their phones.",
+    "ai_role": "A fast, cheerful clerk who expects orders in the standard format (item, size, sweetness, ice) and asks follow-ups if you forget one.",
+    "learner_role": "A customer ordering drinks for yourself and a coworker.",
+    "goals": [
+      "Order two drinks with size, sweetness (甜度) and ice level (冰塊)",
+      "Ask about toppings and extra cost",
+      "Handle the questions about bags and waiting for your number"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我要一杯大杯珍珠奶茶，半糖少冰。",
+        "pinyin": "wǒ yào yì bēi dà bēi zhēn zhū nǎi chá, bàn táng shǎo bīng.",
+        "en": "One large pearl milk tea, half sugar, less ice."
+      },
+      {
+        "zh": "甜度冰塊呢？",
+        "pinyin": "tián dù bīng kuài ne?",
+        "en": "Sweetness and ice?",
+        "note": "Sweetness: 正常糖/全糖, 少糖, 半糖, 微糖, 一分糖, 無糖. Ice: 正常冰, 少冰, 微冰, 去冰, 常溫, 溫, 熱."
+      },
+      {
+        "zh": "綠茶去冰無糖。",
+        "pinyin": "lǜ chá qù bīng wú táng.",
+        "en": "Green tea, no ice, no sugar."
+      },
+      {
+        "zh": "可以改成波霸嗎？",
+        "pinyin": "kě yǐ gǎi chéng bō bà ma?",
+        "en": "Can I switch to the big pearls?",
+        "note": "波霸 = large tapioca pearls; 珍珠 are often the smaller ones."
+      },
+      {
+        "zh": "加料要多少錢？",
+        "pinyin": "jiā liào yào duō shǎo qián?",
+        "en": "How much for a topping?"
+      },
+      {
+        "zh": "這樣就好，不用袋子。",
+        "pinyin": "zhè yàng jiù hǎo, bú yòng dài zi.",
+        "en": "That's all, no bag needed."
+      },
+      {
+        "zh": "珍奶大杯半糖少冰。",
+        "pinyin": "zhēn nǎi dà bēi bàn táng shǎo bīng.",
+        "en": "Large pearl milk tea, half sugar, less ice (natural shorthand).",
+        "note": "珍奶 is the everyday short form of 珍珠奶茶."
+      }
+    ],
+    "native_tips": [
+      "Give the order in one breath: item + size + sweetness + ice. Clerks will prompt you for anything missing.",
+      "Bringing your own cup (環保杯) usually gets a NT$5 discount.",
+      "Sweetness is also expressed as X分糖, e.g. 三分糖 = 30%.",
+      "If you just say 正常 for both, you will get very sweet tea with full ice."
+    ],
+    "opening_line": "嗨，你好！要喝什麼？甜度冰塊呢？"
+  },
+  {
+    "id": "sc-breakfast-shop",
+    "title": "Breakfast at a 早餐店",
+    "title_zh": "早餐店吃早餐",
+    "level": 1,
+    "setting": "A 美而美-style breakfast shop at 7:20 on a weekday morning. The 阿姨 flips 蛋餅 on a hot iron griddle while the radio plays, and students and office workers grab bags of food on the way to the MRT.",
+    "ai_role": "The 早餐店阿姨: warm, fast, remembers regulars' orders, calls everyone 帥哥 or 美女 and will happily chat about the weather.",
+    "learner_role": "A regular customer grabbing breakfast before work or class.",
+    "goals": [
+      "Order a 蛋餅 or 蘿蔔糕 and a drink with your preferences",
+      "Say whether you eat in or take away",
+      "Ask the total and handle sauce questions"
+    ],
+    "key_phrases": [
+      {
+        "zh": "阿姨，我要一個起司蛋餅，一杯大冰奶。",
+        "pinyin": "ā yí, wǒ yào yí ge qǐ sī dàn bǐng, yì bēi dà bīng nǎi.",
+        "en": "Auntie, a cheese egg crepe and a large iced milk tea.",
+        "note": "大冰奶 = large iced milk tea. 起司 is the Taiwan word for cheese (mainland 芝士/奶酪)."
+      },
+      {
+        "zh": "蘿蔔糕可以煎焦一點嗎？",
+        "pinyin": "luó bo gāo kě yǐ jiān jiāo yì diǎn ma?",
+        "en": "Could you fry the turnip cake a bit crispier?"
+      },
+      {
+        "zh": "鐵板麵要黑胡椒的。",
+        "pinyin": "tiě bǎn miàn yào hēi hú jiāo de.",
+        "en": "Iron-plate noodles with black pepper sauce, please.",
+        "note": "鐵板麵 comes with 黑胡椒醬 or 蘑菇醬; a Taiwan breakfast classic."
+      },
+      {
+        "zh": "內用，我坐那邊。",
+        "pinyin": "nèi yòng, wǒ zuò nà biān.",
+        "en": "Eating here, I'll sit over there."
+      },
+      {
+        "zh": "甜辣醬一點點就好。",
+        "pinyin": "tián là jiàng yì diǎn diǎn jiù hǎo.",
+        "en": "Just a little sweet chili sauce."
+      },
+      {
+        "zh": "跟昨天一樣。",
+        "pinyin": "gēn zuó tiān yí yàng.",
+        "en": "Same as yesterday."
+      },
+      {
+        "zh": "阿姨，總共多少？",
+        "pinyin": "ā yí, zǒng gòng duō shǎo?",
+        "en": "Auntie, how much altogether?"
+      }
+    ],
+    "native_tips": [
+      "美而美 is a chain, but people use the name loosely for any Western-style breakfast shop.",
+      "Some shops let you tick your order on a paper slip (點餐單) and hand it in.",
+      "早餐店奶茶 is made from black tea and powder and tastes different from tea-shop milk tea; many Taiwanese are nostalgic about it.",
+      "Calling the owner 阿姨 or 老闆 is normal and friendly."
+    ],
+    "opening_line": "早安！帥哥（美女）要吃什麼？內用還是外帶？"
+  },
+  {
+    "id": "sc-salty-chicken",
+    "title": "Ordering 鹽酥雞",
+    "title_zh": "買鹽酥雞",
+    "level": 1,
+    "setting": "A 鹽酥雞 stand on a street corner near a university at 11pm. Trays of raw skewers, vegetables and tofu sit under a lamp, with a stack of plastic baskets and tongs beside a bubbling fryer.",
+    "ai_role": "The 老闆: a quiet young guy who takes your basket and asks the standard questions about spice, garlic, pepper and basil.",
+    "learner_role": "A late-night snacker choosing items for a 宵夜.",
+    "goals": [
+      "Pick items and hand over your basket",
+      "Specify spice level, garlic, pepper and basil",
+      "Ask how long it will take and pay"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我要鹽酥雞、甜不辣跟四季豆。",
+        "pinyin": "wǒ yào yán sū jī, tián bú là gēn sì jì dòu.",
+        "en": "I'd like popcorn chicken, tempura fish cake and green beans.",
+        "note": "甜不辣 is a loan from Japanese tempura and means fried fish cake in Taiwan."
+      },
+      {
+        "zh": "小辣就好。",
+        "pinyin": "xiǎo là jiù hǎo.",
+        "en": "Just mildly spicy."
+      },
+      {
+        "zh": "蒜頭要，九層塔也要。",
+        "pinyin": "suàn tóu yào, jiǔ céng tǎ yě yào.",
+        "en": "Yes to garlic, and basil too.",
+        "note": "九層塔 = Thai basil, fried in at the end."
+      },
+      {
+        "zh": "胡椒粉多一點。",
+        "pinyin": "hú jiāo fěn duō yì diǎn.",
+        "en": "A bit more pepper powder."
+      },
+      {
+        "zh": "雞排不要切。",
+        "pinyin": "jī pái bú yào qiē.",
+        "en": "Don't cut the chicken cutlet.",
+        "note": "雞排 can be ordered 切 or 不切."
+      },
+      {
+        "zh": "大概要等多久？",
+        "pinyin": "dà gài yào děng duō jiǔ?",
+        "en": "About how long is the wait?"
+      }
+    ],
+    "native_tips": [
+      "The routine: take a basket, pick items with the tongs, hand the basket to the 老闆.",
+      "In the south it is often called 鹹酥雞; both names are fine.",
+      "Expect the questions 要辣嗎？要蒜嗎？胡椒？九層塔？ in rapid succession; 都要 means 'yes to everything'."
+    ],
+    "opening_line": "好，籃子給我。要辣嗎？蒜頭要不要？"
+  },
+  {
+    "id": "sc-mrt-easycard",
+    "title": "MRT and EasyCard",
+    "title_zh": "搭捷運、悠遊卡加值",
+    "level": 1,
+    "setting": "台北車站 MRT concourse at 8:30 on a weekday. Commuters stream past the gates, the top-up machines have short queues, and a station attendant sits at the information counter.",
+    "ai_role": "A patient MRT station attendant who explains lines, transfers and exits in clear, polite Mandarin.",
+    "learner_role": "A newcomer who needs to top up an EasyCard and get to 台北101.",
+    "goals": [
+      "Top up your 悠遊卡",
+      "Ask which line and transfer to take",
+      "Find the right platform direction and exit"
+    ],
+    "key_phrases": [
+      {
+        "zh": "請問悠遊卡在哪裡加值？",
+        "pinyin": "qǐng wèn yōu yóu kǎ zài nǎ lǐ jiā zhí?",
+        "en": "Excuse me, where can I top up my EasyCard?",
+        "note": "加值 = top up (mainland 充值)."
+      },
+      {
+        "zh": "我要加值五百塊。",
+        "pinyin": "wǒ yào jiā zhí wǔ bǎi kuài.",
+        "en": "I'd like to add 500 dollars."
+      },
+      {
+        "zh": "去台北101要坐哪一條線？",
+        "pinyin": "qù tái běi yī líng yī yào zuò nǎ yì tiáo xiàn?",
+        "en": "Which line goes to Taipei 101?",
+        "note": "101 is read yī líng yī in Taiwan; yāo for 1 is rare."
+      },
+      {
+        "zh": "要在哪一站轉乘？",
+        "pinyin": "yào zài nǎ yí zhàn zhuǎn chéng?",
+        "en": "Where do I transfer?"
+      },
+      {
+        "zh": "往淡水的方向是這邊嗎？",
+        "pinyin": "wǎng dàn shuǐ de fāng xiàng shì zhè biān ma?",
+        "en": "Is this the platform towards Tamsui?"
+      },
+      {
+        "zh": "請問幾號出口比較近？",
+        "pinyin": "qǐng wèn jǐ hào chū kǒu bǐ jiào jìn?",
+        "en": "Which exit number is closer?"
+      }
+    ],
+    "native_tips": [
+      "Say 捷運, not 地鐵.",
+      "No eating, drinking, or even chewing gum past the gates; fines are real.",
+      "Stand on the right on escalators in Taipei, and leave 博愛座 (priority seats) for those who need them; people are sensitive about this.",
+      "Tapping the card is 嗶卡 or 刷卡."
+    ],
+    "opening_line": "您好，請問需要什麼幫忙嗎？"
+  },
+  {
+    "id": "sc-taxi",
+    "title": "Taking a taxi",
+    "title_zh": "搭計程車",
+    "level": 1,
+    "setting": "A rainy evening outside a department store in 信義區. Yellow cabs (小黃) crawl past in traffic, and you finally flag one down.",
+    "ai_role": "A chatty middle-aged taxi driver (運將) who loves talking about food, traffic and the weather, speaking with a mild Taiwanese accent.",
+    "learner_role": "A passenger going to 師大夜市.",
+    "goals": [
+      "Give the destination politely",
+      "Ask about time and traffic, and give stopping directions",
+      "Pay by card or EasyCard and ask for a receipt"
+    ],
+    "key_phrases": [
+      {
+        "zh": "司機大哥，麻煩到師大夜市。",
+        "pinyin": "sī jī dà gē, má fán dào shī dà yè shì.",
+        "en": "Driver, to Shida Night Market please.",
+        "note": "麻煩 + destination is the natural polite form."
+      },
+      {
+        "zh": "大概要多久？會塞車嗎？",
+        "pinyin": "dà gài yào duō jiǔ? huì sāi chē ma?",
+        "en": "About how long? Will there be traffic?"
+      },
+      {
+        "zh": "前面路口停就好。",
+        "pinyin": "qián miàn lù kǒu tíng jiù hǎo.",
+        "en": "Just stop at the next intersection."
+      },
+      {
+        "zh": "可以用悠遊卡嗎？",
+        "pinyin": "kě yǐ yòng yōu yóu kǎ ma?",
+        "en": "Can I pay with EasyCard?",
+        "note": "Many taxis accept EasyCard and credit cards; check the sticker."
+      },
+      {
+        "zh": "不好意思，可以開慢一點嗎？",
+        "pinyin": "bù hǎo yì si, kě yǐ kāi màn yì diǎn ma?",
+        "en": "Sorry, could you drive a bit slower?"
+      },
+      {
+        "zh": "可以給我收據嗎？",
+        "pinyin": "kě yǐ gěi wǒ shōu jù ma?",
+        "en": "Could I have a receipt?"
+      }
+    ],
+    "native_tips": [
+      "小黃 = taxi; 運將 (from Taiwanese ūn-tsiàng) = driver, used casually.",
+      "No tipping; round up only if you want to.",
+      "Drivers often start conversations; short friendly answers are fine.",
+      "Apps: Uber and 55688 (台灣大車隊) are common ways to call a cab."
+    ],
+    "opening_line": "你好，要去哪裡？"
+  },
+  {
+    "id": "sc-sim-card",
+    "title": "Getting a SIM card",
+    "title_zh": "辦手機門號",
+    "level": 1,
+    "setting": "A telecom store near 台北車站 on a weekday afternoon. Posters advertise 吃到飽 data plans and the clerk has a stack of forms ready.",
+    "ai_role": "A telecom shop clerk who speaks fast about 方案, 綁約 and 證件 but is happy to slow down.",
+    "learner_role": "A newcomer who needs a Taiwanese number and mobile data.",
+    "goals": [
+      "Ask for a prepaid card or a plan with unlimited data",
+      "Find out what ID is needed",
+      "Ask the price and whether there is a contract"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我想辦一張預付卡。",
+        "pinyin": "wǒ xiǎng bàn yì zhāng yù fù kǎ.",
+        "en": "I'd like to get a prepaid SIM card."
+      },
+      {
+        "zh": "有沒有上網吃到飽的方案？",
+        "pinyin": "yǒu méi yǒu shàng wǎng chī dào bǎo de fāng àn?",
+        "en": "Do you have an unlimited data plan?",
+        "note": "吃到飽 'all-you-can-eat' also means unlimited data."
+      },
+      {
+        "zh": "需要什麼證件？",
+        "pinyin": "xū yào shén me zhèng jiàn?",
+        "en": "What ID do I need?",
+        "note": "Foreigners usually need a passport plus a second ID or ARC (居留證)."
+      },
+      {
+        "zh": "一個月多少錢？要綁約嗎？",
+        "pinyin": "yí ge yuè duō shǎo qián? yào bǎng yuē ma?",
+        "en": "How much a month? Is there a contract?",
+        "note": "綁約 = lock-in contract."
+      },
+      {
+        "zh": "可以幫我設定嗎？",
+        "pinyin": "kě yǐ bāng wǒ shè dìng ma?",
+        "en": "Could you set it up for me?"
+      },
+      {
+        "zh": "我的手機號碼是多少？",
+        "pinyin": "wǒ de shǒu jī hào mǎ shì duō shǎo?",
+        "en": "What is my phone number?"
+      }
+    ],
+    "native_tips": [
+      "門號 means a phone number/line; 辦門號 = sign up for a number.",
+      "The big three are 中華電信, 台灣大哥大 and 遠傳.",
+      "Taiwanese read phone numbers digit by digit, with 0 as líng."
+    ],
+    "opening_line": "您好，要辦門號還是預付卡？"
+  },
+  {
+    "id": "sc-rechao",
+    "title": "Dinner at a 熱炒店 with friends",
+    "title_zh": "熱炒店聚餐",
+    "level": 2,
+    "setting": "A loud 一百元熱炒 restaurant on a Friday night, with plastic stools, round tables and fridges full of 台灣啤酒. Woks roar in the open kitchen and every table is toasting.",
+    "ai_role": "阿凱, your Taiwanese coworker: loud, generous, keeps proposing toasts and always orders too much food.",
+    "learner_role": "A coworker out with friends after a long week.",
+    "goals": [
+      "Choose and order several dishes to share",
+      "Order drinks and handle toasting etiquette",
+      "Decide how to split the bill"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我們先點三杯雞、炒水蓮跟菜脯蛋。",
+        "pinyin": "wǒ men xiān diǎn sān bēi jī, chǎo shuǐ lián gēn cài fǔ dàn.",
+        "en": "Let's start with three-cup chicken, stir-fried water lily stems and dried-radish omelette.",
+        "note": "菜脯 is often said in Taiwanese (tshài-póo)."
+      },
+      {
+        "zh": "先來四瓶台啤。",
+        "pinyin": "xiān lái sì píng tái pí.",
+        "en": "Four bottles of Taiwan Beer to start.",
+        "note": "台啤 = Taiwan Beer; 18天 is the fresh 18-day version."
+      },
+      {
+        "zh": "乾杯！——我隨意就好。",
+        "pinyin": "gān bēi! — wǒ suí yì jiù hǎo.",
+        "en": "Cheers! — I'll just sip.",
+        "note": "乾杯 literally means empty your glass; 隨意 lets you drink as much as you like."
+      },
+      {
+        "zh": "這盤超下飯的。",
+        "pinyin": "zhè pán chāo xià fàn de.",
+        "en": "This dish goes really well with rice."
+      },
+      {
+        "zh": "老闆，再來一碗白飯。",
+        "pinyin": "lǎo bǎn, zài lái yì wǎn bái fàn.",
+        "en": "Boss, another bowl of rice."
+      },
+      {
+        "zh": "我們平分吧。",
+        "pinyin": "wǒ men píng fēn ba.",
+        "en": "Let's split it evenly."
+      },
+      {
+        "zh": "這攤我請！",
+        "pinyin": "zhè tān wǒ qǐng!",
+        "en": "This round's on me!"
+      }
+    ],
+    "native_tips": [
+      "At many 熱炒店 you tick dishes on a paper menu yourself and hand it to staff.",
+      "Everything is shared; take from the plates with your own chopsticks unless serving chopsticks are provided.",
+      "People often settle up later with LINE Pay or bank transfer: 我再轉給你.",
+      "Say 隨意 when someone toasts you if you don't want to down your drink."
+    ],
+    "opening_line": "來來來，坐坐坐！今天辛苦了，你想吃什麼？三杯雞一定要的啦！"
+  },
+  {
+    "id": "sc-hsr-booking",
+    "title": "Booking Taiwan High Speed Rail",
+    "title_zh": "訂高鐵票",
+    "level": 2,
+    "setting": "The 高鐵台北站 ticket counter on a Friday afternoon before a long weekend. The departure board flickers, and families with luggage queue behind you.",
+    "ai_role": "A polite, formal ticket clerk who uses 您 and 請問 and explains options clearly.",
+    "learner_role": "A traveller heading to 高雄 (左營) for the weekend.",
+    "goals": [
+      "Buy a ticket to 左營 for a specific time",
+      "Choose reserved seating and a window seat",
+      "Ask about discounts and changing the ticket"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我要一張到左營的單程票。",
+        "pinyin": "wǒ yào yì zhāng dào zuǒ yíng de dān chéng piào.",
+        "en": "One single ticket to Zuoying, please.",
+        "note": "左營 is the Kaohsiung HSR station."
+      },
+      {
+        "zh": "我要對號座，靠窗的位子。",
+        "pinyin": "wǒ yào duì hào zuò, kào chuāng de wèi zi.",
+        "en": "A reserved seat by the window, please.",
+        "note": "對號座 = reserved; 自由座 = non-reserved cars."
+      },
+      {
+        "zh": "有沒有早鳥優惠？",
+        "pinyin": "yǒu méi yǒu zǎo niǎo yōu huì?",
+        "en": "Are there early-bird discounts?"
+      },
+      {
+        "zh": "下一班幾點開？",
+        "pinyin": "xià yì bān jǐ diǎn kāi?",
+        "en": "When does the next train leave?"
+      },
+      {
+        "zh": "來回票有比較便宜嗎？",
+        "pinyin": "lái huí piào yǒu bǐ jiào pián yí ma?",
+        "en": "Is a return ticket cheaper?",
+        "note": "有比較 + adjective is typical Taiwan Mandarin."
+      },
+      {
+        "zh": "我想改票，改成明天早上的。",
+        "pinyin": "wǒ xiǎng gǎi piào, gǎi chéng míng tiān zǎo shàng de.",
+        "en": "I'd like to change my ticket to tomorrow morning."
+      }
+    ],
+    "native_tips": [
+      "Use 您 with staff; Taiwanese service language is quite formal.",
+      "The T Express app and convenience-store kiosks also sell tickets.",
+      "University students get a discount (大學生優惠) on some trains.",
+      "Choosing a seat is called 劃位."
+    ],
+    "opening_line": "您好，請問要到哪裡？幾點的車？"
+  },
+  {
+    "id": "sc-tra-train",
+    "title": "Taking a TRA train to 彰化",
+    "title_zh": "搭台鐵到彰化",
+    "level": 2,
+    "setting": "台北車站 TRA hall at noon. Announcements echo, and a kiosk sells the famous 台鐵便當 in paper boxes. You are heading to 彰化, the hometown setting of 《那些年，我們一起追的女孩》.",
+    "ai_role": "First a TRA ticket clerk, then a 便當 vendor. Both are brisk but kind.",
+    "learner_role": "A traveller going to 彰化 to see where the novel is set.",
+    "goals": [
+      "Buy a 自強號 ticket for an afternoon train",
+      "Ask about seats and standing tickets",
+      "Buy a 台鐵便當 and find your platform"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我要一張到彰化的自強號，下午一點左右的。",
+        "pinyin": "wǒ yào yì zhāng dào zhāng huà de zì qiáng hào, xià wǔ yì diǎn zuǒ yòu de.",
+        "en": "One 自強 express ticket to Changhua, around 1pm."
+      },
+      {
+        "zh": "還有座位嗎？沒有的話站票也可以。",
+        "pinyin": "hái yǒu zuò wèi ma? méi yǒu de huà zhàn piào yě kě yǐ.",
+        "en": "Any seats left? If not, a standing ticket is fine.",
+        "note": "站票 = standing ticket (also 無座)."
+      },
+      {
+        "zh": "區間車可以刷悠遊卡嗎？",
+        "pinyin": "qū jiān chē kě yǐ shuā yōu yóu kǎ ma?",
+        "en": "Can I use EasyCard on local trains?"
+      },
+      {
+        "zh": "我要一個台鐵便當，排骨的。",
+        "pinyin": "wǒ yào yí ge tái tiě biàn dāng, pái gǔ de.",
+        "en": "One TRA lunchbox, the pork chop one."
+      },
+      {
+        "zh": "這班車會停員林嗎？",
+        "pinyin": "zhè bān chē huì tíng yuán lín ma?",
+        "en": "Does this train stop at Yuanlin?"
+      },
+      {
+        "zh": "請問第幾月台？",
+        "pinyin": "qǐng wèn dì jǐ yuè tái?",
+        "en": "Which platform?",
+        "note": "月台 = platform."
+      }
+    ],
+    "native_tips": [
+      "Train types: 自強號 (express), 莒光號 (semi-express), 區間車 (local).",
+      "台鐵便當 with 排骨 is a nostalgic classic; eating it on the train is part of the experience.",
+      "In 2024 TRA became a state-owned company (臺灣鐵路公司), but everyone still says 台鐵."
+    ],
+    "opening_line": "您好，請問要到哪一站？幾點的車？"
+  },
+  {
+    "id": "sc-scooter-rental",
+    "title": "Renting a scooter",
+    "title_zh": "租機車",
+    "level": 2,
+    "setting": "A scooter rental shop next to 花蓮火車站 at nine in the morning. Rows of 125cc scooters stand outside, helmets hang on hooks, and the owner is hosing down the pavement.",
+    "ai_role": "The shop owner: a laid-back 大哥 who checks your licence, explains the rules and warns you about 兩段式左轉.",
+    "learner_role": "A tourist renting a scooter to ride to 太魯閣 and the coast.",
+    "goals": [
+      "Rent a scooter for two days and show your licence",
+      "Ask about deposit, helmet and fuel",
+      "Ask about traffic rules such as two-stage left turns"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我想租一台機車，租兩天。",
+        "pinyin": "wǒ xiǎng zū yì tái jī chē, zū liǎng tiān.",
+        "en": "I'd like to rent a scooter for two days.",
+        "note": "機車 = scooter/motorbike in Taiwan (mainland 摩托車). 很機車 is also slang for 'annoying'."
+      },
+      {
+        "zh": "我有國際駕照。",
+        "pinyin": "wǒ yǒu guó jì jià zhào.",
+        "en": "I have an international driving permit."
+      },
+      {
+        "zh": "押金要多少？",
+        "pinyin": "yā jīn yào duō shǎo?",
+        "en": "How much is the deposit?"
+      },
+      {
+        "zh": "安全帽有附嗎？",
+        "pinyin": "ān quán mào yǒu fù ma?",
+        "en": "Does it come with a helmet?"
+      },
+      {
+        "zh": "九五無鉛，加滿。",
+        "pinyin": "jiǔ wǔ wú qiān, jiā mǎn.",
+        "en": "95 unleaded, fill it up.",
+        "note": "Gas station attendants usually pump for you and ask 加多少？"
+      },
+      {
+        "zh": "這個路口要兩段式左轉嗎？",
+        "pinyin": "zhè ge lù kǒu yào liǎng duàn shì zuǒ zhuǎn ma?",
+        "en": "Do I need to do a two-stage left turn here?",
+        "note": "Scooters often must wait in the 待轉區 box to turn left."
+      }
+    ],
+    "native_tips": [
+      "機車 (vehicle) vs 很機車 (annoying) is a classic pun.",
+      "Many rental shops refuse riders without a valid Taiwan or international licence.",
+      "Electric sharing scooters (WeMo, GoShare) are common in cities."
+    ],
+    "opening_line": "你好，要租車喔？駕照帶了嗎？"
+  },
+  {
+    "id": "sc-clinic",
+    "title": "Seeing a doctor at a clinic",
+    "title_zh": "診所看病",
+    "level": 2,
+    "setting": "A neighbourhood 耳鼻喉科 clinic at 6:30pm. The waiting room is full, a screen shows the current number, and a nurse calls names from the counter.",
+    "ai_role": "First the front-desk nurse (掛號), then a brisk but kind doctor. The AI plays both roles.",
+    "learner_role": "A patient with a sore throat and cough.",
+    "goals": [
+      "Register with your 健保卡",
+      "Describe your symptoms and how long you've had them",
+      "Ask how to take the medicine and request a doctor's note"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你好，我要掛號，這是我的健保卡。",
+        "pinyin": "nǐ hǎo, wǒ yào guà hào, zhè shì wǒ de jiàn bǎo kǎ.",
+        "en": "Hi, I'd like to register. Here's my NHI card."
+      },
+      {
+        "zh": "我是初診。",
+        "pinyin": "wǒ shì chū zhěn.",
+        "en": "It's my first visit.",
+        "note": "初診 = first visit; 複診 = follow-up."
+      },
+      {
+        "zh": "我喉嚨痛，還有一點發燒。",
+        "pinyin": "wǒ hóu lóng tòng, hái yǒu yì diǎn fā shāo.",
+        "en": "I have a sore throat and a slight fever."
+      },
+      {
+        "zh": "已經咳嗽三天了。",
+        "pinyin": "yǐ jīng ké sou sān tiān le.",
+        "en": "I've been coughing for three days.",
+        "note": "Taiwan dictionary reading of 咳嗽 is ㄎㄜˊ ˙ㄙㄡ."
+      },
+      {
+        "zh": "這個藥要飯前吃還是飯後吃？",
+        "pinyin": "zhè ge yào yào fàn qián chī hái shì fàn hòu chī?",
+        "en": "Should I take this before or after meals?"
+      },
+      {
+        "zh": "可以開診斷證明嗎？我需要請假。",
+        "pinyin": "kě yǐ kāi zhěn duàn zhèng míng ma? wǒ xū yào qǐng jià.",
+        "en": "Could you write a medical certificate? I need to take sick leave."
+      },
+      {
+        "zh": "掛號費多少？",
+        "pinyin": "guà hào fèi duō shǎo?",
+        "en": "How much is the registration fee?",
+        "note": "You pay 掛號費 plus a small 部分負擔 (copay)."
+      }
+    ],
+    "native_tips": [
+      "Taiwanese usually go to an 耳鼻喉科 (ENT) clinic for colds.",
+      "Clinics often dispense medicine on site in labelled 藥包 for three days.",
+      "Doctors are addressed as 醫生 (or 醫師 more formally)."
+    ],
+    "opening_line": "您好，有帶健保卡嗎？是初診還是複診？"
+  },
+  {
+    "id": "sc-pharmacy",
+    "title": "At the pharmacy",
+    "title_zh": "藥局買藥",
+    "level": 2,
+    "setting": "A community pharmacy at 9pm, shelves of vitamins and cold remedies, with a pharmacist in a white coat behind the counter.",
+    "ai_role": "A knowledgeable, careful pharmacist (藥師) who asks about allergies and explains dosage.",
+    "learner_role": "A customer with a runny nose who also needs to pick up a prescription.",
+    "goals": [
+      "Ask for cold medicine and describe symptoms",
+      "Mention an allergy and ask about side effects",
+      "Ask about dosage and fill a prescription"
+    ],
+    "key_phrases": [
+      {
+        "zh": "請問有沒有感冒藥？我有點流鼻水。",
+        "pinyin": "qǐng wèn yǒu méi yǒu gǎn mào yào? wǒ yǒu diǎn liú bí shuǐ.",
+        "en": "Do you have cold medicine? I have a bit of a runny nose."
+      },
+      {
+        "zh": "這個吃了會想睡覺嗎？",
+        "pinyin": "zhè ge chī le huì xiǎng shuì jiào ma?",
+        "en": "Will this make me sleepy?"
+      },
+      {
+        "zh": "我對盤尼西林過敏。",
+        "pinyin": "wǒ duì pán ní xī lín guò mǐn.",
+        "en": "I'm allergic to penicillin.",
+        "note": "Penicillin is 盤尼西林 (or 青黴素)."
+      },
+      {
+        "zh": "一天吃幾次？一次幾顆？",
+        "pinyin": "yì tiān chī jǐ cì? yí cì jǐ kē?",
+        "en": "How many times a day, and how many pills each time?",
+        "note": "Taiwan uses 顆 for pills."
+      },
+      {
+        "zh": "我要拿處方箋的藥。",
+        "pinyin": "wǒ yào ná chǔ fāng jiān de yào.",
+        "en": "I'm here to pick up a prescription.",
+        "note": "處方箋 = prescription slip."
+      },
+      {
+        "zh": "有沒有喉糖？",
+        "pinyin": "yǒu méi yǒu hóu táng?",
+        "en": "Do you have throat lozenges?"
+      }
+    ],
+    "native_tips": [
+      "Many people ask for medicine by brand, e.g. 普拿疼 (Panadol).",
+      "Chronic patients use a 連續處方箋 to refill at pharmacies.",
+      "Pharmacists commonly double-check 有沒有過敏？ before selling."
+    ],
+    "opening_line": "你好，哪裡不舒服？"
+  },
+  {
+    "id": "sc-line-call-classmate",
+    "title": "A LINE call with a classmate",
+    "title_zh": "跟同學講LINE",
+    "level": 2,
+    "setting": "Sunday night, 10pm. You get a LINE voice call from a classmate about the group report due on Tuesday; you can hear a TV in the background on her side.",
+    "ai_role": "小美, a cheerful but stressed classmate who uses lots of 欸, 齁, 對啊 and 真的假的.",
+    "learner_role": "A student in the same group project.",
+    "goals": [
+      "Check on each other's progress on the report",
+      "Divide the remaining work",
+      "End the call naturally"
+    ],
+    "key_phrases": [
+      {
+        "zh": "欸，你現在方便講電話嗎？",
+        "pinyin": "ê, nǐ xiàn zài fāng biàn jiǎng diàn huà ma?",
+        "en": "Hey, is now a good time to talk?",
+        "note": "欸 sounds like 'eh'. Taiwan says 講電話 for talking on the phone."
+      },
+      {
+        "zh": "報告的簡報你做到哪了？",
+        "pinyin": "bào gào de jiǎn bào nǐ zuò dào nǎ le?",
+        "en": "How far have you got with the slides for the report?",
+        "note": "簡報 = slides/presentation (Taiwan)."
+      },
+      {
+        "zh": "我剛剛傳給你了，你看一下。",
+        "pinyin": "wǒ gāng gāng chuán gěi nǐ le, nǐ kàn yí xià.",
+        "en": "I just sent it to you, take a look.",
+        "note": "傳 = send a message or file."
+      },
+      {
+        "zh": "你怎麼已讀不回啦！",
+        "pinyin": "nǐ zěn me yǐ dú bù huí la!",
+        "en": "Why did you read my message and not reply!",
+        "note": "已讀不回 'read, no reply' is a famous LINE complaint."
+      },
+      {
+        "zh": "我們分工一下好了。",
+        "pinyin": "wǒ men fēn gōng yí xià hǎo le.",
+        "en": "Let's divide up the work."
+      },
+      {
+        "zh": "那就先這樣，掰掰。",
+        "pinyin": "nà jiù xiān zhè yàng, bāi bāi.",
+        "en": "OK, that's it for now, bye.",
+        "note": "先這樣 is the standard way to wrap up a call."
+      }
+    ],
+    "native_tips": [
+      "打LINE給你 means to call someone on LINE.",
+      "Calls usually end with a chain: 好～那先這樣～掰掰～掰～.",
+      "Stickers (貼圖) are used as replies in chats; a sticker alone can mean OK."
+    ],
+    "opening_line": "喂～欸你在幹嘛？你有看到老師在群組說的嗎？"
+  },
+  {
+    "id": "sc-ktv",
+    "title": "A night at KTV",
+    "title_zh": "唱KTV",
+    "level": 2,
+    "setting": "A private KTV room at 錢櫃 at 1am during the cheap late-night slot. A fruit platter and fries sit on the table, lights flash and the next song is already queued.",
+    "ai_role": "阿哲, a friend who hogs the microphone, loves 五月天 and pushes everyone to sing.",
+    "learner_role": "A friend who is a bit shy to sing in Chinese.",
+    "goals": [
+      "Choose and queue a song",
+      "Ask to move a song up, skip one or change the key",
+      "Agree to a duet and ask how long the room is booked"
+    ],
+    "key_phrases": [
+      {
+        "zh": "幫我點一首五月天的〈突然好想你〉。",
+        "pinyin": "bāng wǒ diǎn yì shǒu wǔ yuè tiān de tú rán hǎo xiǎng nǐ.",
+        "en": "Queue Mayday's 'Suddenly Miss You' for me."
+      },
+      {
+        "zh": "這首可以插歌嗎？",
+        "pinyin": "zhè shǒu kě yǐ chā gē ma?",
+        "en": "Can we bump this song to the front?",
+        "note": "插歌 = move a song up the queue."
+      },
+      {
+        "zh": "切掉切掉，這首太難了！",
+        "pinyin": "qiē diào qiē diào, zhè shǒu tài nán le!",
+        "en": "Skip it, skip it, this one is too hard!"
+      },
+      {
+        "zh": "我們一起合唱吧！",
+        "pinyin": "wǒ men yì qǐ hé chàng ba!",
+        "en": "Let's sing it together!"
+      },
+      {
+        "zh": "音太高了，可以降Key嗎？",
+        "pinyin": "yīn tài gāo le, kě yǐ jiàng Key ma?",
+        "en": "It's too high, can we lower the key?"
+      },
+      {
+        "zh": "我們包廂開到幾點？",
+        "pinyin": "wǒ men bāo xiāng kāi dào jǐ diǎn?",
+        "en": "Until what time is our room booked?"
+      }
+    ],
+    "native_tips": [
+      "The big chains are 錢櫃 and 好樂迪; late-night 歡唱 packages are cheapest.",
+      "Classic crowd-pleasers: 五月天, 周杰倫, 蔡依林, and 台語歌 like 〈愛拼才會贏〉 for older crowds.",
+      "Cheering lines: 好聽！再來一首！安可！"
+    ],
+    "opening_line": "換你啦！你要唱什麼？不唱不行喔！"
+  },
+  {
+    "id": "sc-typhoon-day",
+    "title": "Waiting for a typhoon day off",
+    "title_zh": "等颱風假",
+    "level": 2,
+    "setting": "The evening before a typhoon makes landfall. Wind rattles the windows of your apartment, and you and your roommate keep refreshing the news for the 停班停課 announcement.",
+    "ai_role": "阿翔, your roommate, who is overexcited about a possible 颱風假 and keeps reading comments on the mayor's Facebook page.",
+    "learner_role": "A roommate who has work tomorrow.",
+    "goals": [
+      "Find out whether work and school are cancelled",
+      "Plan supplies for the storm",
+      "Talk about safety and complain about the weather"
+    ],
+    "key_phrases": [
+      {
+        "zh": "明天到底有沒有放颱風假？",
+        "pinyin": "míng tiān dào dǐ yǒu méi yǒu fàng tái fēng jià?",
+        "en": "So is there a typhoon day off tomorrow or not?"
+      },
+      {
+        "zh": "台北市宣布停班停課了！",
+        "pinyin": "tái běi shì xuān bù tíng bān tíng kè le!",
+        "en": "Taipei has announced work and school are off!"
+      },
+      {
+        "zh": "我們要不要先去全聯買泡麵跟水？",
+        "pinyin": "wǒ men yào bú yào xiān qù quán lián mǎi pào miàn gēn shuǐ?",
+        "en": "Should we go to PX Mart for instant noodles and water first?"
+      },
+      {
+        "zh": "窗戶要貼膠帶嗎？",
+        "pinyin": "chuāng hù yào tiē jiāo dài ma?",
+        "en": "Should we tape the windows?"
+      },
+      {
+        "zh": "風雨好大，最好不要出門。",
+        "pinyin": "fēng yǔ hǎo dà, zuì hǎo bú yào chū mén.",
+        "en": "The wind and rain are really strong, better not go out."
+      },
+      {
+        "zh": "結果外面根本沒什麼風雨嘛！",
+        "pinyin": "jié guǒ wài miàn gēn běn méi shén me fēng yǔ ma!",
+        "en": "Turns out there's hardly any wind or rain at all!",
+        "note": "Grumbling about a 'wasted' typhoon day (or not getting one) is a Taiwanese tradition."
+      }
+    ],
+    "native_tips": [
+      "Each city or county government decides 停班停課, usually announced in the evening.",
+      "People stock up on instant noodles, and vegetables become expensive after typhoons.",
+      "颱 and 台 are different characters: 颱風 is always written with 颱."
+    ],
+    "opening_line": "欸！颱風好像轉向了，你覺得明天會放假嗎？我一直在刷新聞！"
+  },
+  {
+    "id": "sc-garbage-truck",
+    "title": "Catching the garbage truck",
+    "title_zh": "倒垃圾、追垃圾車",
+    "level": 2,
+    "setting": "7:30pm on a weekday. The melody of 〈少女的祈禱〉 drifts down the street as the garbage truck approaches, and neighbours hurry out holding bags of rubbish and recycling.",
+    "ai_role": "陳太太, your next-door neighbour: helpful, a bit bossy, and very serious about sorting rubbish.",
+    "learner_role": "A newcomer in the building who has never taken out the rubbish in Taiwan.",
+    "goals": [
+      "Find out when and where the truck comes",
+      "Learn how to sort general waste, recycling and food scraps",
+      "Ask what to do if you miss the truck"
+    ],
+    "key_phrases": [
+      {
+        "zh": "垃圾車幾點會來？",
+        "pinyin": "lè sè chē jǐ diǎn huì lái?",
+        "en": "What time does the garbage truck come?",
+        "note": "Taiwan's dictionary reading of 垃圾 is lè sè (ㄌㄜˋ ㄙㄜˋ); lā jī is also widely heard."
+      },
+      {
+        "zh": "這首音樂是〈少女的祈禱〉嗎？",
+        "pinyin": "zhè shǒu yīn yuè shì shào nǚ de qí dǎo ma?",
+        "en": "Is this music 'A Maiden's Prayer'?",
+        "note": "Trucks play 〈少女的祈禱〉 or 〈給愛麗絲〉 (Für Elise)."
+      },
+      {
+        "zh": "寶特瓶要丟哪裡？",
+        "pinyin": "bǎo tè píng yào diū nǎ lǐ?",
+        "en": "Where do PET bottles go?",
+        "note": "寶特瓶 = plastic PET bottle."
+      },
+      {
+        "zh": "廚餘要分生的跟熟的嗎？",
+        "pinyin": "chú yú yào fēn shēng de gēn shóu de ma?",
+        "en": "Do food scraps need to be split into raw and cooked?",
+        "note": "Rules vary by city. 熟 is often read shóu in Taiwan."
+      },
+      {
+        "zh": "一般垃圾一定要用專用垃圾袋嗎？",
+        "pinyin": "yì bān lè sè yí dìng yào yòng zhuān yòng lè sè dài ma?",
+        "en": "Does general rubbish have to go in the official bags?",
+        "note": "Taipei and New Taipei charge through official pay-per-bag bags."
+      },
+      {
+        "zh": "我錯過垃圾車了，怎麼辦？",
+        "pinyin": "wǒ cuò guò lè sè chē le, zěn me bàn?",
+        "en": "I missed the truck, what do I do?"
+      }
+    ],
+    "native_tips": [
+      "Rubbish is handed directly to the truck; there are almost no public bins.",
+      "A recycling truck (資源回收車) follows the garbage truck.",
+      "In Taipei there is no collection on Wednesdays and Sundays.",
+      "追垃圾車 'chasing the garbage truck' is a shared Taiwanese experience."
+    ],
+    "opening_line": "欸，你是新搬來的喔？垃圾車快來了，你的垃圾有分類好嗎？"
+  },
+  {
+    "id": "sc-post-office",
+    "title": "At the post office",
+    "title_zh": "郵局寄包裹",
+    "level": 2,
+    "setting": "A 中華郵政 branch at lunchtime. Two queues: one for postal services (郵務) and one for savings (儲匯). You take a number and wait with a box under your arm.",
+    "ai_role": "A brisk, helpful postal clerk.",
+    "learner_role": "A customer sending a parcel to a friend in 台南 and another to family abroad.",
+    "goals": [
+      "Send a parcel within Taiwan and ask the price",
+      "Compare air and sea mail for an overseas package",
+      "Declare the contents and buy a box"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我要寄一個包裹到台南。",
+        "pinyin": "wǒ yào jì yí ge bāo guǒ dào tái nán.",
+        "en": "I'd like to send a parcel to Tainan."
+      },
+      {
+        "zh": "寄掛號要多少錢？",
+        "pinyin": "jì guà hào yào duō shǎo qián?",
+        "en": "How much for registered mail?",
+        "note": "掛號 means registered mail here, and 'register' at a clinic."
+      },
+      {
+        "zh": "大概幾天會到？",
+        "pinyin": "dà gài jǐ tiān huì dào?",
+        "en": "About how many days will it take?"
+      },
+      {
+        "zh": "寄到美國，航空跟海運差多少？",
+        "pinyin": "jì dào měi guó, háng kōng gēn hǎi yùn chà duō shǎo?",
+        "en": "To the US, what's the difference between air and sea mail?"
+      },
+      {
+        "zh": "裡面是衣服跟書，沒有易碎品。",
+        "pinyin": "lǐ miàn shì yī fú gēn shū, méi yǒu yì suì pǐn.",
+        "en": "It's clothes and books inside, nothing fragile.",
+        "note": "Many Taiwanese say 衣服 with a full second tone: yī fú."
+      },
+      {
+        "zh": "我要買一個紙箱。",
+        "pinyin": "wǒ yào mǎi yí ge zhǐ xiāng.",
+        "en": "I'd like to buy a box."
+      }
+    ],
+    "native_tips": [
+      "The post office is also a bank; many people have a 郵局帳戶.",
+      "Take a 號碼牌 for the right counter type.",
+      "平信 = ordinary mail, 限時 = express, 掛號 = registered."
+    ],
+    "opening_line": "您好，寄東西嗎？寄到哪裡？"
+  },
+  {
+    "id": "sc-hair-salon",
+    "title": "Getting a haircut",
+    "title_zh": "去髮廊剪頭髮",
+    "level": 2,
+    "setting": "A neighbourhood hair salon on a Saturday afternoon. Pop music plays, and an assistant gives you the famous Taiwan-style seated shampoo with a long scalp massage before the cut.",
+    "ai_role": "Kevin, a chatty stylist (設計師) who asks about your job and keeps suggesting a perm or a colour.",
+    "learner_role": "A customer who wants a trim and maybe a new colour.",
+    "goals": [
+      "Describe the cut you want and the length",
+      "Comment on the shampoo massage and ask for adjustments",
+      "Discuss colour or styling and decline upselling politely"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我想剪短一點，大概剪掉三公分。",
+        "pinyin": "wǒ xiǎng jiǎn duǎn yì diǎn, dà gài jiǎn diào sān gōng fēn.",
+        "en": "I'd like it a bit shorter, about 3 cm off."
+      },
+      {
+        "zh": "瀏海不要太短。",
+        "pinyin": "liú hǎi bú yào tài duǎn.",
+        "en": "Don't make the fringe too short."
+      },
+      {
+        "zh": "可以幫我打薄嗎？",
+        "pinyin": "kě yǐ bāng wǒ dǎ báo ma?",
+        "en": "Could you thin it out?"
+      },
+      {
+        "zh": "洗頭的力道可以再大一點。",
+        "pinyin": "xǐ tóu de lì dào kě yǐ zài dà yì diǎn.",
+        "en": "The shampoo massage could be a bit firmer."
+      },
+      {
+        "zh": "我的頭髮很容易亂。",
+        "pinyin": "wǒ de tóu fǎ hěn róng yì luàn.",
+        "en": "My hair gets messy easily.",
+        "note": "Taiwan reads 髮 as fǎ (ㄈㄚˇ); mainland fà."
+      },
+      {
+        "zh": "我想染深咖啡色。",
+        "pinyin": "wǒ xiǎng rǎn shēn kā fēi sè.",
+        "en": "I'd like to dye it dark brown."
+      },
+      {
+        "zh": "幫我抓一下就好。",
+        "pinyin": "bāng wǒ zhuā yí xià jiù hǎo.",
+        "en": "Just style it a bit with wax.",
+        "note": "抓 = style hair with wax or clay."
+      }
+    ],
+    "native_tips": [
+      "Stylists are called 設計師, and the shampoo is often done by an assistant.",
+      "Seated shampoo with massage (洗頭) is a Taiwan speciality; some people go just for that.",
+      "To decline extras politely: 今天先剪就好，下次再說。"
+    ],
+    "opening_line": "嗨，先幫你洗頭喔！水溫可以嗎？今天想怎麼剪？"
+  },
+  {
+    "id": "sc-gym",
+    "title": "Joining a gym",
+    "title_zh": "上健身房",
+    "level": 2,
+    "setting": "A 24-hour chain gym in 板橋 on a weekday evening. Treadmills face a wall of screens, and a trainer with a tablet greets you at the front desk.",
+    "ai_role": "Andy, an enthusiastic personal trainer (教練) who explains memberships and very much wants to sell you a package of 一對一 sessions.",
+    "learner_role": "Someone thinking of joining the gym and doing a trial session.",
+    "goals": [
+      "Ask about membership plans and contracts",
+      "Explain your training goals",
+      "Talk through a short workout and negotiate PT sessions"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我想了解一下會員方案。",
+        "pinyin": "wǒ xiǎng liǎo jiě yí xià huì yuán fāng àn.",
+        "en": "I'd like to learn about the membership plans."
+      },
+      {
+        "zh": "要綁約嗎？月繳多少？",
+        "pinyin": "yào bǎng yuē ma? yuè jiǎo duō shǎo?",
+        "en": "Is there a contract? How much per month?"
+      },
+      {
+        "zh": "我想練核心跟腿。",
+        "pinyin": "wǒ xiǎng liàn hé xīn gēn tuǐ.",
+        "en": "I want to train core and legs."
+      },
+      {
+        "zh": "這個重量會不會太重？",
+        "pinyin": "zhè ge zhòng liàng huì bú huì tài zhòng?",
+        "en": "Is this weight too heavy?"
+      },
+      {
+        "zh": "我休息一下，喘一下。",
+        "pinyin": "wǒ xiū xí yí xià, chuǎn yí xià.",
+        "en": "Let me rest and catch my breath."
+      },
+      {
+        "zh": "一對一教練課一堂多少錢？",
+        "pinyin": "yī duì yī jiào liàn kè yì táng duō shǎo qián?",
+        "en": "How much is one personal training session?"
+      }
+    ],
+    "native_tips": [
+      "重訓 = weight training, 有氧 = cardio.",
+      "Trainers commonly push package deals; 我考慮看看 is a polite way to stall.",
+      "Encouragement you will hear: 加油！再一下！最後兩下！"
+    ],
+    "opening_line": "嗨！第一次來嗎？今天想練哪裡？"
+  },
+  {
+    "id": "sc-pxmart-costco",
+    "title": "Grocery run at 全聯 and Costco",
+    "title_zh": "逛全聯和好市多",
+    "level": 2,
+    "setting": "Sunday afternoon. First a quick stop at the neighbourhood 全聯福利中心, then a drive to the huge Costco (好市多) in 中和, where the car park is full and sample stands draw crowds.",
+    "ai_role": "小琪, your roommate: a bargain hunter who knows every 全聯 promotion and wants to split Costco's giant packs.",
+    "learner_role": "A roommate doing the weekly shopping.",
+    "goals": [
+      "Compare deals and use a member card",
+      "Agree how to split bulk items",
+      "Handle checkout and paying each other back"
+    ],
+    "key_phrases": [
+      {
+        "zh": "全聯今天衛生紙有特價喔！",
+        "pinyin": "quán lián jīn tiān wèi shēng zhǐ yǒu tè jià o!",
+        "en": "Toilet paper is on sale at PX Mart today!"
+      },
+      {
+        "zh": "你有全聯福利卡嗎？可以集點。",
+        "pinyin": "nǐ yǒu quán lián fú lì kǎ ma? kě yǐ jí diǎn.",
+        "en": "Do you have a PX Mart card? You can collect points."
+      },
+      {
+        "zh": "好市多的東西都好大包，我們分一分吧。",
+        "pinyin": "hǎo shì duō de dōng xī dōu hǎo dà bāo, wǒ men fēn yì fēn ba.",
+        "en": "Everything at Costco comes in huge packs, let's split it.",
+        "note": "Many Taiwanese say 東西 with a full first tone on 西."
+      },
+      {
+        "zh": "這邊有試吃，要不要吃吃看？",
+        "pinyin": "zhè biān yǒu shì chī, yào bú yào chī chī kàn?",
+        "en": "There's a free sample here, want to try?"
+      },
+      {
+        "zh": "烤雞買一隻回去好了。",
+        "pinyin": "kǎo jī mǎi yì zhī huí qù hǎo le.",
+        "en": "Let's grab a roast chicken.",
+        "note": "隻 is the measure word for animals (and roast chickens)."
+      },
+      {
+        "zh": "你先付，我等一下轉給你。",
+        "pinyin": "nǐ xiān fù, wǒ děng yí xià zhuǎn gěi nǐ.",
+        "en": "You pay first, I'll transfer you my share later."
+      }
+    ],
+    "native_tips": [
+      "Costco is called 好市多 in Taiwan; 全聯 is the everyday budget supermarket.",
+      "Friends often 揪團 to share Costco bulk packs.",
+      "Bags are not free; bring your own or buy one at checkout."
+    ],
+    "opening_line": "走走走，去好市多！今天週末人一定爆多，我們要速戰速決喔。"
+  },
+  {
+    "id": "sc-hiking-xiangshan",
+    "title": "Hiking 象山 at sunset",
+    "title_zh": "爬象山看夕陽",
+    "level": 2,
+    "setting": "象山步道 at 5pm on a clear autumn day. Steep stone steps climb through the trees, mosquitoes buzz, and a crowd waits at 六巨石 for the sunset behind 台北101.",
+    "ai_role": "小芸, an energetic hiking friend who has done this trail twenty times and is merciless about rest breaks.",
+    "learner_role": "A friend who is less fit and very sweaty.",
+    "goals": [
+      "Complain about the climb and negotiate a rest",
+      "Ask how far is left to the viewpoint",
+      "Take photos and react to the view"
+    ],
+    "key_phrases": [
+      {
+        "zh": "樓梯也太多了吧，我腿好痠。",
+        "pinyin": "lóu tī yě tài duō le ba, wǒ tuǐ hǎo suān.",
+        "en": "That's way too many stairs, my legs are sore."
+      },
+      {
+        "zh": "還要走多久才到觀景台？",
+        "pinyin": "hái yào zǒu duō jiǔ cái dào guān jǐng tái?",
+        "en": "How much further to the viewing platform?"
+      },
+      {
+        "zh": "我們在這邊休息一下好不好？",
+        "pinyin": "wǒ men zài zhè biān xiū xí yí xià hǎo bù hǎo?",
+        "en": "Can we rest here for a bit?"
+      },
+      {
+        "zh": "幫我跟101拍一張！",
+        "pinyin": "bāng wǒ gēn yī líng yī pāi yì zhāng!",
+        "en": "Take a photo of me with 101!"
+      },
+      {
+        "zh": "夕陽好美喔，值得了。",
+        "pinyin": "xì yáng hǎo měi o, zhí dé le.",
+        "en": "The sunset is gorgeous, it was worth it.",
+        "note": "Taiwan reads 夕 as xì (ㄒㄧˋ); mainland xī."
+      },
+      {
+        "zh": "有帶防蚊液嗎？蚊子好多。",
+        "pinyin": "yǒu dài fáng wén yì ma? wén zi hǎo duō.",
+        "en": "Did you bring mosquito repellent? So many mosquitoes.",
+        "note": "Taiwan reads 液 as yì (ㄧˋ); mainland yè."
+      }
+    ],
+    "native_tips": [
+      "Taiwanese often say 爬山 even for short city hikes.",
+      "Common encouragement: 快到了！再撐一下！",
+      "Bring water and repellent; 小黑蚊 bites are notorious in some areas."
+    ],
+    "opening_line": "加油！再爬一下就到了，今天天氣這麼好，夕陽一定超美！"
+  },
+  {
+    "id": "sc-basketball",
+    "title": "A pickup basketball game",
+    "title_zh": "打籃球鬥牛",
+    "level": 2,
+    "setting": "An outdoor court at a junior high school at 5pm. The sun is low, a few groups are shooting around, and one team is a player short.",
+    "ai_role": "小胖, a competitive high-schooler who trash-talks playfully and argues about every foul.",
+    "learner_role": "Someone who wants to join a game.",
+    "goals": [
+      "Ask to join and agree on the rules",
+      "Communicate during play (passing, fouls, scoring)",
+      "Finish the game and arrange to play again"
+    ],
+    "key_phrases": [
+      {
+        "zh": "可以加我一個嗎？",
+        "pinyin": "kě yǐ jiā wǒ yí ge ma?",
+        "en": "Can I join?"
+      },
+      {
+        "zh": "我們來鬥牛，三對三。",
+        "pinyin": "wǒ men lái dòu niú, sān duì sān.",
+        "en": "Let's play a three-on-three half-court game.",
+        "note": "鬥牛 = half-court pickup game."
+      },
+      {
+        "zh": "先攻十一分的贏。",
+        "pinyin": "xiān gōng shí yī fēn de yíng.",
+        "en": "First to eleven wins."
+      },
+      {
+        "zh": "傳給我，我有空檔！",
+        "pinyin": "chuán gěi wǒ, wǒ yǒu kòng dàng!",
+        "en": "Pass it, I'm open!",
+        "note": "Taiwan reads 檔 as dàng (ㄉㄤˋ)."
+      },
+      {
+        "zh": "剛剛那個是犯規吧！",
+        "pinyin": "gāng gāng nà ge shì fàn guī ba!",
+        "en": "That was a foul just now!"
+      },
+      {
+        "zh": "好球！",
+        "pinyin": "hǎo qiú!",
+        "en": "Nice shot!"
+      },
+      {
+        "zh": "打得不錯喔，下次再約。",
+        "pinyin": "dǎ de bú cuò o, xià cì zài yuē.",
+        "en": "Good game, let's play again sometime."
+      }
+    ],
+    "native_tips": [
+      "Basketball is huge in Taiwanese schools; the novel's boys play constantly.",
+      "Trash talk is light and friendly: 你很弱欸！/ 防不住啦！",
+      "約打球 = arrange to play; 揪人 = round people up."
+    ],
+    "opening_line": "欸，你要打嗎？我們剛好缺一個，來鬥牛啊！"
+  },
+  {
+    "id": "sc-apartment-rental",
+    "title": "Viewing an apartment",
+    "title_zh": "看房子、跟房東談租約",
+    "level": 3,
+    "setting": "A fourth-floor walk-up in 公館 on a Sunday afternoon. You found the 套房 on 591; the landlady meets you at the iron gate with a ring of keys.",
+    "ai_role": "房東 王太太: practical, slightly guarded, talks fast about house rules, and wants a reliable long-term tenant.",
+    "learner_role": "A young professional looking for a studio near the MRT.",
+    "goals": [
+      "Ask about rent, deposit and what fees are included",
+      "Ask how electricity is charged and about house rules",
+      "Negotiate lease length and subsidies"
+    ],
+    "key_phrases": [
+      {
+        "zh": "這間套房一個月租金多少？",
+        "pinyin": "zhè jiān tào fáng yí ge yuè zū jīn duō shǎo?",
+        "en": "How much is the rent for this studio per month?",
+        "note": "套房 = room with private bathroom; 雅房 = room with shared bathroom."
+      },
+      {
+        "zh": "押金要幾個月？",
+        "pinyin": "yā jīn yào jǐ ge yuè?",
+        "en": "How many months' deposit?",
+        "note": "Two months is typical."
+      },
+      {
+        "zh": "管理費跟水電費有包含嗎？",
+        "pinyin": "guǎn lǐ fèi gēn shuǐ diàn fèi yǒu bāo hán ma?",
+        "en": "Are the management fee and utilities included?"
+      },
+      {
+        "zh": "電費一度怎麼算？",
+        "pinyin": "diàn fèi yí dù zěn me suàn?",
+        "en": "How is electricity charged per unit?",
+        "note": "度 = kWh. Landlords often charge a fixed rate per 度 via a sub-meter."
+      },
+      {
+        "zh": "可以申請租屋補貼嗎？",
+        "pinyin": "kě yǐ shēn qǐng zū wū bǔ tiē ma?",
+        "en": "Can I apply for the rent subsidy?",
+        "note": "Some landlords refuse because it means declaring rental income."
+      },
+      {
+        "zh": "可以養寵物嗎？",
+        "pinyin": "kě yǐ yǎng chǒng wù ma?",
+        "en": "Are pets allowed?"
+      },
+      {
+        "zh": "最短要租多久？",
+        "pinyin": "zuì duǎn yào zū duō jiǔ?",
+        "en": "What's the minimum lease?"
+      },
+      {
+        "zh": "有對外窗嗎？",
+        "pinyin": "yǒu duì wài chuāng ma?",
+        "en": "Is there a window facing outside?",
+        "note": "Many cheap rooms only have windows onto an airshaft or corridor."
+      }
+    ],
+    "native_tips": [
+      "591 is the main rental website; listings use 套房, 雅房, 整層 and 頂樓加蓋 (rooftop addition, cheap but hot).",
+      "Ask 房東 about 修繕 (repairs): who pays if the water heater breaks?",
+      "Landladies often address you as 你 and expect you to say 王太太 or 王姐."
+    ],
+    "opening_line": "你好，你是來看房子的喔？進來吧，鞋子脫在外面就好。"
+  },
+  {
+    "id": "sc-office-small-talk",
+    "title": "Office small talk at lunch",
+    "title_zh": "辦公室午餐閒聊",
+    "level": 3,
+    "setting": "A Taipei office at 12:10. Colleagues are ordering lunchboxes, someone is organising a group buy of desserts, and the lights will go off at 12:30 for the afternoon nap.",
+    "ai_role": "佳穎, a friendly colleague who organises every 團購 and knows all the office gossip.",
+    "learner_role": "A coworker who joined the company a few months ago.",
+    "goals": [
+      "Join the lunch order and a group buy",
+      "Chat about the weekend and overtime",
+      "Mention upcoming leave"
+    ],
+    "key_phrases": [
+      {
+        "zh": "今天中午要訂便當嗎？",
+        "pinyin": "jīn tiān zhōng wǔ yào dìng biàn dāng ma?",
+        "en": "Are we ordering lunchboxes today?"
+      },
+      {
+        "zh": "我要一個雞腿便當。",
+        "pinyin": "wǒ yào yí ge jī tuǐ biàn dāng.",
+        "en": "A chicken leg lunchbox for me."
+      },
+      {
+        "zh": "你要不要跟團購？這家甜點超好吃。",
+        "pinyin": "nǐ yào bú yào gēn tuán gòu? zhè jiā tián diǎn chāo hǎo chī.",
+        "en": "Want to join the group buy? This dessert place is amazing.",
+        "note": "跟團 or +1 means you're in."
+      },
+      {
+        "zh": "昨天又加班到十點，好累喔。",
+        "pinyin": "zuó tiān yòu jiā bān dào shí diǎn, hǎo lèi o.",
+        "en": "Worked overtime till ten again yesterday, so tired."
+      },
+      {
+        "zh": "你週末有去哪裡玩嗎？",
+        "pinyin": "nǐ zhōu mò yǒu qù nǎ lǐ wán ma?",
+        "en": "Did you go anywhere at the weekend?",
+        "note": "有 + verb for past events is typical Taiwan Mandarin."
+      },
+      {
+        "zh": "我下禮拜要請特休。",
+        "pinyin": "wǒ xià lǐ bài yào qǐng tè xiū.",
+        "en": "I'm taking annual leave next week.",
+        "note": "特休 = paid annual leave; 禮拜 is common for 'week'."
+      }
+    ],
+    "native_tips": [
+      "Many offices switch off the lights for 午休 (12:30-13:30) and people nap at their desks.",
+      "揪 = to rally people: 揪團, 揪吃飯, 有人要揪嗎？",
+      "Greeting colleagues leaving: 辛苦了！ / 先走囉！"
+    ],
+    "opening_line": "欸，你中午要吃什麼？我們要揪團訂便當喔！"
+  },
+  {
+    "id": "sc-weiya",
+    "title": "The company 尾牙 banquet",
+    "title_zh": "公司尾牙",
+    "level": 3,
+    "setting": "A hotel banquet hall in January. Round tables of ten, a stage with a lucky-draw screen, departments performing dances, and the boss walking from table to table toasting.",
+    "ai_role": "林協理, a jovial, slightly tipsy senior manager seated next to you, who keeps toasting and teasing about the lucky draw.",
+    "learner_role": "An employee at your first 尾牙.",
+    "goals": [
+      "Toast your manager with an appropriate phrase",
+      "Chat about the lucky draw and prizes",
+      "Talk about your department's performance and drink politely"
+    ],
+    "key_phrases": [
+      {
+        "zh": "協理，我敬您一杯，謝謝您這一年的照顧。",
+        "pinyin": "xié lǐ, wǒ jìng nín yì bēi, xiè xie nín zhè yì nián de zhào gù.",
+        "en": "Director, a toast to you, thank you for looking after me this year."
+      },
+      {
+        "zh": "祝公司明年業績長紅！",
+        "pinyin": "zhù gōng sī míng nián yè jì cháng hóng!",
+        "en": "Here's to the company's success next year!"
+      },
+      {
+        "zh": "今年的頭獎是什麼？",
+        "pinyin": "jīn nián de tóu jiǎng shì shén me?",
+        "en": "What's the grand prize this year?"
+      },
+      {
+        "zh": "我只抽到參加獎而已。",
+        "pinyin": "wǒ zhǐ chōu dào cān jiā jiǎng ér yǐ.",
+        "en": "I only got the participation prize."
+      },
+      {
+        "zh": "我們部門要表演跳舞，好丟臉喔。",
+        "pinyin": "wǒ men bù mén yào biǎo yǎn tiào wǔ, hǎo diū liǎn o.",
+        "en": "Our department has to perform a dance, so embarrassing."
+      },
+      {
+        "zh": "我不太會喝，我隨意。",
+        "pinyin": "wǒ bú tài huì hē, wǒ suí yì.",
+        "en": "I can't drink much, I'll just sip."
+      }
+    ],
+    "native_tips": [
+      "尾牙 comes from the last 做牙 (offering to 土地公) of the lunar year, on the 16th of the 12th month; companies hold banquets around then.",
+      "Bosses often 加碼 (add extra cash prizes) on the spot.",
+      "Toast seniors with both hands on the glass and your glass slightly lower than theirs."
+    ],
+    "opening_line": "來來來，今年辛苦啦！等一下抽獎，你覺得自己會不會中頭獎？"
+  },
+  {
+    "id": "sc-first-date",
+    "title": "A first date",
+    "title_zh": "第一次約會",
+    "level": 3,
+    "setting": "Saturday afternoon at 華山1914文創園區, then a quiet café nearby. You were introduced by a mutual friend and have been chatting on LINE for two weeks.",
+    "ai_role": "小安, a slightly shy but witty person who opens up once the conversation gets going.",
+    "learner_role": "Someone on a first date who wants to see the other person again.",
+    "goals": [
+      "Greet and apologise for being late",
+      "Ask about interests and share your own",
+      "Suggest a second date and end the evening warmly"
+    ],
+    "key_phrases": [
+      {
+        "zh": "等很久了嗎？不好意思，我捷運坐過站了。",
+        "pinyin": "děng hěn jiǔ le ma? bù hǎo yì si, wǒ jié yùn zuò guò zhàn le.",
+        "en": "Have you been waiting long? Sorry, I missed my MRT stop."
+      },
+      {
+        "zh": "你平常放假都在做什麼？",
+        "pinyin": "nǐ píng cháng fàng jià dōu zài zuò shén me?",
+        "en": "What do you usually do on your days off?"
+      },
+      {
+        "zh": "我覺得跟你聊天很開心。",
+        "pinyin": "wǒ jué de gēn nǐ liáo tiān hěn kāi xīn.",
+        "en": "I really enjoy talking with you."
+      },
+      {
+        "zh": "下次要不要一起去看電影？",
+        "pinyin": "xià cì yào bú yào yì qǐ qù kàn diàn yǐng?",
+        "en": "Want to see a movie together next time?"
+      },
+      {
+        "zh": "這次我請，下次換你。",
+        "pinyin": "zhè cì wǒ qǐng, xià cì huàn nǐ.",
+        "en": "My treat this time, yours next time."
+      },
+      {
+        "zh": "到家跟我說一聲喔。",
+        "pinyin": "dào jiā gēn wǒ shuō yì shēng o.",
+        "en": "Let me know when you get home, OK?",
+        "note": "A very common caring line after a date."
+      }
+    ],
+    "native_tips": [
+      "曖昧 is the 'something going on but not official' stage; dating officially starts after 告白.",
+      "Splitting the bill is common now, but offering to treat with 下次換你 keeps things going.",
+      "Avoid being too direct at first; humour and 欸/啦 soften things."
+    ],
+    "opening_line": "嗨！你到了喔？我也剛到。要不要先找個地方坐？"
+  },
+  {
+    "id": "sc-ama-new-year",
+    "title": "Chatting with 阿嬤 at Lunar New Year",
+    "title_zh": "過年陪阿嬤聊天",
+    "level": 3,
+    "setting": "除夕 (New Year's Eve) at 阿嬤's house in 鹿港, 彰化. The family gathers around the hotpot for 圍爐, the TV new-year special is on, and kids are already counting red envelopes.",
+    "ai_role": "阿嬤, about 80, who speaks Mandarin with a strong Taiwanese accent and slips into Taiwanese (呷飽未、乖孫、歹勢). She is loving, keeps feeding you and asks when you'll get married.",
+    "learner_role": "A grandchild (or a grandchild's partner) visiting for the holiday.",
+    "goals": [
+      "Give New Year greetings and thank 阿嬤 for the 紅包",
+      "Talk about the food and traditions at the table",
+      "Deflect questions about marriage and jobs politely"
+    ],
+    "key_phrases": [
+      {
+        "zh": "阿嬤，新年快樂！祝您身體健康、長命百歲！",
+        "pinyin": "ā mā, xīn nián kuài lè! zhù nín shēn tǐ jiàn kāng, cháng mìng bǎi suì!",
+        "en": "Grandma, happy New Year! Wishing you good health and a long life!",
+        "note": "阿嬤 is a-má in Taiwanese; in Mandarin people say ā mā or ā mà."
+      },
+      {
+        "zh": "阿嬤，您吃飽了沒？",
+        "pinyin": "ā mā, nín chī bǎo le méi?",
+        "en": "Grandma, have you eaten?",
+        "note": "In Taiwanese: 呷飽未？(tsia̍h-pá--buē?), a standard greeting."
+      },
+      {
+        "zh": "歹勢歹勢，我來晚了。",
+        "pinyin": "dǎi shì dǎi shì, wǒ lái wǎn le.",
+        "en": "Sorry, sorry, I'm late.",
+        "note": "歹勢 from Taiwanese pháinn-sè, 'sorry/embarrassed'."
+      },
+      {
+        "zh": "謝謝阿嬤的紅包！",
+        "pinyin": "xiè xie ā mā de hóng bāo!",
+        "en": "Thank you for the red envelope, Grandma!"
+      },
+      {
+        "zh": "長年菜要整根吃，才會長壽。",
+        "pinyin": "cháng nián cài yào zhěng gēn chī, cái huì cháng shòu.",
+        "en": "You eat the longevity greens whole so you'll live long."
+      },
+      {
+        "zh": "我還沒有對象啦，不要急啦。",
+        "pinyin": "wǒ hái méi yǒu duì xiàng la, bú yào jí la.",
+        "en": "I'm not seeing anyone yet, don't rush me."
+      },
+      {
+        "zh": "阿嬤，我幫您夾菜。",
+        "pinyin": "ā mā, wǒ bāng nín jiā cài.",
+        "en": "Grandma, let me serve you some food."
+      }
+    ],
+    "native_tips": [
+      "Elders show love through food; saying 我吃很飽了 several times is normal.",
+      "Learn a few Taiwanese words: 呷飽未, 乖孫, 歹勢, 好食 (hó-tsia̍h).",
+      "Nosy questions (結婚了沒？薪水多少？) are expected at 過年; deflect with humour.",
+      "Never say 4 (四 sounds like 死) or talk about death during the holiday."
+    ],
+    "opening_line": "乖孫，你回來啦！呷飽未？來來來，阿嬤煮了你最愛吃的！"
+  },
+  {
+    "id": "sc-temple-baibai",
+    "title": "Praying at a temple",
+    "title_zh": "去廟裡拜拜",
+    "level": 3,
+    "setting": "龍山寺 in 萬華 on a weekday morning. Incense smoke curls up to the carved roof, worshippers lay out fruit and cookies as offerings, and the clack of 擲筊 blocks echoes on the stone floor.",
+    "ai_role": "A kind temple volunteer (志工阿伯) who explains every ritual step by step and slips into Taiwanese.",
+    "learner_role": "A first-time visitor who wants to pray properly and ask 月老 about love.",
+    "goals": [
+      "Learn the order of worship and how to hold the incense",
+      "Draw a fortune stick and cast moon blocks",
+      "Ask about 月老 and where to give an offering"
+    ],
+    "key_phrases": [
+      {
+        "zh": "請問拜拜的順序是什麼？",
+        "pinyin": "qǐng wèn bài bai de shùn xù shì shén me?",
+        "en": "What is the order for praying here?",
+        "note": "拜拜 (bài bai) = to worship; 掰掰 (bāi bāi) = bye-bye."
+      },
+      {
+        "zh": "要先跟神明說自己的名字跟地址嗎？",
+        "pinyin": "yào xiān gēn shén míng shuō zì jǐ de míng zi gēn dì zhǐ ma?",
+        "en": "Should I first tell the gods my name and address?",
+        "note": "Taiwan reads 址 as zhǐ (ㄓˇ)."
+      },
+      {
+        "zh": "我想求籤，要怎麼做？",
+        "pinyin": "wǒ xiǎng qiú qiān, yào zěn me zuò?",
+        "en": "I'd like to draw a fortune, how do I do it?"
+      },
+      {
+        "zh": "擲筊擲到聖筊才算數嗎？",
+        "pinyin": "zhí jiǎo zhí dào shèng jiǎo cái suàn shù ma?",
+        "en": "Does it only count if I get a 'yes' throw?",
+        "note": "聖筊 (one flat, one round side up) = yes; 笑筊 (both flat up) = the gods laugh, ask again; 陰筊 (both round up) = no."
+      },
+      {
+        "zh": "我想跟月老求姻緣。",
+        "pinyin": "wǒ xiǎng gēn yuè lǎo qiú yīn yuán.",
+        "en": "I'd like to ask the Old Man under the Moon for a good match."
+      },
+      {
+        "zh": "香油錢要放在哪裡？",
+        "pinyin": "xiāng yóu qián yào fàng zài nǎ lǐ?",
+        "en": "Where do I put the offering money?"
+      }
+    ],
+    "native_tips": [
+      "Pray to each deity in the order the temple posts; tell them your name, birthday and address before your wish.",
+      "Many temples have reduced incense use; follow the signs.",
+      "A 籤詩 (fortune poem) can be explained at the 解籤 desk."
+    ],
+    "opening_line": "少年仔，第一次來喔？香先拿好，阿伯跟你講怎麼拜。"
+  },
+  {
+    "id": "sc-bank-account",
+    "title": "Opening a bank account",
+    "title_zh": "銀行開戶",
+    "level": 3,
+    "setting": "A bank branch at 9:30am. You take a number from the machine, the waiting area is quiet, and a teller calls you to window 5.",
+    "ai_role": "A meticulous bank teller (行員) who explains forms and documents carefully and formally.",
+    "learner_role": "A newcomer (or someone starting a new job) who needs a local account for salary.",
+    "goals": [
+      "Open an account and present the right ID",
+      "Ask about a debit card and online banking",
+      "Ask about fees and passbook updates"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你好，我想開一個帳戶。",
+        "pinyin": "nǐ hǎo, wǒ xiǎng kāi yí ge zhàng hù.",
+        "en": "Hello, I'd like to open an account."
+      },
+      {
+        "zh": "需要帶哪些證件？",
+        "pinyin": "xū yào dài nǎ xiē zhèng jiàn?",
+        "en": "Which documents do I need?",
+        "note": "Taiwanese bring 身分證 plus a 第二證件; foreigners bring an ARC (居留證) and passport."
+      },
+      {
+        "zh": "我沒有印章，可以用簽名嗎？",
+        "pinyin": "wǒ méi yǒu yìn zhāng, kě yǐ yòng qiān míng ma?",
+        "en": "I don't have a seal, can I sign instead?",
+        "note": "Many banks still use a 印章 (personal seal) with the passbook."
+      },
+      {
+        "zh": "我想申請金融卡跟網路銀行。",
+        "pinyin": "wǒ xiǎng shēn qǐng jīn róng kǎ gēn wǎng lù yín háng.",
+        "en": "I'd like a debit card and online banking."
+      },
+      {
+        "zh": "跨行轉帳要手續費嗎？",
+        "pinyin": "kuà háng zhuǎn zhàng yào shǒu xù fèi ma?",
+        "en": "Are there fees for transfers to other banks?"
+      },
+      {
+        "zh": "存摺要在哪裡補登？",
+        "pinyin": "cún zhé yào zài nǎ lǐ bǔ dēng?",
+        "en": "Where do I update my passbook?",
+        "note": "補登 = print recent transactions in the passbook."
+      }
+    ],
+    "native_tips": [
+      "Banks call this 辦理開戶; staff use very formal Mandarin (請問您今天要辦理什麼業務？).",
+      "Salary accounts (薪轉戶) often come with free transfers.",
+      "The passbook (存摺) is still widely used alongside apps."
+    ],
+    "opening_line": "您好，請問今天要辦理什麼業務？"
+  },
+  {
+    "id": "sc-return-item",
+    "title": "Returning a faulty item",
+    "title_zh": "退換貨",
+    "level": 3,
+    "setting": "An electronics store in a shopping district on a weekday evening. You bought wireless earphones last week and the left earbud stopped working.",
+    "ai_role": "A polite store clerk who sticks to policy and needs the 發票 and original packaging.",
+    "learner_role": "A customer who wants a refund or exchange.",
+    "goals": [
+      "Explain the problem clearly",
+      "Show proof of purchase and request a return",
+      "Negotiate an exchange or refund method"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你好，我上禮拜買的耳機有問題，想退貨。",
+        "pinyin": "nǐ hǎo, wǒ shàng lǐ bài mǎi de ěr jī yǒu wèn tí, xiǎng tuì huò.",
+        "en": "Hi, the earphones I bought last week are faulty, I'd like to return them."
+      },
+      {
+        "zh": "左耳完全沒有聲音。",
+        "pinyin": "zuǒ ěr wán quán méi yǒu shēng yīn.",
+        "en": "The left side has no sound at all."
+      },
+      {
+        "zh": "我有帶發票跟盒子。",
+        "pinyin": "wǒ yǒu dài fā piào gēn hé zi.",
+        "en": "I brought the receipt and the box.",
+        "note": "發票 = official receipt (also a lottery ticket)."
+      },
+      {
+        "zh": "如果不能退，可以換一個新的嗎？",
+        "pinyin": "rú guǒ bù néng tuì, kě yǐ huàn yí ge xīn de ma?",
+        "en": "If I can't return it, can I exchange it for a new one?"
+      },
+      {
+        "zh": "退款會退到信用卡嗎？",
+        "pinyin": "tuì kuǎn huì tuì dào xìn yòng kǎ ma?",
+        "en": "Will the refund go back to my credit card?"
+      },
+      {
+        "zh": "網購不是有七天鑑賞期嗎？",
+        "pinyin": "wǎng gòu bú shì yǒu qī tiān jiàn shǎng qí ma?",
+        "en": "Don't online purchases have a 7-day return period?",
+        "note": "鑑賞期 is the legal 7-day cooling-off period for online orders. Taiwan reads 期 as qí."
+      }
+    ],
+    "native_tips": [
+      "Keep the 發票; stores rarely process returns without it.",
+      "退貨 = return for refund, 換貨 = exchange.",
+      "Stay polite; Taiwanese service staff respond well to 麻煩你 and 不好意思."
+    ],
+    "opening_line": "您好，請問有什麼需要幫忙的嗎？"
+  },
+  {
+    "id": "sc-delivery-complaint",
+    "title": "Complaining about a food delivery",
+    "title_zh": "外送客訴",
+    "level": 3,
+    "setting": "A rainy weeknight. Your foodpanda order arrived fifty minutes late, the soup spilled all over the bag, and one drink is missing. You open the in-app chat with customer service.",
+    "ai_role": "A scripted but polite customer service agent (客服) who needs order details and photos before offering compensation.",
+    "learner_role": "A hungry, annoyed customer.",
+    "goals": [
+      "Describe exactly what went wrong",
+      "Provide evidence and ask for compensation",
+      "Stay fair to the delivery rider while complaining"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我的訂單少了一杯飲料。",
+        "pinyin": "wǒ de dìng dān shǎo le yì bēi yǐn liào.",
+        "en": "My order is missing a drink."
+      },
+      {
+        "zh": "湯整個灑出來了，袋子都濕了。",
+        "pinyin": "tāng zhěng ge sǎ chū lái le, dài zi dōu shī le.",
+        "en": "The soup spilled everywhere and the bag is soaked."
+      },
+      {
+        "zh": "我等了快一個小時。",
+        "pinyin": "wǒ děng le kuài yí ge xiǎo shí.",
+        "en": "I waited almost an hour."
+      },
+      {
+        "zh": "我可以上傳照片給你們。",
+        "pinyin": "wǒ kě yǐ shàng chuán zhào piàn gěi nǐ men.",
+        "en": "I can upload photos for you."
+      },
+      {
+        "zh": "可以退款還是給折價券？",
+        "pinyin": "kě yǐ tuì kuǎn hái shì gěi zhé jià quàn?",
+        "en": "Can you refund me or give a discount voucher?",
+        "note": "Taiwan reads 券 as quàn."
+      },
+      {
+        "zh": "外送員也很辛苦，我不是要怪他。",
+        "pinyin": "wài sòng yuán yě hěn xīn kǔ, wǒ bú shì yào guài tā.",
+        "en": "The rider works hard too, I'm not blaming him."
+      }
+    ],
+    "native_tips": [
+      "Taiwan says 外送 (not 外賣) and 外送員 or 外送師 for riders.",
+      "Customer service phrasing is very formal: 造成您的不便，深感抱歉。",
+      "Many people leave a 評價 (rating) afterwards; 給一星 = give one star."
+    ],
+    "opening_line": "您好，這裡是客服中心，很抱歉造成您的不便，請問訂單發生了什麼問題呢？"
+  },
+  {
+    "id": "sc-kenting-beach",
+    "title": "A beach trip to 墾丁",
+    "title_zh": "墾丁海邊旅行",
+    "level": 3,
+    "setting": "墾丁 in July. The sun blazes over 南灣, scooters line the beach road, and at night 墾丁大街 fills with food stalls and bars.",
+    "ai_role": "阿德, the owner of your 民宿 (B&B) in 恆春: laid-back, sunburnt, full of tips and warnings about the sun and currents.",
+    "learner_role": "A tourist on a three-day trip with friends.",
+    "goals": [
+      "Ask for activity recommendations (snorkelling, sights)",
+      "Ask about safety and weather",
+      "Arrange transport and check what the B&B includes"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我們想去浮潛，哪裡比較推薦？",
+        "pinyin": "wǒ men xiǎng qù fú qián, nǎ lǐ bǐ jiào tuī jiàn?",
+        "en": "We want to go snorkelling, where do you recommend?"
+      },
+      {
+        "zh": "這邊的浪會不會太大？",
+        "pinyin": "zhè biān de làng huì bú huì tài dà?",
+        "en": "Are the waves too big here?"
+      },
+      {
+        "zh": "防曬一定要擦，太陽超毒。",
+        "pinyin": "fáng shài yí dìng yào cā, tài yáng chāo dú.",
+        "en": "You have to wear sunscreen, the sun is brutal.",
+        "note": "太陽很毒 = the sun is harsh."
+      },
+      {
+        "zh": "晚上墾丁大街好逛嗎？",
+        "pinyin": "wǎn shàng kěn dīng dà jiē hǎo guàng ma?",
+        "en": "Is Kenting Street fun to walk around at night?"
+      },
+      {
+        "zh": "可以幫我們叫車去鵝鑾鼻燈塔嗎？",
+        "pinyin": "kě yǐ bāng wǒ men jiào chē qù é luán bí dēng tǎ ma?",
+        "en": "Could you call us a car to Eluanbi Lighthouse?"
+      },
+      {
+        "zh": "民宿有附早餐嗎？",
+        "pinyin": "mín sù yǒu fù zǎo cān ma?",
+        "en": "Does the B&B include breakfast?"
+      }
+    ],
+    "native_tips": [
+      "民宿 owners are a great source of local tips and often arrange tours.",
+      "Southern Taiwanese speech is more Taiwanese-influenced and relaxed; expect 齁 and 啦 a lot.",
+      "恆春 is also famous from the film 《海角七號》."
+    ],
+    "opening_line": "歡迎來墾丁！外面很熱齁？先喝杯冰的。你們明天想去哪裡玩？"
+  },
+  {
+    "id": "sc-beitou-hot-spring",
+    "title": "A hot spring in 北投",
+    "title_zh": "北投泡溫泉",
+    "level": 3,
+    "setting": "北投 on a cold, drizzly January evening. Steam rises from 地熱谷, the streets smell faintly of sulphur, and your hotel offers both a public bath and private rooms.",
+    "ai_role": "A polite front-desk attendant at a hot spring hotel who explains prices and etiquette.",
+    "learner_role": "A visitor who has never been to a Taiwanese hot spring.",
+    "goals": [
+      "Compare public baths and private rooms",
+      "Ask about prices, time limits and swimwear rules",
+      "Learn bathing etiquette and safety"
+    ],
+    "key_phrases": [
+      {
+        "zh": "請問大眾池跟湯屋差在哪裡？",
+        "pinyin": "qǐng wèn dà zhòng chí gēn tāng wū chà zài nǎ lǐ?",
+        "en": "What's the difference between the public bath and a private room?",
+        "note": "大眾池 = shared bath (often nude, single-sex); 湯屋 = private room rented by the hour."
+      },
+      {
+        "zh": "湯屋一個小時多少錢？",
+        "pinyin": "tāng wū yí ge xiǎo shí duō shǎo qián?",
+        "en": "How much is a private room per hour?"
+      },
+      {
+        "zh": "大眾池要穿泳衣嗎？",
+        "pinyin": "dà zhòng chí yào chuān yǒng yī ma?",
+        "en": "Do I need a swimsuit for the public bath?"
+      },
+      {
+        "zh": "泡之前要先沖澡嗎？",
+        "pinyin": "pào zhī qián yào xiān chōng zǎo ma?",
+        "en": "Do I need to shower before soaking?",
+        "note": "沖澡 = rinse/shower; note 沖, not 衝."
+      },
+      {
+        "zh": "這是什麼泉質？",
+        "pinyin": "zhè shì shén me quán zhí?",
+        "en": "What kind of spring water is this?",
+        "note": "Taiwan reads 質 as zhí (ㄓˊ). 北投 has 白磺泉 and 青磺泉."
+      },
+      {
+        "zh": "泡太久會頭暈，要多喝水。",
+        "pinyin": "pào tài jiǔ huì tóu yūn, yào duō hē shuǐ.",
+        "en": "Soaking too long makes you dizzy, drink plenty of water."
+      }
+    ],
+    "native_tips": [
+      "泡湯 = to soak in a hot spring.",
+      "Rinse first, keep your towel out of the water and tie up long hair.",
+      "Rules on swimwear differ: hotel 大眾池 are usually nude, outdoor public pools require swimwear."
+    ],
+    "opening_line": "歡迎光臨！今天好冷齁，最適合泡湯了。請問要泡大眾池還是湯屋？"
+  },
+  {
+    "id": "sc-xuece-study",
+    "title": "Studying for the 學測 with a classmate",
+    "title_zh": "和同學一起準備學測",
+    "level": 3,
+    "setting": "A 24-hour K書中心 in December, two weeks before the 學測 (university entrance exam). Desks are piled with 參考書 and past papers, and everyone whispers.",
+    "ai_role": "品妤, a diligent classmate who quizzes you, worries about her scores and secretly wants to get into 台大.",
+    "learner_role": "A high-school senior preparing for the exam.",
+    "goals": [
+      "Compare progress on past papers",
+      "Ask for and give help on a question",
+      "Talk about university choices and take a break"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你數學考古題寫到第幾年了？",
+        "pinyin": "nǐ shù xué kǎo gǔ tí xiě dào dì jǐ nián le?",
+        "en": "Which year of the maths past papers are you up to?"
+      },
+      {
+        "zh": "這題我完全看不懂，可以教我嗎？",
+        "pinyin": "zhè tí wǒ wán quán kàn bù dǒng, kě yǐ jiāo wǒ ma?",
+        "en": "I don't understand this question at all, can you teach me?"
+      },
+      {
+        "zh": "我模擬考考得好爛，好崩潰喔。",
+        "pinyin": "wǒ mó nǐ kǎo kǎo de hǎo làn, hǎo bēng kuì o.",
+        "en": "I did terribly in the mock exam, I'm falling apart."
+      },
+      {
+        "zh": "我們來互相考單字吧。",
+        "pinyin": "wǒ men lái hù xiāng kǎo dān zì ba.",
+        "en": "Let's quiz each other on vocab."
+      },
+      {
+        "zh": "你想填哪個科系？",
+        "pinyin": "nǐ xiǎng tián nǎ ge kē xì?",
+        "en": "Which department are you going to put down?",
+        "note": "填志願 = list your university/department choices."
+      },
+      {
+        "zh": "K書K到頭好痛。",
+        "pinyin": "K shū K dào tóu hǎo tòng.",
+        "en": "I've studied so hard my head hurts.",
+        "note": "K書 = cram/study hard, said with the letter K."
+      }
+    ],
+    "native_tips": [
+      "The novel is set in the 1990s, when students sat the 大學聯考 (聯考); today it's the 學測 and 分科測驗.",
+      "崩潰 and 爆炸 are everyday exaggerations for stress.",
+      "Students call cram schools 補習班 and the exam-prep years 高三."
+    ],
+    "opening_line": "欸，你來了喔！我剛剛做了一回模擬考，社會好難，等一下我們對一下答案好不好？"
+  },
+  {
+    "id": "sc-cram-school",
+    "title": "Talking to a cram school teacher",
+    "title_zh": "補習班諮詢",
+    "level": 3,
+    "setting": "A cram school on 南陽街 at 9pm on a Tuesday. Fluorescent lights hum, students eat lunchboxes in the corridor before the next class, and score rankings are posted on the wall.",
+    "ai_role": "張老師, a sharp, encouraging cram-school homeroom teacher (班導) who also wants you to sign up for extra classes.",
+    "learner_role": "A high-school student struggling with physics.",
+    "goals": [
+      "Discuss your recent test results",
+      "Ask about joining a class and the fees",
+      "Talk about stress and make a study plan"
+    ],
+    "key_phrases": [
+      {
+        "zh": "老師，物理的課可以插班嗎？",
+        "pinyin": "lǎo shī, wù lǐ de kè kě yǐ chā bān ma?",
+        "en": "Teacher, can I join the physics class midway?"
+      },
+      {
+        "zh": "這期的學費是多少？",
+        "pinyin": "zhè qí de xué fèi shì duō shǎo?",
+        "en": "How much is the fee for this term?",
+        "note": "Taiwan reads 期 as qí."
+      },
+      {
+        "zh": "我上次小考考得很爛。",
+        "pinyin": "wǒ shàng cì xiǎo kǎo kǎo de hěn làn.",
+        "en": "I did badly in the last quiz."
+      },
+      {
+        "zh": "錄影課可以補看嗎？",
+        "pinyin": "lù yǐng kè kě yǐ bǔ kàn ma?",
+        "en": "Can I watch the recorded class to make up?"
+      },
+      {
+        "zh": "我壓力好大，覺得自己念不完。",
+        "pinyin": "wǒ yā lì hǎo dà, jué de zì jǐ niàn bù wán.",
+        "en": "I'm so stressed, I feel I can't get through it all.",
+        "note": "Taiwan uses 念書 for studying."
+      },
+      {
+        "zh": "謝謝老師，我會再努力的。",
+        "pinyin": "xiè xie lǎo shī, wǒ huì zài nǔ lì de.",
+        "en": "Thank you, I'll keep working hard."
+      }
+    ],
+    "native_tips": [
+      "南陽街 near 台北車站 is famous for its cram schools.",
+      "Cram-school teachers are often 名師 with big personalities and catchphrases.",
+      "Students say 補數學, 補英文 for taking extra classes in a subject."
+    ],
+    "opening_line": "來，坐。上次模擬考的成績出來了，我們聊一下好不好？"
+  },
+  {
+    "id": "sc-dcard-slang",
+    "title": "Learning internet slang from a cousin",
+    "title_zh": "跟表妹學網路用語",
+    "level": 3,
+    "setting": "A café in 西門町 on a Saturday. Your 19-year-old cousin scrolls Dcard, PTT and Threads, reading posts aloud and laughing.",
+    "ai_role": "小宇, your sarcastic Gen-Z cousin, fluent in Taiwanese internet slang, who explains memes only after teasing you first.",
+    "learner_role": "An older cousin who wants to understand what young people are saying online.",
+    "goals": [
+      "Ask what slang terms mean",
+      "Use at least three slang terms in context",
+      "React to an online post like a Taiwanese netizen (鄉民)"
+    ],
+    "key_phrases": [
+      {
+        "zh": "這也太扯了吧！",
+        "pinyin": "zhè yě tài chě le ba!",
+        "en": "That's ridiculous!",
+        "note": "扯 = absurd, unbelievable."
+      },
+      {
+        "zh": "傻眼貓咪。",
+        "pinyin": "shǎ yǎn māo mī.",
+        "en": "I'm speechless (lit. 'stunned kitty').",
+        "note": "A playful extension of 傻眼."
+      },
+      {
+        "zh": "母湯喔！",
+        "pinyin": "mǔ tāng o!",
+        "en": "Don't! / No way!",
+        "note": "From Taiwanese 毋通 (m̄-thang), 'must not'."
+      },
+      {
+        "zh": "他真的很87欸。",
+        "pinyin": "tā zhēn de hěn bā qī ê.",
+        "en": "He's such an idiot.",
+        "note": "87 (bā qī) sounds like 白癡 (bái chī); playful, not too harsh."
+      },
+      {
+        "zh": "我這個月要吃土了。",
+        "pinyin": "wǒ zhè ge yuè yào chī tǔ le.",
+        "en": "I'll be eating dirt this month (I'm broke)."
+      },
+      {
+        "zh": "不要爆雷！",
+        "pinyin": "bú yào bào léi!",
+        "en": "No spoilers!",
+        "note": "爆雷 = spoil the plot; 雷 alone can mean a bad film or a bad teammate."
+      },
+      {
+        "zh": "這就是小確幸啊。",
+        "pinyin": "zhè jiù shì xiǎo què xìng a.",
+        "en": "That's a small but certain happiness.",
+        "note": "小確幸 came from a Japanese phrase by Murakami and is hugely popular in Taiwan."
+      },
+      {
+        "zh": "我可以！",
+        "pinyin": "wǒ kě yǐ!",
+        "en": "I'm totally into that! / I'd go for it!",
+        "note": "Used about crushes, food or anything appealing."
+      }
+    ],
+    "native_tips": [
+      "鄉民 = PTT users (netizens); 推 = upvote, 噓 = downvote.",
+      "魯蛇 (loser) and 溫拿 (winner) are English loans.",
+      "Slang changes fast; the AI should mark which terms feel dated."
+    ],
+    "opening_line": "哈哈哈你看這篇，有人在捷運上吃雞排被罵爆，傻眼貓咪欸！"
+  },
+  {
+    "id": "sc-job-interview",
+    "title": "A job interview",
+    "title_zh": "工作面試",
+    "level": 4,
+    "setting": "A tech company's office in 內湖科學園區. Second-round interview in a glass meeting room; a manager has your 履歷 and 自傳 printed out.",
+    "ai_role": "陳經理, a professional but friendly hiring manager who asks about strengths, motivation and salary expectations.",
+    "learner_role": "A candidate interviewing for a project manager position.",
+    "goals": [
+      "Introduce yourself concisely and professionally",
+      "Explain your strengths and why you want the job",
+      "Ask about the role and state salary expectations"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我在這個領域有三年的工作經驗。",
+        "pinyin": "wǒ zài zhè ge lǐng yù yǒu sān nián de gōng zuò jīng yàn.",
+        "en": "I have three years of experience in this field."
+      },
+      {
+        "zh": "我的優點是學習能力強，抗壓性也不錯。",
+        "pinyin": "wǒ de yōu diǎn shì xué xí néng lì qiáng, kàng yā xìng yě bú cuò.",
+        "en": "My strengths are that I learn fast and handle pressure well.",
+        "note": "抗壓性 (stress tolerance) is a common Taiwan HR term."
+      },
+      {
+        "zh": "我之所以應徵這個職缺，是因為貴公司重視創新。",
+        "pinyin": "wǒ zhī suǒ yǐ yìng zhēng zhè ge zhí quē, shì yīn wèi guì gōng sī zhòng shì chuàng xīn.",
+        "en": "I applied for this opening because your company values innovation.",
+        "note": "職缺 = job opening; 貴公司 = your (esteemed) company."
+      },
+      {
+        "zh": "請問這個職位的主要工作內容是什麼？",
+        "pinyin": "qǐng wèn zhè ge zhí wèi de zhǔ yào gōng zuò nèi róng shì shén me?",
+        "en": "What are the main responsibilities of this position?"
+      },
+      {
+        "zh": "我的期望薪資是月薪六萬左右。",
+        "pinyin": "wǒ de qí wàng xīn zī shì yuè xīn liù wàn zuǒ yòu.",
+        "en": "My expected salary is around 60,000 a month.",
+        "note": "Taiwan reads 期 as qí."
+      },
+      {
+        "zh": "請問試用期多久？",
+        "pinyin": "qǐng wèn shì yòng qí duō jiǔ?",
+        "en": "How long is the probation period?"
+      }
+    ],
+    "native_tips": [
+      "Taiwanese applications often require a 自傳 (short autobiography) along with the 履歷; 104人力銀行 is the main job site.",
+      "Use 您 and 貴公司 throughout.",
+      "Salary is discussed as monthly pay plus how many months of 年終 (year-end bonus)."
+    ],
+    "opening_line": "您好，請坐。今天謝謝您過來，先請您簡單自我介紹一下好嗎？"
+  },
+  {
+    "id": "sc-meet-parents",
+    "title": "Meeting your partner's parents",
+    "title_zh": "見另一半的爸媽",
+    "level": 4,
+    "setting": "Sunday lunch at your partner's family home in 台中. The table is crowded with dishes, the TV is on mute, and the parents, in their sixties, are clearly a little nervous too.",
+    "ai_role": "林媽媽, your partner's mother: warm but curious, asks about your job, family and plans, and keeps putting food in your bowl.",
+    "learner_role": "Someone meeting a partner's parents for the first time.",
+    "goals": [
+      "Greet the parents properly and present a gift",
+      "Answer questions about your work and background",
+      "Compliment the food and thank them on leaving"
+    ],
+    "key_phrases": [
+      {
+        "zh": "伯父、伯母好，這是一點小心意。",
+        "pinyin": "bó fù, bó mǔ hǎo, zhè shì yì diǎn xiǎo xīn yì.",
+        "en": "Hello, uncle and auntie, this is a small gift.",
+        "note": "Address a partner's parents as 伯父/伯母 or 叔叔/阿姨. Bring a 伴手禮 such as fruit or 鳳梨酥."
+      },
+      {
+        "zh": "不用麻煩了，我自己來就好。",
+        "pinyin": "bú yòng má fán le, wǒ zì jǐ lái jiù hǎo.",
+        "en": "Please don't trouble yourself, I'll help myself."
+      },
+      {
+        "zh": "伯母，這道菜好好吃，是怎麼做的？",
+        "pinyin": "bó mǔ, zhè dào cài hǎo hǎo chī, shì zěn me zuò de?",
+        "en": "Auntie, this dish is delicious, how do you make it?"
+      },
+      {
+        "zh": "我現在在一家科技公司上班。",
+        "pinyin": "wǒ xiàn zài zài yì jiā kē jì gōng sī shàng bān.",
+        "en": "I currently work at a tech company."
+      },
+      {
+        "zh": "我吃很飽了，謝謝。",
+        "pinyin": "wǒ chī hěn bǎo le, xiè xie.",
+        "en": "I'm very full, thank you.",
+        "note": "Expect to say this several times."
+      },
+      {
+        "zh": "謝謝招待，下次換我們請您吃飯。",
+        "pinyin": "xiè xie zhāo dài, xià cì huàn wǒ men qǐng nín chī fàn.",
+        "en": "Thank you for having me; next time we'll treat you."
+      }
+    ],
+    "native_tips": [
+      "Modesty is valued: deflect compliments with 哪裡哪裡 or 還好啦.",
+      "Offer to help clear the table or wash dishes even if they refuse.",
+      "Questions about salary, family and marriage plans are normal; answer warmly and briefly."
+    ],
+    "opening_line": "哎呀，你就是小婷常常說的那個朋友喔？快進來坐，路上塞不塞車？"
+  },
+  {
+    "id": "sc-election-talk",
+    "title": "Small talk about an election",
+    "title_zh": "聊選舉",
+    "level": 4,
+    "setting": "Lunch with coworkers a week before local elections. Campaign trucks blast slogans outside, candidate posters cover every overpass, and the TV in the restaurant shows political talk shows.",
+    "ai_role": "志明, an opinionated but polite coworker. The AI stays balanced and does not endorse any party.",
+    "learner_role": "A coworker curious about how Taiwanese elections work.",
+    "goals": [
+      "Ask whether people are going home to vote and why",
+      "Discuss which issues matter to people",
+      "Keep the conversation respectful and neutral"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你這次會回去投票嗎？",
+        "pinyin": "nǐ zhè cì huì huí qù tóu piào ma?",
+        "en": "Are you going home to vote this time?",
+        "note": "You must vote where your household is registered (戶籍地), so many people travel home."
+      },
+      {
+        "zh": "我戶籍在高雄，要坐高鐵回去投。",
+        "pinyin": "wǒ hù jí zài gāo xióng, yào zuò gāo tiě huí qù tóu.",
+        "en": "My household registration is in Kaohsiung, so I'll take the HSR back to vote."
+      },
+      {
+        "zh": "你比較在意哪些政見？",
+        "pinyin": "nǐ bǐ jiào zài yì nǎ xiē zhèng jiàn?",
+        "en": "Which policy proposals matter most to you?"
+      },
+      {
+        "zh": "宣傳車每天早上都好吵喔。",
+        "pinyin": "xuān chuán chē měi tiān zǎo shàng dōu hǎo chǎo o.",
+        "en": "The campaign trucks are so noisy every morning."
+      },
+      {
+        "zh": "投票是個人的自由，我們互相尊重就好。",
+        "pinyin": "tóu piào shì gè rén de zì yóu, wǒ men hù xiāng zūn zhòng jiù hǎo.",
+        "en": "Voting is a personal choice; let's just respect each other."
+      },
+      {
+        "zh": "凍蒜！",
+        "pinyin": "dòng suàn!",
+        "en": "Get elected! (rally chant)",
+        "note": "凍蒜 imitates Taiwanese 當選 (tòng-suán)."
+      }
+    ],
+    "native_tips": [
+      "Party colours: 藍 (KMT), 綠 (DPP), 白 (TPP). People may ask 你是藍的還是綠的？; a vague answer is fine.",
+      "Election day has no campaigning, and results come in fast the same evening.",
+      "Politics can be sensitive at work and with family; many people avoid the topic."
+    ],
+    "opening_line": "欸，下禮拜就要投票了，你會回家投嗎？"
+  },
+  {
+    "id": "sc-hs-reunion",
+    "title": "A high-school reunion",
+    "title_zh": "高中同學會",
+    "level": 4,
+    "setting": "A restaurant in 彰化, ten years after graduation. Old class photos play on a screen, the 班導 has been invited, and everyone is guessing who married whom. It feels like the world of 《那些年》.",
+    "ai_role": "志豪, your former deskmate: now an engineer, a bit heavier, loves teasing everyone about old crushes and embarrassing stories.",
+    "learner_role": "A former classmate who hasn't been back in years.",
+    "goals": [
+      "Greet old friends and catch up on their lives",
+      "Reminisce about teachers, exams and crushes",
+      "Make a toast to your youth"
+    ],
+    "key_phrases": [
+      {
+        "zh": "好久不見！你都沒什麼變耶！",
+        "pinyin": "hǎo jiǔ bú jiàn! nǐ dōu méi shén me biàn ye!",
+        "en": "Long time no see! You haven't changed at all!"
+      },
+      {
+        "zh": "你還記得我們班導嗎？",
+        "pinyin": "nǐ hái jì de wǒ men bān dǎo ma?",
+        "en": "Do you remember our homeroom teacher?",
+        "note": "班導 (班導師) = homeroom teacher; mainland 班主任."
+      },
+      {
+        "zh": "那時候大家都暗戀我們班的班花。",
+        "pinyin": "nà shí hòu dà jiā dōu àn liàn wǒ men bān de bān huā.",
+        "en": "Back then everyone had a crush on the prettiest girl in our class.",
+        "note": "Many Taiwanese say 時候 with a full fourth tone: shí hòu."
+      },
+      {
+        "zh": "早知道當年就跟她告白了。",
+        "pinyin": "zǎo zhī dào dāng nián jiù gēn tā gào bái le.",
+        "en": "If I'd known, I would have confessed to her back then."
+      },
+      {
+        "zh": "你現在在哪裡高就？",
+        "pinyin": "nǐ xiàn zài zài nǎ lǐ gāo jiù?",
+        "en": "Where are you working these days?",
+        "note": "高就 is a polite (often joking) way to ask about someone's job."
+      },
+      {
+        "zh": "來，敬我們的青春！",
+        "pinyin": "lái, jìng wǒ men de qīng chūn!",
+        "en": "Here's to our youth!"
+      }
+    ],
+    "native_tips": [
+      "Reunions are full of teasing; laugh along and tease back.",
+      "Expect questions like 結婚了沒？有小孩了嗎？",
+      "Mild expletives like 哇靠 are common among old classmates; the novel uses them constantly."
+    ],
+    "opening_line": "哇靠，真的是你喔！十年沒見了耶，你現在住哪？還記得高三坐你後面的我嗎？"
+  },
+  {
+    "id": "sc-breakup",
+    "title": "A breakup conversation",
+    "title_zh": "分手談話",
+    "level": 4,
+    "setting": "A quiet café near 師大 on a rainy weeknight. You and your partner of two years sit opposite each other, drinks untouched.",
+    "ai_role": "子晴, your partner: calm but sad, wants honest answers and to end things kindly.",
+    "learner_role": "A partner who also feels the relationship isn't working.",
+    "goals": [
+      "Express your feelings honestly and gently",
+      "Explain why the relationship isn't working without blaming",
+      "Discuss what happens next and end respectfully"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我們好好談一談，好嗎？",
+        "pinyin": "wǒ men hǎo hǎo tán yì tán, hǎo ma?",
+        "en": "Let's talk this through properly, OK?"
+      },
+      {
+        "zh": "最近我們好像一直在吵架。",
+        "pinyin": "zuì jìn wǒ men hǎo xiàng yì zhí zài chǎo jià.",
+        "en": "Lately it feels like we argue all the time."
+      },
+      {
+        "zh": "不是你的問題，是我們真的不適合。",
+        "pinyin": "bú shì nǐ de wèn tí, shì wǒ men zhēn de bú shì hé.",
+        "en": "It's not your fault, we're just not right for each other."
+      },
+      {
+        "zh": "我需要一點時間冷靜一下。",
+        "pinyin": "wǒ xū yào yì diǎn shí jiān lěng jìng yí xià.",
+        "en": "I need some time to calm down."
+      },
+      {
+        "zh": "謝謝你這兩年的陪伴。",
+        "pinyin": "xiè xie nǐ zhè liǎng nián de péi bàn.",
+        "en": "Thank you for being with me these two years."
+      },
+      {
+        "zh": "我們還能當朋友嗎？",
+        "pinyin": "wǒ men hái néng dāng péng yǒu ma?",
+        "en": "Can we still be friends?"
+      }
+    ],
+    "native_tips": [
+      "好聚好散 (part on good terms) is the ideal people aim for.",
+      "Taiwanese often avoid blunt statements; softeners like 好像, 可能, 是不是 are common.",
+      "Breaking up over LINE is considered cold; doing it face to face is more respectful."
+    ],
+    "opening_line": "你來了。我想了很久……我們是不是應該好好談一下了？"
+  },
+  {
+    "id": "sc-consoling-friend",
+    "title": "Consoling a friend",
+    "title_zh": "安慰朋友",
+    "level": 4,
+    "setting": "Late night on a riverside path in 新店. Your close friend texted 「出來走走？」 an hour ago; he has just been laid off and is pretending to be fine.",
+    "ai_role": "小傑, a close friend who just lost his job, jokes to hide how upset he is, and slowly opens up.",
+    "learner_role": "A supportive friend.",
+    "goals": [
+      "Notice and acknowledge your friend's feelings",
+      "Listen and offer comfort without lecturing",
+      "Offer concrete help"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你還好嗎？想聊聊嗎？",
+        "pinyin": "nǐ hái hǎo ma? xiǎng liáo liáo ma?",
+        "en": "Are you OK? Want to talk?"
+      },
+      {
+        "zh": "這不是你的錯，不要太自責。",
+        "pinyin": "zhè bú shì nǐ de cuò, bú yào tài zì zé.",
+        "en": "This isn't your fault, don't blame yourself too much."
+      },
+      {
+        "zh": "想哭就哭吧，我陪你。",
+        "pinyin": "xiǎng kū jiù kū ba, wǒ péi nǐ.",
+        "en": "Cry if you want to, I'm here."
+      },
+      {
+        "zh": "有什麼需要幫忙的，隨時跟我說。",
+        "pinyin": "yǒu shén me xū yào bāng máng de, suí shí gēn wǒ shuō.",
+        "en": "If you need anything, tell me anytime."
+      },
+      {
+        "zh": "先好好休息，工作再找就有。",
+        "pinyin": "xiān hǎo hǎo xiū xí, gōng zuò zài zhǎo jiù yǒu.",
+        "en": "Rest properly first; you'll find another job."
+      },
+      {
+        "zh": "走，我請你吃宵夜。",
+        "pinyin": "zǒu, wǒ qǐng nǐ chī xiāo yè.",
+        "en": "Come on, late-night snack on me.",
+        "note": "Treating someone to 宵夜 is a classic way of showing care."
+      }
+    ],
+    "native_tips": [
+      "加油 is used for encouragement everywhere, but in grief it can sound shallow; 我陪你 is warmer.",
+      "Taiwanese friends often show support through food and company rather than long speeches.",
+      "資遣 = laid off with severance (a Taiwan legal term)."
+    ],
+    "opening_line": "沒事啦，我很好啊……只是今天被公司資遣了而已。哈。"
+  },
+  {
+    "id": "sc-work-presentation",
+    "title": "Giving a short presentation at work",
+    "title_zh": "職場簡報",
+    "level": 4,
+    "setting": "Monday 10am weekly meeting (週會) in a conference room. The projector is on, your slides are ready, and three managers are looking at their laptops.",
+    "ai_role": "黃副理, your attentive manager, who interrupts with tough follow-up questions about numbers.",
+    "learner_role": "An employee presenting quarterly results.",
+    "goals": [
+      "Open the presentation formally",
+      "Present data and explain causes",
+      "Handle a question you cannot answer on the spot"
+    ],
+    "key_phrases": [
+      {
+        "zh": "各位主管、同事早安，今天由我來報告第三季的成果。",
+        "pinyin": "gè wèi zhǔ guǎn, tóng shì zǎo ān, jīn tiān yóu wǒ lái bào gào dì sān jì de chéng guǒ.",
+        "en": "Good morning, managers and colleagues. Today I'll report on our Q3 results."
+      },
+      {
+        "zh": "請大家看一下這張圖表。",
+        "pinyin": "qǐng dà jiā kàn yí xià zhè zhāng tú biǎo.",
+        "en": "Please take a look at this chart."
+      },
+      {
+        "zh": "跟上一季相比，營收成長了百分之十二。",
+        "pinyin": "gēn shàng yí jì xiāng bǐ, yíng shōu chéng zhǎng le bǎi fēn zhī shí èr.",
+        "en": "Compared with last quarter, revenue grew 12%.",
+        "note": "營收 = revenue."
+      },
+      {
+        "zh": "主要原因有三點：第一……",
+        "pinyin": "zhǔ yào yuán yīn yǒu sān diǎn: dì yī……",
+        "en": "There are three main reasons. First…"
+      },
+      {
+        "zh": "這部分我會後再確認，再回覆您。",
+        "pinyin": "zhè bù fèn wǒ huì hòu zài què rèn, zài huí fù nín.",
+        "en": "I'll check that after the meeting and get back to you.",
+        "note": "回覆 = reply (Taiwan usage)."
+      },
+      {
+        "zh": "以上是我的報告，請問大家有沒有什麼問題？",
+        "pinyin": "yǐ shàng shì wǒ de bào gào, qǐng wèn dà jiā yǒu méi yǒu shén me wèn tí?",
+        "en": "That's my report. Are there any questions?"
+      }
+    ],
+    "native_tips": [
+      "簡報 = slides/presentation; 報告 = to report.",
+      "Taiwanese offices mix English terms freely: KPI, deadline, meeting, case.",
+      "Promising to 會後確認 is better than guessing an answer."
+    ],
+    "opening_line": "好，時間差不多了，接下來請你報告這一季的進度。"
+  },
+  {
+    "id": "sc-food-podcast",
+    "title": "A podcast chat about Taiwanese food culture",
+    "title_zh": "Podcast聊台灣飲食文化",
+    "level": 4,
+    "setting": "A small podcast studio in 台北 with foam on the walls and two microphones. The episode topic is the north-south divide in Taiwanese food.",
+    "ai_role": "阿Ben, a witty foodie host from 台南 who fiercely defends southern sweetness and loves provoking guests.",
+    "learner_role": "A guest who has eaten their way around Taiwan.",
+    "goals": [
+      "Describe your favourite Taiwanese foods vividly",
+      "Discuss north-south differences with examples",
+      "Give an opinion on what food means in Taiwanese culture"
+    ],
+    "key_phrases": [
+      {
+        "zh": "北部的滷肉飯，在南部通常叫肉燥飯。",
+        "pinyin": "běi bù de lǔ ròu fàn, zài nán bù tōng cháng jiào ròu zào fàn.",
+        "en": "What the north calls 滷肉飯 is usually called 肉燥飯 in the south."
+      },
+      {
+        "zh": "台南的東西真的比較甜嗎？",
+        "pinyin": "tái nán de dōng xī zhēn de bǐ jiào tián ma?",
+        "en": "Is food in Tainan really sweeter?"
+      },
+      {
+        "zh": "南部粽是用水煮的，北部粽是用蒸的。",
+        "pinyin": "nán bù zòng shì yòng shuǐ zhǔ de, běi bù zòng shì yòng zhēng de.",
+        "en": "Southern zongzi are boiled, northern ones are steamed."
+      },
+      {
+        "zh": "這就是所謂的古早味。",
+        "pinyin": "zhè jiù shì suǒ wèi de gǔ zǎo wèi.",
+        "en": "This is what they call 'old-time flavour'.",
+        "note": "古早 from Taiwanese kóo-tsá, 'olden days'."
+      },
+      {
+        "zh": "對我來說，小吃代表的是一種記憶。",
+        "pinyin": "duì wǒ lái shuō, xiǎo chī dài biǎo de shì yì zhǒng jì yì.",
+        "en": "For me, street food represents a kind of memory."
+      },
+      {
+        "zh": "珍珠奶茶到底是誰發明的，到現在還有爭議。",
+        "pinyin": "zhēn zhū nǎi chá dào dǐ shì shéi fā míng de, dào xiàn zài hái yǒu zhēng yì.",
+        "en": "Who actually invented bubble tea is still disputed.",
+        "note": "Taiwan commonly says shéi for 誰."
+      }
+    ],
+    "native_tips": [
+      "QQ / Q彈 describes chewy texture and is a key Taiwanese food word.",
+      "南北之爭 (north-south rivalry) over food is a favourite light-hearted debate.",
+      "Podcast chat is casual: 對啊, 真的, 然後, 就是說 fill pauses."
+    ],
+    "opening_line": "哈囉大家好，歡迎收聽本集節目！今天我們請到一位外國朋友來聊台灣小吃。先問你，你吃過最「台」的東西是什麼？"
+  },
+  {
+    "id": "sc-nxn-movie-book",
+    "title": "Discussing 那些年: book versus film",
+    "title_zh": "聊《那些年》的小說與電影",
+    "level": 4,
+    "setting": "A bookstore café on a Sunday evening after a book-club rewatch of the 2011 film 《那些年，我們一起追的女孩》. Copies of 九把刀's novel lie on the table, full of sticky notes.",
+    "ai_role": "欣怡, a book-club member who grew up in 彰化, is a big 九把刀 fan and has strong opinions about the book versus the film.",
+    "learner_role": "A reader who has just finished (or is still reading) the novel.",
+    "goals": [
+      "Compare the novel and the film",
+      "Discuss the characters and the ending",
+      "Relate the story to your own school days"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我覺得小說比電影更細膩。",
+        "pinyin": "wǒ jué de xiǎo shuō bǐ diàn yǐng gèng xì nì.",
+        "en": "I think the novel is more nuanced than the film."
+      },
+      {
+        "zh": "柯景騰那種幼稚又真誠的個性，很像我高中的同學。",
+        "pinyin": "kē jǐng téng nà zhǒng yòu zhì yòu zhēn chéng de gè xìng, hěn xiàng wǒ gāo zhōng de tóng xué.",
+        "en": "柯景騰's childish yet sincere personality is just like my high-school classmates.",
+        "note": "柯景騰 is the narrator and 九把刀's real name."
+      },
+      {
+        "zh": "沈佳宜代表的是每個人心中那個「好學生」。",
+        "pinyin": "shěn jiā yí dài biǎo de shì měi ge rén xīn zhōng nà ge hǎo xué shēng.",
+        "en": "沈佳宜 represents the 'good student' everyone remembers."
+      },
+      {
+        "zh": "書裡的口語很道地，有很多台灣用語跟髒話。",
+        "pinyin": "shū lǐ de kǒu yǔ hěn dào dì, yǒu hěn duō tái wān yòng yǔ gēn zāng huà.",
+        "en": "The dialogue in the book is very authentic, full of Taiwanese expressions and swearing."
+      },
+      {
+        "zh": "結局讓我很遺憾，但也很真實。",
+        "pinyin": "jié jú ràng wǒ hěn yí hàn, dàn yě hěn zhēn shí.",
+        "en": "The ending left me with regret, but it feels real."
+      },
+      {
+        "zh": "如果是你，你會跟她告白嗎？",
+        "pinyin": "rú guǒ shì nǐ, nǐ huì gēn tā gào bái ma?",
+        "en": "If it were you, would you have confessed to her?"
+      }
+    ],
+    "native_tips": [
+      "The film's English title is 'You Are the Apple of My Eye', and its theme song 〈那些年〉 by 胡夏 was a huge hit.",
+      "The story is set at 精誠中學 in 彰化, 九把刀's own school.",
+      "Fans often discuss 遺憾 (regret) and 青春 (youth) as the story's core themes; avoid spoilers for people still reading."
+    ],
+    "opening_line": "你也看完了嗎？我每次看到最後婚禮那段都會哭欸！你覺得書跟電影哪個比較好？"
+  },
+  {
+    "id": "sc-social-debate",
+    "title": "Debating a social issue",
+    "title_zh": "社會議題辯論",
+    "level": 5,
+    "setting": "A university general-education seminar room. Today's structured debate is on housing prices and 居住正義; a timer is on the screen and classmates are taking notes.",
+    "ai_role": "林同學, a sharp debater assigned to the opposing side, who demands evidence and pounces on weak logic.",
+    "learner_role": "A debater arguing that the government should act more strongly on housing.",
+    "goals": [
+      "State a clear position with supporting reasons",
+      "Rebut the opponent's argument politely but firmly",
+      "Acknowledge complexity and conclude"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我的立場是政府應該更積極地打房。",
+        "pinyin": "wǒ de lì chǎng shì zhèng fǔ yīng gāi gèng jī jí de dǎ fáng.",
+        "en": "My position is that the government should curb housing speculation more actively.",
+        "note": "打房 = government measures to cool the housing market (Taiwan term)."
+      },
+      {
+        "zh": "根據統計，台北的房價所得比是全台最高的。",
+        "pinyin": "gēn jù tǒng jì, tái běi de fáng jià suǒ dé bǐ shì quán tái zuì gāo de.",
+        "en": "According to statistics, Taipei's house-price-to-income ratio is the highest in Taiwan."
+      },
+      {
+        "zh": "我不同意你的看法，因為你忽略了租屋族的處境。",
+        "pinyin": "wǒ bù tóng yì nǐ de kàn fǎ, yīn wèi nǐ hū lüè le zū wū zú de chǔ jìng.",
+        "en": "I disagree, because you ignore the situation of renters."
+      },
+      {
+        "zh": "換個角度來看，這也是世代正義的問題。",
+        "pinyin": "huàn ge jiǎo dù lái kàn, zhè yě shì shì dài zhèng yì de wèn tí.",
+        "en": "From another angle, this is also an issue of intergenerational justice."
+      },
+      {
+        "zh": "你這個論點有邏輯上的漏洞。",
+        "pinyin": "nǐ zhè ge lùn diǎn yǒu luó jí shàng de lòu dòng.",
+        "en": "Your argument has a logical gap."
+      },
+      {
+        "zh": "這是一個兩難的問題，沒有標準答案。",
+        "pinyin": "zhè shì yí ge liǎng nán de wèn tí, méi yǒu biāo zhǔn dá àn.",
+        "en": "This is a dilemma; there's no single right answer."
+      },
+      {
+        "zh": "綜上所述，我認為……",
+        "pinyin": "zòng shàng suǒ shù, wǒ rèn wéi……",
+        "en": "In summary, I believe…",
+        "note": "Taiwan reads 綜 as zòng (ㄗㄨㄥˋ); mainland zōng."
+      }
+    ],
+    "native_tips": [
+      "Other live Taiwan debate topics: 少子化, 低薪, 核能, 死刑, 長照; the AI can swap topics.",
+      "Formal debate uses 對方辯友 for 'my opponent'.",
+      "Even heated debates keep polite markers like 我尊重你的看法，但是……"
+    ],
+    "opening_line": "好，今天的辯題是「政府應該用更強硬的手段打房」。我站反方，請你先陳述你的立場。"
+  },
+  {
+    "id": "sc-salary-negotiation",
+    "title": "Negotiating salary",
+    "title_zh": "談薪水",
+    "level": 5,
+    "setting": "An HR meeting room at a semiconductor-related company in 新竹科學園區. You have just received an offer, and HR has asked you to come in to discuss terms.",
+    "ai_role": "Grace, an HR manager: professional, budget-conscious, fluent in HR jargon (月薪, 年薪, 保障, 分紅, 職等).",
+    "learner_role": "A candidate negotiating a better package.",
+    "goals": [
+      "Thank the company and signal interest",
+      "Justify a higher salary with market data and experience",
+      "Negotiate bonuses or other terms and ask for time to decide"
+    ],
+    "key_phrases": [
+      {
+        "zh": "謝謝貴公司的錄取，我很期待加入。",
+        "pinyin": "xiè xie guì gōng sī de lù qǔ, wǒ hěn qí dài jiā rù.",
+        "en": "Thank you for the offer, I'm looking forward to joining."
+      },
+      {
+        "zh": "關於薪資的部分，我想再跟您討論一下。",
+        "pinyin": "guān yú xīn zī de bù fèn, wǒ xiǎng zài gēn nín tǎo lùn yí xià.",
+        "en": "Regarding salary, I'd like to discuss it a bit more."
+      },
+      {
+        "zh": "根據我的經驗跟市場行情，我希望年薪能到一百二十萬。",
+        "pinyin": "gēn jù wǒ de jīng yàn gēn shì chǎng háng qíng, wǒ xī wàng nián xīn néng dào yì bǎi èr shí wàn.",
+        "en": "Based on my experience and the market rate, I'd hope for an annual salary of 1.2 million."
+      },
+      {
+        "zh": "請問年終跟員工分紅大概是幾個月？",
+        "pinyin": "qǐng wèn nián zhōng gēn yuán gōng fēn hóng dà gài shì jǐ ge yuè?",
+        "en": "Roughly how many months are the year-end bonus and profit sharing?"
+      },
+      {
+        "zh": "如果底薪沒辦法調整，那簽約獎金有沒有空間？",
+        "pinyin": "rú guǒ dǐ xīn méi bàn fǎ tiáo zhěng, nà qiān yuē jiǎng jīn yǒu méi yǒu kōng jiān?",
+        "en": "If the base salary can't change, is there room on a signing bonus?"
+      },
+      {
+        "zh": "我需要一點時間考慮，可以週五前回覆您嗎？",
+        "pinyin": "wǒ xū yào yì diǎn shí jiān kǎo lǜ, kě yǐ zhōu wǔ qián huí fù nín ma?",
+        "en": "I need some time to consider; may I reply by Friday?"
+      }
+    ],
+    "native_tips": [
+      "Packages are described as 月薪 × months, e.g. 年薪保障14個月.",
+      "Tech companies in 竹科 often have large 分紅 (profit-sharing) components.",
+      "Indirect phrasing (是否有空間、能不能再討論) is more effective than blunt demands."
+    ],
+    "opening_line": "您好，恭喜您通過面試。我們這邊開給您的條件是月薪七萬，年終保障兩個月，不知道您覺得如何？"
+  },
+  {
+    "id": "sc-news-discussion",
+    "title": "Discussing the news",
+    "title_zh": "討論時事新聞",
+    "level": 5,
+    "setting": "Sunday brunch at an 早午餐 café. Your friend slides his phone across the table: a headline about labour shortages and Taiwan's record-low birth rate.",
+    "ai_role": "博文, a journalist friend at a newspaper: analytical, sceptical, plays devil's advocate and uses news vocabulary.",
+    "learner_role": "A friend who follows Taiwanese news.",
+    "goals": [
+      "Summarise a news story in your own words",
+      "Analyse causes and evaluate policies",
+      "Discuss media bias and sources"
+    ],
+    "key_phrases": [
+      {
+        "zh": "你有看到今天的頭條嗎？",
+        "pinyin": "nǐ yǒu kàn dào jīn tiān de tóu tiáo ma?",
+        "en": "Did you see today's headline?"
+      },
+      {
+        "zh": "台灣的生育率是全世界最低的國家之一。",
+        "pinyin": "tái wān de shēng yù lǜ shì quán shì jiè zuì dī de guó jiā zhī yī.",
+        "en": "Taiwan's birth rate is among the lowest in the world."
+      },
+      {
+        "zh": "問題的根源在於低薪跟高房價。",
+        "pinyin": "wèn tí de gēn yuán zài yú dī xīn gēn gāo fáng jià.",
+        "en": "The root of the problem lies in low wages and high housing prices."
+      },
+      {
+        "zh": "政府推出的補助真的有用嗎？",
+        "pinyin": "zhèng fǔ tuī chū de bǔ zhù zhēn de yǒu yòng ma?",
+        "en": "Do the government's subsidies actually work?"
+      },
+      {
+        "zh": "這篇報導的立場好像有點偏頗。",
+        "pinyin": "zhè piān bào dǎo de lì chǎng hǎo xiàng yǒu diǎn piān pō.",
+        "en": "This report seems a bit biased."
+      },
+      {
+        "zh": "我們不能只看標題，要看完整的數據。",
+        "pinyin": "wǒ men bù néng zhǐ kàn biāo tí, yào kàn wán zhěng de shù jù.",
+        "en": "We can't just read headlines; we need the full data."
+      }
+    ],
+    "native_tips": [
+      "News vocabulary: 少子化, 缺工, 高齡化, 通膨, 立法院, 行政院.",
+      "Taiwanese media is often described as polarised; people discuss 媒體識讀 (media literacy).",
+      "Use hedges like 據報導, 有專家認為 to sound measured."
+    ],
+    "opening_line": "欸，你看這則新聞——「缺工問題創新高」。你覺得問題出在哪裡？"
+  },
+  {
+    "id": "sc-academic-discussion",
+    "title": "An academic seminar discussion",
+    "title_zh": "學術討論",
+    "level": 5,
+    "setting": "A graduate seminar room at 台大. The topic is the differences between 台灣華語 and mainland 普通話; a professor sits at the head of the table with printed readings.",
+    "ai_role": "鄭教授, a sociolinguistics professor: Socratic, precise, and fond of asking 'what's your evidence?'.",
+    "learner_role": "A graduate student presenting observations and arguing a point.",
+    "goals": [
+      "Present observations about Taiwan Mandarin with examples",
+      "Use academic structure and terminology",
+      "Respond to challenges and qualify your claims"
+    ],
+    "key_phrases": [
+      {
+        "zh": "我想從語音、詞彙跟語法三個層面來分析。",
+        "pinyin": "wǒ xiǎng cóng yǔ yīn, cí huì gēn yǔ fǎ sān ge céng miàn lái fēn xī.",
+        "en": "I'd like to analyse this on three levels: phonology, vocabulary and grammar."
+      },
+      {
+        "zh": "台灣華語受到閩南語很深的影響，例如「有」字句。",
+        "pinyin": "tái wān huá yǔ shòu dào mǐn nán yǔ hěn shēn de yǐng xiǎng, lì rú yǒu zì jù.",
+        "en": "Taiwan Mandarin is deeply influenced by Southern Min, for example the 有 + verb construction."
+      },
+      {
+        "zh": "這個現象可以用語言接觸的理論來解釋。",
+        "pinyin": "zhè ge xiàn xiàng kě yǐ yòng yǔ yán jiē chù de lǐ lùn lái jiě shì.",
+        "en": "This phenomenon can be explained by language-contact theory."
+      },
+      {
+        "zh": "就我所知，相關的研究還不多。",
+        "pinyin": "jiù wǒ suǒ zhī, xiāng guān de yán jiù hái bù duō.",
+        "en": "As far as I know, there isn't much research on this yet.",
+        "note": "Taiwan reads 究 as jiù (ㄐㄧㄡˋ); mainland jiū."
+      },
+      {
+        "zh": "老師，我想補充一個例子。",
+        "pinyin": "lǎo shī, wǒ xiǎng bǔ chōng yí ge lì zi.",
+        "en": "Professor, I'd like to add an example."
+      },
+      {
+        "zh": "這個結論是否能推論到其他地區？",
+        "pinyin": "zhè ge jié lùn shì fǒu néng tuī lùn dào qí tā dì qū?",
+        "en": "Can this conclusion be generalised to other regions?"
+      }
+    ],
+    "native_tips": [
+      "In Taiwan, students usually address professors as 老師, not 教授, in conversation.",
+      "Academic register favours 是否, 之, 而, 就……而言, and 換言之.",
+      "Hedging (可能, 在某種程度上) is expected when making claims."
+    ],
+    "opening_line": "好，今天我們討論台灣華語跟普通話的差異。你先說說看，你自己觀察到最明顯的差別是什麼？"
+  }
+]

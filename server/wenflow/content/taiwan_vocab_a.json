@@ -1,0 +1,7712 @@
+[
+ {
+  "trad": "軟體",
+  "pinyin": "ruǎn tǐ",
+  "en": "software",
+  "mainland": "软件",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個軟體要怎麼安裝？",
+   "en": "How do I install this software?"
+  },
+  "note": "Taiwan uses 體 where the mainland uses 件: 軟體, 硬體, 韌體 (firmware)."
+ },
+ {
+  "trad": "網路",
+  "pinyin": "wǎng lù",
+  "en": "the internet; a network",
+  "mainland": "网络",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這裡的網路好慢喔。",
+   "en": "The internet here is so slow."
+  },
+  "note": "Written 網路 (路, not 絡). 上網 is the same on both sides; 網路上 = online."
+ },
+ {
+  "trad": "影片",
+  "pinyin": "yǐng piàn",
+  "en": "video; clip",
+  "mainland": "视频",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我傳一個影片給你看。",
+   "en": "I'll send you a video to watch."
+  },
+  "note": "視頻 is mainland usage; a YouTube video is always 影片 in Taiwan. A short clip is a 短片."
+ },
+ {
+  "trad": "簡訊",
+  "pinyin": "jiǎn xùn",
+  "en": "text message (SMS)",
+  "mainland": "短信",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我剛剛收到銀行的簡訊。",
+   "en": "I just got a text from the bank."
+  }
+ },
+ {
+  "trad": "螢幕",
+  "pinyin": "yíng mù",
+  "en": "screen; monitor",
+  "mainland": "屏幕",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我的手機螢幕摔破了。",
+   "en": "I cracked my phone screen."
+  }
+ },
+ {
+  "trad": "滑鼠",
+  "pinyin": "huá shǔ",
+  "en": "(computer) mouse",
+  "mainland": "鼠标",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個滑鼠好像沒電了。",
+   "en": "This mouse seems to be out of battery."
+  }
+ },
+ {
+  "trad": "筆電",
+  "pinyin": "bǐ diàn",
+  "en": "laptop",
+  "mainland": "笔记本电脑 / 笔记本",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我都帶筆電去咖啡廳工作。",
+   "en": "I always take my laptop to a café to work."
+  },
+  "note": "Short for 筆記型電腦. In Taiwan 筆記本 only means a paper notebook."
+ },
+ {
+  "trad": "資料",
+  "pinyin": "zī liào",
+  "en": "data; information; materials",
+  "mainland": "数据 / 资料",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "資料我等一下寄給你。",
+   "en": "I'll send you the data in a bit."
+  },
+  "note": "Taiwan says 資料 for most of what the mainland calls 数据 (資料庫, 個人資料). 數據 is kept for statistics and figures."
+ },
+ {
+  "trad": "資訊",
+  "pinyin": "zī xùn",
+  "en": "information; IT",
+  "mainland": "信息",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "網站上有更多活動資訊。",
+   "en": "There's more event information on the website."
+  },
+  "note": "Mainland 信息 splits into 資訊 (information) and 訊息 (a message). IT = 資訊科技; the CS department is 資工系."
+ },
+ {
+  "trad": "訊息",
+  "pinyin": "xùn xí",
+  "en": "message (chat, notification)",
+  "mainland": "信息 / 消息",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你有看到我傳的訊息嗎？",
+   "en": "Did you see the message I sent?"
+  },
+  "note": "息 is read xí in Taiwan. 傳訊息 = to message someone."
+ },
+ {
+  "trad": "檔案",
+  "pinyin": "dǎng àn",
+  "en": "(computer) file",
+  "mainland": "文件",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個檔案太大，寄不出去。",
+   "en": "This file is too big to send."
+  },
+  "note": "檔 is read dǎng in Taiwan. 文件 in Taiwan means a (paper or official) document, not a computer file."
+ },
+ {
+  "trad": "登入",
+  "pinyin": "dēng rù",
+  "en": "to log in",
+  "mainland": "登录",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請先登入你的帳號。",
+   "en": "Please log in to your account first."
+  },
+  "note": "Log out = 登出 (mainland 退出登录)."
+ },
+ {
+  "trad": "帳號",
+  "pinyin": "zhàng hào",
+  "en": "account; username",
+  "mainland": "账号",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我忘記我的帳號了。",
+   "en": "I forgot my username."
+  },
+  "note": "Taiwan writes 帳 (not 賬) for accounts and bills: 帳號, 帳單, 結帳."
+ },
+ {
+  "trad": "設定",
+  "pinyin": "shè dìng",
+  "en": "settings; to set up",
+  "mainland": "设置",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你去設定裡面改一下語言。",
+   "en": "Go change the language in the settings."
+  }
+ },
+ {
+  "trad": "搜尋",
+  "pinyin": "sōu xún",
+  "en": "to search (online)",
+  "mainland": "搜索",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你上網搜尋一下就有了。",
+   "en": "Just search online and you'll find it."
+  },
+  "note": "In speech people often just say 查 or 'Google 一下'."
+ },
+ {
+  "trad": "連結",
+  "pinyin": "lián jié",
+  "en": "link",
+  "mainland": "链接",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我把連結貼給你。",
+   "en": "I'll paste you the link."
+  }
+ },
+ {
+  "trad": "列印",
+  "pinyin": "liè yìn",
+  "en": "to print (out)",
+  "mainland": "打印",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要去超商列印文件。",
+   "en": "I need to go print a document at the convenience store."
+  },
+  "note": "Colloquially just 印: 幫我印一份."
+ },
+ {
+  "trad": "視訊",
+  "pinyin": "shì xùn",
+  "en": "video call; to video-chat",
+  "mainland": "视频通话 / 视频",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我每個週末都跟家人視訊。",
+   "en": "I video-call my family every weekend."
+  },
+  "note": "視訊 is the live call; a recorded video is 影片. 視訊會議 = video conference."
+ },
+ {
+  "trad": "信箱",
+  "pinyin": "xìn xiāng",
+  "en": "email address; inbox; mailbox",
+  "mainland": "邮箱",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "可以給我你的信箱嗎？",
+   "en": "Could I have your email address?"
+  },
+  "note": "Taiwan says 信箱 or just 'email'; 郵箱 sounds mainland. Also the physical letterbox."
+ },
+ {
+  "trad": "群組",
+  "pinyin": "qún zǔ",
+  "en": "group chat",
+  "mainland": "群 / 群聊",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我把你加進我們的群組。",
+   "en": "I'll add you to our group chat."
+  },
+  "note": "Usually a LINE 群組 (compare mainland 微信群)."
+ },
+ {
+  "trad": "滑手機",
+  "pinyin": "huá shǒu jī",
+  "en": "to scroll on one's phone",
+  "mainland": "刷手机 / 玩手机",
+  "category": "tech",
+  "register": "colloquial",
+  "level": 1,
+  "example": {
+   "zh": "吃飯的時候不要一直滑手機。",
+   "en": "Don't keep scrolling on your phone during meals."
+  },
+  "note": "滑 = to swipe. People glued to their phones are 低頭族."
+ },
+ {
+  "trad": "LINE",
+  "pinyin": "LINE",
+  "en": "LINE (Taiwan's default messaging app)",
+  "mainland": "微信",
+  "category": "tech",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你有LINE嗎？我加你。",
+   "en": "Do you have LINE? I'll add you."
+  },
+  "note": "Fills the role WeChat has on the mainland: friends, family groups, shops and even government notices."
+ },
+ {
+  "trad": "計程車",
+  "pinyin": "jì chéng chē",
+  "en": "taxi",
+  "mainland": "出租车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們叫計程車去車站好了。",
+   "en": "Let's just take a taxi to the station."
+  },
+  "note": "Nicknamed 小黃 (they're all yellow). 出租車 would be taken as a rental car, and 打的 isn't used."
+ },
+ {
+  "trad": "捷運",
+  "pinyin": "jié yùn",
+  "en": "MRT; metro",
+  "mainland": "地铁",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "搭捷運比開車快多了。",
+   "en": "Taking the MRT is much faster than driving."
+  },
+  "note": "Short for 大眾捷運系統. 地鐵 is understood but mostly used for subways abroad."
+ },
+ {
+  "trad": "公車",
+  "pinyin": "gōng chē",
+  "en": "(city) bus",
+  "mainland": "公交车 / 公共汽车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我每天搭公車上學。",
+   "en": "I take the bus to school every day."
+  },
+  "note": "False friend: on the mainland 公车 means a government-owned official car. 公交 isn't used in Taiwan."
+ },
+ {
+  "trad": "機車",
+  "pinyin": "jī chē",
+  "en": "scooter; motorcycle",
+  "mainland": "摩托车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他每天騎機車上班。",
+   "en": "He rides a scooter to work every day."
+  },
+  "note": "False friend: mainland 机车 = locomotive. Also slang for an annoying, difficult person: 他很機車."
+ },
+ {
+  "trad": "腳踏車",
+  "pinyin": "jiǎo tà chē",
+  "en": "bicycle",
+  "mainland": "自行车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我騎腳踏車去買早餐。",
+   "en": "I ride my bike to buy breakfast."
+  },
+  "note": "Also 單車; 自行車 appears in formal and sports contexts."
+ },
+ {
+  "trad": "高鐵",
+  "pinyin": "gāo tiě",
+  "en": "Taiwan High Speed Rail",
+  "mainland": "高铁",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "搭高鐵到台中不用一小時。",
+   "en": "It takes under an hour to get to Taichung by HSR."
+  },
+  "note": "Same word, but in Taiwan it means the single west-coast line from 南港 to 左營."
+ },
+ {
+  "trad": "台鐵",
+  "pinyin": "tái tiě",
+  "en": "Taiwan Railways (conventional trains)",
+  "mainland": "",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "台鐵的便當很有名。",
+   "en": "Taiwan Railways' lunch boxes are famous."
+  },
+  "note": "The regular railway, as opposed to 高鐵. Train types: 區間車 (local), 莒光號, 自強號 (express)."
+ },
+ {
+  "trad": "悠遊卡",
+  "pinyin": "yōu yóu kǎ",
+  "en": "EasyCard (stored-value transit card)",
+  "mainland": "交通卡",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我的悠遊卡快沒錢了。",
+   "en": "My EasyCard is almost out of credit."
+  },
+  "note": "Works on MRT, buses, trains, YouBike and in convenience stores. The southern rival is 一卡通."
+ },
+ {
+  "trad": "加值",
+  "pinyin": "jiā zhí",
+  "en": "to top up (a card)",
+  "mainland": "充值",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要去便利商店加值。",
+   "en": "I need to go top up at the convenience store."
+  },
+  "note": "Also 儲值. 充值 is the mainland word."
+ },
+ {
+  "trad": "月台",
+  "pinyin": "yuè tái",
+  "en": "(train) platform",
+  "mainland": "站台",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "往高雄的火車在第二月台。",
+   "en": "The train to Kaohsiung is on platform 2."
+  }
+ },
+ {
+  "trad": "塞車",
+  "pinyin": "sāi chē",
+  "en": "traffic jam; to be stuck in traffic",
+  "mainland": "堵车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "連假高速公路一定會塞車。",
+   "en": "The freeway is always jammed on long weekends."
+  },
+  "note": "堵車 is understood but sounds mainland."
+ },
+ {
+  "trad": "安全帽",
+  "pinyin": "ān quán mào",
+  "en": "helmet",
+  "mainland": "头盔",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "騎機車一定要戴安全帽。",
+   "en": "You must wear a helmet when riding a scooter."
+  }
+ },
+ {
+  "trad": "紅綠燈",
+  "pinyin": "hóng lǜ dēng",
+  "en": "traffic light",
+  "mainland": "红绿灯",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "過了紅綠燈右轉就到了。",
+   "en": "Turn right after the traffic light and you're there."
+  },
+  "note": "Same word. The formal term differs: 交通號誌 (mainland 交通信号灯)."
+ },
+ {
+  "trad": "YouBike",
+  "pinyin": "YouBike",
+  "en": "YouBike (public bike-share)",
+  "mainland": "共享单车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我騎YouBike去捷運站。",
+   "en": "I ride a YouBike to the MRT station."
+  },
+  "note": "Docked city bikes rented with an 悠遊卡; nicknamed 微笑單車 and often written Ubike."
+ },
+ {
+  "trad": "馬鈴薯",
+  "pinyin": "mǎ líng shǔ",
+  "en": "potato",
+  "mainland": "土豆",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "咖哩裡面有很多馬鈴薯。",
+   "en": "There's a lot of potato in the curry."
+  },
+  "note": "Don't say 土豆 for potato: in Taiwan 土豆 means peanut. Also 洋芋 in names like 洋芋片."
+ },
+ {
+  "trad": "鳳梨",
+  "pinyin": "fèng lí",
+  "en": "pineapple",
+  "mainland": "菠萝",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "夏天的鳳梨特別甜。",
+   "en": "Pineapples are especially sweet in summer."
+  },
+  "note": "鳳梨酥 (pineapple cake) is the classic souvenir. 菠蘿 mostly survives in 菠蘿麵包."
+ },
+ {
+  "trad": "番茄",
+  "pinyin": "fān qié",
+  "en": "tomato",
+  "mainland": "西红柿 / 番茄",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我點了一份番茄炒蛋。",
+   "en": "I ordered tomato scrambled eggs."
+  },
+  "note": "西紅柿 isn't used in Taiwan. Cherry tomatoes (小番茄) are sold and eaten as fruit."
+ },
+ {
+  "trad": "優格",
+  "pinyin": "yōu gé",
+  "en": "yogurt (spoonable)",
+  "mainland": "酸奶",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我早餐都吃優格配水果。",
+   "en": "I always have yogurt with fruit for breakfast."
+  },
+  "note": "Drinkable yogurt is 優酪乳. 酸奶 isn't used in Taiwan."
+ },
+ {
+  "trad": "泡麵",
+  "pinyin": "pào miàn",
+  "en": "instant noodles",
+  "mainland": "方便面",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "颱風天大家都搶買泡麵。",
+   "en": "Everyone rushes to buy instant noodles on typhoon days."
+  },
+  "note": "Formally 速食麵. 方便麵 sounds mainland."
+ },
+ {
+  "trad": "便當",
+  "pinyin": "biàn dāng",
+  "en": "boxed meal; lunch box",
+  "mainland": "盒饭",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "中午要不要一起訂便當？",
+   "en": "Shall we order lunch boxes together at noon?"
+  },
+  "note": "From Japanese bentō. 排骨便當 and 雞腿便當 are the classics; 盒飯 isn't used."
+ },
+ {
+  "trad": "花椰菜",
+  "pinyin": "huā yé cài",
+  "en": "broccoli; cauliflower",
+  "mainland": "西兰花 / 菜花",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "今天的便當有花椰菜。",
+   "en": "Today's lunch box has broccoli."
+  },
+  "note": "白花椰菜 = cauliflower; 綠花椰菜 or 青花菜 = broccoli."
+ },
+ {
+  "trad": "起司",
+  "pinyin": "qǐ sī",
+  "en": "cheese",
+  "mainland": "奶酪 / 芝士",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要一個起司蛋餅。",
+   "en": "I'd like a cheese egg crepe."
+  },
+  "note": "Also 乳酪 (rǔ luò) in names like 乳酪蛋糕. 芝士 is the Hong Kong and mainland transliteration."
+ },
+ {
+  "trad": "吐司",
+  "pinyin": "tǔ sī",
+  "en": "sliced bread; toast",
+  "mainland": "面包片 / 吐司",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我早餐吃吐司夾蛋。",
+   "en": "I have an egg sandwich on toast for breakfast."
+  },
+  "note": "Means plain sliced bread too, toasted or not. Also written 土司."
+ },
+ {
+  "trad": "高麗菜",
+  "pinyin": "gāo lí cài",
+  "en": "cabbage",
+  "mainland": "卷心菜 / 圆白菜 / 包菜",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "水餃我要高麗菜口味的。",
+   "en": "I'll have the cabbage dumplings."
+  }
+ },
+ {
+  "trad": "地瓜",
+  "pinyin": "dì guā",
+  "en": "sweet potato",
+  "mainland": "红薯 / 地瓜",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "便利商店的烤地瓜很香。",
+   "en": "The roasted sweet potatoes at convenience stores smell great."
+  },
+  "note": "Also 番薯. 地瓜球 (fried sweet-potato balls) are a night-market staple."
+ },
+ {
+  "trad": "紅蘿蔔",
+  "pinyin": "hóng luó bo",
+  "en": "carrot",
+  "mainland": "胡萝卜",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我從小就不敢吃紅蘿蔔。",
+   "en": "I've hated carrots since I was a kid."
+  },
+  "note": "胡蘿蔔 is understood. Daikon is 白蘿蔔 (or 菜頭, from Taiwanese)."
+ },
+ {
+  "trad": "披薩",
+  "pinyin": "pī sà",
+  "en": "pizza",
+  "mainland": "比萨 / 披萨",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "今天晚上叫披薩來吃吧。",
+   "en": "Let's order pizza tonight."
+  }
+ },
+ {
+  "trad": "義大利麵",
+  "pinyin": "yì dà lì miàn",
+  "en": "pasta; spaghetti",
+  "mainland": "意大利面 / 意面",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這家的義大利麵很道地。",
+   "en": "The pasta at this place is really authentic."
+  },
+  "note": "義, not 意: 義大利, 義式咖啡. 道地 = authentic (mainland 地道)."
+ },
+ {
+  "trad": "湯匙",
+  "pinyin": "tāng chí",
+  "en": "spoon",
+  "mainland": "勺子",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "可以再給我一支湯匙嗎？",
+   "en": "Could I have another spoon?"
+  },
+  "note": "勺子 is rarely said in Taiwan; a ladle is 湯勺. Note the classifier 支."
+ },
+ {
+  "trad": "內用",
+  "pinyin": "nèi yòng",
+  "en": "to eat in; for here",
+  "mainland": "堂食 / 在这儿吃",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請問是內用還是外帶？",
+   "en": "Is that for here or to go?"
+  },
+  "note": "The first question at any counter. 堂食 isn't used in Taiwan."
+ },
+ {
+  "trad": "外帶",
+  "pinyin": "wài dài",
+  "en": "takeout; to go",
+  "mainland": "打包 / 外带",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要外帶兩杯紅茶。",
+   "en": "Two black teas to go, please."
+  },
+  "note": "打包 in Taiwan is for boxing up leftovers after eating in."
+ },
+ {
+  "trad": "外送",
+  "pinyin": "wài sòng",
+  "en": "(food) delivery",
+  "mainland": "外卖",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "下雨天叫外送最方便。",
+   "en": "Ordering delivery is the easiest on rainy days."
+  },
+  "note": "外賣 is the mainland and Hong Kong term. A delivery rider is an 外送員 (Uber Eats, foodpanda)."
+ },
+ {
+  "trad": "服務生",
+  "pinyin": "fú wù shēng",
+  "en": "waiter; waitress",
+  "mainland": "服务员",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我請服務生幫我們加水。",
+   "en": "I asked the waiter to refill our water."
+  },
+  "note": "Don't call out 服務員! To get the staff's attention, say 不好意思."
+ },
+ {
+  "trad": "宵夜",
+  "pinyin": "xiāo yè",
+  "en": "late-night snack",
+  "mainland": "夜宵",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們去吃宵夜好不好？",
+   "en": "Shall we go get a late-night snack?"
+  },
+  "note": "Reversed on the mainland (夜宵). Also written 消夜."
+ },
+ {
+  "trad": "白飯",
+  "pinyin": "bái fàn",
+  "en": "plain (steamed) rice",
+  "mainland": "米饭",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "老闆，我要加一碗白飯。",
+   "en": "Boss, one more bowl of rice, please."
+  },
+  "note": "米飯 is rarely said in Taiwan; it's just 飯 or 白飯."
+ },
+ {
+  "trad": "早餐店",
+  "pinyin": "zǎo cān diàn",
+  "en": "breakfast shop",
+  "mainland": "早点铺 / 早餐店",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "巷口那家早餐店很便宜。",
+   "en": "The breakfast shop at the end of the lane is cheap."
+  },
+  "note": "A Taiwan institution serving 蛋餅, 吐司, 漢堡 and 奶茶. Chains include 美而美 and 麥味登."
+ },
+ {
+  "trad": "蛋餅",
+  "pinyin": "dàn bǐng",
+  "en": "Taiwanese egg crepe",
+  "mainland": "",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要一份蛋餅加起司。",
+   "en": "One egg crepe with cheese, please."
+  },
+  "note": "The breakfast-shop staple: a thin crepe rolled around egg, sliced and eaten with soy paste."
+ },
+ {
+  "trad": "飯糰",
+  "pinyin": "fàn tuán",
+  "en": "rice ball",
+  "mainland": "饭团",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我早上買了一個飯糰。",
+   "en": "I bought a rice ball this morning."
+  },
+  "note": "Written with 糰. Either the big sticky-rice roll from breakfast stalls or the triangular 御飯糰 sold in 超商."
+ },
+ {
+  "trad": "滷肉飯",
+  "pinyin": "lǔ ròu fàn",
+  "en": "braised pork rice",
+  "mainland": "卤肉饭",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要一碗滷肉飯加滷蛋。",
+   "en": "A bowl of braised pork rice with a braised egg, please."
+  },
+  "note": "Often written 魯肉飯 on signs. In the south the minced version is called 肉燥飯."
+ },
+ {
+  "trad": "手搖飲",
+  "pinyin": "shǒu yáo yǐn",
+  "en": "hand-shaken drinks (bubble-tea shop drinks)",
+  "mainland": "奶茶 / 现制茶饮",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我每天下午都要喝手搖飲。",
+   "en": "I need a hand-shaken drink every afternoon."
+  },
+  "note": "The made-to-order tea shops on every corner (also 手搖杯). You choose sugar (甜度) and ice (冰塊)."
+ },
+ {
+  "trad": "去冰",
+  "pinyin": "qù bīng",
+  "en": "no ice",
+  "mainland": "去冰 / 不加冰",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要一杯綠茶，去冰。",
+   "en": "A green tea, no ice, please."
+  },
+  "note": "Ice levels: 正常冰, 少冰, 微冰, 去冰; some shops also offer 溫 and 熱."
+ },
+ {
+  "trad": "微糖",
+  "pinyin": "wéi táng",
+  "en": "light sugar (about 30%)",
+  "mainland": "三分糖",
+  "category": "food",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "珍珠奶茶微糖少冰。",
+   "en": "Bubble milk tea, light sugar, less ice."
+  },
+  "note": "微 is read wéi. Sugar levels: 全糖, 少糖, 半糖, 微糖, 無糖."
+ },
+ {
+  "trad": "冷氣",
+  "pinyin": "lěng qì",
+  "en": "air conditioning; AC",
+  "mainland": "空调",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "好熱喔，可以開冷氣嗎？",
+   "en": "It's so hot. Can we turn on the AC?"
+  },
+  "note": "空調 is used for central systems in buildings; the unit at home is a 冷氣 (機)."
+ },
+ {
+  "trad": "洗髮精",
+  "pinyin": "xǐ fǎ jīng",
+  "en": "shampoo",
+  "mainland": "洗发水 / 洗发露",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "洗髮精用完了，要再買。",
+   "en": "We're out of shampoo; need to buy more."
+  },
+  "note": "髮 is read fǎ in Taiwan. Conditioner = 潤髮乳 (mainland 护发素), body wash = 沐浴乳."
+ },
+ {
+  "trad": "衛生紙",
+  "pinyin": "wèi shēng zhǐ",
+  "en": "toilet paper; tissues",
+  "mainland": "卫生纸 / 纸巾",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "可以借我一張衛生紙嗎？",
+   "en": "Could I borrow a tissue?"
+  },
+  "note": "Covers both toilet roll and pull-out tissues; facial tissue is 面紙. 手紙 isn't used."
+ },
+ {
+  "trad": "垃圾桶",
+  "pinyin": "lè sè tǒng",
+  "en": "trash can",
+  "mainland": "垃圾桶",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請問垃圾桶在哪裡？",
+   "en": "Excuse me, where's the trash can?"
+  },
+  "note": "Same characters, but 垃圾 is read lè sè in Taiwan. Public bins are scarce, so people carry rubbish home."
+ },
+ {
+  "trad": "垃圾車",
+  "pinyin": "lè sè chē",
+  "en": "garbage truck",
+  "mainland": "垃圾车",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "垃圾車來了，快去倒垃圾！",
+   "en": "The garbage truck's here. Hurry and take out the trash!"
+  },
+  "note": "There are no kerbside bins: the truck plays 〈給愛麗絲〉 and residents bring their bags out at set times."
+ },
+ {
+  "trad": "吹風機",
+  "pinyin": "chuī fēng jī",
+  "en": "hair dryer",
+  "mainland": "吹风机 / 电吹风",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "洗完頭要用吹風機吹乾。",
+   "en": "After washing your hair, dry it with a hair dryer."
+  }
+ },
+ {
+  "trad": "原子筆",
+  "pinyin": "yuán zǐ bǐ",
+  "en": "ballpoint pen",
+  "mainland": "圆珠笔",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "可以借我一支原子筆嗎？",
+   "en": "Could I borrow a ballpoint pen?"
+  }
+ },
+ {
+  "trad": "塑膠袋",
+  "pinyin": "sù jiāo dài",
+  "en": "plastic bag",
+  "mainland": "塑料袋",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我有帶環保袋，不用塑膠袋。",
+   "en": "I brought a reusable bag; I don't need a plastic one."
+  },
+  "note": "Plastic = 塑膠 in Taiwan, 塑料 on the mainland. Shops charge NT$1–2 per bag."
+ },
+ {
+  "trad": "寶特瓶",
+  "pinyin": "bǎo tè píng",
+  "en": "plastic (PET) bottle",
+  "mainland": "塑料瓶 / 矿泉水瓶",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "寶特瓶要拿去回收。",
+   "en": "PET bottles need to go to recycling."
+  },
+  "note": "From 'PET'."
+ },
+ {
+  "trad": "洗手間",
+  "pinyin": "xǐ shǒu jiān",
+  "en": "restroom; toilet",
+  "mainland": "洗手间 / 卫生间",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請問洗手間在哪裡？",
+   "en": "Excuse me, where's the restroom?"
+  },
+  "note": "洗手間, 廁所 and 化妝室 are the usual words; 衛生間 sounds mainland."
+ },
+ {
+  "trad": "皮夾",
+  "pinyin": "pí jiá",
+  "en": "wallet",
+  "mainland": "钱包",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我的皮夾忘在家裡了。",
+   "en": "I left my wallet at home."
+  },
+  "note": "錢包 is also used. 夾 is read jiá in Taiwan."
+ },
+ {
+  "trad": "包包",
+  "pinyin": "bāo bāo",
+  "en": "bag; handbag",
+  "mainland": "包",
+  "category": "daily",
+  "register": "colloquial",
+  "level": 1,
+  "example": {
+   "zh": "我的包包放在椅子上。",
+   "en": "My bag is on the chair."
+  },
+  "note": "The everyday word for any handbag or backpack; a bare 包 sounds clipped in Taiwan."
+ },
+ {
+  "trad": "橡皮擦",
+  "pinyin": "xiàng pí cā",
+  "en": "eraser",
+  "mainland": "橡皮",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個橡皮擦擦不乾淨。",
+   "en": "This eraser doesn't rub out cleanly."
+  },
+  "note": "Colloquially also 擦布 or 擦子."
+ },
+ {
+  "trad": "影印",
+  "pinyin": "yǐng yìn",
+  "en": "to photocopy",
+  "mainland": "复印",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我要去超商影印身分證。",
+   "en": "I need to photocopy my ID at the convenience store."
+  },
+  "note": "影印機 = photocopier; a copy is an 影本 (mainland 复印件)."
+ },
+ {
+  "trad": "小姐",
+  "pinyin": "xiǎo jiě",
+  "en": "Miss; young lady (polite address)",
+  "mainland": "女士 / 美女",
+  "category": "daily",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "小姐，妳的東西掉了。",
+   "en": "Miss, you dropped something."
+  },
+  "note": "Perfectly polite in Taiwan for any woman (王小姐, 護士小姐), with none of the dubious overtones it can have on the mainland."
+ },
+ {
+  "trad": "國小",
+  "pinyin": "guó xiǎo",
+  "en": "elementary school",
+  "mainland": "小学",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我弟弟今年要上國小。",
+   "en": "My little brother starts elementary school this year."
+  },
+  "note": "Short for 國民小學. 小學 is also said."
+ },
+ {
+  "trad": "國中",
+  "pinyin": "guó zhōng",
+  "en": "junior high school",
+  "mainland": "初中",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們是國中同學。",
+   "en": "We were junior high classmates."
+  },
+  "note": "Short for 國民中學; grades are 國一 to 國三. 初中 is the old term."
+ },
+ {
+  "trad": "幼稚園",
+  "pinyin": "yòu zhì yuán",
+  "en": "kindergarten",
+  "mainland": "幼儿园",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我女兒在讀幼稚園。",
+   "en": "My daughter is in kindergarten."
+  },
+  "note": "Officially renamed 幼兒園 in 2012, but most people still say 幼稚園."
+ },
+ {
+  "trad": "社團",
+  "pinyin": "shè tuán",
+  "en": "(school) club; society",
+  "mainland": "社团",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你大學參加什麼社團？",
+   "en": "What clubs did you join in college?"
+  },
+  "note": "Student clubs like 吉他社 and 熱舞社 are central to campus life. Also a Facebook group."
+ },
+ {
+  "trad": "學期",
+  "pinyin": "xué qí",
+  "en": "semester; term",
+  "mainland": "学期",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這學期我修了六門課。",
+   "en": "I'm taking six courses this semester."
+  },
+  "note": "Same word; 期 is read qí in Taiwan. 上學期 / 下學期."
+ },
+ {
+  "trad": "寒假",
+  "pinyin": "hán jià",
+  "en": "winter break",
+  "mainland": "寒假",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "寒假你有什麼計畫？",
+   "en": "What are your plans for winter break?"
+  },
+  "note": "Same word. About three weeks around Lunar New Year; the summer break is 暑假."
+ },
+ {
+  "trad": "研究所",
+  "pinyin": "yán jiù suǒ",
+  "en": "graduate school",
+  "mainland": "研究生院 / 读研",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他畢業以後想考研究所。",
+   "en": "He wants to apply to grad school after graduating."
+  },
+  "note": "究 is read jiù. 念研究所 = do a master's or PhD (mainland 读研); on the mainland 研究所 is a research institute."
+ },
+ {
+  "trad": "學長",
+  "pinyin": "xué zhǎng",
+  "en": "senior (older male schoolmate)",
+  "mainland": "师兄 / 学长",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "學長借我去年的筆記。",
+   "en": "An older student lent me last year's notes."
+  },
+  "note": "學姊 (f.), 學弟 and 學妹 for juniors. Also used at work and in the army for those who joined earlier."
+ },
+ {
+  "trad": "期中考",
+  "pinyin": "qí zhōng kǎo",
+  "en": "midterm exam",
+  "mainland": "期中考试",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "下週期中考，我完蛋了。",
+   "en": "Midterms are next week. I'm doomed."
+  },
+  "note": "期 = qí. Finals are 期末考; Taiwan drops the 試."
+ },
+ {
+  "trad": "科系",
+  "pinyin": "kē xì",
+  "en": "(university) department; major",
+  "mainland": "专业",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你大學念什麼科系？",
+   "en": "What did you major in at university?"
+  },
+  "note": "專業 isn't used for 'major' in Taiwan. Ask 你念什麼系？ or 你主修什麼？"
+ },
+ {
+  "trad": "補習班",
+  "pinyin": "bǔ xí bān",
+  "en": "cram school",
+  "mainland": "补习班 / 培训班 / 辅导班",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他下課還要去補習班。",
+   "en": "He still has cram school after class."
+  },
+  "note": "A huge part of student life. 補習 (or 補英文, 補數學) = to attend cram classes."
+ },
+ {
+  "trad": "功課",
+  "pinyin": "gōng kè",
+  "en": "homework",
+  "mainland": "作业",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我的功課還沒寫完。",
+   "en": "I haven't finished my homework."
+  },
+  "note": "Taiwan says 寫功課 / 寫作業 where the mainland says 做作业."
+ },
+ {
+  "trad": "注音",
+  "pinyin": "zhù yīn",
+  "en": "Zhuyin (bopomofo) phonetic symbols",
+  "mainland": "拼音",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "台灣小孩都先學注音。",
+   "en": "Kids in Taiwan all learn Zhuyin first."
+  },
+  "note": "ㄅㄆㄇㄈ: used to teach reading and to type. Hanyu Pinyin is barely known to most Taiwanese."
+ },
+ {
+  "trad": "國語",
+  "pinyin": "guó yǔ",
+  "en": "Mandarin (the national language)",
+  "mainland": "普通话",
+  "category": "school",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "阿嬤的國語有台語口音。",
+   "en": "Grandma's Mandarin has a Taiwanese accent."
+  },
+  "note": "Also 中文; 普通話 is the mainland term. Mandarin taught to foreigners is 華語."
+ },
+ {
+  "trad": "上班族",
+  "pinyin": "shàng bān zú",
+  "en": "office worker; salaried employee",
+  "mainland": "上班族 / 白领",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "上班族中午都吃便當。",
+   "en": "Office workers all have lunch boxes at noon."
+  },
+  "note": "Used on both sides now, but Taiwan rarely says 白領 in everyday speech."
+ },
+ {
+  "trad": "加班",
+  "pinyin": "jiā bān",
+  "en": "to work overtime",
+  "mainland": "加班",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我今天又要加班了。",
+   "en": "I have to work overtime again today."
+  },
+  "note": "Same word. Overtime pay is 加班費; salaried jobs with no overtime pay are called 責任制."
+ },
+ {
+  "trad": "薪水",
+  "pinyin": "xīn shuǐ",
+  "en": "salary; pay",
+  "mainland": "工资 / 薪水",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個月的薪水還沒進來。",
+   "en": "This month's pay hasn't come in yet."
+  },
+  "note": "工資 in Taiwan suggests hourly or manual wages (基本工資 = minimum wage)."
+ },
+ {
+  "trad": "請假",
+  "pinyin": "qǐng jià",
+  "en": "to take leave; to ask for time off",
+  "mainland": "请假",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我明天想請假去看醫生。",
+   "en": "I'd like to take tomorrow off to see a doctor."
+  },
+  "note": "Same word. Types: 病假, 事假, 特休 (annual leave), 生理假."
+ },
+ {
+  "trad": "主管",
+  "pinyin": "zhǔ guǎn",
+  "en": "supervisor; manager",
+  "mainland": "领导 / 主管",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這件事要先問過主管。",
+   "en": "We need to check with the manager first."
+  },
+  "note": "領導 is not used as a noun for 'boss' in Taiwan; say 主管, 老闆 or 上司."
+ },
+ {
+  "trad": "打工",
+  "pinyin": "dǎ gōng",
+  "en": "to work part-time (esp. as a student)",
+  "mainland": "兼职 / 打零工",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我暑假在飲料店打工。",
+   "en": "I worked part-time at a drink shop over the summer."
+  },
+  "note": "False friend: on the mainland 打工 means working any wage job. 打工度假 = working holiday."
+ },
+ {
+  "trad": "履歷",
+  "pinyin": "lǚ lì",
+  "en": "résumé; CV",
+  "mainland": "简历",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我已經投了二十幾份履歷。",
+   "en": "I've already sent out twenty-odd résumés."
+  },
+  "note": "Also 履歷表. 簡歷 is understood but uncommon."
+ },
+ {
+  "trad": "工程師",
+  "pinyin": "gōng chéng shī",
+  "en": "engineer (esp. in tech)",
+  "mainland": "程序员 / 工程师",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他在竹科當工程師。",
+   "en": "He works as an engineer at Hsinchu Science Park."
+  },
+  "note": "Taiwan says 軟體工程師, never 程序員. The 竹科工程師 is a stock figure: well paid and overworked."
+ },
+ {
+  "trad": "簡報",
+  "pinyin": "jiǎn bào",
+  "en": "presentation; briefing",
+  "mainland": "演示 / 汇报 / PPT",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我明天要跟客戶做簡報。",
+   "en": "I'm giving a presentation to a client tomorrow."
+  },
+  "note": "做簡報 or 報告. The slides themselves are 投影片."
+ },
+ {
+  "trad": "專案",
+  "pinyin": "zhuān àn",
+  "en": "project",
+  "mainland": "项目",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個專案下個月要上線。",
+   "en": "This project goes live next month."
+  },
+  "note": "項目 in Taiwan means an item on a list. A project manager is a 專案經理 (PM)."
+ },
+ {
+  "trad": "連假",
+  "pinyin": "lián jià",
+  "en": "long weekend; holiday break",
+  "mainland": "小长假",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個連假你要去哪裡玩？",
+   "en": "Where are you going this long weekend?"
+  },
+  "note": "Short for 連續假期."
+ },
+ {
+  "trad": "年終",
+  "pinyin": "nián zhōng",
+  "en": "year-end bonus",
+  "mainland": "年终奖",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "你們公司年終發幾個月？",
+   "en": "How many months' year-end bonus does your company pay?"
+  },
+  "note": "Short for 年終獎金; quoted in months of salary and paid before Lunar New Year."
+ },
+ {
+  "trad": "合約",
+  "pinyin": "hé yuē",
+  "en": "contract",
+  "mainland": "合同",
+  "category": "work",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "合約簽了就不能反悔。",
+   "en": "Once the contract is signed, there's no going back."
+  },
+  "note": "合同 is rarely used in Taiwan. A phone contract: 綁約兩年."
+ },
+ {
+  "trad": "紐西蘭",
+  "pinyin": "niǔ xī lán",
+  "en": "New Zealand",
+  "mainland": "新西兰",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我想去紐西蘭打工度假。",
+   "en": "I want to do a working holiday in New Zealand."
+  },
+  "note": "Taiwan transliterates 'New' (紐); the mainland translates it (新)."
+ },
+ {
+  "trad": "義大利",
+  "pinyin": "yì dà lì",
+  "en": "Italy",
+  "mainland": "意大利",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們蜜月去義大利玩。",
+   "en": "We went to Italy on our honeymoon."
+  },
+  "note": "義, not 意: 義大利麵, 義式咖啡."
+ },
+ {
+  "trad": "澳洲",
+  "pinyin": "ào zhōu",
+  "en": "Australia",
+  "mainland": "澳大利亚",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我表哥在澳洲念書。",
+   "en": "My cousin is studying in Australia."
+  },
+  "note": "澳大利亞 appears only in formal names; everyone says 澳洲."
+ },
+ {
+  "trad": "北韓",
+  "pinyin": "běi hán",
+  "en": "North Korea",
+  "mainland": "朝鲜",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "北韓今天又試射飛彈了。",
+   "en": "North Korea test-fired another missile today."
+  },
+  "note": "In Taiwan 朝鮮 refers to the historical kingdom. Note also 飛彈 = missile (mainland 导弹)."
+ },
+ {
+  "trad": "雪梨",
+  "pinyin": "xuě lí",
+  "en": "Sydney",
+  "mainland": "悉尼",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "雪梨歌劇院真的很壯觀。",
+   "en": "The Sydney Opera House really is spectacular."
+  },
+  "note": "Yes, the same characters as 'snow pear'. 悉尼 is unfamiliar to most Taiwanese."
+ },
+ {
+  "trad": "川普",
+  "pinyin": "chuān pǔ",
+  "en": "(Donald) Trump",
+  "mainland": "特朗普",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "川普又上新聞頭條了。",
+   "en": "Trump is in the headlines again."
+  },
+  "note": "Names of foreign politicians are transliterated independently on each side."
+ },
+ {
+  "trad": "歐巴馬",
+  "pinyin": "ōu bā mǎ",
+  "en": "(Barack) Obama",
+  "mainland": "奥巴马",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "歐巴馬當了八年的美國總統。",
+   "en": "Obama was US president for eight years."
+  }
+ },
+ {
+  "trad": "法國",
+  "pinyin": "fà guó",
+  "en": "France",
+  "mainland": "法国",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "她明年要去法國留學。",
+   "en": "She's going to study in France next year."
+  },
+  "note": "Same word, but the Taiwan standard reading is fà guó (法 is 4th tone only here); fǎ guó is also heard."
+ },
+ {
+  "trad": "大陸",
+  "pinyin": "dà lù",
+  "en": "mainland China",
+  "mainland": "大陆 / 内地",
+  "category": "places",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他被公司派去大陸工作。",
+   "en": "His company sent him to work in mainland China."
+  },
+  "note": "Taiwanese say 大陸 or 中國; 內地 is not used. 陸客 = mainland tourists, 陸劇 = mainland dramas."
+ },
+ {
+  "trad": "感冒",
+  "pinyin": "gǎn mào",
+  "en": "to have a cold; (fig.) to be put off by",
+  "mainland": "感冒",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我好像感冒了，喉嚨好痛。",
+   "en": "I think I've caught a cold; my throat really hurts."
+  },
+  "note": "Same word, but note 對…很感冒 = 'can't stand' in Taiwan, whereas mainland 对…不感冒 = 'not interested in'."
+ },
+ {
+  "trad": "打針",
+  "pinyin": "dǎ zhēn",
+  "en": "to get or give an injection",
+  "mainland": "打针",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "小朋友都很怕打針。",
+   "en": "Little kids are all afraid of shots."
+  },
+  "note": "Same word. An IV drip is 打點滴 (mainland 输液 / 打吊瓶)."
+ },
+ {
+  "trad": "掛號",
+  "pinyin": "guà hào",
+  "en": "to register (to see a doctor); registered (mail)",
+  "mainland": "挂号",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我已經用手機掛號了。",
+   "en": "I've already registered on my phone."
+  },
+  "note": "Same word. You pay a 掛號費 at each visit; 掛號信 = registered mail."
+ },
+ {
+  "trad": "診所",
+  "pinyin": "zhěn suǒ",
+  "en": "(neighbourhood) clinic",
+  "mainland": "诊所 / 社区医院",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我家樓下就有一間診所。",
+   "en": "There's a clinic right downstairs from my place."
+  },
+  "note": "For minor illness Taiwanese go to a local 診所 (耳鼻喉科, 小兒科, 皮膚科…), not a big hospital."
+ },
+ {
+  "trad": "健保",
+  "pinyin": "jiàn bǎo",
+  "en": "National Health Insurance",
+  "mainland": "医保",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "有健保看醫生很便宜。",
+   "en": "With NHI, seeing a doctor is cheap."
+  },
+  "note": "Short for 全民健康保險. 自費 = paid out of pocket, not covered."
+ },
+ {
+  "trad": "健保卡",
+  "pinyin": "jiàn bǎo kǎ",
+  "en": "NHI card",
+  "mainland": "医保卡 / 社保卡",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "看醫生要記得帶健保卡。",
+   "en": "Remember your NHI card when you see a doctor."
+  }
+ },
+ {
+  "trad": "OK繃",
+  "pinyin": "OK bēng",
+  "en": "adhesive bandage; Band-Aid",
+  "mainland": "创可贴",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我的手割到了，你有OK繃嗎？",
+   "en": "I cut my hand. Do you have a Band-Aid?"
+  },
+  "note": "From a brand name. 創可貼 is mainland usage and not widely understood."
+ },
+ {
+  "trad": "過敏",
+  "pinyin": "guò mǐn",
+  "en": "allergy; to be allergic",
+  "mainland": "过敏",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我對花生跟蝦子過敏。",
+   "en": "I'm allergic to peanuts and shrimp."
+  },
+  "note": "Same word. 鼻子過敏 (allergic rhinitis) is an extremely common complaint in humid Taiwan."
+ },
+ {
+  "trad": "藥局",
+  "pinyin": "yào jú",
+  "en": "pharmacy",
+  "mainland": "药店 / 药房",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我去藥局買感冒藥。",
+   "en": "I'm going to the pharmacy for cold medicine."
+  },
+  "note": "Also 藥房. 藥店 isn't used."
+ },
+ {
+  "trad": "流鼻水",
+  "pinyin": "liú bí shuǐ",
+  "en": "to have a runny nose",
+  "mainland": "流鼻涕",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我一直流鼻水，好不舒服。",
+   "en": "My nose keeps running; I feel awful."
+  },
+  "note": "鼻涕 exists too, but the symptom is always 流鼻水."
+ },
+ {
+  "trad": "頭痛",
+  "pinyin": "tóu tòng",
+  "en": "headache; to have a headache",
+  "mainland": "头疼 / 头痛",
+  "category": "health",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我頭痛，想早點回家休息。",
+   "en": "I have a headache and want to go home early to rest."
+  },
+  "note": "Taiwan says 痛 nearly everywhere northern China says 疼: 頭痛, 肚子痛, 牙痛."
+ },
+ {
+  "trad": "節目",
+  "pinyin": "jié mù",
+  "en": "(TV or radio) programme; show",
+  "mainland": "节目",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個節目每週六晚上播。",
+   "en": "This show airs every Saturday night."
+  },
+  "note": "Same word. Note that 播 is read bò in Taiwan: 播出, 轉播, 直播."
+ },
+ {
+  "trad": "網紅",
+  "pinyin": "wǎng hóng",
+  "en": "internet celebrity; influencer",
+  "mainland": "网红",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他是有百萬粉絲的網紅。",
+   "en": "He's an influencer with a million followers."
+  },
+  "note": "Same word. Video creators are simply called YouTuber."
+ },
+ {
+  "trad": "直播",
+  "pinyin": "zhí bò",
+  "en": "live stream; live broadcast",
+  "mainland": "直播",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "她每天晚上開直播賣衣服。",
+   "en": "She goes live every night selling clothes."
+  },
+  "note": "Same word, but 播 is read bò. A streamer is a 直播主 (mainland 主播)."
+ },
+ {
+  "trad": "字幕",
+  "pinyin": "zì mù",
+  "en": "subtitles",
+  "mainland": "字幕",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "沒有字幕我聽不太懂。",
+   "en": "Without subtitles I can't really follow."
+  },
+  "note": "Same word. Taiwanese TV subtitles almost everything, Mandarin shows included."
+ },
+ {
+  "trad": "連續劇",
+  "pinyin": "lián xù jù",
+  "en": "TV drama serial",
+  "mainland": "电视剧 / 连续剧",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "阿嬤每天晚上都看連續劇。",
+   "en": "Grandma watches her drama serial every night."
+  },
+  "note": "八點檔 = the 8 p.m. prime-time soap. Korean and Japanese dramas are 韓劇 and 日劇."
+ },
+ {
+  "trad": "影集",
+  "pinyin": "yǐng jí",
+  "en": "TV series (esp. Western or streaming)",
+  "mainland": "剧 / 美剧 / 电视剧",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "最近有什麼好看的影集？",
+   "en": "Are there any good series lately?"
+  },
+  "note": "False friend: mainland 影集 = photo album (Taiwan 相簿)."
+ },
+ {
+  "trad": "卡通",
+  "pinyin": "kǎ tōng",
+  "en": "cartoon",
+  "mainland": "动画片 / 卡通",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "小時候放學都在看卡通。",
+   "en": "As a kid I watched cartoons after school."
+  },
+  "note": "動畫 is used for animation or anime as a medium; 動畫片 isn't said."
+ },
+ {
+  "trad": "樂團",
+  "pinyin": "yuè tuán",
+  "en": "band; orchestra",
+  "mainland": "乐队",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "五月天是我最愛的樂團。",
+   "en": "Mayday is my favourite band."
+  },
+  "note": "樂隊 in Taiwan suggests a marching band."
+ },
+ {
+  "trad": "臉書",
+  "pinyin": "liǎn shū",
+  "en": "Facebook",
+  "mainland": "脸书",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我阿姨每天都在臉書發文。",
+   "en": "My aunt posts on Facebook every day."
+  },
+  "note": "Usually just 'FB'. Still big in Taiwan for groups (社團) and business pages (粉專)."
+ },
+ {
+  "trad": "貼文",
+  "pinyin": "tiē wén",
+  "en": "(social media) post",
+  "mainland": "帖子",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "她的貼文有一萬個讚。",
+   "en": "Her post has ten thousand likes."
+  },
+  "note": "To post = 發文 or 'po文'. 帖子 isn't used in Taiwan."
+ },
+ {
+  "trad": "按讚",
+  "pinyin": "àn zàn",
+  "en": "to like (a post)",
+  "mainland": "点赞",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "記得幫我的影片按讚。",
+   "en": "Remember to like my video."
+  },
+  "note": "The YouTuber sign-off: 按讚、訂閱、開啟小鈴鐺."
+ },
+ {
+  "trad": "追蹤",
+  "pinyin": "zhuī zōng",
+  "en": "to follow (an account)",
+  "mainland": "关注",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我有追蹤她的IG。",
+   "en": "I follow her on Instagram."
+  },
+  "note": "關注 in Taiwan just means 'to pay attention to'. Followers = 追蹤者 or 粉絲."
+ },
+ {
+  "trad": "氣象預報",
+  "pinyin": "qì xiàng yù bào",
+  "en": "weather forecast",
+  "mainland": "天气预报",
+  "category": "media",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "氣象預報說明天會下雨。",
+   "en": "The forecast says it'll rain tomorrow."
+  },
+  "note": "Also 氣象報告. The weather agency is the 中央氣象署."
+ },
+ {
+  "trad": "發票",
+  "pinyin": "fā piào",
+  "en": "receipt (Uniform Invoice)",
+  "mainland": "小票 / 发票",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "發票要留著，可以對獎喔。",
+   "en": "Keep the receipt. You can check it for prizes."
+  },
+  "note": "Every purchase gets a numbered 統一發票 that doubles as a lottery ticket. Mainland 发票 is a tax invoice you have to ask for."
+ },
+ {
+  "trad": "特價",
+  "pinyin": "tè jià",
+  "en": "special offer; on sale",
+  "mainland": "特价 / 打折",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "牛奶今天特價，買一送一。",
+   "en": "Milk is on sale today, buy one get one free."
+  },
+  "note": "Same word. Typical deals: 買一送一, 第二件六折. Remember 八折 = 20% off."
+ },
+ {
+  "trad": "刷卡",
+  "pinyin": "shuā kǎ",
+  "en": "to pay by card",
+  "mainland": "刷卡",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請問這裡可以刷卡嗎？",
+   "en": "Excuse me, can I pay by card here?"
+  },
+  "note": "Same word. Many small eateries and market stalls are cash only (只收現金)."
+ },
+ {
+  "trad": "百貨公司",
+  "pinyin": "bǎi huò gōng sī",
+  "en": "department store",
+  "mainland": "商场 / 百货商店",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "百貨公司週年慶人超多。",
+   "en": "Department stores are packed during the anniversary sale."
+  },
+  "note": "E.g. 新光三越, SOGO. 商場 is used for malls."
+ },
+ {
+  "trad": "便利商店",
+  "pinyin": "biàn lì shāng diàn",
+  "en": "convenience store",
+  "mainland": "便利店",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "便利商店可以繳水電費。",
+   "en": "You can pay utility bills at convenience stores."
+  },
+  "note": "7-ELEVEN (小七), 全家, 萊爾富, OK. You can also ship parcels, print, and buy train tickets there."
+ },
+ {
+  "trad": "超商",
+  "pinyin": "chāo shāng",
+  "en": "convenience store",
+  "mainland": "便利店",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我去超商領個包裹。",
+   "en": "I'm going to the convenience store to pick up a parcel."
+  },
+  "note": "Not a supermarket (超市): 超商 always means a convenience store."
+ },
+ {
+  "trad": "結帳",
+  "pinyin": "jié zhàng",
+  "en": "to pay the bill; to check out",
+  "mainland": "结账 / 买单",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "不好意思，我要結帳。",
+   "en": "Excuse me, I'd like to pay."
+  },
+  "note": "買單 is also used in restaurants. Written with 帳."
+ },
+ {
+  "trad": "櫃檯",
+  "pinyin": "guì tái",
+  "en": "counter; front desk",
+  "mainland": "柜台 / 前台",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請到櫃檯結帳，謝謝。",
+   "en": "Please pay at the counter, thank you."
+  },
+  "note": "Also written 櫃台. 前台 isn't used; a hotel front desk is also 櫃檯."
+ },
+ {
+  "trad": "店員",
+  "pinyin": "diàn yuán",
+  "en": "shop assistant; clerk",
+  "mainland": "店员 / 营业员 / 售货员",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我問店員有沒有別的顏色。",
+   "en": "I asked the clerk if they had other colours."
+  }
+ },
+ {
+  "trad": "宅配",
+  "pinyin": "zhái pèi",
+  "en": "home delivery; courier",
+  "mainland": "快递 / 送货上门",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個可以宅配到家嗎？",
+   "en": "Can this be delivered to my home?"
+  },
+  "note": "From Japanese 宅配便. 黑貓宅急便 is the best-known courier."
+ },
+ {
+  "trad": "免運",
+  "pinyin": "miǎn yùn",
+  "en": "free shipping",
+  "mainland": "包邮",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "滿五百元就免運費。",
+   "en": "Free shipping on orders over NT$500."
+  },
+  "note": "Short for 免運費. 包郵 is mainland usage."
+ },
+ {
+  "trad": "品質",
+  "pinyin": "pǐn zhí",
+  "en": "quality",
+  "mainland": "质量",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這個牌子的品質很好。",
+   "en": "This brand's quality is very good."
+  },
+  "note": "質 is read zhí. In Taiwan 質量 means 'mass' (physics), never 'quality'."
+ },
+ {
+  "trad": "CP值",
+  "pinyin": "CP zhí",
+  "en": "value for money",
+  "mainland": "性价比",
+  "category": "shopping",
+  "register": "colloquial",
+  "level": 1,
+  "example": {
+   "zh": "這家餐廳的CP值很高。",
+   "en": "This restaurant is great value for money."
+  },
+  "note": "From 'cost–performance ratio'. 性價比 is mainland usage."
+ },
+ {
+  "trad": "公寓",
+  "pinyin": "gōng yù",
+  "en": "(walk-up) apartment building",
+  "mainland": "公寓 / 居民楼",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我住在沒有電梯的老公寓。",
+   "en": "I live in an old walk-up apartment with no elevator."
+  },
+  "note": "In Taiwan 公寓 usually means an older 4–5-storey walk-up; buildings with elevators are 電梯大樓 or 華廈."
+ },
+ {
+  "trad": "大樓",
+  "pinyin": "dà lóu",
+  "en": "(elevator) high-rise building",
+  "mainland": "高层 / 大厦",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "他住在捷運站旁邊的大樓。",
+   "en": "He lives in the high-rise next to the MRT station."
+  },
+  "note": "電梯大樓 = residential tower with elevator, guard desk and monthly 管理費."
+ },
+ {
+  "trad": "套房",
+  "pinyin": "tào fáng",
+  "en": "studio room with private bathroom",
+  "mainland": "单间 / 一居室",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我在公司附近租了一間套房。",
+   "en": "I rented a studio near the office."
+  },
+  "note": "False friend: mainland 套房 = a multi-room suite or flat. In Taiwan it's one room with its own bathroom."
+ },
+ {
+  "trad": "房東",
+  "pinyin": "fáng dōng",
+  "en": "landlord; landlady",
+  "mainland": "房东",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "房東說下個月要漲房租。",
+   "en": "The landlord says the rent goes up next month."
+  },
+  "note": "Same word. The tenant is the 房客 (mainland 租客)."
+ },
+ {
+  "trad": "管理員",
+  "pinyin": "guǎn lǐ yuán",
+  "en": "building concierge; doorman",
+  "mainland": "门卫 / 保安 / 物业",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "包裹請管理員幫我代收。",
+   "en": "I asked the doorman to accept the parcel for me."
+  },
+  "note": "Staffs the lobby desk of a 大樓 and takes in parcels and registered mail. Also 警衛."
+ },
+ {
+  "trad": "陽台",
+  "pinyin": "yáng tái",
+  "en": "balcony",
+  "mainland": "阳台",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "衣服曬在陽台就好。",
+   "en": "Just hang the clothes on the balcony."
+  },
+  "note": "Same word. The washing machine usually lives on the back balcony (後陽台)."
+ },
+ {
+  "trad": "租屋",
+  "pinyin": "zū wū",
+  "en": "to rent a home; rental housing",
+  "mainland": "租房",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "在台北租屋真的很貴。",
+   "en": "Renting in Taipei is really expensive."
+  },
+  "note": "Also 租房子. The go-to listings site is 591租屋網."
+ },
+ {
+  "trad": "瓦斯",
+  "pinyin": "wǎ sī",
+  "en": "(household) gas",
+  "mainland": "煤气 / 燃气 / 天然气",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "出門前記得關瓦斯。",
+   "en": "Remember to turn off the gas before going out."
+  },
+  "note": "Via Japanese ガス. 天然氣 is piped gas; a 瓦斯桶 is a delivered cylinder."
+ },
+ {
+  "trad": "社區",
+  "pinyin": "shè qū",
+  "en": "residential complex; community",
+  "mainland": "小区",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們社區有游泳池。",
+   "en": "Our complex has a swimming pool."
+  },
+  "note": "小區 isn't used in Taiwan."
+ },
+ {
+  "trad": "飯店",
+  "pinyin": "fàn diàn",
+  "en": "hotel",
+  "mainland": "酒店 / 宾馆",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們訂了車站附近的飯店。",
+   "en": "We booked a hotel near the station."
+  },
+  "note": "In Taiwan a 飯店 is a hotel, not a restaurant. Careful with 酒店: outside hotel brand names it suggests a hostess club."
+ },
+ {
+  "trad": "民宿",
+  "pinyin": "mín sù",
+  "en": "B&B; guesthouse",
+  "mainland": "民宿",
+  "category": "housing",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們在花蓮住民宿。",
+   "en": "We stayed at a B&B in Hualien."
+  },
+  "note": "Same word, originally from Japanese minshuku; the default for domestic trips."
+ },
+ {
+  "trad": "身分證",
+  "pinyin": "shēn fèn zhèng",
+  "en": "national ID card",
+  "mainland": "身份证",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "辦手機門號要帶身分證。",
+   "en": "You need your ID card to get a phone line."
+  },
+  "note": "Taiwan writes 身分 (分, not 份). The ID number (身分證字號) is one letter plus nine digits."
+ },
+ {
+  "trad": "民國",
+  "pinyin": "mín guó",
+  "en": "Republic (ROC) era, Taiwan's official year count",
+  "mainland": "",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我是民國八十五年生的。",
+   "en": "I was born in ROC year 85 (1996)."
+  },
+  "note": "ROC year = Western year − 1911, so 2026 is 民國115年. Used on IDs, receipts, forms and expiry dates."
+ },
+ {
+  "trad": "提款機",
+  "pinyin": "tí kuǎn jī",
+  "en": "ATM",
+  "mainland": "取款机",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "便利商店裡面都有提款機。",
+   "en": "Convenience stores all have ATMs inside."
+  },
+  "note": "Also just ATM. 提款 = to withdraw; 取款 isn't used."
+ },
+ {
+  "trad": "領錢",
+  "pinyin": "lǐng qián",
+  "en": "to withdraw cash",
+  "mainland": "取钱",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我先去領錢，等我一下。",
+   "en": "I'm going to get some cash first; wait for me."
+  },
+  "note": "取錢 isn't said in Taiwan."
+ },
+ {
+  "trad": "台幣",
+  "pinyin": "tái bì",
+  "en": "New Taiwan dollar (NT$)",
+  "mainland": "",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "一美金大概換三十塊台幣。",
+   "en": "One US dollar is about thirty NT dollars."
+  },
+  "note": "Formally 新台幣 (TWD). The spoken unit is 塊; written 元."
+ },
+ {
+  "trad": "居留證",
+  "pinyin": "jū liú zhèng",
+  "en": "Alien Resident Certificate (ARC)",
+  "mainland": "居留许可",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "外國人要先辦居留證。",
+   "en": "Foreigners need to get a resident certificate first."
+  },
+  "note": "Needed to open a bank account, get a phone contract and join 健保."
+ },
+ {
+  "trad": "影本",
+  "pinyin": "yǐng běn",
+  "en": "photocopy (of a document)",
+  "mainland": "复印件",
+  "category": "admin",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "請附上身分證影本。",
+   "en": "Please attach a photocopy of your ID."
+  },
+  "note": "The original is the 正本 (mainland 原件)."
+ },
+ {
+  "trad": "籃球",
+  "pinyin": "lán qiú",
+  "en": "basketball",
+  "mainland": "篮球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "下課後我們去打籃球。",
+   "en": "We're going to play basketball after class."
+  },
+  "note": "Same word, but the jargon differs: 灌籃 (扣篮), 阻攻 (盖帽), 抄截 (抢断), 延長賽 (加时赛)."
+ },
+ {
+  "trad": "棒球",
+  "pinyin": "bàng qiú",
+  "en": "baseball",
+  "mainland": "棒球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "棒球是台灣的國球。",
+   "en": "Baseball is Taiwan's national sport."
+  },
+  "note": "Same word. Baseball terms differ: 全壘打 (本垒打), 捕手 (接手), 打者 (击球员)."
+ },
+ {
+  "trad": "桌球",
+  "pinyin": "zhuō qiú",
+  "en": "table tennis",
+  "mainland": "乒乓球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我爸每個週末都去打桌球。",
+   "en": "My dad plays table tennis every weekend."
+  },
+  "note": "False friend: mainland 桌球 usually means billiards. 乒乓球 is understood; billiards in Taiwan is 撞球."
+ },
+ {
+  "trad": "羽球",
+  "pinyin": "yǔ qiú",
+  "en": "badminton",
+  "mainland": "羽毛球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我們晚上要去打羽球。",
+   "en": "We're going to play badminton tonight."
+  },
+  "note": "羽毛球 is the full form; everyday speech says 羽球."
+ },
+ {
+  "trad": "選手",
+  "pinyin": "xuǎn shǒu",
+  "en": "athlete; player; contestant",
+  "mainland": "运动员 / 选手",
+  "category": "sports",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "她是台灣最有名的羽球選手。",
+   "en": "She's Taiwan's most famous badminton player."
+  },
+  "note": "運動員 is rarely used; 選手 covers athletes, e-sports players and contestants. National-team members are 國手."
+ },
+ {
+  "trad": "奧運",
+  "pinyin": "ào yùn",
+  "en": "the Olympics",
+  "mainland": "奥运会",
+  "category": "sports",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "台灣在奧運拿過羽球金牌。",
+   "en": "Taiwan has won Olympic gold in badminton."
+  },
+  "note": "Taiwan drops the 會: 奧運, 亞運. It competes under the name 中華台北 (Chinese Taipei)."
+ },
+ {
+  "trad": "公分",
+  "pinyin": "gōng fēn",
+  "en": "centimetre",
+  "mainland": "厘米",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我身高一百七十公分。",
+   "en": "I'm 170 centimetres tall."
+  },
+  "note": "厘米 isn't used. Metric units take 公 in Taiwan: 公分, 公尺, 公里, 公克, 公斤, 公升."
+ },
+ {
+  "trad": "公斤",
+  "pinyin": "gōng jīn",
+  "en": "kilogram",
+  "mainland": "公斤 / 千克",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我最近胖了三公斤。",
+   "en": "I've put on three kilos lately."
+  },
+  "note": "Careful with bare 斤: in Taiwan it's the 台斤 (600 g), not the mainland 市斤 (500 g)."
+ },
+ {
+  "trad": "公尺",
+  "pinyin": "gōng chǐ",
+  "en": "metre",
+  "mainland": "米",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "往前走一百公尺就到了。",
+   "en": "Walk a hundred metres ahead and you're there."
+  },
+  "note": "米 for metres is understood but sounds mainland."
+ },
+ {
+  "trad": "坪",
+  "pinyin": "píng",
+  "en": "ping (unit of floor area, about 3.3 m²)",
+  "mainland": "平方米 / 平米",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這間套房大概八坪。",
+   "en": "This studio is about eight ping."
+  },
+  "note": "1 坪 ≈ 3.3 m² (two tatami mats). All housing sizes and prices are quoted per 坪."
+ },
+ {
+  "trad": "台",
+  "pinyin": "tái",
+  "en": "classifier for machines and vehicles",
+  "mainland": "辆 / 部",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我想買一台新的機車。",
+   "en": "I want to buy a new scooter."
+  },
+  "note": "Taiwan uses 台 for cars, scooters, bikes, computers, TVs and so on; 輛 sounds formal."
+ },
+ {
+  "trad": "間",
+  "pinyin": "jiān",
+  "en": "classifier for shops, companies, schools, rooms",
+  "mainland": "家 / 间",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "這間餐廳的牛肉麵很好吃。",
+   "en": "This restaurant's beef noodles are delicious."
+  },
+  "note": "Taiwan says 一間店, 一間公司, 一間學校 where the mainland prefers 家 or 所."
+ },
+ {
+  "trad": "支",
+  "pinyin": "zhī",
+  "en": "classifier for phones, pens, videos, bottles",
+  "mainland": "部 / 个",
+  "category": "measure",
+  "register": "neutral",
+  "level": 1,
+  "example": {
+   "zh": "我想換一支新的手機。",
+   "en": "I want to get a new phone."
+  },
+  "note": "一支手機, 一支筆, 一支影片, 一支湯匙. The mainland says 一部手机."
+ },
+ {
+  "trad": "硬體",
+  "pinyin": "yìng tǐ",
+  "en": "hardware",
+  "mainland": "硬件",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這台電腦的硬體太舊了。",
+   "en": "This computer's hardware is too old."
+  }
+ },
+ {
+  "trad": "印表機",
+  "pinyin": "yìn biǎo jī",
+  "en": "printer",
+  "mainland": "打印机",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "辦公室的印表機又卡紙了。",
+   "en": "The office printer is jammed again."
+  }
+ },
+ {
+  "trad": "硬碟",
+  "pinyin": "yìng dié",
+  "en": "hard drive",
+  "mainland": "硬盘",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的硬碟快要滿了。",
+   "en": "My hard drive is almost full."
+  },
+  "note": "Disk = 碟 in Taiwan (硬碟, 光碟, 隨身碟), 盘 on the mainland."
+ },
+ {
+  "trad": "隨身碟",
+  "pinyin": "suí shēn dié",
+  "en": "USB flash drive",
+  "mainland": "U盘 / 优盘",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "檔案我存在隨身碟裡。",
+   "en": "I saved the file on the flash drive."
+  }
+ },
+ {
+  "trad": "行動電源",
+  "pinyin": "xíng dòng diàn yuán",
+  "en": "power bank",
+  "mainland": "充电宝",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "你有帶行動電源嗎？",
+   "en": "Did you bring a power bank?"
+  },
+  "note": "行動 = 'mobile' in Taiwan (行動電話, 行動支付, 行動網路); the mainland uses 移动."
+ },
+ {
+  "trad": "程式",
+  "pinyin": "chéng shì",
+  "en": "(computer) program; code",
+  "mainland": "程序",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他從國中就開始寫程式。",
+   "en": "He's been coding since junior high."
+  },
+  "note": "寫程式 = to code. 程序 in Taiwan only means 'procedure'."
+ },
+ {
+  "trad": "數位",
+  "pinyin": "shù wèi",
+  "en": "digital",
+  "mainland": "数字 / 数码",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "政府正在推動數位轉型。",
+   "en": "The government is pushing digital transformation."
+  },
+  "note": "數位相機, 數位學習. In Taiwan 數字 only means 'number, figure'."
+ },
+ {
+  "trad": "資料夾",
+  "pinyin": "zī liào jiá",
+  "en": "folder",
+  "mainland": "文件夹",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "照片都放在這個資料夾。",
+   "en": "The photos are all in this folder."
+  },
+  "note": "夾 is read jiá in Taiwan. Also a physical document folder."
+ },
+ {
+  "trad": "預設",
+  "pinyin": "yù shè",
+  "en": "default (setting)",
+  "mainland": "默认",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "預設的密碼是四個零。",
+   "en": "The default password is four zeros."
+  }
+ },
+ {
+  "trad": "智慧型手機",
+  "pinyin": "zhì huì xíng shǒu jī",
+  "en": "smartphone",
+  "mainland": "智能手机",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "阿嬤也開始用智慧型手機了。",
+   "en": "Grandma has started using a smartphone too."
+  },
+  "note": "'Smart' is 智慧 in Taiwan (智慧手錶, 智慧家電), 智能 on the mainland."
+ },
+ {
+  "trad": "人工智慧",
+  "pinyin": "rén gōng zhì huì",
+  "en": "artificial intelligence",
+  "mainland": "人工智能",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "人工智慧發展得很快。",
+   "en": "AI is developing very fast."
+  },
+  "note": "In conversation most people just say AI."
+ },
+ {
+  "trad": "記憶體",
+  "pinyin": "jì yì tǐ",
+  "en": "memory (RAM)",
+  "mainland": "内存",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "記憶體不夠，電腦跑很慢。",
+   "en": "There's not enough RAM, so the computer runs slowly."
+  }
+ },
+ {
+  "trad": "伺服器",
+  "pinyin": "sì fú qì",
+  "en": "server",
+  "mainland": "服务器",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "伺服器好像又掛了。",
+   "en": "The server seems to be down again."
+  }
+ },
+ {
+  "trad": "部落格",
+  "pinyin": "bù luò gé",
+  "en": "blog",
+  "mainland": "博客",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她在部落格分享旅遊心得。",
+   "en": "She shares her travel experiences on her blog."
+  },
+  "note": "A blogger is a 部落客."
+ },
+ {
+  "trad": "資料庫",
+  "pinyin": "zī liào kù",
+  "en": "database",
+  "mainland": "数据库",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "客戶名單都存在資料庫裡。",
+   "en": "The customer list is all stored in the database."
+  }
+ },
+ {
+  "trad": "訊號",
+  "pinyin": "xùn hào",
+  "en": "signal; reception",
+  "mainland": "信号",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "地下室的訊號很差。",
+   "en": "The signal in the basement is terrible."
+  },
+  "note": "Phone reception is also called 收訊: 這裡收訊不好."
+ },
+ {
+  "trad": "當機",
+  "pinyin": "dàng jī",
+  "en": "(of a device) to crash; to freeze",
+  "mainland": "死机",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的電腦又當機了。",
+   "en": "My computer froze again."
+  },
+  "note": "當 is read dàng here. Also said jokingly of people: 我腦袋當機了."
+ },
+ {
+  "trad": "重開機",
+  "pinyin": "chóng kāi jī",
+  "en": "to restart; to reboot",
+  "mainland": "重启",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "你重開機試試看。",
+   "en": "Try restarting it."
+  }
+ },
+ {
+  "trad": "儲存",
+  "pinyin": "chú cún",
+  "en": "to save; to store",
+  "mainland": "保存 / 存储",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "記得先儲存再關掉。",
+   "en": "Remember to save before you close it."
+  },
+  "note": "儲 is read chú in Taiwan (mainland chǔ). 儲值 = to top up credit."
+ },
+ {
+  "trad": "存檔",
+  "pinyin": "cún dǎng",
+  "en": "to save (a file)",
+  "mainland": "存盘 / 保存",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我忘記存檔就關掉了。",
+   "en": "I closed it without saving."
+  }
+ },
+ {
+  "trad": "貼上",
+  "pinyin": "tiē shàng",
+  "en": "to paste",
+  "mainland": "粘贴",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "複製以後貼上就好了。",
+   "en": "Just copy it and then paste."
+  },
+  "note": "Copy-paste = 複製貼上; cut = 剪下 (mainland 剪切)."
+ },
+ {
+  "trad": "雲端",
+  "pinyin": "yún duān",
+  "en": "the cloud",
+  "mainland": "云 / 云端",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "照片我都備份在雲端。",
+   "en": "I back up all my photos to the cloud."
+  },
+  "note": "雲端硬碟 = cloud drive (mainland 云盘 / 网盘)."
+ },
+ {
+  "trad": "傳輸線",
+  "pinyin": "chuán shū xiàn",
+  "en": "data cable; USB cable",
+  "mainland": "数据线",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "你有多的傳輸線可以借我嗎？",
+   "en": "Do you have a spare cable I could borrow?"
+  },
+  "note": "For charging, people also say 充電線."
+ },
+ {
+  "trad": "保護貼",
+  "pinyin": "bǎo hù tiē",
+  "en": "screen protector",
+  "mainland": "贴膜 / 手机膜",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "新手機要先貼保護貼。",
+   "en": "A new phone needs a screen protector first."
+  }
+ },
+ {
+  "trad": "駭客",
+  "pinyin": "hài kè",
+  "en": "hacker",
+  "mainland": "黑客",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "公司的網站被駭客入侵了。",
+   "en": "The company's website was broken into by hackers."
+  },
+  "note": "被駭 = to get hacked."
+ },
+ {
+  "trad": "介面",
+  "pinyin": "jiè miàn",
+  "en": "interface",
+  "mainland": "界面",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "新版的介面比較好用。",
+   "en": "The new version's interface is easier to use."
+  }
+ },
+ {
+  "trad": "應用程式",
+  "pinyin": "yìng yòng chéng shì",
+  "en": "application; app",
+  "mainland": "应用程序 / 应用",
+  "category": "tech",
+  "register": "formal",
+  "level": 2,
+  "example": {
+   "zh": "請先下載這個應用程式。",
+   "en": "Please download this application first."
+  },
+  "note": "In speech everyone says 'APP', spelled out letter by letter: A-P-P."
+ },
+ {
+  "trad": "晶片",
+  "pinyin": "jīng piàn",
+  "en": "(micro)chip",
+  "mainland": "芯片",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "台灣的晶片產業很有名。",
+   "en": "Taiwan's chip industry is famous."
+  },
+  "note": "晶圓 = wafer. 台積電 (TSMC) is the giant of 晶圓代工 (foundry work)."
+ },
+ {
+  "trad": "線上",
+  "pinyin": "xiàn shàng",
+  "en": "online",
+  "mainland": "在线 / 线上",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這門課可以線上報名。",
+   "en": "You can sign up for this course online."
+  },
+  "note": "線上課程, 線上購物. Taiwan rarely says 在線."
+ },
+ {
+  "trad": "電玩",
+  "pinyin": "diàn wán",
+  "en": "video games",
+  "mainland": "电子游戏 / 游戏",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我弟弟很愛打電玩。",
+   "en": "My little brother loves playing video games."
+  },
+  "note": "Colloquially 打電動."
+ },
+ {
+  "trad": "封鎖",
+  "pinyin": "fēng suǒ",
+  "en": "to block (a user)",
+  "mainland": "拉黑 / 屏蔽",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我把他的帳號封鎖了。",
+   "en": "I blocked his account."
+  }
+ },
+ {
+  "trad": "貼圖",
+  "pinyin": "tiē tú",
+  "en": "(chat) sticker",
+  "mainland": "表情包 / 贴图",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她很愛傳可愛的貼圖。",
+   "en": "She loves sending cute stickers."
+  },
+  "note": "LINE 貼圖 are a big part of how Taiwanese people chat."
+ },
+ {
+  "trad": "支援",
+  "pinyin": "zhī yuán",
+  "en": "to support (a format or feature); to back up",
+  "mainland": "支持",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這支手機不支援無線充電。",
+   "en": "This phone doesn't support wireless charging."
+  },
+  "note": "Technical 'support' is 支援; 支持 is for backing a person or an idea."
+ },
+ {
+  "trad": "執行",
+  "pinyin": "zhí xíng",
+  "en": "to run; to execute",
+  "mainland": "运行",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "程式執行到一半就停了。",
+   "en": "The program stopped halfway through running."
+  },
+  "note": "Colloquially 跑: 這個程式跑不動."
+ },
+ {
+  "trad": "飛航模式",
+  "pinyin": "fēi háng mó shì",
+  "en": "airplane mode",
+  "mainland": "飞行模式",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "上飛機前記得開飛航模式。",
+   "en": "Remember to turn on airplane mode before boarding."
+  }
+ },
+ {
+  "trad": "重新整理",
+  "pinyin": "chóng xīn zhěng lǐ",
+  "en": "to refresh (a page)",
+  "mainland": "刷新",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "網頁重新整理一下就好了。",
+   "en": "Just refresh the page and it'll be fine."
+  }
+ },
+ {
+  "trad": "個資",
+  "pinyin": "gè zī",
+  "en": "personal data",
+  "mainland": "个人信息",
+  "category": "tech",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "不要隨便把個資給別人。",
+   "en": "Don't give out your personal data carelessly."
+  },
+  "note": "Short for 個人資料. The privacy law is the 個資法; a data leak is 個資外洩."
+ },
+ {
+  "trad": "客運",
+  "pinyin": "kè yùn",
+  "en": "intercity bus; coach",
+  "mainland": "长途汽车 / 大巴",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "搭客運去台中比較便宜。",
+   "en": "Taking a coach to Taichung is cheaper."
+  },
+  "note": "Operators include 國光客運 and 統聯客運."
+ },
+ {
+  "trad": "轉運站",
+  "pinyin": "zhuǎn yùn zhàn",
+  "en": "bus transfer terminal",
+  "mainland": "客运站 / 换乘枢纽",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們在台北轉運站搭客運。",
+   "en": "We catch the coach at Taipei Bus Station."
+  }
+ },
+ {
+  "trad": "區間車",
+  "pinyin": "qū jiān chē",
+  "en": "local (all-stops) train",
+  "mainland": "慢车 / 普通列车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "區間車每一站都會停。",
+   "en": "The local train stops at every station."
+  },
+  "note": "You can ride with an 悠遊卡; there are no seat reservations."
+ },
+ {
+  "trad": "轉乘",
+  "pinyin": "zhuǎn chéng",
+  "en": "to transfer (lines or vehicles)",
+  "mainland": "换乘",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "到台北車站再轉乘板南線。",
+   "en": "Transfer to the Bannan line at Taipei Main Station."
+  },
+  "note": "Colloquially 轉車 or 換車."
+ },
+ {
+  "trad": "停車格",
+  "pinyin": "tíng chē gé",
+  "en": "(marked) parking space",
+  "mainland": "停车位",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這附近很難找到停車格。",
+   "en": "It's hard to find a parking space around here."
+  },
+  "note": "Also 停車位 / 車位. Scooter bays are 機車格."
+ },
+ {
+  "trad": "駕照",
+  "pinyin": "jià zhào",
+  "en": "driver's license",
+  "mainland": "驾照 / 驾驶证",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我下個月要去考機車駕照。",
+   "en": "I'm taking my scooter license test next month."
+  },
+  "note": "Formal: 駕駛執照 (mainland 驾驶证). Tests are taken at the 監理站."
+ },
+ {
+  "trad": "迴轉",
+  "pinyin": "huí zhuǎn",
+  "en": "to make a U-turn",
+  "mainland": "掉头",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "前面的路口可以迴轉。",
+   "en": "You can make a U-turn at the next intersection."
+  },
+  "note": "Also written 回轉. 掉頭 is understood."
+ },
+ {
+  "trad": "後車廂",
+  "pinyin": "hòu chē xiāng",
+  "en": "(car) trunk",
+  "mainland": "后备箱",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "行李放後車廂就好。",
+   "en": "Just put the luggage in the trunk."
+  },
+  "note": "The storage space under a scooter seat is the 車廂 or 置物箱."
+ },
+ {
+  "trad": "煞車",
+  "pinyin": "shā chē",
+  "en": "brake; to brake",
+  "mainland": "刹车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "下雨天要提早煞車。",
+   "en": "Brake early on rainy days."
+  },
+  "note": "Taiwan writes 煞車; the mainland writes 刹车."
+ },
+ {
+  "trad": "登機證",
+  "pinyin": "dēng jī zhèng",
+  "en": "boarding pass",
+  "mainland": "登机牌",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "請出示護照和登機證。",
+   "en": "Please show your passport and boarding pass."
+  }
+ },
+ {
+  "trad": "航廈",
+  "pinyin": "háng xià",
+  "en": "(airport) terminal",
+  "mainland": "航站楼",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "長榮航空在第二航廈。",
+   "en": "EVA Air is in Terminal 2."
+  },
+  "note": "Everyone says háng xià, though dictionaries give 廈 as shà in building names (大廈)."
+ },
+ {
+  "trad": "班機",
+  "pinyin": "bān jī",
+  "en": "flight",
+  "mainland": "航班",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的班機延誤了兩個小時。",
+   "en": "My flight was delayed by two hours."
+  },
+  "note": "航班 is also used, but 班機 is more common in everyday speech."
+ },
+ {
+  "trad": "空服員",
+  "pinyin": "kōng fú yuán",
+  "en": "flight attendant",
+  "mainland": "乘务员 / 空乘",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "空服員開始發餐了。",
+   "en": "The flight attendants have started serving meals."
+  },
+  "note": "空姐 is also used colloquially, as on the mainland."
+ },
+ {
+  "trad": "遊覽車",
+  "pinyin": "yóu lǎn chē",
+  "en": "tour bus; coach",
+  "mainland": "旅游大巴 / 大巴",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "畢業旅行我們坐遊覽車。",
+   "en": "We went by tour bus on our graduation trip."
+  }
+ },
+ {
+  "trad": "接駁車",
+  "pinyin": "jiē bó chē",
+  "en": "shuttle bus",
+  "mainland": "摆渡车 / 接驳车",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "高鐵站有免費的接駁車。",
+   "en": "There's a free shuttle bus at the HSR station."
+  }
+ },
+ {
+  "trad": "站牌",
+  "pinyin": "zhàn pái",
+  "en": "bus stop (sign)",
+  "mainland": "公交站 / 站牌",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我在公車站牌等你。",
+   "en": "I'll wait for you at the bus stop."
+  },
+  "note": "Buses only stop if you wave them down (招手); press the bell (下車鈴) to get off."
+ },
+ {
+  "trad": "博愛座",
+  "pinyin": "bó ài zuò",
+  "en": "priority seat",
+  "mainland": "爱心专座 / 老弱病残孕专座",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "博愛座要讓給需要的人。",
+   "en": "Priority seats should be given to those who need them."
+  },
+  "note": "Officially renamed 優先席 in 2025, but 博愛座 is still what most people say."
+ },
+ {
+  "trad": "來回票",
+  "pinyin": "lái huí piào",
+  "en": "round-trip ticket",
+  "mainland": "往返票",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "買來回票有比較便宜嗎？",
+   "en": "Is it cheaper to buy a round-trip ticket?"
+  },
+  "note": "One-way = 單程票."
+ },
+ {
+  "trad": "自由座",
+  "pinyin": "zì yóu zuò",
+  "en": "non-reserved seat",
+  "mainland": "",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "自由座在十到十二車。",
+   "en": "Non-reserved seats are in cars 10 to 12."
+  },
+  "note": "On the 高鐵; from Japanese 自由席. Reserved seats are 對號座."
+ },
+ {
+  "trad": "手扶梯",
+  "pinyin": "shǒu fú tī",
+  "en": "escalator",
+  "mainland": "自动扶梯 / 扶梯",
+  "category": "transport",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "手扶梯在出口的左邊。",
+   "en": "The escalator is to the left of the exit."
+  },
+  "note": "Also 電扶梯."
+ },
+ {
+  "trad": "土豆",
+  "pinyin": "tǔ dòu",
+  "en": "peanut",
+  "mainland": "花生",
+  "category": "food",
+  "register": "colloquial",
+  "level": 2,
+  "example": {
+   "zh": "阿公喜歡吃土豆配啤酒。",
+   "en": "Grandpa likes peanuts with his beer."
+  },
+  "note": "False friend: mainland 土豆 = potato. From Taiwanese thôo-tāu; the standard word 花生 is just as common."
+ },
+ {
+  "trad": "優酪乳",
+  "pinyin": "yōu luò rǔ",
+  "en": "drinking yogurt",
+  "mainland": "酸奶",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "便利商店有賣優酪乳。",
+   "en": "Convenience stores sell drinking yogurt."
+  },
+  "note": "酪 is read luò in Taiwan."
+ },
+ {
+  "trad": "奇異果",
+  "pinyin": "qí yì guǒ",
+  "en": "kiwi fruit",
+  "mainland": "猕猴桃",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "紐西蘭的奇異果很甜。",
+   "en": "New Zealand kiwis are very sweet."
+  }
+ },
+ {
+  "trad": "芭樂",
+  "pinyin": "bā lè",
+  "en": "guava",
+  "mainland": "番石榴",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "芭樂沾梅子粉很好吃。",
+   "en": "Guava dipped in plum powder is delicious."
+  },
+  "note": "From Taiwanese. Also figurative: 芭樂歌 = cheesy pop ballad, 芭樂票 = bad cheque."
+ },
+ {
+  "trad": "鮪魚",
+  "pinyin": "wěi yú",
+  "en": "tuna",
+  "mainland": "金枪鱼",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我早餐吃鮪魚三明治。",
+   "en": "I had a tuna sandwich for breakfast."
+  },
+  "note": "Hong Kong says 吞拿魚."
+ },
+ {
+  "trad": "鮭魚",
+  "pinyin": "guī yú",
+  "en": "salmon",
+  "mainland": "三文鱼",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我最愛吃鮭魚生魚片。",
+   "en": "Salmon sashimi is my favourite."
+  },
+  "note": "三文魚 is the Cantonese-derived name used on the mainland. 生魚片 = sashimi (mainland 刺身)."
+ },
+ {
+  "trad": "果汁機",
+  "pinyin": "guǒ zhī jī",
+  "en": "blender",
+  "mainland": "榨汁机 / 搅拌机",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我用果汁機打木瓜牛奶。",
+   "en": "I make papaya milk in the blender."
+  },
+  "note": "打 is the verb for blending: 打果汁."
+ },
+ {
+  "trad": "九層塔",
+  "pinyin": "jiǔ céng tǎ",
+  "en": "Taiwanese basil",
+  "mainland": "罗勒 / 九层塔",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "三杯雞一定要加九層塔。",
+   "en": "Three-cup chicken has to have basil."
+  },
+  "note": "Also essential on 鹹酥雞 (fried chicken bites)."
+ },
+ {
+  "trad": "柳丁",
+  "pinyin": "liǔ dīng",
+  "en": "orange",
+  "mainland": "橙子",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我要一杯現榨柳丁汁。",
+   "en": "A freshly squeezed orange juice, please."
+  },
+  "note": "Written 柳橙 on packaging (柳橙汁). 橙子 isn't used in Taiwan."
+ },
+ {
+  "trad": "酪梨",
+  "pinyin": "luò lí",
+  "en": "avocado",
+  "mainland": "牛油果 / 鳄梨",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我想喝酪梨牛奶。",
+   "en": "I feel like an avocado milkshake."
+  },
+  "note": "酪 is read luò. 牛油果 is the Hong Kong and mainland name."
+ },
+ {
+  "trad": "洋芋片",
+  "pinyin": "yáng yù piàn",
+  "en": "potato chips",
+  "mainland": "薯片",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "看電影配洋芋片最棒了。",
+   "en": "Chips with a movie are the best."
+  },
+  "note": "French fries are 薯條 on both sides."
+ },
+ {
+  "trad": "可頌",
+  "pinyin": "kě sòng",
+  "en": "croissant",
+  "mainland": "牛角包 / 羊角面包",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這家店的可頌很酥。",
+   "en": "This shop's croissants are really flaky."
+  },
+  "note": "A transliteration of the French; also 牛角麵包."
+ },
+ {
+  "trad": "美乃滋",
+  "pinyin": "měi nǎi zī",
+  "en": "mayonnaise",
+  "mainland": "蛋黄酱 / 沙拉酱",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的三明治不要加美乃滋。",
+   "en": "No mayonnaise in my sandwich, please."
+  },
+  "note": "Via Japanese マヨネーズ. Taiwan's version is noticeably sweet."
+ },
+ {
+  "trad": "鮮奶",
+  "pinyin": "xiān nǎi",
+  "en": "fresh milk",
+  "mainland": "鲜奶 / 牛奶",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我要一杯鮮奶茶，微糖。",
+   "en": "A fresh-milk tea, light sugar, please."
+  },
+  "note": "On drink menus 奶茶 is made with creamer (奶精) and 鮮奶茶 with real milk. UHT milk is 保久乳."
+ },
+ {
+  "trad": "免洗筷",
+  "pinyin": "miǎn xǐ kuài",
+  "en": "disposable chopsticks",
+  "mainland": "一次性筷子",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我有帶筷子，不用免洗筷。",
+   "en": "I brought my own chopsticks; no disposable ones needed."
+  },
+  "note": "免洗 = disposable: 免洗杯, 免洗餐具. 一次性 is mainland usage."
+ },
+ {
+  "trad": "自助餐",
+  "pinyin": "zì zhù cān",
+  "en": "pay-per-dish cafeteria; buffet",
+  "mainland": "快餐 / 自选餐",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "公司附近有一家自助餐。",
+   "en": "There's a cafeteria near the office."
+  },
+  "note": "In Taiwan usually a cheap pick-your-own-dishes canteen priced by item or weight. All-you-can-eat is 吃到飽."
+ },
+ {
+  "trad": "冬粉",
+  "pinyin": "dōng fěn",
+  "en": "glass noodles",
+  "mainland": "粉丝",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "火鍋裡我最愛加冬粉。",
+   "en": "Glass noodles are my favourite thing to add to hot pot."
+  },
+  "note": "False friend: 粉絲 in Taiwan only means fans (of a star)."
+ },
+ {
+  "trad": "花枝",
+  "pinyin": "huā zhī",
+  "en": "cuttlefish; squid",
+  "mainland": "墨鱼 / 乌贼",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "夜市的花枝丸很好吃。",
+   "en": "The cuttlefish balls at the night market are delicious."
+  },
+  "note": "Squid proper is 魷魚 (large) or 透抽 / 小卷."
+ },
+ {
+  "trad": "奶油",
+  "pinyin": "nǎi yóu",
+  "en": "butter; cream",
+  "mainland": "黄油 / 奶油",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "吐司塗奶油再烤很香。",
+   "en": "Toast spread with butter and grilled smells great."
+  },
+  "note": "In Taiwan 奶油 covers butter (mainland 黄油); whipping cream is 鮮奶油."
+ },
+ {
+  "trad": "速食",
+  "pinyin": "sù shí",
+  "en": "fast food",
+  "mainland": "快餐",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "小孩子都愛吃速食。",
+   "en": "Kids all love fast food."
+  },
+  "note": "速食店 = fast-food restaurant. 快餐 in Taiwan suggests a quick set meal."
+ },
+ {
+  "trad": "熱炒",
+  "pinyin": "rè chǎo",
+  "en": "stir-fry beer restaurant; its dishes",
+  "mainland": "大排档",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "下班後我們去吃熱炒吧。",
+   "en": "Let's go for stir-fry and beers after work."
+  },
+  "note": "Also 快炒. Noisy places with NT$100 dishes and Taiwan Beer: the classic after-work gathering."
+ },
+ {
+  "trad": "雞排",
+  "pinyin": "jī pái",
+  "en": "fried chicken cutlet",
+  "mainland": "鸡排",
+  "category": "food",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我買了一塊雞排當晚餐。",
+   "en": "I bought a chicken cutlet for dinner."
+  },
+  "note": "The face-sized night-market cutlet. Stock questions: 要切嗎？要辣嗎？"
+ },
+ {
+  "trad": "沐浴乳",
+  "pinyin": "mù yù rǔ",
+  "en": "body wash; shower gel",
+  "mainland": "沐浴露",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "飯店有提供沐浴乳。",
+   "en": "The hotel provides body wash."
+  },
+  "note": "Taiwan favours 乳 / 精 where the mainland uses 露 / 液 / 奶: 洗面乳, 洗衣精, 洗碗精."
+ },
+ {
+  "trad": "面紙",
+  "pinyin": "miàn zhǐ",
+  "en": "facial tissue",
+  "mainland": "纸巾 / 面巾纸",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "包包裡要放一包面紙。",
+   "en": "Keep a pack of tissues in your bag."
+  }
+ },
+ {
+  "trad": "立可白",
+  "pinyin": "lì kě bái",
+  "en": "correction fluid",
+  "mainland": "修正液 / 涂改液",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "寫錯了，你有立可白嗎？",
+   "en": "I made a mistake. Do you have correction fluid?"
+  },
+  "note": "From the brand Liquid Paper. Correction tape is 立可帶."
+ },
+ {
+  "trad": "釘書機",
+  "pinyin": "dìng shū jī",
+  "en": "stapler",
+  "mainland": "订书机",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我用釘書機把它釘起來。",
+   "en": "I'll staple it together."
+  },
+  "note": "Also written 訂書機. Staples are 釘書針."
+ },
+ {
+  "trad": "資源回收",
+  "pinyin": "zī yuán huí shōu",
+  "en": "recycling",
+  "mainland": "垃圾分类 / 回收",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "今天晚上有收資源回收。",
+   "en": "They're collecting recycling tonight."
+  },
+  "note": "Often just 回收. Rubbish is split into 一般垃圾, 資源回收 and 廚餘."
+ },
+ {
+  "trad": "廚餘",
+  "pinyin": "chú yú",
+  "en": "food waste",
+  "mainland": "厨余垃圾 / 湿垃圾",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "廚餘要另外倒，不能丟垃圾桶。",
+   "en": "Food waste goes separately; it can't go in the trash can."
+  }
+ },
+ {
+  "trad": "化妝室",
+  "pinyin": "huà zhuāng shì",
+  "en": "restroom (on signs)",
+  "mainland": "卫生间",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "化妝室在二樓電梯旁邊。",
+   "en": "The restroom is next to the elevator on the second floor."
+  },
+  "note": "Polite signage in department stores and restaurants: it's the toilet, not a dressing room."
+ },
+ {
+  "trad": "蓮蓬頭",
+  "pinyin": "lián péng tóu",
+  "en": "shower head",
+  "mainland": "花洒 / 淋浴喷头",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "浴室的蓮蓬頭在漏水。",
+   "en": "The shower head in the bathroom is leaking."
+  }
+ },
+ {
+  "trad": "刮鬍刀",
+  "pinyin": "guā hú dāo",
+  "en": "razor; shaver",
+  "mainland": "剃须刀 / 刮胡刀",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我忘記帶刮鬍刀了。",
+   "en": "I forgot to bring my razor."
+  }
+ },
+ {
+  "trad": "洗衣精",
+  "pinyin": "xǐ yī jīng",
+  "en": "liquid laundry detergent",
+  "mainland": "洗衣液",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "洗衣精倒一蓋就夠了。",
+   "en": "One capful of detergent is enough."
+  },
+  "note": "Powder is 洗衣粉 on both sides."
+ },
+ {
+  "trad": "洗碗精",
+  "pinyin": "xǐ wǎn jīng",
+  "en": "dish soap",
+  "mainland": "洗洁精",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "洗碗精沒了，幫我買一瓶。",
+   "en": "We're out of dish soap. Buy me a bottle."
+  }
+ },
+ {
+  "trad": "烘衣機",
+  "pinyin": "hōng yī jī",
+  "en": "clothes dryer",
+  "mainland": "烘干机 / 干衣机",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "梅雨季沒有烘衣機很麻煩。",
+   "en": "Not having a dryer in the plum-rain season is a pain."
+  }
+ },
+ {
+  "trad": "除濕機",
+  "pinyin": "chú shī jī",
+  "en": "dehumidifier",
+  "mainland": "除湿机 / 抽湿机",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "台北很潮濕，一定要買除濕機。",
+   "en": "Taipei is very humid; you really need a dehumidifier."
+  },
+  "note": "A household essential in Taiwan's climate."
+ },
+ {
+  "trad": "延長線",
+  "pinyin": "yán cháng xiàn",
+  "en": "power strip; extension cord",
+  "mainland": "插线板 / 接线板 / 插排",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "插座不夠，要買一條延長線。",
+   "en": "There aren't enough sockets; we need a power strip."
+  }
+ },
+ {
+  "trad": "後背包",
+  "pinyin": "hòu bēi bāo",
+  "en": "backpack",
+  "mainland": "双肩包 / 背包",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我背後背包去爬山。",
+   "en": "I take a backpack when I go hiking."
+  }
+ },
+ {
+  "trad": "保溫瓶",
+  "pinyin": "bǎo wēn píng",
+  "en": "thermos; insulated bottle",
+  "mainland": "保温杯",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我每天帶保溫瓶裝熱水。",
+   "en": "I carry hot water in a thermos every day."
+  },
+  "note": "保溫杯 is also used."
+ },
+ {
+  "trad": "計算機",
+  "pinyin": "jì suàn jī",
+  "en": "calculator",
+  "mainland": "计算器",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "考試可以帶計算機嗎？",
+   "en": "Can we bring a calculator to the exam?"
+  },
+  "note": "False friend: mainland 计算机 = computer. In Taiwan a computer is 電腦; 計算機 as 'computer' survives only in course names like 計算機概論."
+ },
+ {
+  "trad": "棉被",
+  "pinyin": "mián bèi",
+  "en": "quilt; duvet",
+  "mainland": "被子",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "天氣變冷了，要蓋厚棉被。",
+   "en": "It's getting cold; time for a thick quilt."
+  },
+  "note": "被子 is also understood; 棉被 is the default word whatever the filling."
+ },
+ {
+  "trad": "羽絨衣",
+  "pinyin": "yǔ róng yī",
+  "en": "down jacket",
+  "mainland": "羽绒服",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "去北海道要帶羽絨衣。",
+   "en": "You'll need a down jacket for Hokkaido."
+  },
+  "note": "Also 羽絨外套."
+ },
+ {
+  "trad": "太陽眼鏡",
+  "pinyin": "tài yáng yǎn jìng",
+  "en": "sunglasses",
+  "mainland": "太阳镜 / 墨镜",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "夏天出門要戴太陽眼鏡。",
+   "en": "Wear sunglasses when you go out in summer."
+  },
+  "note": "墨鏡 is also common."
+ },
+ {
+  "trad": "防曬乳",
+  "pinyin": "fáng shài rǔ",
+  "en": "sunscreen",
+  "mainland": "防晒霜",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "去海邊記得擦防曬乳。",
+   "en": "Remember to put on sunscreen at the beach."
+  },
+  "note": "擦 is the verb for applying creams: 擦防曬, 擦乳液, 擦藥."
+ },
+ {
+  "trad": "保養品",
+  "pinyin": "bǎo yǎng pǐn",
+  "en": "skincare products",
+  "mainland": "护肤品",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她花很多錢買保養品。",
+   "en": "She spends a lot on skincare products."
+  },
+  "note": "保養 = to look after one's skin; also to service a car."
+ },
+ {
+  "trad": "電鍋",
+  "pinyin": "diàn guō",
+  "en": "electric steamer-cooker; rice cooker",
+  "mainland": "电饭锅 / 电饭煲",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "用電鍋蒸一下就可以吃了。",
+   "en": "Just steam it in the rice cooker and it's ready."
+  },
+  "note": "Usually the Tatung outer-pot steamer (大同電鍋) found in every home; a regular rice cooker is a 電子鍋."
+ },
+ {
+  "trad": "喇叭",
+  "pinyin": "lǎ bā",
+  "en": "speaker (audio)",
+  "mainland": "音箱 / 扬声器",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我買了一個藍牙喇叭。",
+   "en": "I bought a Bluetooth speaker."
+  },
+  "note": "Also a car horn (按喇叭), as on the mainland."
+ },
+ {
+  "trad": "暖暖包",
+  "pinyin": "nuǎn nuǎn bāo",
+  "en": "disposable hand warmer",
+  "mainland": "暖宝宝",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "寒流來了，記得帶暖暖包。",
+   "en": "A cold front is coming; remember your hand warmers."
+  }
+ },
+ {
+  "trad": "便當盒",
+  "pinyin": "biàn dāng hé",
+  "en": "lunch box (container)",
+  "mainland": "饭盒",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我每天自己帶便當盒。",
+   "en": "I bring my own lunch box every day."
+  },
+  "note": "Offices and schools have a 蒸飯箱 for steaming them hot."
+ },
+ {
+  "trad": "濕紙巾",
+  "pinyin": "shī zhǐ jīn",
+  "en": "wet wipes",
+  "mainland": "湿巾 / 湿纸巾",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "吃完雞排用濕紙巾擦手。",
+   "en": "Wipe your hands with a wet wipe after the chicken cutlet."
+  }
+ },
+ {
+  "trad": "洗面乳",
+  "pinyin": "xǐ miàn rǔ",
+  "en": "facial cleanser",
+  "mainland": "洗面奶",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我習慣用洗面乳洗臉。",
+   "en": "I'm used to washing my face with cleanser."
+  }
+ },
+ {
+  "trad": "窩心",
+  "pinyin": "wō xīn",
+  "en": "heart-warming; touching",
+  "mainland": "暖心 / 贴心",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "收到你的卡片覺得好窩心。",
+   "en": "Getting your card felt so heart-warming."
+  },
+  "note": "False friend: on the mainland 窝心 means feeling aggrieved and bottling it up."
+ },
+ {
+  "trad": "水準",
+  "pinyin": "shuǐ zhǔn",
+  "en": "standard; level (of quality, skill)",
+  "mainland": "水平",
+  "category": "daily",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這家餐廳的水準很高。",
+   "en": "This restaurant is of a very high standard."
+  },
+  "note": "水平 in Taiwan mostly means 'horizontal'. For skill level, 程度 is even more common: 英文程度."
+ },
+ {
+  "trad": "學測",
+  "pinyin": "xué cè",
+  "en": "GSAT (university entrance exam held in January)",
+  "mainland": "高考",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "高三生一月要考學測。",
+   "en": "High-school seniors take the GSAT in January."
+  },
+  "note": "Short for 學科能力測驗. The closest thing to the mainland 高考, though it's one of several admission routes."
+ },
+ {
+  "trad": "班導",
+  "pinyin": "bān dǎo",
+  "en": "homeroom teacher",
+  "mainland": "班主任",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們班導超級嚴格。",
+   "en": "Our homeroom teacher is super strict."
+  },
+  "note": "Short for 班級導師; also simply 導師."
+ },
+ {
+  "trad": "碩士班",
+  "pinyin": "shuò shì bān",
+  "en": "master's program",
+  "mainland": "硕士研究生",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我在讀資工所碩士班。",
+   "en": "I'm in the CS master's program."
+  },
+  "note": "博士班 = PhD program. Colloquially 碩一, 碩二 for first and second year."
+ },
+ {
+  "trad": "大學部",
+  "pinyin": "dà xué bù",
+  "en": "undergraduate program",
+  "mainland": "本科",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這門課是開給大學部的。",
+   "en": "This course is offered for undergraduates."
+  },
+  "note": "本科 isn't used in Taiwan: an undergraduate is a 大學生 and the degree is 學士."
+ },
+ {
+  "trad": "學姊",
+  "pinyin": "xué jiě",
+  "en": "senior (older female schoolmate)",
+  "mainland": "师姐 / 学姐",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "學姊帶我們參觀校園。",
+   "en": "An older student showed us around campus."
+  },
+  "note": "Also written 學姐."
+ },
+ {
+  "trad": "考古題",
+  "pinyin": "kǎo gǔ tí",
+  "en": "past exam papers",
+  "mainland": "真题 / 往年试题",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "考試前一定要寫考古題。",
+   "en": "You have to do past papers before the exam."
+  },
+  "note": "Literally 'archaeology questions'."
+ },
+ {
+  "trad": "段考",
+  "pinyin": "duàn kǎo",
+  "en": "periodic (term) exam",
+  "mainland": "月考 / 阶段考试",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "下禮拜就要段考了。",
+   "en": "Term exams are next week already."
+  },
+  "note": "The two or three big exams per semester in junior and senior high."
+ },
+ {
+  "trad": "考卷",
+  "pinyin": "kǎo juàn",
+  "en": "exam paper",
+  "mainland": "试卷 / 卷子",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "老師今天要發考卷。",
+   "en": "The teacher is handing back the exam papers today."
+  }
+ },
+ {
+  "trad": "成績單",
+  "pinyin": "chéng jī dān",
+  "en": "report card; transcript",
+  "mainland": "成绩单",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "成績單會寄到家裡。",
+   "en": "The report card will be mailed home."
+  },
+  "note": "Same word, but 績 is read jī in Taiwan (mainland jì)."
+ },
+ {
+  "trad": "指導教授",
+  "pinyin": "zhǐ dǎo jiào shòu",
+  "en": "thesis advisor; supervisor",
+  "mainland": "导师",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的指導教授人很好。",
+   "en": "My advisor is really nice."
+  },
+  "note": "False friend: 導師 in Taiwan is a homeroom teacher. Grad students jokingly call their advisor 老闆."
+ },
+ {
+  "trad": "營養午餐",
+  "pinyin": "yíng yǎng wǔ cān",
+  "en": "school lunch",
+  "mainland": "学校午餐 / 营养餐",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "今天的營養午餐有雞腿。",
+   "en": "Today's school lunch has a chicken drumstick."
+  }
+ },
+ {
+  "trad": "福利社",
+  "pinyin": "fú lì shè",
+  "en": "school shop; tuck shop",
+  "mainland": "小卖部",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "下課去福利社買飲料。",
+   "en": "Go to the school shop for a drink at break."
+  },
+  "note": "Also 合作社."
+ },
+ {
+  "trad": "安親班",
+  "pinyin": "ān qīn bān",
+  "en": "after-school care centre",
+  "mainland": "托管班",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "小孩放學後先去安親班。",
+   "en": "The kids go to after-school care when school lets out."
+  }
+ },
+ {
+  "trad": "聯絡簿",
+  "pinyin": "lián luò bù",
+  "en": "school–home communication book",
+  "mainland": "家校联系本",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "媽媽每天都要簽聯絡簿。",
+   "en": "Mom has to sign the communication book every day."
+  },
+  "note": "Elementary pupils copy the day's homework into it for a parent to sign."
+ },
+ {
+  "trad": "國字",
+  "pinyin": "guó zì",
+  "en": "Chinese characters",
+  "mainland": "汉字",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這個國字我不會寫。",
+   "en": "I can't write this character."
+  },
+  "note": "In Taiwan 漢字 is used mostly for Japanese kanji or in academic contexts."
+ },
+ {
+  "trad": "國文",
+  "pinyin": "guó wén",
+  "en": "Chinese (school subject)",
+  "mainland": "语文",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我高中國文老師很有趣。",
+   "en": "My high-school Chinese teacher was really fun."
+  },
+  "note": "國語 in elementary school, 國文 from junior high on; heavy on classical Chinese (文言文)."
+ },
+ {
+  "trad": "華語",
+  "pinyin": "huá yǔ",
+  "en": "Mandarin (as a foreign language)",
+  "mainland": "汉语 / 对外汉语",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "很多外國人來台灣學華語。",
+   "en": "Lots of foreigners come to Taiwan to study Mandarin."
+  },
+  "note": "華語中心 = university Mandarin centre; the proficiency test is TOCFL (華語文能力測驗)."
+ },
+ {
+  "trad": "繁體字",
+  "pinyin": "fán tǐ zì",
+  "en": "traditional characters",
+  "mainland": "繁体字",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我正在練習寫繁體字。",
+   "en": "I'm practising writing traditional characters."
+  },
+  "note": "The government's term is 正體字 ('standard characters'). Simplified = 簡體字; 簡體 / 繁體 for short."
+ },
+ {
+  "trad": "投影片",
+  "pinyin": "tóu yǐng piàn",
+  "en": "(presentation) slides",
+  "mainland": "幻灯片 / PPT",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "老師會把投影片放上網。",
+   "en": "The teacher will put the slides online."
+  },
+  "note": "Often just 'PPT'. The presentation as a whole is a 簡報."
+ },
+ {
+  "trad": "國立",
+  "pinyin": "guó lì",
+  "en": "national (state-run)",
+  "mainland": "公立 / 公办",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "國立大學的學費比較便宜。",
+   "en": "Tuition at national universities is cheaper."
+  },
+  "note": "E.g. 國立台灣大學. National universities are the most prestigious and cheaper than 私立 ones."
+ },
+ {
+  "trad": "交換學生",
+  "pinyin": "jiāo huàn xué shēng",
+  "en": "exchange student",
+  "mainland": "交换生",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我大三去日本當交換學生。",
+   "en": "I went to Japan as an exchange student in my junior year."
+  },
+  "note": "Also shortened to 交換生; 去交換 = go on exchange."
+ },
+ {
+  "trad": "多益",
+  "pinyin": "duō yì",
+  "en": "TOEIC",
+  "mainland": "托业",
+  "category": "school",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "很多公司要求多益成績。",
+   "en": "Many companies ask for a TOEIC score."
+  },
+  "note": "The English test Taiwanese employers care about most. TOEFL is 托福 on both sides."
+ },
+ {
+  "trad": "尾牙",
+  "pinyin": "wěi yá",
+  "en": "year-end company banquet",
+  "mainland": "年会",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "今年尾牙我抽到一台電視！",
+   "en": "I won a TV at this year's year-end party!"
+  },
+  "note": "Held before Lunar New Year with a lucky draw (抽獎). The spring equivalent is 春酒."
+ },
+ {
+  "trad": "特休",
+  "pinyin": "tè xiū",
+  "en": "annual (paid) leave",
+  "mainland": "年假",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我還有五天特休沒用完。",
+   "en": "I still have five days of annual leave left."
+  },
+  "note": "Short for 特別休假."
+ },
+ {
+  "trad": "打卡",
+  "pinyin": "dǎ kǎ",
+  "en": "to clock in or out; to check in (on social media)",
+  "mainland": "打卡",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們公司上下班都要打卡。",
+   "en": "At our company we have to clock in and out."
+  },
+  "note": "Same word. 打卡景點 = an Instagram-worthy spot."
+ },
+ {
+  "trad": "業務",
+  "pinyin": "yè wù",
+  "en": "salesperson; sales (work)",
+  "mainland": "销售 / 业务员",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他在保險公司當業務。",
+   "en": "He works in sales at an insurance company."
+  },
+  "note": "跑業務 = do field sales. 銷售 is used for sales as an activity or figure."
+ },
+ {
+  "trad": "工讀生",
+  "pinyin": "gōng dú shēng",
+  "en": "student part-timer",
+  "mainland": "兼职学生 / 勤工俭学生",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "超商在徵晚班工讀生。",
+   "en": "The convenience store is hiring part-timers for the evening shift."
+  },
+  "note": "Hourly staff in general are 計時人員 or PT."
+ },
+ {
+  "trad": "企劃",
+  "pinyin": "qì huà",
+  "en": "planning; (marketing or event) planner",
+  "mainland": "策划",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她在廣告公司做企劃。",
+   "en": "She works as a planner at an ad agency."
+  },
+  "note": "企 is read qì in Taiwan. A proposal is a 企劃案 or 企劃書."
+ },
+ {
+  "trad": "行銷",
+  "pinyin": "xíng xiāo",
+  "en": "marketing",
+  "mainland": "营销 / 市场营销",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他們的行銷做得很成功。",
+   "en": "Their marketing has been very successful."
+  }
+ },
+ {
+  "trad": "正職",
+  "pinyin": "zhèng zhí",
+  "en": "full-time (permanent) job",
+  "mainland": "全职 / 正式工",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我畢業後想找一份正職。",
+   "en": "I want to find a full-time job after graduation."
+  },
+  "note": "Opposites: 兼職, 打工, 約聘 (fixed-term contract)."
+ },
+ {
+  "trad": "報帳",
+  "pinyin": "bào zhàng",
+  "en": "to claim expenses",
+  "mainland": "报销",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "計程車費可以報帳嗎？",
+   "en": "Can I claim the taxi fare?"
+  },
+  "note": "Keep the 發票 with the company's 統編 printed on it."
+ },
+ {
+  "trad": "廠商",
+  "pinyin": "chǎng shāng",
+  "en": "vendor; supplier; manufacturer",
+  "mainland": "供应商 / 厂家",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我下午要跟廠商開會。",
+   "en": "I have a meeting with a vendor this afternoon."
+  }
+ },
+ {
+  "trad": "勞健保",
+  "pinyin": "láo jiàn bǎo",
+  "en": "labour and health insurance",
+  "mainland": "社保 / 五险一金",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "正職員工都有勞健保。",
+   "en": "Full-time employees all get labour and health insurance."
+  },
+  "note": "勞保 + 健保, which employers must provide. 勞退 = the labour pension fund."
+ },
+ {
+  "trad": "颱風假",
+  "pinyin": "tái fēng jià",
+  "en": "typhoon day (official day off)",
+  "mainland": "",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "明天放颱風假，不用上班！",
+   "en": "Tomorrow's a typhoon day. No work!"
+  },
+  "note": "Each city or county government announces 停班停課 the night before."
+ },
+ {
+  "trad": "補班",
+  "pinyin": "bǔ bān",
+  "en": "make-up workday",
+  "mainland": "调休补班",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這個禮拜六要補班。",
+   "en": "We have a make-up workday this Saturday."
+  },
+  "note": "A Saturday worked in exchange for a bridge holiday; schools have 補課."
+ },
+ {
+  "trad": "週休二日",
+  "pinyin": "zhōu xiū èr rì",
+  "en": "two-day weekend",
+  "mainland": "双休",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們公司週休二日。",
+   "en": "Our company has two-day weekends."
+  },
+  "note": "雙休 isn't used in Taiwan."
+ },
+ {
+  "trad": "遠距",
+  "pinyin": "yuǎn jù",
+  "en": "remote (work, teaching)",
+  "mainland": "远程",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們公司可以遠距上班。",
+   "en": "Our company lets us work remotely."
+  },
+  "note": "遠距工作, 遠距教學; also 居家辦公 or WFH."
+ },
+ {
+  "trad": "外商",
+  "pinyin": "wài shāng",
+  "en": "foreign company",
+  "mainland": "外企",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她想進外商公司工作。",
+   "en": "She wants to work for a foreign company."
+  },
+  "note": "Mainland-funded firms are 陸資; Taiwanese businesspeople in China are 台商."
+ },
+ {
+  "trad": "檢討",
+  "pinyin": "jiǎn tǎo",
+  "en": "to review (what went wrong); post-mortem",
+  "mainland": "总结 / 复盘",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "活動結束後我們來檢討一下。",
+   "en": "Let's do a review after the event."
+  },
+  "note": "False friend: neutral in Taiwan (檢討會, 檢討考卷 = go over the exam); on the mainland 检讨 is a self-criticism."
+ },
+ {
+  "trad": "行事曆",
+  "pinyin": "xíng shì lì",
+  "en": "calendar; schedule",
+  "mainland": "日程表 / 日历",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我把會議加到行事曆了。",
+   "en": "I've added the meeting to the calendar."
+  },
+  "note": "Google Calendar is 'Google 行事曆' in Taiwan."
+ },
+ {
+  "trad": "員工旅遊",
+  "pinyin": "yuán gōng lǚ yóu",
+  "en": "company trip",
+  "mainland": "团建",
+  "category": "work",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "今年員工旅遊要去沖繩。",
+   "en": "This year's company trip is to Okinawa."
+  },
+  "note": "Shortened to 員旅."
+ },
+ {
+  "trad": "寮國",
+  "pinyin": "liáo guó",
+  "en": "Laos",
+  "mainland": "老挝",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "寮國是東南亞的內陸國家。",
+   "en": "Laos is a landlocked country in Southeast Asia."
+  }
+ },
+ {
+  "trad": "沙烏地阿拉伯",
+  "pinyin": "shā wū dì ā lā bó",
+  "en": "Saudi Arabia",
+  "mainland": "沙特阿拉伯",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "沙烏地阿拉伯是產油大國。",
+   "en": "Saudi Arabia is a major oil producer."
+  },
+  "note": "Short forms: 沙國 or 沙烏地 (mainland 沙特)."
+ },
+ {
+  "trad": "南韓",
+  "pinyin": "nán hán",
+  "en": "South Korea",
+  "mainland": "韩国",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "新聞說南韓下週要大選。",
+   "en": "The news says South Korea has an election next week."
+  },
+  "note": "Everyday speech says 韓國; 南韓 is common in the news, paired with 北韓."
+ },
+ {
+  "trad": "卡達",
+  "pinyin": "kǎ dá",
+  "en": "Qatar",
+  "mainland": "卡塔尔",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "卡達航空的服務很好。",
+   "en": "Qatar Airways has great service."
+  }
+ },
+ {
+  "trad": "杜拜",
+  "pinyin": "dù bài",
+  "en": "Dubai",
+  "mainland": "迪拜",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們在杜拜轉機去歐洲。",
+   "en": "We transferred in Dubai on the way to Europe."
+  }
+ },
+ {
+  "trad": "馬爾地夫",
+  "pinyin": "mǎ ěr dì fū",
+  "en": "Maldives",
+  "mainland": "马尔代夫",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他們去馬爾地夫度蜜月。",
+   "en": "They went to the Maldives on their honeymoon."
+  }
+ },
+ {
+  "trad": "峇里島",
+  "pinyin": "bā lǐ dǎo",
+  "en": "Bali",
+  "mainland": "巴厘岛",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "峇里島是熱門的度假勝地。",
+   "en": "Bali is a popular holiday destination."
+  },
+  "note": "峇 (bā) is a character you'll rarely see anywhere else."
+ },
+ {
+  "trad": "普丁",
+  "pinyin": "pǔ dīng",
+  "en": "(Vladimir) Putin",
+  "mainland": "普京",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "普丁是俄羅斯總統。",
+   "en": "Putin is the president of Russia."
+  }
+ },
+ {
+  "trad": "賈伯斯",
+  "pinyin": "jiǎ bó sī",
+  "en": "(Steve) Jobs",
+  "mainland": "乔布斯",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "賈伯斯是蘋果的創辦人。",
+   "en": "Steve Jobs was the founder of Apple."
+  },
+  "note": "Bill Gates is 比爾蓋茲 (mainland 比尔·盖茨); 馬斯克 (Musk) is the same on both sides."
+ },
+ {
+  "trad": "達文西",
+  "pinyin": "dá wén xī",
+  "en": "(Leonardo) da Vinci",
+  "mainland": "达芬奇",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "《蒙娜麗莎》是達文西畫的。",
+   "en": "The Mona Lisa was painted by da Vinci."
+  },
+  "note": "The Da Vinci Code is 《達文西密碼》."
+ },
+ {
+  "trad": "梵谷",
+  "pinyin": "fàn gǔ",
+  "en": "(Vincent) van Gogh",
+  "mainland": "梵高",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我很喜歡梵谷的《星夜》。",
+   "en": "I really like van Gogh's Starry Night."
+  },
+  "note": "Likewise 莫內 (Monet, mainland 莫奈)."
+ },
+ {
+  "trad": "泰勒絲",
+  "pinyin": "tài lè sī",
+  "en": "Taylor Swift",
+  "mainland": "泰勒·斯威夫特 / 霉霉",
+  "category": "places",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "泰勒絲的演唱會一票難求。",
+   "en": "Taylor Swift concert tickets are nearly impossible to get."
+  },
+  "note": "Taiwan media give stars short Chinese-style names: 小賈斯汀, 女神卡卡, 紅髮艾德."
+ },
+ {
+  "trad": "點滴",
+  "pinyin": "diǎn dī",
+  "en": "IV drip",
+  "mainland": "输液 / 吊瓶 / 点滴",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "醫生說我要打點滴。",
+   "en": "The doctor says I need an IV drip."
+  }
+ },
+ {
+  "trad": "發炎",
+  "pinyin": "fā yán",
+  "en": "inflammation; to be inflamed",
+  "mainland": "发炎",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我喉嚨發炎，吞口水都痛。",
+   "en": "My throat is inflamed; it hurts even to swallow."
+  },
+  "note": "Same word. 消炎藥 = anti-inflammatory."
+ },
+ {
+  "trad": "看診",
+  "pinyin": "kàn zhěn",
+  "en": "(of a doctor) to see patients; consultation",
+  "mainland": "坐诊 / 出诊",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "王醫師今天下午沒有看診。",
+   "en": "Dr. Wang isn't seeing patients this afternoon."
+  },
+  "note": "Patients say 看醫生 (rather than 看病); clinic hours are 看診時間 or 門診時間."
+ },
+ {
+  "trad": "處方箋",
+  "pinyin": "chǔ fāng jiān",
+  "en": "prescription (slip)",
+  "mainland": "处方 / 药方",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "拿處方箋去藥局領藥。",
+   "en": "Take the prescription to a pharmacy to collect your medicine."
+  },
+  "note": "A 慢性病連續處方箋 can be refilled at any 健保藥局."
+ },
+ {
+  "trad": "領藥",
+  "pinyin": "lǐng yào",
+  "en": "to collect one's medicine",
+  "mainland": "取药 / 拿药",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "請到二號櫃檯領藥。",
+   "en": "Please collect your medicine at counter 2."
+  },
+  "note": "領 is Taiwan's verb for picking things up: 領錢, 領包裹, 領藥."
+ },
+ {
+  "trad": "超音波",
+  "pinyin": "chāo yīn bō",
+  "en": "ultrasound",
+  "mainland": "B超 / 超声波",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "產檢要照超音波。",
+   "en": "You get an ultrasound at prenatal check-ups."
+  },
+  "note": "The verb is 照: 照超音波, 照X光. B超 isn't used."
+ },
+ {
+  "trad": "健檢",
+  "pinyin": "jiàn jiǎn",
+  "en": "health check-up",
+  "mainland": "体检",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "公司每年都有員工健檢。",
+   "en": "The company gives staff a health check every year."
+  },
+  "note": "Short for 健康檢查. 體檢 is used for military or school physicals."
+ },
+ {
+  "trad": "護理師",
+  "pinyin": "hù lǐ shī",
+  "en": "nurse",
+  "mainland": "护士",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "護理師來幫我量血壓。",
+   "en": "The nurse came to take my blood pressure."
+  },
+  "note": "The official title; 護士 (護士小姐) is still common in speech."
+ },
+ {
+  "trad": "醫師",
+  "pinyin": "yī shī",
+  "en": "doctor; physician (title)",
+  "mainland": "医生 / 大夫",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "陳醫師的門診都很多人。",
+   "en": "Dr. Chen's clinic is always packed."
+  },
+  "note": "Used as a title after the surname. 大夫 isn't used in Taiwan."
+ },
+ {
+  "trad": "小兒科",
+  "pinyin": "xiǎo ér kē",
+  "en": "paediatrics",
+  "mainland": "儿科",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "小孩發燒要看小兒科。",
+   "en": "A child with a fever should see a paediatrician."
+  },
+  "note": "Also 兒科."
+ },
+ {
+  "trad": "復健",
+  "pinyin": "fù jiàn",
+  "en": "rehabilitation; physiotherapy",
+  "mainland": "康复 / 理疗",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我每週去做兩次復健。",
+   "en": "I go to physio twice a week."
+  },
+  "note": "復健科 = rehab department."
+ },
+ {
+  "trad": "衛生棉",
+  "pinyin": "wèi shēng mián",
+  "en": "sanitary pad",
+  "mainland": "卫生巾",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "便利商店有賣衛生棉。",
+   "en": "Convenience stores sell sanitary pads."
+  },
+  "note": "A tampon is a 衛生棉條."
+ },
+ {
+  "trad": "保險套",
+  "pinyin": "bǎo xiǎn tào",
+  "en": "condom",
+  "mainland": "避孕套 / 安全套",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "便利商店也有賣保險套。",
+   "en": "Convenience stores sell condoms too."
+  }
+ },
+ {
+  "trad": "乾洗手",
+  "pinyin": "gān xǐ shǒu",
+  "en": "hand sanitiser",
+  "mainland": "免洗洗手液",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "進門前先用乾洗手消毒。",
+   "en": "Sanitise your hands before coming in."
+  }
+ },
+ {
+  "trad": "快篩",
+  "pinyin": "kuài shāi",
+  "en": "rapid (antigen) test",
+  "mainland": "抗原检测 / 快速检测",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我快篩兩條線，確診了。",
+   "en": "My rapid test showed two lines. I'm positive."
+  },
+  "note": "From the COVID years: 確診 = confirmed case, 隔離 = quarantine."
+ },
+ {
+  "trad": "貼布",
+  "pinyin": "tiē bù",
+  "en": "medicated (pain-relief) patch",
+  "mainland": "膏药 / 贴膏",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我腰很痠，貼了一塊貼布。",
+   "en": "My lower back is sore, so I put on a patch."
+  },
+  "note": "痠 (suān) is the Taiwan character for muscle soreness: 痠痛."
+ },
+ {
+  "trad": "普拿疼",
+  "pinyin": "pǔ ná téng",
+  "en": "Panadol (paracetamol)",
+  "mainland": "扑热息痛 / 必理通",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "頭痛的話吃一顆普拿疼。",
+   "en": "If you have a headache, take a Panadol."
+  },
+  "note": "The household name for paracetamol in Taiwan."
+ },
+ {
+  "trad": "維他命",
+  "pinyin": "wéi tā mìng",
+  "en": "vitamin",
+  "mainland": "维生素 / 维他命",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我每天早上吃一顆維他命。",
+   "en": "I take a vitamin every morning."
+  },
+  "note": "維生素 is the formal, scientific term. 維他命C is the everyday name for vitamin C."
+ },
+ {
+  "trad": "捐血",
+  "pinyin": "juān xiě",
+  "en": "to donate blood",
+  "mainland": "献血",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我每半年去捐血一次。",
+   "en": "I donate blood every six months."
+  },
+  "note": "捐血車 (bloodmobiles) park outside stations. 血 is usually read xiě in speech."
+ },
+ {
+  "trad": "憂鬱症",
+  "pinyin": "yōu yù zhèng",
+  "en": "depression",
+  "mainland": "抑郁症",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "憂鬱症需要專業的治療。",
+   "en": "Depression needs professional treatment."
+  }
+ },
+ {
+  "trad": "生理期",
+  "pinyin": "shēng lǐ qí",
+  "en": "(menstrual) period",
+  "mainland": "例假 / 月经",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她生理期來，肚子很痛。",
+   "en": "Her period came and her stomach really hurts."
+  },
+  "note": "The polite everyday term; 例假 isn't used. Menstrual leave is 生理假."
+ },
+ {
+  "trad": "打呼",
+  "pinyin": "dǎ hū",
+  "en": "to snore",
+  "mainland": "打呼噜 / 打鼾",
+  "category": "health",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我室友晚上打呼很大聲。",
+   "en": "My roommate snores really loudly at night."
+  }
+ },
+ {
+  "trad": "綜藝節目",
+  "pinyin": "zòng yì jié mù",
+  "en": "variety show",
+  "mainland": "综艺节目",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我喜歡看日本的綜藝節目。",
+   "en": "I like watching Japanese variety shows."
+  },
+  "note": "綜 is read zòng in Taiwan. Often shortened to 綜藝."
+ },
+ {
+  "trad": "偶像劇",
+  "pinyin": "ǒu xiàng jù",
+  "en": "idol drama",
+  "mainland": "偶像剧",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她從小看台灣偶像劇長大。",
+   "en": "She grew up watching Taiwanese idol dramas."
+  },
+  "note": "A genre Taiwan made famous in the 2000s with 《流星花園》."
+ },
+ {
+  "trad": "主播",
+  "pinyin": "zhǔ bò",
+  "en": "(TV news) anchor",
+  "mainland": "新闻主播 / 主持人",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "那個主播的聲音很好聽。",
+   "en": "That anchor has a lovely voice."
+  },
+  "note": "In Taiwan 主播 means a news anchor or sportscaster; a live-streamer is a 直播主 or 實況主."
+ },
+ {
+  "trad": "直播主",
+  "pinyin": "zhí bò zhǔ",
+  "en": "live-streamer",
+  "mainland": "主播",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "她是很紅的遊戲直播主。",
+   "en": "She's a really popular game streamer."
+  },
+  "note": "Game streamers are also called 實況主."
+ },
+ {
+  "trad": "第四台",
+  "pinyin": "dì sì tái",
+  "en": "cable TV",
+  "mainland": "有线电视",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我家沒有裝第四台。",
+   "en": "We don't have cable at home."
+  },
+  "note": "Literally 'the fourth channel', after the three original terrestrial stations. Formal: 有線電視."
+ },
+ {
+  "trad": "饒舌",
+  "pinyin": "ráo shé",
+  "en": "rap",
+  "mainland": "说唱",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他很喜歡聽饒舌歌。",
+   "en": "He really likes listening to rap."
+  },
+  "note": "A rapper is a 饒舌歌手. 嘻哈 (hip-hop) is the same on both sides."
+ },
+ {
+  "trad": "留言",
+  "pinyin": "liú yán",
+  "en": "to comment; a comment",
+  "mainland": "评论 / 留言",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "影片下面有很多人留言。",
+   "en": "Lots of people commented under the video."
+  },
+  "note": "評論 in Taiwan is a review or critique, not a social-media comment."
+ },
+ {
+  "trad": "串流",
+  "pinyin": "chuàn liú",
+  "en": "streaming",
+  "mainland": "流媒体",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "大家都用串流平台看劇。",
+   "en": "Everyone watches shows on streaming platforms."
+  },
+  "note": "串流平台 = Netflix, Disney+ and the like."
+ },
+ {
+  "trad": "高畫質",
+  "pinyin": "gāo huà zhí",
+  "en": "high definition (HD)",
+  "mainland": "高清",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這個頻道有高畫質直播。",
+   "en": "This channel has an HD live stream."
+  },
+  "note": "質 is read zhí. 畫質 = picture quality."
+ },
+ {
+  "trad": "錄影",
+  "pinyin": "lù yǐng",
+  "en": "to record video; to tape (a show)",
+  "mainland": "录像 / 录制",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "演唱會裡面不能錄影。",
+   "en": "No video recording inside the concert."
+  },
+  "note": "Audio recording is 錄音 on both sides."
+ },
+ {
+  "trad": "完結篇",
+  "pinyin": "wán jié piān",
+  "en": "final episode; finale",
+  "mainland": "大结局",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "昨天的完結篇你看了嗎？",
+   "en": "Did you watch yesterday's finale?"
+  },
+  "note": "大結局 is also heard."
+ },
+ {
+  "trad": "實境秀",
+  "pinyin": "shí jìng xiù",
+  "en": "reality show",
+  "mainland": "真人秀",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這個實境秀最近很紅。",
+   "en": "This reality show is really popular lately."
+  },
+  "note": "VR is 虛擬實境 (mainland 虚拟现实)."
+ },
+ {
+  "trad": "短影音",
+  "pinyin": "duǎn yǐng yīn",
+  "en": "short-form video",
+  "mainland": "短视频",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "現在大家都愛看短影音。",
+   "en": "Everyone loves watching short videos these days."
+  },
+  "note": "Reels, Shorts, TikTok (抖音)."
+ },
+ {
+  "trad": "記者會",
+  "pinyin": "jì zhě huì",
+  "en": "press conference",
+  "mainland": "新闻发布会 / 记者会",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "市長下午要開記者會。",
+   "en": "The mayor is holding a press conference this afternoon."
+  }
+ },
+ {
+  "trad": "即時",
+  "pinyin": "jí shí",
+  "en": "real-time; instant; live (news)",
+  "mainland": "实时 / 即时",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "手機可以看即時新聞。",
+   "en": "You can read breaking news on your phone."
+  },
+  "note": "即時新聞, 即時通訊, 即時翻譯. 實時 isn't used in Taiwan."
+ },
+ {
+  "trad": "鐵達尼號",
+  "pinyin": "tiě dá ní hào",
+  "en": "Titanic",
+  "mainland": "泰坦尼克号",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "《鐵達尼號》我看了三次。",
+   "en": "I've seen Titanic three times."
+  },
+  "note": "Film titles are translated separately in Taiwan and often differ completely."
+ },
+ {
+  "trad": "魔戒",
+  "pinyin": "mó jiè",
+  "en": "The Lord of the Rings",
+  "mainland": "指环王 / 魔戒",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "《魔戒》三部曲是經典。",
+   "en": "The Lord of the Rings trilogy is a classic."
+  },
+  "note": "The Hobbit is 《哈比人》 (mainland 《霍比特人》)."
+ },
+ {
+  "trad": "星際大戰",
+  "pinyin": "xīng jì dà zhàn",
+  "en": "Star Wars",
+  "mainland": "星球大战",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我爸是《星際大戰》的鐵粉。",
+   "en": "My dad is a die-hard Star Wars fan."
+  }
+ },
+ {
+  "trad": "鋼鐵人",
+  "pinyin": "gāng tiě rén",
+  "en": "Iron Man",
+  "mainland": "钢铁侠",
+  "category": "media",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他最喜歡的英雄是鋼鐵人。",
+   "en": "His favourite hero is Iron Man."
+  },
+  "note": "Taiwan uses 人 where the mainland uses 侠: also 蜘蛛人 (Spider-Man). 蝙蝠俠 (Batman) is the same on both sides."
+ },
+ {
+  "trad": "統一發票",
+  "pinyin": "tǒng yī fā piào",
+  "en": "Uniform Invoice (receipt lottery)",
+  "mainland": "",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這期統一發票我中了兩百塊！",
+   "en": "I won NT$200 in this round of the receipt lottery!"
+  },
+  "note": "Winning numbers are drawn every two months; 對獎 or 對發票 = check your receipts."
+ },
+ {
+  "trad": "載具",
+  "pinyin": "zài jù",
+  "en": "e-receipt carrier (phone barcode)",
+  "mainland": "",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "發票幫我存載具，謝謝。",
+   "en": "Please save the receipt to my carrier, thanks."
+  },
+  "note": "A 手機條碼 that stores e-receipts in the cloud, so no paper. Cashiers ask 有載具嗎？"
+ },
+ {
+  "trad": "集點",
+  "pinyin": "jí diǎn",
+  "en": "to collect points or stickers",
+  "mainland": "集点 / 积分",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "超商集點可以換玩偶。",
+   "en": "You can redeem convenience-store stickers for plush toys."
+  },
+  "note": "Sticker-collecting promotions (集點活動) are a 超商 tradition."
+ },
+ {
+  "trad": "點數",
+  "pinyin": "diǎn shù",
+  "en": "(loyalty) points",
+  "mainland": "积分",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這張卡的點數可以折抵現金。",
+   "en": "The points on this card can be used as cash."
+  },
+  "note": "積分 in Taiwan is for sports standings."
+ },
+ {
+  "trad": "折價券",
+  "pinyin": "zhé jià quàn",
+  "en": "discount coupon",
+  "mainland": "优惠券",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我有一張五十元的折價券。",
+   "en": "I have a NT$50 coupon."
+  },
+  "note": "優惠券 is also used."
+ },
+ {
+  "trad": "行動支付",
+  "pinyin": "xíng dòng zhī fù",
+  "en": "mobile payment",
+  "mainland": "移动支付 / 手机支付",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這裡可以用行動支付嗎？",
+   "en": "Can I use mobile payment here?"
+  },
+  "note": "LINE Pay, 街口支付, Apple Pay. Cash is still far more common than on the mainland."
+ },
+ {
+  "trad": "週年慶",
+  "pinyin": "zhōu nián qìng",
+  "en": "(department store) anniversary sale",
+  "mainland": "周年庆 / 店庆",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我想等週年慶再買。",
+   "en": "I want to wait for the anniversary sale to buy it."
+  },
+  "note": "The big autumn sale season, roughly October to December."
+ },
+ {
+  "trad": "量販店",
+  "pinyin": "liàng fàn diàn",
+  "en": "hypermarket; big-box store",
+  "mainland": "大卖场 / 大型超市",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "週末我們去量販店買東西。",
+   "en": "We go shopping at the hypermarket on weekends."
+  },
+  "note": "From Japanese. E.g. 家樂福, 大潤發; also called 大賣場."
+ },
+ {
+  "trad": "好市多",
+  "pinyin": "hǎo shì duō",
+  "en": "Costco",
+  "mainland": "开市客",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "好市多的烤雞很划算。",
+   "en": "Costco's roast chicken is a great deal."
+  },
+  "note": "Brand names often differ: 愛迪達 (Adidas, mainland 阿迪达斯), 海尼根 (Heineken, mainland 喜力)."
+ },
+ {
+  "trad": "傳統市場",
+  "pinyin": "chuán tǒng shì chǎng",
+  "en": "traditional (wet) market",
+  "mainland": "菜市场 / 农贸市场",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "媽媽習慣去傳統市場買菜。",
+   "en": "Mom is used to buying groceries at the traditional market."
+  },
+  "note": "Also 菜市場."
+ },
+ {
+  "trad": "攤販",
+  "pinyin": "tān fàn",
+  "en": "street vendor; stall",
+  "mainland": "小贩 / 摊贩",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "夜市裡有很多攤販。",
+   "en": "There are lots of vendors in the night market."
+  },
+  "note": "A stall is a 攤子 or 攤位; a roadside food stand is a 路邊攤."
+ },
+ {
+  "trad": "銅板",
+  "pinyin": "tóng bǎn",
+  "en": "coin",
+  "mainland": "硬币",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我身上都沒有銅板。",
+   "en": "I don't have any coins on me."
+  },
+  "note": "硬幣 is the formal word. 銅板價 = dirt cheap; 銅板美食 = snacks that cost only coins."
+ },
+ {
+  "trad": "殺價",
+  "pinyin": "shā jià",
+  "en": "to haggle",
+  "mainland": "砍价 / 讲价",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "夜市買衣服可以殺價。",
+   "en": "You can haggle when buying clothes at the night market."
+  }
+ },
+ {
+  "trad": "保固",
+  "pinyin": "bǎo gù",
+  "en": "warranty",
+  "mainland": "保修",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這台電腦有兩年保固。",
+   "en": "This computer has a two-year warranty."
+  },
+  "note": "保固期 = warranty period; 過保 = out of warranty."
+ },
+ {
+  "trad": "超商取貨",
+  "pinyin": "chāo shāng qǔ huò",
+  "en": "convenience-store pickup",
+  "mainland": "",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "網購我都選超商取貨。",
+   "en": "I always choose store pickup when I shop online."
+  },
+  "note": "Ship orders to a nearby 7-ELEVEN or 全家 and pay on pickup (取貨付款). Shortened to 超取."
+ },
+ {
+  "trad": "蝦皮",
+  "pinyin": "xiā pí",
+  "en": "Shopee (online marketplace)",
+  "mainland": "",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我在蝦皮買了一個手機殼。",
+   "en": "I bought a phone case on Shopee."
+  },
+  "note": "Taiwan's most-used marketplace app, roughly what 淘宝 is on the mainland. Others: momo, PChome."
+ },
+ {
+  "trad": "預購",
+  "pinyin": "yù gòu",
+  "en": "to pre-order",
+  "mainland": "预售 / 预订",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "新手機明天開放預購。",
+   "en": "Pre-orders for the new phone open tomorrow."
+  }
+ },
+ {
+  "trad": "美食街",
+  "pinyin": "měi shí jiē",
+  "en": "food court",
+  "mainland": "美食广场 / 美食街",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "中午去地下的美食街吃吧。",
+   "en": "Let's eat at the basement food court at noon."
+  },
+  "note": "Usually in the basement of department stores and malls."
+ },
+ {
+  "trad": "號碼牌",
+  "pinyin": "hào mǎ pái",
+  "en": "queue number ticket",
+  "mainland": "排队号 / 号码牌",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "請先抽號碼牌再等叫號。",
+   "en": "Please take a number first and wait to be called."
+  },
+  "note": "You 抽號碼牌 at banks, post offices and clinics; busy restaurants hand them out too."
+ },
+ {
+  "trad": "條碼",
+  "pinyin": "tiáo mǎ",
+  "en": "barcode",
+  "mainland": "条形码",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "結帳的時候出示條碼就好。",
+   "en": "Just show the barcode when you pay."
+  },
+  "note": "二維碼 isn't used: Taiwanese say 'QR Code' (formally 行動條碼)."
+ },
+ {
+  "trad": "保存期限",
+  "pinyin": "bǎo cún qí xiàn",
+  "en": "expiry date; best-before date",
+  "mainland": "保质期",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "買牛奶要看保存期限。",
+   "en": "Check the expiry date when buying milk."
+  },
+  "note": "Also 有效期限 or 賞味期限. Dates are often printed in ROC years. 保質期 isn't used."
+ },
+ {
+  "trad": "低消",
+  "pinyin": "dī xiāo",
+  "en": "minimum charge",
+  "mainland": "最低消费",
+  "category": "shopping",
+  "register": "colloquial",
+  "level": 2,
+  "example": {
+   "zh": "這家咖啡廳低消一杯飲料。",
+   "en": "This café has a one-drink minimum."
+  },
+  "note": "Short for 最低消費."
+ },
+ {
+  "trad": "雅房",
+  "pinyin": "yǎ fáng",
+  "en": "rented room with shared bathroom",
+  "mainland": "合租单间",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "雅房比較便宜，但要共用浴室。",
+   "en": "A room with shared bath is cheaper, but you share the bathroom."
+  },
+  "note": "The counterpart of 套房 in rental listings."
+ },
+ {
+  "trad": "房客",
+  "pinyin": "fáng kè",
+  "en": "tenant",
+  "mainland": "租客 / 房客",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "上一個房客留下很多垃圾。",
+   "en": "The previous tenant left a lot of rubbish behind."
+  }
+ },
+ {
+  "trad": "管理費",
+  "pinyin": "guǎn lǐ fèi",
+  "en": "building management fee",
+  "mainland": "物业费",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這棟大樓的管理費很貴。",
+   "en": "This building's management fee is expensive."
+  },
+  "note": "物業 isn't an everyday word in Taiwan."
+ },
+ {
+  "trad": "頂樓加蓋",
+  "pinyin": "dǐng lóu jiā gài",
+  "en": "rooftop add-on unit",
+  "mainland": "楼顶加盖 / 违建",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "頂樓加蓋的房間夏天很熱。",
+   "en": "Rooftop add-on rooms get very hot in summer."
+  },
+  "note": "Cheap rentals built on top of old 公寓, usually illegal structures (違建). Shortened to 頂加."
+ },
+ {
+  "trad": "透天厝",
+  "pinyin": "tòu tiān cuò",
+  "en": "townhouse (whole house, ground to roof)",
+  "mainland": "独栋 / 联排别墅",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "南部很多人住透天厝。",
+   "en": "In the south many people live in townhouses."
+  },
+  "note": "From Taiwanese: a multi-storey house owned from ground to roof, often with a shop or garage downstairs."
+ },
+ {
+  "trad": "兩房一廳",
+  "pinyin": "liǎng fáng yì tīng",
+  "en": "two bedrooms and a living room",
+  "mainland": "两室一厅",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們想找兩房一廳的房子。",
+   "en": "We're looking for a two-bedroom place."
+  },
+  "note": "Rooms are counted in 房, not 室: 三房兩廳兩衛."
+ },
+ {
+  "trad": "瓦斯爐",
+  "pinyin": "wǎ sī lú",
+  "en": "gas stove",
+  "mainland": "燃气灶 / 煤气灶",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這間套房不能用瓦斯爐。",
+   "en": "You can't use a gas stove in this studio."
+  },
+  "note": "An induction hob is a 電磁爐 or IH爐."
+ },
+ {
+  "trad": "騎樓",
+  "pinyin": "qí lóu",
+  "en": "covered arcade walkway",
+  "mainland": "骑楼",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "下雨天走騎樓就不會淋濕。",
+   "en": "On rainy days, walk under the arcades and you won't get wet."
+  },
+  "note": "The covered sidewalk under shophouses; often cluttered with parked scooters."
+ },
+ {
+  "trad": "裝潢",
+  "pinyin": "zhuāng huáng",
+  "en": "interior decoration; to renovate",
+  "mainland": "装修",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他們的新家還在裝潢。",
+   "en": "Their new home is still being fitted out."
+  },
+  "note": "裝修 is understood; 裝潢 is the everyday word."
+ },
+ {
+  "trad": "房仲",
+  "pinyin": "fáng zhòng",
+  "en": "real-estate agent",
+  "mainland": "房产中介 / 中介",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們請房仲帶我們看房子。",
+   "en": "We asked an agent to show us places."
+  },
+  "note": "Short for 房屋仲介. 'Agent, broker' in general is 仲介 (mainland 中介)."
+ },
+ {
+  "trad": "頭期款",
+  "pinyin": "tóu qí kuǎn",
+  "en": "down payment",
+  "mainland": "首付",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們還在存買房的頭期款。",
+   "en": "We're still saving for the down payment on a home."
+  },
+  "note": "期 = qí. The mortgage is 房貸 on both sides."
+ },
+ {
+  "trad": "監視器",
+  "pinyin": "jiān shì qì",
+  "en": "security camera; CCTV",
+  "mainland": "监控 / 摄像头",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "電梯裡面有監視器。",
+   "en": "There's a security camera in the elevator."
+  },
+  "note": "調監視器 = pull the CCTV footage."
+ },
+ {
+  "trad": "保全",
+  "pinyin": "bǎo quán",
+  "en": "security guard; security company",
+  "mainland": "保安",
+  "category": "housing",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "大樓晚上有保全巡邏。",
+   "en": "Security guards patrol the building at night."
+  },
+  "note": "保安 isn't used for guards in Taiwan. A guard at a gate is also a 警衛."
+ },
+ {
+  "trad": "戶政事務所",
+  "pinyin": "hù zhèng shì wù suǒ",
+  "en": "household registration office",
+  "mainland": "户籍科 / 派出所户籍窗口",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "結婚登記要去戶政事務所。",
+   "en": "You register a marriage at the household registration office."
+  },
+  "note": "Handles IDs, births, marriages and address changes. Shortened to 戶政."
+ },
+ {
+  "trad": "戶籍",
+  "pinyin": "hù jí",
+  "en": "household registration; registered address",
+  "mainland": "户口 / 户籍",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的戶籍還在台南。",
+   "en": "My registered address is still in Tainan."
+  },
+  "note": "The booklet is the 戶口名簿 (mainland 户口本). It decides where you vote, not where you may live."
+ },
+ {
+  "trad": "里長",
+  "pinyin": "lǐ zhǎng",
+  "en": "neighbourhood chief",
+  "mainland": "居委会主任 / 村长",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "有問題可以去找里長幫忙。",
+   "en": "If there's a problem you can ask the neighbourhood chief for help."
+  },
+  "note": "Elected head of a 里, the smallest urban administrative unit; the rural equivalent is a 村長."
+ },
+ {
+  "trad": "區公所",
+  "pinyin": "qū gōng suǒ",
+  "en": "district office",
+  "mainland": "区政府 / 街道办",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這個補助要去區公所申請。",
+   "en": "You apply for this subsidy at the district office."
+  }
+ },
+ {
+  "trad": "郵遞區號",
+  "pinyin": "yóu dì qū hào",
+  "en": "postal code",
+  "mainland": "邮政编码 / 邮编",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "請問這裡的郵遞區號是多少？",
+   "en": "What's the postal code here?"
+  },
+  "note": "Three digits identify the district (e.g. 106 = 大安區), with three more for full precision."
+ },
+ {
+  "trad": "西元",
+  "pinyin": "xī yuán",
+  "en": "CE; Western calendar year",
+  "mainland": "公元",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "西元二〇二六年是民國一一五年。",
+   "en": "2026 CE is ROC year 115."
+  },
+  "note": "公元 isn't used in Taiwan."
+ },
+ {
+  "trad": "統編",
+  "pinyin": "tǒng biān",
+  "en": "company tax ID number",
+  "mainland": "税号 / 统一社会信用代码",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "請問發票要打統編嗎？",
+   "en": "Would you like a company tax ID on the receipt?"
+  },
+  "note": "Short for 統一編號, the 8-digit business number printed on receipts for expense claims."
+ },
+ {
+  "trad": "存摺",
+  "pinyin": "cún zhé",
+  "en": "bankbook; passbook",
+  "mainland": "存折",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我要去銀行補登存摺。",
+   "en": "I need to go to the bank to update my passbook."
+  },
+  "note": "Paper passbooks are still standard; 補登 = print new transactions at a machine."
+ },
+ {
+  "trad": "轉帳",
+  "pinyin": "zhuǎn zhàng",
+  "en": "bank transfer; to transfer money",
+  "mainland": "转账",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "房租我都用轉帳的。",
+   "en": "I always pay the rent by bank transfer."
+  },
+  "note": "Same word, written with 帳. ATM 轉帳 is a very common way to pay; a remittance is 匯款."
+ },
+ {
+  "trad": "戶頭",
+  "pinyin": "hù tóu",
+  "en": "bank account",
+  "mainland": "账户",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "薪水會直接匯到戶頭。",
+   "en": "Your salary goes straight into your account."
+  },
+  "note": "Also 帳戶. 開戶 = open an account."
+ },
+ {
+  "trad": "金融卡",
+  "pinyin": "jīn róng kǎ",
+  "en": "ATM card; debit card",
+  "mainland": "银行卡 / 借记卡",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的金融卡被提款機吃掉了。",
+   "en": "The ATM swallowed my bank card."
+  },
+  "note": "Also 提款卡. 銀行卡 isn't an everyday term in Taiwan."
+ },
+ {
+  "trad": "印章",
+  "pinyin": "yìn zhāng",
+  "en": "personal seal; name chop",
+  "mainland": "印章 / 私章",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "去銀行開戶要帶印章。",
+   "en": "Bring your seal when opening a bank account."
+  },
+  "note": "Same word, but name chops are still required for banking, contracts and registered mail (蓋章)."
+ },
+ {
+  "trad": "美金",
+  "pinyin": "měi jīn",
+  "en": "US dollars",
+  "mainland": "美元",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我想換五百塊美金。",
+   "en": "I'd like to change 500 US dollars."
+  },
+  "note": "美元 is used in writing and the news; 美金 in speech."
+ },
+ {
+  "trad": "日幣",
+  "pinyin": "rì bì",
+  "en": "Japanese yen",
+  "mainland": "日元",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "最近日幣很便宜。",
+   "en": "The yen has been cheap lately."
+  },
+  "note": "Also 日圓 in writing. Likewise 韓幣, 泰銖, 人民幣."
+ },
+ {
+  "trad": "立委",
+  "pinyin": "lì wěi",
+  "en": "legislator",
+  "mainland": "",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他明年想出來選立委。",
+   "en": "He wants to run for legislator next year."
+  },
+  "note": "Short for 立法委員, a member of the 立法院 (parliament)."
+ },
+ {
+  "trad": "縣市",
+  "pinyin": "xiàn shì",
+  "en": "counties and cities",
+  "mainland": "省市",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "颱風假由各縣市自己決定。",
+   "en": "Typhoon days are decided by each county and city."
+  },
+  "note": "Taiwan's local governments: six 直轄市 plus the 縣 and 市."
+ },
+ {
+  "trad": "段",
+  "pinyin": "duàn",
+  "en": "section (of a long road, in addresses)",
+  "mainland": "",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們約在忠孝東路四段。",
+   "en": "Let's meet on Zhongxiao East Road, Section 4."
+  },
+  "note": "Addresses nest 路 › 段 › 巷 › 弄 › 號 › 樓, e.g. 和平東路二段50巷3弄8號5樓."
+ },
+ {
+  "trad": "弄",
+  "pinyin": "lòng",
+  "en": "alley (off a lane, in addresses)",
+  "mainland": "",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他家在五十巷三弄八號。",
+   "en": "His place is at No. 8, Alley 3, Lane 50."
+  },
+  "note": "Read lòng as an address unit (nòng as a verb). A 巷 is a lane; a 弄 branches off a lane."
+ },
+ {
+  "trad": "正本",
+  "pinyin": "zhèng běn",
+  "en": "original (document)",
+  "mainland": "原件",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "辦護照要帶身分證正本。",
+   "en": "Bring your original ID card when applying for a passport."
+  },
+  "note": "A copy is an 影本."
+ },
+ {
+  "trad": "大頭照",
+  "pinyin": "dà tóu zhào",
+  "en": "ID photo; passport photo",
+  "mainland": "证件照",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "辦護照要兩張大頭照。",
+   "en": "You need two ID photos for a passport."
+  },
+  "note": "Sized as 一吋 or 二吋; 證件照 is also used."
+ },
+ {
+  "trad": "國曆",
+  "pinyin": "guó lì",
+  "en": "Gregorian (solar) calendar",
+  "mainland": "公历 / 阳历",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我的生日是國曆五月三號。",
+   "en": "My birthday is May 3rd on the solar calendar."
+  },
+  "note": "Opposed to 農曆 (lunar). Also 陽曆."
+ },
+ {
+  "trad": "國定假日",
+  "pinyin": "guó dìng jià rì",
+  "en": "public holiday",
+  "mainland": "法定节假日",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "國定假日銀行沒有開。",
+   "en": "Banks are closed on public holidays."
+  },
+  "note": "E.g. 二二八, 清明, 端午, 中秋, 雙十 (國慶日)."
+ },
+ {
+  "trad": "補助",
+  "pinyin": "bǔ zhù",
+  "en": "subsidy; grant",
+  "mainland": "补贴",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "政府有提供租屋補助。",
+   "en": "The government offers a rent subsidy."
+  },
+  "note": "補貼 is also used, but 補助 is the everyday word."
+ },
+ {
+  "trad": "移民署",
+  "pinyin": "yí mín shǔ",
+  "en": "National Immigration Agency",
+  "mainland": "出入境管理局",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "延長居留要去移民署辦。",
+   "en": "You extend your residency at the immigration agency."
+  },
+  "note": "Where foreigners apply for and renew the 居留證."
+ },
+ {
+  "trad": "原住民",
+  "pinyin": "yuán zhù mín",
+  "en": "indigenous peoples",
+  "mainland": "少数民族 / 高山族",
+  "category": "admin",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "台灣有十六個原住民族。",
+   "en": "Taiwan has sixteen recognised indigenous peoples."
+  },
+  "note": "The official, respectful term. The PRC label 高山族 isn't used in Taiwan."
+ },
+ {
+  "trad": "撞球",
+  "pinyin": "zhuàng qiú",
+  "en": "billiards; pool",
+  "mainland": "台球 / 桌球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們去撞球場打撞球吧。",
+   "en": "Let's go shoot some pool at the pool hall."
+  },
+  "note": "台球 isn't used in Taiwan."
+ },
+ {
+  "trad": "保齡球",
+  "pinyin": "bǎo líng qiú",
+  "en": "bowling",
+  "mainland": "保龄球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們公司聚會去打保齡球。",
+   "en": "Our company outing was bowling."
+  },
+  "note": "Same word."
+ },
+ {
+  "trad": "灌籃",
+  "pinyin": "guàn lán",
+  "en": "slam dunk",
+  "mainland": "扣篮",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "他身高夠高，可以灌籃。",
+   "en": "He's tall enough to dunk."
+  },
+  "note": "Hence 《灌籃高手》 (Slam Dunk)."
+ },
+ {
+  "trad": "全壘打",
+  "pinyin": "quán lěi dǎ",
+  "en": "home run",
+  "mainland": "本垒打",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "九局下他打出再見全壘打！",
+   "en": "He hit a walk-off home run in the bottom of the ninth!"
+  },
+  "note": "再見全壘打 = walk-off homer. Base = 壘 on both sides, and home plate is 本壘."
+ },
+ {
+  "trad": "延長賽",
+  "pinyin": "yán cháng sài",
+  "en": "overtime; extra innings",
+  "mainland": "加时赛",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "兩隊打到延長賽才分出勝負。",
+   "en": "The two teams needed overtime to settle it."
+  }
+ },
+ {
+  "trad": "世界盃",
+  "pinyin": "shì jiè bēi",
+  "en": "World Cup",
+  "mainland": "世界杯",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "世界盃足球賽四年一次。",
+   "en": "The football World Cup is held every four years."
+  },
+  "note": "Taiwan writes 盃 for trophies and tournaments: 世界盃, 獎盃."
+ },
+ {
+  "trad": "自由式",
+  "pinyin": "zì yóu shì",
+  "en": "freestyle (swimming)",
+  "mainland": "自由泳",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "游泳我只會自由式。",
+   "en": "I can only swim freestyle."
+  },
+  "note": "Strokes end in 式: 蛙式 (蛙泳), 仰式 (仰泳), 蝶式 (蝶泳)."
+ },
+ {
+  "trad": "重訓",
+  "pinyin": "zhòng xùn",
+  "en": "weight training",
+  "mainland": "力量训练 / 撸铁",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我一週去健身房重訓三次。",
+   "en": "I do weight training at the gym three times a week."
+  },
+  "note": "Short for 重量訓練."
+ },
+ {
+  "trad": "伏地挺身",
+  "pinyin": "fú dì tǐng shēn",
+  "en": "push-up",
+  "mainland": "俯卧撑",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我每天做五十下伏地挺身。",
+   "en": "I do fifty push-ups every day."
+  },
+  "note": "Counted with 下."
+ },
+ {
+  "trad": "健行",
+  "pinyin": "jiàn xíng",
+  "en": "hiking",
+  "mainland": "徒步 / 远足",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "週末我們去陽明山健行。",
+   "en": "We're going hiking on Yangmingshan this weekend."
+  },
+  "note": "登山 or 爬山 for proper mountains; 健行 for trail walks."
+ },
+ {
+  "trad": "中華隊",
+  "pinyin": "zhōng huá duì",
+  "en": "Team Taiwan (Chinese Taipei)",
+  "mainland": "中华台北队 / 中国台北队",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我們一起幫中華隊加油！",
+   "en": "Let's all cheer for Team Taiwan!"
+  },
+  "note": "What Taiwanese call their national team in any sport; fans also say 台灣隊."
+ },
+ {
+  "trad": "比數",
+  "pinyin": "bǐ shù",
+  "en": "score (of a match)",
+  "mainland": "比分",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "現在的比數是三比二。",
+   "en": "The score is now three to two."
+  }
+ },
+ {
+  "trad": "平手",
+  "pinyin": "píng shǒu",
+  "en": "a tie; a draw",
+  "mainland": "平局 / 打平",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "兩隊最後打成平手。",
+   "en": "The two teams ended in a draw."
+  }
+ },
+ {
+  "trad": "職棒",
+  "pinyin": "zhí bàng",
+  "en": "professional baseball",
+  "mainland": "职业棒球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "週末要不要去看職棒？",
+   "en": "Want to go watch pro baseball this weekend?"
+  },
+  "note": "中華職棒 (CPBL) is famous for its noisy cheer squads. 職籃 = pro basketball."
+ },
+ {
+  "trad": "拉筋",
+  "pinyin": "lā jīn",
+  "en": "to stretch",
+  "mainland": "拉伸",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "運動前要先拉筋。",
+   "en": "Stretch before you exercise."
+  },
+  "note": "A warm-up is 暖身 or 熱身."
+ },
+ {
+  "trad": "巨蛋",
+  "pinyin": "jù dàn",
+  "en": "dome; indoor arena",
+  "mainland": "体育馆",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "演唱會在台北小巨蛋舉行。",
+   "en": "The concert is at Taipei Arena."
+  },
+  "note": "Via Japanese ('Big Egg' = Tokyo Dome). 小巨蛋 = Taipei Arena, 大巨蛋 = Taipei Dome."
+ },
+ {
+  "trad": "運動中心",
+  "pinyin": "yùn dòng zhōng xīn",
+  "en": "public sports centre",
+  "mainland": "体育中心",
+  "category": "sports",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我家附近的運動中心有游泳池。",
+   "en": "The sports centre near my place has a pool."
+  },
+  "note": "Each Taipei district has a cheap city-run 運動中心 with gym, pool and courts."
+ },
+ {
+  "trad": "台斤",
+  "pinyin": "tái jīn",
+  "en": "Taiwanese catty (600 g)",
+  "mainland": "斤",
+  "category": "measure",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "一台斤等於六百公克。",
+   "en": "One Taiwanese catty equals 600 grams."
+  },
+  "note": "At markets just 斤. 1 台斤 = 16 兩; the mainland 市斤 is 500 g."
+ },
+ {
+  "trad": "公克",
+  "pinyin": "gōng kè",
+  "en": "gram",
+  "mainland": "克",
+  "category": "measure",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這包餅乾只有五十公克。",
+   "en": "This pack of biscuits is only fifty grams."
+  }
+ },
+ {
+  "trad": "公升",
+  "pinyin": "gōng shēng",
+  "en": "litre",
+  "mainland": "升",
+  "category": "measure",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "汽油一公升大概三十塊。",
+   "en": "Petrol is about NT$30 a litre."
+  }
+ },
+ {
+  "trad": "CC",
+  "pinyin": "CC",
+  "en": "millilitre (cc)",
+  "mainland": "毫升",
+  "category": "measure",
+  "register": "colloquial",
+  "level": 2,
+  "example": {
+   "zh": "這瓶水是六百CC。",
+   "en": "This bottle of water is 600 ml."
+  },
+  "note": "Written c.c. on menus and bottles and said 'CC'; also for engine size (一二五CC的機車). 毫升 is the formal word."
+ },
+ {
+  "trad": "平方公尺",
+  "pinyin": "píng fāng gōng chǐ",
+  "en": "square metre",
+  "mainland": "平方米 / 平米",
+  "category": "measure",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "一坪大約是三點三平方公尺。",
+   "en": "One ping is roughly 3.3 square metres."
+  }
+ },
+ {
+  "trad": "吋",
+  "pinyin": "cùn",
+  "en": "inch",
+  "mainland": "英寸 / 寸",
+  "category": "measure",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "我買了一台五十五吋的電視。",
+   "en": "I bought a 55-inch TV."
+  },
+  "note": "吋 (also 英吋) for screens, pizzas and cakes; 寸 is the traditional Chinese unit."
+ },
+ {
+  "trad": "趴",
+  "pinyin": "pā",
+  "en": "percent (colloquial)",
+  "mainland": "百分之… / 个点",
+  "category": "measure",
+  "register": "colloquial",
+  "level": 2,
+  "example": {
+   "zh": "手機電量只剩十趴。",
+   "en": "My phone's only got ten percent battery left."
+  },
+  "note": "From 'percent' (via Japanese パーセント): 二十趴 = 20%. Informal speech only."
+ },
+ {
+  "trad": "大卡",
+  "pinyin": "dà kǎ",
+  "en": "kilocalorie",
+  "mainland": "千卡 / 大卡",
+  "category": "measure",
+  "register": "neutral",
+  "level": 2,
+  "example": {
+   "zh": "這個便當有八百大卡。",
+   "en": "This lunch box is 800 kilocalories."
+  },
+  "note": "Food labels use 大卡; calories in general are 熱量 or 卡路里."
+ },
+ {
+  "trad": "作業系統",
+  "pinyin": "zuò yè xì tǒng",
+  "en": "operating system",
+  "mainland": "操作系统",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "你的作業系統該更新了。",
+   "en": "Your operating system needs updating."
+  }
+ },
+ {
+  "trad": "視窗",
+  "pinyin": "shì chuāng",
+  "en": "window (on screen)",
+  "mainland": "窗口",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "把這個視窗關掉就好了。",
+   "en": "Just close this window."
+  },
+  "note": "In Taiwan 窗口 is a service counter or a contact person, not a UI window."
+ },
+ {
+  "trad": "程式碼",
+  "pinyin": "chéng shì mǎ",
+  "en": "(source) code",
+  "mainland": "代码",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這段程式碼是誰寫的？",
+   "en": "Who wrote this piece of code?"
+  },
+  "note": "Source code = 原始碼 (mainland 源代码)."
+ },
+ {
+  "trad": "物件",
+  "pinyin": "wù jiàn",
+  "en": "object (in programming); item; property listing",
+  "mainland": "对象",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這個物件有三個屬性。",
+   "en": "This object has three properties."
+  },
+  "note": "False friend: 對象 in Taiwan mostly means a romantic partner or a target. Realtors also call a listing a 物件."
+ },
+ {
+  "trad": "演算法",
+  "pinyin": "yǎn suàn fǎ",
+  "en": "algorithm",
+  "mainland": "算法",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "演算法一直推薦我貓的影片。",
+   "en": "The algorithm keeps recommending me cat videos."
+  }
+ },
+ {
+  "trad": "變數",
+  "pinyin": "biàn shù",
+  "en": "variable",
+  "mainland": "变量",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "變數的名字要取清楚。",
+   "en": "Variable names should be clear."
+  },
+  "note": "Also figurative: 還有很多變數 = still many uncertainties. Function = 函式, array = 陣列, string = 字串."
+ },
+ {
+  "trad": "欄",
+  "pinyin": "lán",
+  "en": "column (table, spreadsheet)",
+  "mainland": "列",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "價格寫在第三欄。",
+   "en": "The price is in the third column."
+  },
+  "note": "Watch out: Taiwan 列 = row and 欄 = column; mainland 行 = row and 列 = column."
+ },
+ {
+  "trad": "列",
+  "pinyin": "liè",
+  "en": "row (table, spreadsheet)",
+  "mainland": "行",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "請把第一列的標題改掉。",
+   "en": "Please change the header in the first row."
+  },
+  "note": "False friend: on the mainland 列 is a column. Taiwan mnemonic: 直行橫列 (行 vertical, 列 horizontal)."
+ },
+ {
+  "trad": "雷射",
+  "pinyin": "léi shè",
+  "en": "laser",
+  "mainland": "激光",
+  "category": "tech",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "她去做了近視雷射手術。",
+   "en": "She had laser surgery for her nearsightedness."
+  },
+  "note": "A transliteration of 'laser': 雷射印表機, 雷射筆."
+ },
+ {
+  "trad": "自強號",
+  "pinyin": "zì qiáng hào",
+  "en": "Tze-Chiang limited express (TRA)",
+  "mainland": "",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "我訂了早上八點的自強號。",
+   "en": "I booked the 8 a.m. Tze-Chiang express."
+  },
+  "note": "台鐵's fastest class, with reserved seats. Newer trainsets include 普悠瑪 and 太魯閣號."
+ },
+ {
+  "trad": "交流道",
+  "pinyin": "jiāo liú dào",
+  "en": "freeway interchange",
+  "mainland": "高速出入口 / 互通立交",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "下一個交流道下去就到了。",
+   "en": "Get off at the next interchange and we're there."
+  }
+ },
+ {
+  "trad": "國道",
+  "pinyin": "guó dào",
+  "en": "national freeway",
+  "mainland": "高速公路",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "國道一號又大塞車了。",
+   "en": "Freeway No. 1 is badly jammed again."
+  },
+  "note": "In Taiwan 國道 are the (tolled) freeways; mainland 国道 are ordinary national trunk roads."
+ },
+ {
+  "trad": "行車紀錄器",
+  "pinyin": "xíng chē jì lù qì",
+  "en": "dashcam",
+  "mainland": "行车记录仪",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "還好我有裝行車紀錄器。",
+   "en": "Luckily I have a dashcam installed."
+  }
+ },
+ {
+  "trad": "拖吊",
+  "pinyin": "tuō diào",
+  "en": "to tow (an illegally parked vehicle)",
+  "mainland": "拖车 / 拖走",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "車子停紅線被拖吊了。",
+   "en": "The car was towed for parking on a red line."
+  },
+  "note": "紅線 = no stopping or parking at all; 黃線 = no parking, but brief stops are allowed."
+ },
+ {
+  "trad": "待轉區",
+  "pinyin": "dài zhuǎn qū",
+  "en": "two-stage left-turn box (for scooters)",
+  "mainland": "",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "機車左轉要先到待轉區。",
+   "en": "Scooters turning left must first go to the waiting box."
+  },
+  "note": "At big junctions scooters do a 兩段式左轉: ride across, wait in the box, then go with the cross traffic."
+ },
+ {
+  "trad": "賓士",
+  "pinyin": "bīn shì",
+  "en": "Mercedes-Benz",
+  "mainland": "奔驰",
+  "category": "transport",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他開一台黑色的賓士。",
+   "en": "He drives a black Mercedes."
+  },
+  "note": "Car brand names often differ: 福斯 (VW, mainland 大众), 速霸陸 (Subaru, mainland 斯巴鲁)."
+ },
+ {
+  "trad": "釋迦",
+  "pinyin": "shì jiā",
+  "en": "sugar apple; custard apple",
+  "mainland": "番荔枝 / 释迦",
+  "category": "food",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "台東的釋迦又大又甜。",
+   "en": "Taitung's sugar apples are big and sweet."
+  },
+  "note": "Named for looking like the Buddha's head (釋迦牟尼)."
+ },
+ {
+  "trad": "即溶咖啡",
+  "pinyin": "jí róng kā fēi",
+  "en": "instant coffee",
+  "mainland": "速溶咖啡",
+  "category": "food",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "辦公室只有即溶咖啡。",
+   "en": "The office only has instant coffee."
+  },
+  "note": "即溶 = instant (of powders); the mainland says 速溶."
+ },
+ {
+  "trad": "電暖器",
+  "pinyin": "diàn nuǎn qì",
+  "en": "electric heater",
+  "mainland": "电暖气 / 取暖器",
+  "category": "daily",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "寒流來的時候要開電暖器。",
+   "en": "Turn on the heater when a cold front hits."
+  },
+  "note": "Homes in Taiwan have no central heating (暖氣)."
+ },
+ {
+  "trad": "奇異筆",
+  "pinyin": "qí yì bǐ",
+  "en": "permanent marker",
+  "mainland": "记号笔 / 马克笔",
+  "category": "daily",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "用奇異筆在箱子上寫名字。",
+   "en": "Write your name on the box with a marker."
+  },
+  "note": "From the brand name 'Magic Ink'. 麥克筆 is also used."
+ },
+ {
+  "trad": "愛人",
+  "pinyin": "ài rén",
+  "en": "lover; sweetheart",
+  "mainland": "情人 / 恋人",
+  "category": "daily",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這首歌是寫給他的愛人的。",
+   "en": "This song was written for his lover."
+  },
+  "note": "False friend: mainland 爱人 is the ordinary word for one's spouse. In Taiwan introduce a spouse as 先生 / 太太 or 老公 / 老婆."
+ },
+ {
+  "trad": "指考",
+  "pinyin": "zhǐ kǎo",
+  "en": "Advanced Subjects Test (former July entrance exam)",
+  "mainland": "高考",
+  "category": "school",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "我是考指考上大學的。",
+   "en": "I got into university through the July exam."
+  },
+  "note": "Short for 指定科目考試 (2002–2021), replaced by 分科測驗 in 2022. Earlier generations sat the 聯考."
+ },
+ {
+  "trad": "高考",
+  "pinyin": "gāo kǎo",
+  "en": "Senior Civil Service Examination",
+  "mainland": "公务员考试",
+  "category": "school",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他準備高考準備了兩年。",
+   "en": "He spent two years preparing for the civil service exam."
+  },
+  "note": "False friend: in Taiwan 高考 is the higher civil-service exam (高等考試), not the university entrance exam."
+ },
+ {
+  "trad": "教官",
+  "pinyin": "jiào guān",
+  "en": "military instructor (school discipline officer)",
+  "mainland": "",
+  "category": "school",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "遲到會被教官登記。",
+   "en": "If you're late, the instructor will write you up."
+  },
+  "note": "Military officers posted to high schools and colleges for discipline and safety; now being phased out."
+ },
+ {
+  "trad": "推甄",
+  "pinyin": "tuī zhēn",
+  "en": "admission by recommendation and screening",
+  "mainland": "保送 / 推免",
+  "category": "school",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他是推甄上台大的。",
+   "en": "He got into NTU through recommendation."
+  },
+  "note": "Short for 推薦甄選: admission by application and interview rather than the exam alone."
+ },
+ {
+  "trad": "重考",
+  "pinyin": "chóng kǎo",
+  "en": "to retake the entrance exam (after a gap year)",
+  "mainland": "复读",
+  "category": "school",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他重考一年才上醫學系。",
+   "en": "He retook the exam after a year and got into medicine."
+  },
+  "note": "A repeater is a 重考生, typically studying at a 重考班."
+ },
+ {
+  "trad": "會考",
+  "pinyin": "huì kǎo",
+  "en": "Comprehensive Assessment (junior-high exit exam)",
+  "mainland": "中考",
+  "category": "school",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "國三生五月要考會考。",
+   "en": "Ninth-graders take the Comprehensive Assessment in May."
+  },
+  "note": "Short for 國中教育會考, used for senior-high admission."
+ },
+ {
+  "trad": "人資",
+  "pinyin": "rén zī",
+  "en": "HR; human resources",
+  "mainland": "人事 / 人力资源",
+  "category": "work",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "人資說下週會通知結果。",
+   "en": "HR says they'll let us know the result next week."
+  },
+  "note": "Short for 人力資源; many people just say HR."
+ },
+ {
+  "trad": "接案",
+  "pinyin": "jiē àn",
+  "en": "to freelance; to take on jobs",
+  "mainland": "接单 / 接活",
+  "category": "work",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "她辭職以後在家接案。",
+   "en": "She's been freelancing from home since she quit."
+  },
+  "note": "A freelancer is a 接案者 or SOHO族."
+ },
+ {
+  "trad": "考績",
+  "pinyin": "kǎo jī",
+  "en": "performance rating",
+  "mainland": "绩效考核",
+  "category": "work",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "今年的考績會影響年終。",
+   "en": "This year's performance rating will affect the bonus."
+  },
+  "note": "績 is read jī in Taiwan."
+ },
+ {
+  "trad": "同仁",
+  "pinyin": "tóng rén",
+  "en": "colleagues; staff (formal)",
+  "mainland": "同事 / 同仁",
+  "category": "work",
+  "register": "formal",
+  "level": 3,
+  "example": {
+   "zh": "謝謝各位同仁的努力。",
+   "en": "Thank you all for your hard work, colleagues."
+  },
+  "note": "Formal, used in announcements and speeches; the everyday word is 同事."
+ },
+ {
+  "trad": "葉門",
+  "pinyin": "yè mén",
+  "en": "Yemen",
+  "mainland": "也门",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "葉門在阿拉伯半島的南邊。",
+   "en": "Yemen is in the south of the Arabian Peninsula."
+  }
+ },
+ {
+  "trad": "肯亞",
+  "pinyin": "kěn yà",
+  "en": "Kenya",
+  "mainland": "肯尼亚",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他們去肯亞看動物大遷徙。",
+   "en": "They went to Kenya to see the great migration."
+  },
+  "note": "亞 is officially yà in Taiwan, though many people say yǎ."
+ },
+ {
+  "trad": "奈及利亞",
+  "pinyin": "nài jí lì yà",
+  "en": "Nigeria",
+  "mainland": "尼日利亚",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "奈及利亞是非洲人口最多的國家。",
+   "en": "Nigeria is the most populous country in Africa."
+  },
+  "note": "More African names: 衣索比亞 (埃塞俄比亚), 象牙海岸 (科特迪瓦), 坦尚尼亞 (坦桑尼亚)."
+ },
+ {
+  "trad": "克羅埃西亞",
+  "pinyin": "kè luó āi xī yà",
+  "en": "Croatia",
+  "mainland": "克罗地亚",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "克羅埃西亞的海岸很美。",
+   "en": "Croatia's coast is beautiful."
+  }
+ },
+ {
+  "trad": "瓜地馬拉",
+  "pinyin": "guā dì mǎ lā",
+  "en": "Guatemala",
+  "mainland": "危地马拉",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這包咖啡豆是瓜地馬拉產的。",
+   "en": "These coffee beans are from Guatemala."
+  },
+  "note": "One of Taiwan's diplomatic allies (邦交國), so it's often in the news."
+ },
+ {
+  "trad": "喬治亞",
+  "pinyin": "qiáo zhì yà",
+  "en": "Georgia (country; US state)",
+  "mainland": "格鲁吉亚 / 佐治亚",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "喬治亞是國家，也是美國的州。",
+   "en": "Georgia is a country and also a US state."
+  },
+  "note": "The mainland distinguishes 格鲁吉亚 (the country) from 佐治亚 (the state)."
+ },
+ {
+  "trad": "佛羅倫斯",
+  "pinyin": "fó luó lún sī",
+  "en": "Florence",
+  "mainland": "佛罗伦萨",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "佛羅倫斯的牛排很有名。",
+   "en": "Florence is famous for its steak."
+  },
+  "note": "The poetic older name 翡冷翠 is also known."
+ },
+ {
+  "trad": "坎城",
+  "pinyin": "kǎn chéng",
+  "en": "Cannes",
+  "mainland": "戛纳",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這部片在坎城影展得獎。",
+   "en": "This film won an award at the Cannes Film Festival."
+  },
+  "note": "影展 = film festival (mainland 电影节)."
+ },
+ {
+  "trad": "帛琉",
+  "pinyin": "bó liú",
+  "en": "Palau",
+  "mainland": "帕劳",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "很多台灣人去帛琉潛水。",
+   "en": "Lots of Taiwanese go diving in Palau."
+  }
+ },
+ {
+  "trad": "汶萊",
+  "pinyin": "wèn lái",
+  "en": "Brunei",
+  "mainland": "文莱",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "汶萊是一個很有錢的小國。",
+   "en": "Brunei is a very rich little country."
+  }
+ },
+ {
+  "trad": "柯林頓",
+  "pinyin": "kē lín dùn",
+  "en": "(Bill) Clinton",
+  "mainland": "克林顿",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "柯林頓是九〇年代的美國總統。",
+   "en": "Clinton was US president in the 1990s."
+  },
+  "note": "Taiwan likes surname-like first characters (柯, 歐, 賈, 雷). Hillary is 希拉蕊 (mainland 希拉里)."
+ },
+ {
+  "trad": "布希",
+  "pinyin": "bù xī",
+  "en": "(George) Bush",
+  "mainland": "布什",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "小布希是老布希的兒子。",
+   "en": "Bush junior is the son of Bush senior."
+  }
+ },
+ {
+  "trad": "雷根",
+  "pinyin": "léi gēn",
+  "en": "(Ronald) Reagan",
+  "mainland": "里根",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "雷根當總統以前是演員。",
+   "en": "Reagan was an actor before he became president."
+  }
+ },
+ {
+  "trad": "甘迺迪",
+  "pinyin": "gān nǎi dí",
+  "en": "(John F.) Kennedy",
+  "mainland": "肯尼迪",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "甘迺迪總統在一九六三年遇刺。",
+   "en": "President Kennedy was assassinated in 1963."
+  },
+  "note": "New York's JFK is 甘迺迪機場."
+ },
+ {
+  "trad": "馬克宏",
+  "pinyin": "mǎ kè hóng",
+  "en": "(Emmanuel) Macron",
+  "mainland": "马克龙",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "馬克宏是法國總統。",
+   "en": "Macron is the president of France."
+  },
+  "note": "Also 梅克爾 (Merkel, mainland 默克尔)."
+ },
+ {
+  "trad": "柴契爾",
+  "pinyin": "chái qì ěr",
+  "en": "(Margaret) Thatcher",
+  "mainland": "撒切尔",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "柴契爾夫人被稱為鐵娘子。",
+   "en": "Mrs Thatcher was known as the Iron Lady."
+  }
+ },
+ {
+  "trad": "邱吉爾",
+  "pinyin": "qiū jí ěr",
+  "en": "(Winston) Churchill",
+  "mainland": "丘吉尔",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "邱吉爾是二戰時的英國首相。",
+   "en": "Churchill was Britain's wartime prime minister."
+  }
+ },
+ {
+  "trad": "祖克柏",
+  "pinyin": "zǔ kè bó",
+  "en": "(Mark) Zuckerberg",
+  "mainland": "扎克伯格",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "祖克柏是臉書的創辦人。",
+   "en": "Zuckerberg is the founder of Facebook."
+  }
+ },
+ {
+  "trad": "莫札特",
+  "pinyin": "mò zhá tè",
+  "en": "Mozart",
+  "mainland": "莫扎特",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "我在聽莫札特的鋼琴曲。",
+   "en": "I'm listening to a Mozart piano piece."
+  },
+  "note": "Also 蕭邦 (Chopin, mainland 肖邦)."
+ },
+ {
+  "trad": "伊莉莎白",
+  "pinyin": "yī lì shā bái",
+  "en": "Elizabeth",
+  "mainland": "伊丽莎白",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "伊莉莎白女王在位七十年。",
+   "en": "Queen Elizabeth reigned for seventy years."
+  },
+  "note": "Taiwan favours 莉, 蕊, 絲 in women's names where the mainland uses 丽, 里, 斯."
+ },
+ {
+  "trad": "柯比",
+  "pinyin": "kē bǐ",
+  "en": "Kobe (Bryant)",
+  "mainland": "科比",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "柯比是我最喜歡的籃球員。",
+   "en": "Kobe is my favourite basketball player."
+  },
+  "note": "NBA names differ too: 柯瑞 (Curry, mainland 库里), 雷霸龍 (LeBron, mainland 勒布朗)."
+ },
+ {
+  "trad": "畢卡索",
+  "pinyin": "bì kǎ suǒ",
+  "en": "Picasso",
+  "mainland": "毕加索",
+  "category": "places",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這幅畫是畢卡索的作品。",
+   "en": "This painting is a Picasso."
+  }
+ },
+ {
+  "trad": "身心科",
+  "pinyin": "shēn xīn kē",
+  "en": "psychiatry (clinic)",
+  "mainland": "精神科 / 心理科",
+  "category": "health",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "睡不著可以去看身心科。",
+   "en": "If you can't sleep, you can see a psychiatrist."
+  },
+  "note": "A gentler name that clinics use for 精神科."
+ },
+ {
+  "trad": "心理諮商",
+  "pinyin": "xīn lǐ zī shāng",
+  "en": "counselling; psychotherapy",
+  "mainland": "心理咨询",
+  "category": "health",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "學校有免費的心理諮商。",
+   "en": "The school has free counselling."
+  },
+  "note": "諮商 = counselling; a counsellor is a 諮商師."
+ },
+ {
+  "trad": "失智症",
+  "pinyin": "shī zhì zhèng",
+  "en": "dementia",
+  "mainland": "痴呆症 / 阿尔茨海默病",
+  "category": "health",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "阿公去年被診斷出失智症。",
+   "en": "Grandpa was diagnosed with dementia last year."
+  },
+  "note": "老人癡呆 is now avoided as disrespectful."
+ },
+ {
+  "trad": "看護",
+  "pinyin": "kān hù",
+  "en": "(hired) caregiver; to nurse",
+  "mainland": "护工",
+  "category": "health",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "阿嬤住院，我們請了看護。",
+   "en": "Grandma's in hospital, so we hired a caregiver."
+  },
+  "note": "看 is read kān here. Live-in migrant caregivers are 外籍看護."
+ },
+ {
+  "trad": "身心障礙",
+  "pinyin": "shēn xīn zhàng ài",
+  "en": "disability",
+  "mainland": "残疾",
+  "category": "health",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這是身心障礙專用車位。",
+   "en": "This parking space is reserved for people with disabilities."
+  },
+  "note": "The standard respectful term (short: 身障). 殘疾 and 殘廢 are considered offensive in Taiwan."
+ },
+ {
+  "trad": "影展",
+  "pinyin": "yǐng zhǎn",
+  "en": "film festival",
+  "mainland": "电影节",
+  "category": "media",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這部片入圍坎城影展。",
+   "en": "This film was selected for the Cannes Film Festival."
+  },
+  "note": "金馬影展 is Taipei's big annual one."
+ },
+ {
+  "trad": "攝影機",
+  "pinyin": "shè yǐng jī",
+  "en": "video camera",
+  "mainland": "摄像机",
+  "category": "media",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "記者扛著攝影機跑過來。",
+   "en": "A reporter ran over shouldering a video camera."
+  },
+  "note": "A webcam is a 視訊鏡頭 (mainland 摄像头)."
+ },
+ {
+  "trad": "神隱少女",
+  "pinyin": "shén yǐn shào nǚ",
+  "en": "Spirited Away",
+  "mainland": "千与千寻",
+  "category": "media",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "《神隱少女》是宮崎駿的動畫。",
+   "en": "Spirited Away is a Miyazaki animation."
+  },
+  "note": "Other Ghibli titles differ too: 《霍爾的移動城堡》 (mainland 《哈尔的移动城堡》)."
+ },
+ {
+  "trad": "玩命關頭",
+  "pinyin": "wán mìng guān tóu",
+  "en": "Fast & Furious",
+  "mainland": "速度与激情",
+  "category": "media",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "《玩命關頭》已經拍到第十集了。",
+   "en": "Fast & Furious is already up to its tenth film."
+  },
+  "note": "Taiwan loves stock title formulas: 神鬼…, 玩命…, 終極…"
+ },
+ {
+  "trad": "精品",
+  "pinyin": "jīng pǐn",
+  "en": "luxury (designer) goods",
+  "mainland": "奢侈品",
+  "category": "shopping",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這條街上都是精品店。",
+   "en": "This street is all luxury boutiques."
+  },
+  "note": "On the mainland 精品 just means high-quality goods."
+ },
+ {
+  "trad": "衛浴",
+  "pinyin": "wèi yù",
+  "en": "bathroom (in listings)",
+  "mainland": "卫生间",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這間套房有獨立衛浴。",
+   "en": "This studio has a private bathroom."
+  },
+  "note": "Listing shorthand: 獨立衛浴 vs 共用衛浴."
+ },
+ {
+  "trad": "鐵窗",
+  "pinyin": "tiě chuāng",
+  "en": "window security grille",
+  "mainland": "防盗窗",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "老公寓的窗戶都有鐵窗。",
+   "en": "Old apartments all have grilles on the windows."
+  }
+ },
+ {
+  "trad": "鐵捲門",
+  "pinyin": "tiě juǎn mén",
+  "en": "roller shutter door",
+  "mainland": "卷帘门",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "店已經關了，鐵捲門都拉下來了。",
+   "en": "The shop's closed; the shutter is already down."
+  }
+ },
+ {
+  "trad": "預售屋",
+  "pinyin": "yù shòu wū",
+  "en": "pre-sale (off-plan) home",
+  "mainland": "期房",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他們買的是預售屋。",
+   "en": "They bought an off-plan home."
+  },
+  "note": "Finished new builds are 新成屋 (mainland 现房)."
+ },
+ {
+  "trad": "中古屋",
+  "pinyin": "zhōng gǔ wū",
+  "en": "second-hand home",
+  "mainland": "二手房",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "新房子太貴，我們只看中古屋。",
+   "en": "New homes are too expensive; we're only looking at resale ones."
+  },
+  "note": "中古 (from Japanese) = second-hand: 中古車, 中古機車."
+ },
+ {
+  "trad": "管委會",
+  "pinyin": "guǎn wěi huì",
+  "en": "residents' management committee",
+  "mainland": "业委会",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這件事要管委會開會決定。",
+   "en": "The management committee has to meet to decide this."
+  },
+  "note": "Short for 管理委員會."
+ },
+ {
+  "trad": "酒店",
+  "pinyin": "jiǔ diàn",
+  "en": "hostess club; (in brand names) hotel",
+  "mainland": "夜总会",
+  "category": "housing",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "聽說他常跟客戶去酒店。",
+   "en": "I hear he often goes to hostess clubs with clients."
+  },
+  "note": "False friend: mainland 酒店 is simply a hotel. In Taiwan 上酒店 means visiting a hostess bar; say 飯店 for a hotel."
+ },
+ {
+  "trad": "監理站",
+  "pinyin": "jiān lǐ zhàn",
+  "en": "motor vehicles office",
+  "mainland": "车管所",
+  "category": "admin",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "換駕照要去監理站。",
+   "en": "You go to the motor vehicles office to renew your license."
+  },
+  "note": "Also 監理所."
+ },
+ {
+  "trad": "公安",
+  "pinyin": "gōng ān",
+  "en": "public safety (of buildings and venues)",
+  "mainland": "公共安全",
+  "category": "admin",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這家KTV沒通過公安檢查。",
+   "en": "This KTV failed its public-safety inspection."
+  },
+  "note": "False friend: mainland 公安 = the police. In Taiwan it's short for 公共安全; the police are 警察."
+ },
+ {
+  "trad": "脫產",
+  "pinyin": "tuō chǎn",
+  "en": "to hide or transfer assets (to dodge debts)",
+  "mainland": "转移财产",
+  "category": "admin",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他怕被求償，早就脫產了。",
+   "en": "Afraid of being sued for damages, he moved his assets long ago."
+  },
+  "note": "False friend: mainland 脱产 means leaving your job temporarily, e.g. for full-time study (脱产学习)."
+ },
+ {
+  "trad": "捕手",
+  "pinyin": "bǔ shǒu",
+  "en": "catcher (baseball)",
+  "mainland": "接手",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他是球隊的先發捕手。",
+   "en": "He's the team's starting catcher."
+  },
+  "note": "投手 (pitcher) is the same on both sides; a batter is a 打者 (mainland 击球员)."
+ },
+ {
+  "trad": "阻攻",
+  "pinyin": "zǔ gōng",
+  "en": "blocked shot (basketball)",
+  "mainland": "盖帽",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他這場比賽有五次阻攻。",
+   "en": "He had five blocks this game."
+  },
+  "note": "Colloquially 蓋火鍋 ('serving a hot pot'). A steal is 抄截 (mainland 抢断)."
+ },
+ {
+  "trad": "十二碼",
+  "pinyin": "shí èr mǎ",
+  "en": "penalty kick",
+  "mainland": "点球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他踢進了一顆十二碼球。",
+   "en": "He scored a penalty."
+  },
+  "note": "A shoot-out is PK大戰; a free kick is 自由球 (mainland 任意球)."
+ },
+ {
+  "trad": "美式足球",
+  "pinyin": "měi shì zú qiú",
+  "en": "American football",
+  "mainland": "美式橄榄球",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "美式足球在美國非常紅。",
+   "en": "American football is hugely popular in the US."
+  },
+  "note": "橄欖球 in Taiwan is rugby."
+ },
+ {
+  "trad": "直排輪",
+  "pinyin": "zhí pái lún",
+  "en": "inline skating; rollerblades",
+  "mainland": "轮滑",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "小朋友在公園溜直排輪。",
+   "en": "Kids are rollerblading in the park."
+  },
+  "note": "The verb is 溜: 溜直排輪, 溜冰, 溜滑梯."
+ },
+ {
+  "trad": "準決賽",
+  "pinyin": "zhǔn jué sài",
+  "en": "semifinal",
+  "mainland": "半决赛",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "中華隊打進了準決賽。",
+   "en": "Team Taiwan made it to the semifinals."
+  },
+  "note": "Also 四強賽. The final is 決賽 or 冠軍賽."
+ },
+ {
+  "trad": "先發",
+  "pinyin": "xiān fā",
+  "en": "starting (player, line-up)",
+  "mainland": "首发",
+  "category": "sports",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "今天的先發投手是誰？",
+   "en": "Who's the starting pitcher today?"
+  }
+ },
+ {
+  "trad": "兩",
+  "pinyin": "liǎng",
+  "en": "tael (37.5 g)",
+  "mainland": "两",
+  "category": "measure",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "老闆，茶葉我要買四兩。",
+   "en": "Boss, I'd like four taels of tea."
+  },
+  "note": "A 台兩 is 37.5 g (1/16 台斤), used for tea, herbs and gold; the mainland 两 is 50 g."
+ },
+ {
+  "trad": "公釐",
+  "pinyin": "gōng lí",
+  "en": "millimetre",
+  "mainland": "毫米",
+  "category": "measure",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "這根螺絲的直徑是五公釐。",
+   "en": "This screw is five millimetres in diameter."
+  },
+  "note": "毫米 is used too, e.g. for rainfall in weather reports."
+ },
+ {
+  "trad": "質量",
+  "pinyin": "zhí liàng",
+  "en": "mass (physics)",
+  "mainland": "质量",
+  "category": "measure",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "質量和重量是不一樣的。",
+   "en": "Mass and weight are not the same thing."
+  },
+  "note": "False friend: in Taiwan 質量 is physical mass only; 'quality' is 品質. 質 is read zhí."
+ },
+ {
+  "trad": "兆",
+  "pinyin": "zhào",
+  "en": "trillion (10¹²)",
+  "mainland": "万亿",
+  "category": "measure",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "政府的總預算超過三兆元。",
+   "en": "The government's total budget exceeds three trillion dollars."
+  },
+  "note": "In Taiwan 兆 = 10¹². The mainland says 万亿 and uses 兆 for 'mega' (兆字节 = MB)."
+ },
+ {
+  "trad": "碼",
+  "pinyin": "mǎ",
+  "en": "0.25 percentage point (interest rates); yard",
+  "mainland": "25个基点",
+  "category": "measure",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "央行決定升息半碼。",
+   "en": "The central bank decided to raise rates by 12.5 basis points."
+  },
+  "note": "In financial news 一碼 = 0.25%, 半碼 = 0.125%. Also the unit 'yard', and 十二碼 = penalty kick."
+ },
+ {
+  "trad": "甲",
+  "pinyin": "jiǎ",
+  "en": "jia (land unit, about 0.97 hectare)",
+  "mainland": "",
+  "category": "measure",
+  "register": "neutral",
+  "level": 3,
+  "example": {
+   "zh": "他家在鄉下有三甲地。",
+   "en": "His family has three jia of land in the countryside."
+  },
+  "note": "A Dutch-era unit still used for farmland: 1 甲 = 2,934 坪."
+ }
+]

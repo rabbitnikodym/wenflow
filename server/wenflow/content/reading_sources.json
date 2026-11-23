@@ -1,0 +1,364 @@
+{
+  "feeds": [
+    {
+      "name": "中央社 CNA 生活",
+      "url": "https://feeds.feedburner.com/rsscna/lifehealth",
+      "site": "cna.com.tw",
+      "category": "lifestyle",
+      "level": 5,
+      "extractable": true,
+      "note": "National wire service: daily-life, health, weather and education briefs; neutral standard written Mandarin, short articles."
+    },
+    {
+      "name": "中央社 CNA 文化",
+      "url": "https://feeds.feedburner.com/rsscna/culture",
+      "site": "cna.com.tw",
+      "category": "culture",
+      "level": 5,
+      "extractable": true,
+      "note": "CNA arts, books, museums, film and heritage news; clean wire style."
+    },
+    {
+      "name": "中央社 CNA 科技",
+      "url": "https://feeds.feedburner.com/rsscna/technology",
+      "site": "cna.com.tw",
+      "category": "tech",
+      "level": 5,
+      "extractable": true,
+      "note": "CNA science and technology news (semiconductors, AI, space); many technical terms."
+    },
+    {
+      "name": "中央社 CNA 國際",
+      "url": "https://feeds.feedburner.com/rsscna/intworld",
+      "site": "cna.com.tw",
+      "category": "news",
+      "level": 5,
+      "extractable": true,
+      "note": "CNA world news with Taiwan-style transliterated names; standard news register."
+    },
+    {
+      "name": "中央社 CNA 運動",
+      "url": "https://feeds.feedburner.com/rsscna/sport",
+      "site": "cna.com.tw",
+      "category": "sports",
+      "level": 5,
+      "extractable": true,
+      "note": "CNA sports briefs (baseball, basketball, Taiwanese athletes abroad); short articles."
+    },
+    {
+      "name": "中央社 CNA 娛樂",
+      "url": "https://feeds.feedburner.com/rsscna/stars",
+      "site": "cna.com.tw",
+      "category": "entertainment",
+      "level": 4,
+      "extractable": true,
+      "note": "CNA entertainment news (film, music, celebrities); lighter vocabulary."
+    },
+    {
+      "name": "公視新聞網 PNN",
+      "url": "https://news.pts.org.tw/xml/newsfeed.xml",
+      "site": "news.pts.org.tw",
+      "category": "news",
+      "level": 5,
+      "extractable": true,
+      "note": "Public Television news site: domestic, environment, education and human-rights stories; sober broadcast-script style."
+    },
+    {
+      "name": "自由時報 生活",
+      "url": "https://news.ltn.com.tw/rss/life.xml",
+      "site": "news.ltn.com.tw",
+      "category": "news",
+      "level": 5,
+      "extractable": true,
+      "note": "Liberty Times life section: weather, transport, health, consumer news; very frequent, short items."
+    },
+    {
+      "name": "自由時報 蒐奇",
+      "url": "https://news.ltn.com.tw/rss/novelty.xml",
+      "site": "news.ltn.com.tw",
+      "category": "lifestyle",
+      "level": 4,
+      "extractable": true,
+      "note": "Liberty Times odd-news section: short quirky human-interest stories, easy and fun."
+    },
+    {
+      "name": "自由時報 體育",
+      "url": "https://news.ltn.com.tw/rss/sports.xml",
+      "site": "sports.ltn.com.tw",
+      "category": "sports",
+      "level": 5,
+      "extractable": true,
+      "note": "Liberty Times sports: MLB, CPBL, NBA and Taiwanese players; short articles with sports jargon."
+    },
+    {
+      "name": "自由時報 評論",
+      "url": "https://news.ltn.com.tw/rss/opinion.xml",
+      "site": "talk.ltn.com.tw",
+      "category": "opinion",
+      "level": 6,
+      "extractable": true,
+      "note": "Liberty Times editorials, columns and reader op-eds; argumentative written register."
+    },
+    {
+      "name": "ETtoday 生活",
+      "url": "https://feeds.feedburner.com/ettoday/lifestyle",
+      "site": "ettoday.net",
+      "category": "lifestyle",
+      "level": 4,
+      "extractable": true,
+      "note": "ETtoday life news: viral posts, weather, consumer tips; colloquial net-flavoured Mandarin. ETtoday pubDate lacks a space after the comma, so feedparser leaves published_parsed empty (dates verified current by manual parse)."
+    },
+    {
+      "name": "ETtoday 旅遊",
+      "url": "https://feeds.feedburner.com/ettoday/travel",
+      "site": "travel.ettoday.net",
+      "category": "travel",
+      "level": 4,
+      "extractable": true,
+      "note": "ETtoday travel and food: new restaurants, hotels, domestic trips, promotions. ETtoday pubDate lacks a space after the comma, so feedparser leaves published_parsed empty (dates verified current by manual parse)."
+    },
+    {
+      "name": "ETtoday 寵物",
+      "url": "https://feeds.feedburner.com/ettoday/pet",
+      "site": "pets.ettoday.net",
+      "category": "lifestyle",
+      "level": 3,
+      "extractable": true,
+      "note": "ETtoday pet stories: short, simple, narrative posts about cats and dogs; easiest news-style reading here. ETtoday pubDate lacks a space after the comma, so feedparser leaves published_parsed empty (dates verified current by manual parse)."
+    },
+    {
+      "name": "ETtoday 健康",
+      "url": "https://feeds.feedburner.com/ettoday/health",
+      "site": "health.ettoday.net",
+      "category": "lifestyle",
+      "level": 5,
+      "extractable": true,
+      "note": "ETtoday health: doctors' advice, nutrition, medical cases; body and illness vocabulary. ETtoday pubDate lacks a space after the comma, so feedparser leaves published_parsed empty (dates verified current by manual parse)."
+    },
+    {
+      "name": "ETtoday 新奇",
+      "url": "https://feeds.feedburner.com/ettoday/novelty",
+      "site": "ettoday.net",
+      "category": "entertainment",
+      "level": 4,
+      "extractable": true,
+      "note": "ETtoday odd news from around the world; short and casual. Feed mixes in a few old items. ETtoday pubDate lacks a space after the comma, so feedparser leaves published_parsed empty (dates verified current by manual parse)."
+    },
+    {
+      "name": "Rti 中央廣播電臺",
+      "url": "https://www.rti.org.tw/rss",
+      "site": "rti.org.tw",
+      "category": "news",
+      "level": 5,
+      "extractable": true,
+      "note": "Radio Taiwan International news; feed carries the full article text (440-800 chars in sampled items), broadcast-news style."
+    },
+    {
+      "name": "地球圖輯隊",
+      "url": "https://dq.yam.com/rss.php",
+      "site": "dq.yam.com",
+      "category": "news",
+      "level": 4,
+      "extractable": true,
+      "note": "Photo-led explainers of international stories written in plain conversational Mandarin for young readers."
+    },
+    {
+      "name": "國語日報",
+      "url": "https://www.mdnkids.com/rss/",
+      "site": "mdnkids.com",
+      "category": "kids",
+      "level": 3,
+      "extractable": true,
+      "note": "Mandarin Daily News, Taiwan's children's newspaper: 8 short simple news items per day. Dates are YYYY/MM/DD (non-RFC822; verified current by hand)."
+    },
+    {
+      "name": "報導者 The Reporter",
+      "url": "https://public.twreporter.org/rss/twreporter-rss.xml",
+      "site": "twreporter.org",
+      "category": "longform",
+      "level": 6,
+      "extractable": true,
+      "note": "Non-profit investigative journalism; long in-depth features (sample article 4,400 chars) in literary reportage style. URL is the redirect target of twreporter.org/a/rss2.xml."
+    },
+    {
+      "name": "關鍵評論網 The News Lens",
+      "url": "https://feeds.feedburner.com/TheNewsLens",
+      "site": "thenewslens.com",
+      "category": "opinion",
+      "level": 5,
+      "extractable": true,
+      "note": "News explainers, commentary and translated analysis across politics, society, culture."
+    },
+    {
+      "name": "思想坦克 Voicettank",
+      "url": "https://voicettank.org/feed/",
+      "site": "voicettank.org",
+      "category": "opinion",
+      "level": 6,
+      "extractable": true,
+      "note": "Political and social commentary by Taiwanese academics; feed carries full text (2,300-3,100 chars in sampled items)."
+    },
+    {
+      "name": "巷仔口社會學",
+      "url": "https://twstreetcorner.org/feed/",
+      "site": "twstreetcorner.org",
+      "category": "longform",
+      "level": 6,
+      "extractable": true,
+      "note": "Sociologists writing for the public about Taiwanese society; long essays, academic but accessible. Low frequency (3 items in the last 60 days)."
+    },
+    {
+      "name": "歷史學柑仔店",
+      "url": "https://kamatiam.org/feed/",
+      "site": "kamatiam.org",
+      "category": "culture",
+      "level": 6,
+      "extractable": true,
+      "note": "Public-history essays by Taiwanese historians; long-form with classical quotations."
+    },
+    {
+      "name": "泛科學 PanSci",
+      "url": "https://pansci.asia/feed",
+      "site": "pansci.asia",
+      "category": "science",
+      "level": 5,
+      "extractable": true,
+      "note": "Taiwan's main popular-science site; feed carries full article text (1,600-2,600 chars in sampled items), explanatory style."
+    },
+    {
+      "name": "研之有物 中研院",
+      "url": "https://research.sinica.edu.tw/feed/",
+      "site": "research.sinica.edu.tw",
+      "category": "science",
+      "level": 6,
+      "extractable": true,
+      "note": "Academia Sinica's outreach magazine: long interviews about current research; low frequency (1 new item in the last 60 days, newest 31 days old)."
+    },
+    {
+      "name": "CASE 報科學",
+      "url": "https://case.ntu.edu.tw/blog/?feed=rss2",
+      "site": "case.ntu.edu.tw",
+      "category": "science",
+      "level": 5,
+      "extractable": true,
+      "note": "NTU science-education centre: science news and explainers written for general readers."
+    },
+    {
+      "name": "台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/feed/",
+      "site": "tfc-taiwan.org.tw",
+      "category": "news",
+      "level": 5,
+      "extractable": true,
+      "note": "Fact-check reports that restate a rumour and walk through the evidence; clear, structured expository prose."
+    },
+    {
+      "name": "科技新報 TechNews",
+      "url": "https://technews.tw/feed/",
+      "site": "technews.tw",
+      "category": "tech",
+      "level": 5,
+      "extractable": true,
+      "note": "Tech-industry news (chips, AI, energy, space); concise reports with industry vocabulary."
+    },
+    {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/feed/rss",
+      "site": "inside.com.tw",
+      "category": "tech",
+      "level": 5,
+      "extractable": true,
+      "note": "Internet/startup/AI news and analysis; feed carries full text."
+    },
+    {
+      "name": "電腦玩物",
+      "url": "https://www.playpcesor.com/feeds/posts/default",
+      "site": "playpcesor.com",
+      "category": "tech",
+      "level": 5,
+      "extractable": true,
+      "note": "Esor's long-running blog on productivity, note-taking and software; first-person explanatory essays, full text in feed (URL redirects to FeedBurner)."
+    },
+    {
+      "name": "女人迷 Womany",
+      "url": "https://feeds.feedburner.com/womany",
+      "site": "womany.net",
+      "category": "lifestyle",
+      "level": 5,
+      "extractable": true,
+      "note": "Essays on relationships, work, gender and self-growth; reflective first-person writing, full text in feed."
+    },
+    {
+      "name": "Heho健康",
+      "url": "https://heho.com.tw/feed",
+      "site": "heho.com.tw",
+      "category": "lifestyle",
+      "level": 4,
+      "extractable": true,
+      "note": "Consumer health articles (diet, exercise, common illnesses) in plain language; full text in feed."
+    },
+    {
+      "name": "閱讀前哨站",
+      "url": "https://readingoutpost.com/feed/",
+      "site": "readingoutpost.com",
+      "category": "culture",
+      "level": 5,
+      "extractable": true,
+      "note": "Book notes and summaries (non-fiction, self-improvement) by a Taiwanese blogger; full text in feed."
+    },
+    {
+      "name": "Readmoo閱讀最前線",
+      "url": "https://news.readmoo.com/feed/",
+      "site": "news.readmoo.com",
+      "category": "culture",
+      "level": 5,
+      "extractable": false,
+      "note": "Book excerpts, reviews and author columns. Article pages return nothing to trafilatura.fetch_url (default UA blocked), but the feed itself carries the full text (700-6,600 chars in sampled items)."
+    },
+    {
+      "name": "吹音樂 Blow",
+      "url": "https://blow.streetvoice.com/feed/",
+      "site": "blow.streetvoice.com",
+      "category": "entertainment",
+      "level": 5,
+      "extractable": true,
+      "note": "Indie-music magazine: interviews, scene reports, album reviews; contemporary youth-culture vocabulary."
+    },
+    {
+      "name": "BIOS monthly",
+      "url": "https://www.biosmonthly.com/rss.xml",
+      "site": "biosmonthly.com",
+      "category": "culture",
+      "level": 6,
+      "extractable": true,
+      "note": "Arts-and-culture magazine: long interviews and essays on film, literature, design; literary style, full text in feed."
+    },
+    {
+      "name": "輕旅行",
+      "url": "https://travel.yam.com/rss",
+      "site": "travel.yam.com",
+      "category": "travel",
+      "level": 4,
+      "extractable": true,
+      "note": "Domestic travel and food round-ups (cafes, trails, night markets) by Taiwanese bloggers; casual descriptive writing."
+    },
+    {
+      "name": "食尚玩家",
+      "url": "https://supertaste.tvbs.com.tw/sitemaps/sitemap_rss.xml",
+      "site": "supertaste.tvbs.com.tw",
+      "category": "food",
+      "level": 4,
+      "extractable": true,
+      "note": "TVBS Super Taste: restaurant openings, street food, travel deals; food vocabulary, upbeat tone."
+    },
+    {
+      "name": "運動視界 Sports Vision",
+      "url": "https://www.sportsv.net/feed",
+      "site": "sportsv.net",
+      "category": "sports",
+      "level": 5,
+      "extractable": true,
+      "note": "Fan-written sports analysis and columns (baseball, basketball, football); opinionated essay style."
+    }
+  ]
+}

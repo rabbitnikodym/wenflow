@@ -1,0 +1,6930 @@
+[
+ {
+  "id": "tw-0001",
+  "trad": "計程車",
+  "mainland": "出租车",
+  "pinyin": "jì chéng chē",
+  "en": "taxi",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Taiwan says 計程車 (or casually 小黃, since taxis are yellow); 出租車 and 打的 sound mainland. You 搭/坐 a taxi, or 叫車 by phone or app.",
+  "example": {
+   "zh": "我們搭計程車去夜市吧。",
+   "en": "Let's take a taxi to the night market."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0002",
+  "trad": "小黃",
+  "mainland": null,
+  "pinyin": "xiǎo huáng",
+  "en": "taxi (colloquial, 'little yellow')",
+  "type": "vocab",
+  "category": "transit",
+  "register": "casual",
+  "note": "Nickname from the yellow paint all Taiwanese taxis use. Note the Taiwan classifier 台 for vehicles: 一台小黃.",
+  "example": {
+   "zh": "下雨了，叫一台小黃比較快。",
+   "en": "It's raining, calling a cab will be quicker."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0003",
+  "trad": "捷運",
+  "mainland": "地铁",
+  "pinyin": "jié yùn",
+  "en": "MRT, metro",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Every metro system in Taiwan (Taipei, Taoyuan, Taichung, Kaohsiung) is a 捷運. 地鐵 is understood but sounds mainland. Lines have names like 板南線 and 淡水信義線.",
+  "example": {
+   "zh": "搭捷運到台北車站只要十分鐘。",
+   "en": "It's only ten minutes to Taipei Main Station by MRT."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0004",
+  "trad": "公車",
+  "mainland": "公交车",
+  "pinyin": "gōng chē",
+  "en": "city bus",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Mainland 公交(車); Taiwan 公車. Bus stop = 公車站. Raise your hand to stop the bus and tap your card when you board (and often when you get off too).",
+  "example": {
+   "zh": "這班公車有到師大嗎？",
+   "en": "Does this bus go to NTNU?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0005",
+  "trad": "高鐵",
+  "mainland": null,
+  "pinyin": "gāo tiě",
+  "en": "Taiwan High Speed Rail (THSR)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Same word as mainland 高铁, but in Taiwan it means the one west-coast line (南港 to 左營). 坐高鐵 / 搭高鐵.",
+  "example": {
+   "zh": "坐高鐵去高雄不到兩個小時。",
+   "en": "It takes under two hours to Kaohsiung by high-speed rail."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0006",
+  "trad": "台鐵",
+  "mainland": null,
+  "pinyin": "tái tiě",
+  "en": "Taiwan Railway (conventional trains)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "The regular railway. Train classes: 區間車 (local, stops everywhere, no reserved seats), 自強號 (express). East-coast tickets sell out on holidays.",
+  "example": {
+   "zh": "坐台鐵去花蓮，沿路風景很漂亮。",
+   "en": "Taking the train to Hualien, the scenery along the way is beautiful."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0007",
+  "trad": "悠遊卡",
+  "mainland": "交通卡",
+  "pinyin": "yōu yóu kǎ",
+  "en": "EasyCard (stored-value transit card)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "The standard transit card; also pays at convenience stores. The other main card is 一卡通 (iPASS). Mainland equivalent: a city 交通卡.",
+  "example": {
+   "zh": "我的悠遊卡快沒錢了，要先去加值。",
+   "en": "My EasyCard is almost empty, I need to top it up first."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0008",
+  "trad": "加值",
+  "mainland": "充值",
+  "pinyin": "jiā zhí",
+  "en": "to top up (a card)",
+  "type": "vocab",
+  "category": "money",
+  "register": "neutral",
+  "note": "Used for 悠遊卡 and other cards at MRT machines or convenience stores. For apps and accounts people also say 儲值. 充值 is understood but not the Taiwan word.",
+  "example": {
+   "zh": "麻煩幫我悠遊卡加值五百。",
+   "en": "Please top up my EasyCard with 500."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0009",
+  "trad": "機車",
+  "mainland": "摩托车",
+  "pinyin": "jī chē",
+  "en": "scooter, motorbike",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "In Taiwan almost always a scooter, the main way people get around. 騎機車 = ride a scooter. On the mainland 机车 means a locomotive. Also slang for 'annoying' (see the separate entry).",
+  "example": {
+   "zh": "我每天騎機車上班。",
+   "en": "I ride my scooter to work every day."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0010",
+  "trad": "腳踏車",
+  "mainland": "自行车",
+  "pinyin": "jiǎo tà chē",
+  "en": "bicycle",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Also 單車, and 自行車 in formal writing. The shared-bike system is YouBike (微笑單車).",
+  "example": {
+   "zh": "週末要不要去河濱騎腳踏車？",
+   "en": "Want to go cycling along the riverside this weekend?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0011",
+  "trad": "停車格",
+  "mainland": "停车位",
+  "pinyin": "tíng chē gé",
+  "en": "parking space",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "The painted boxes along the street; 機車停車格 for scooters. 停車位 is also used, but 停車格 is very Taiwan.",
+  "example": {
+   "zh": "這附近都找不到停車格。",
+   "en": "I can't find a parking space anywhere around here."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0012",
+  "trad": "加油站",
+  "mainland": null,
+  "pinyin": "jiā yóu zhàn",
+  "en": "gas station",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Same word as the mainland. Attendants usually fill up for you: say 九五無鉛，加滿 ('95 unleaded, fill it up').",
+  "example": {
+   "zh": "我先去加油站加個油。",
+   "en": "I'll stop at the gas station to fill up first."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0013",
+  "trad": "安全帽",
+  "mainland": "头盔",
+  "pinyin": "ān quán mào",
+  "en": "helmet (scooter/motorcycle)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Required on scooters. Mainland says 头盔; in Taiwan 頭盔 sounds like armour or sports gear.",
+  "example": {
+   "zh": "騎機車一定要戴安全帽。",
+   "en": "You must wear a helmet on a scooter."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0014",
+  "trad": "塞車",
+  "mainland": "堵车",
+  "pinyin": "sāi chē",
+  "en": "traffic jam; to be jammed",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Mainland 堵车; Taiwan 塞車, also 很塞 'really jammed'.",
+  "example": {
+   "zh": "下班時間國道一定塞車。",
+   "en": "The freeway is always jammed at rush hour."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0015",
+  "trad": "迴轉",
+  "mainland": "掉头",
+  "pinyin": "huí zhuǎn",
+  "en": "to make a U-turn",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "禁止迴轉 = no U-turns. 迴轉壽司 = conveyor-belt sushi.",
+  "example": {
+   "zh": "前面路口可以迴轉嗎？",
+   "en": "Can I make a U-turn at the next intersection?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0016",
+  "trad": "月台",
+  "mainland": "站台",
+  "pinyin": "yuè tái",
+  "en": "platform (train/MRT)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Mainland 站台; Taiwan 月台, as in 第二月台.",
+  "example": {
+   "zh": "往南港的列車在第二月台。",
+   "en": "Trains to Nangang leave from platform 2."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0017",
+  "trad": "客運",
+  "mainland": "长途汽车",
+  "pinyin": "kè yùn",
+  "en": "intercity coach (bus company)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "國光客運, 統聯客運 and others; cheaper than trains. 轉運站 = bus terminal. Chartered tour buses are 遊覽車.",
+  "example": {
+   "zh": "我搭客運回台中，比高鐵便宜很多。",
+   "en": "I take the coach back to Taichung, it's much cheaper than the HSR."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0018",
+  "trad": "轉乘",
+  "mainland": "换乘",
+  "pinyin": "zhuǎn chéng",
+  "en": "to transfer (between lines or modes)",
+  "type": "vocab",
+  "category": "transit",
+  "register": "neutral",
+  "note": "MRT signs say 轉乘; tapping the same card gives 轉乘優惠 (transfer discounts) between bus and MRT.",
+  "example": {
+   "zh": "在台北車站轉乘板南線。",
+   "en": "Transfer to the Bannan line at Taipei Main Station."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0019",
+  "trad": "計程車司機",
+  "mainland": "出租车司机",
+  "pinyin": "jì chéng chē sī jī",
+  "en": "taxi driver",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "Colloquially 運將 (from Japanese via Hokkien). People address a driver as 司機大哥.",
+  "example": {
+   "zh": "計程車司機很熟這邊的路。",
+   "en": "The taxi driver knows the roads around here well."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0020",
+  "trad": "騎樓",
+  "mainland": null,
+  "pinyin": "qí lóu",
+  "en": "covered arcade walkway under shophouses",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "The covered sidewalk under the second floor of street-front buildings, typical of Taiwanese streets and often full of parked scooters.",
+  "example": {
+   "zh": "下雨的時候走騎樓就不會淋濕。",
+   "en": "When it rains you can walk under the arcades and stay dry."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0021",
+  "trad": "巷弄",
+  "mainland": null,
+  "pinyin": "xiàng lòng",
+  "en": "lanes and alleys",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Addresses go 路/街 (road) → 巷 (lane) → 弄 (alley off a lane), e.g. 100巷5弄3號. 弄 in addresses is read lòng.",
+  "example": {
+   "zh": "這家咖啡廳藏在巷弄裡，很難找。",
+   "en": "This café is hidden in the alleys, it's hard to find."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0022",
+  "trad": "軟體",
+  "mainland": "软件",
+  "pinyin": "ruǎn tǐ",
+  "en": "software",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan uses 體 where the mainland uses 件: 軟體 / 硬體. An app is 應用程式 or just App.",
+  "example": {
+   "zh": "這個軟體要先更新才能用。",
+   "en": "You have to update this software before you can use it."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0023",
+  "trad": "硬體",
+  "mainland": "硬件",
+  "pinyin": "yìng tǐ",
+  "en": "hardware",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Pairs with 軟體. 硬體設備 = hardware/equipment; also used for physical facilities.",
+  "example": {
+   "zh": "電腦的硬體還不錯，只是軟體太舊。",
+   "en": "The computer's hardware is decent, it's just the software that's too old."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0024",
+  "trad": "網路",
+  "mainland": "网络",
+  "pinyin": "wǎng lù",
+  "en": "internet, network",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan 網路 (路 'road'); mainland 网络. 上網 = go online; 網路很慢 = the internet is slow.",
+  "example": {
+   "zh": "這裡的網路好慢喔。",
+   "en": "The internet here is so slow."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0025",
+  "trad": "影片",
+  "mainland": "视频",
+  "pinyin": "yǐng piàn",
+  "en": "video (clip)",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "Any video is 影片 in Taiwan; 視頻 sounds mainland. Classifier is often 支 or 部. 拍影片 = film a video.",
+  "example": {
+   "zh": "他拍了一支影片放上YouTube。",
+   "en": "He filmed a video and put it on YouTube."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0026",
+  "trad": "視訊",
+  "mainland": "视频(通话)",
+  "pinyin": "shì xùn",
+  "en": "video call; to video-chat",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan 視訊 = video call or webcam. 視訊會議 = video conference.",
+  "example": {
+   "zh": "晚上我要跟家人視訊。",
+   "en": "I'm video-calling my family tonight."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0027",
+  "trad": "資訊",
+  "mainland": "信息",
+  "pinyin": "zī xùn",
+  "en": "information (esp. IT)",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan 資訊 where the mainland says 信息: 資訊工程 = computer science, 資訊業 = IT industry.",
+  "example": {
+   "zh": "我大學念資訊工程。",
+   "en": "I studied computer science in college."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0028",
+  "trad": "訊息",
+  "mainland": "信息/消息",
+  "pinyin": "xùn xí",
+  "en": "message (text or chat)",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "The everyday word for a LINE or chat message: 傳訊息 = send a message. 息 is read xí in Taiwan.",
+  "example": {
+   "zh": "我剛剛傳訊息給你，你有看到嗎？",
+   "en": "I just sent you a message, did you see it?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0029",
+  "trad": "簡訊",
+  "mainland": "短信",
+  "pinyin": "jiǎn xùn",
+  "en": "SMS text message",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "For actual SMS (verification codes, bank alerts). Chat-app messages are 訊息.",
+  "example": {
+   "zh": "驗證碼會用簡訊傳給你。",
+   "en": "The verification code will be sent to you by text."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0030",
+  "trad": "硬碟",
+  "mainland": "硬盘",
+  "pinyin": "yìng dié",
+  "en": "hard drive",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan uses 碟 (dié) where the mainland uses 盘: 硬碟, 光碟 (CD/DVD), 隨身碟. 外接硬碟 = external drive.",
+  "example": {
+   "zh": "我的外接硬碟快滿了。",
+   "en": "My external hard drive is almost full."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0031",
+  "trad": "隨身碟",
+  "mainland": "U盘",
+  "pinyin": "suí shēn dié",
+  "en": "USB flash drive",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Literally 'carry-with-you disk'. Nobody in Taiwan says U盤.",
+  "example": {
+   "zh": "資料存在隨身碟裡給我就好。",
+   "en": "Just give me the files on a flash drive."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0032",
+  "trad": "滑鼠",
+  "mainland": "鼠标",
+  "pinyin": "huá shǔ",
+  "en": "computer mouse",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "'Sliding mouse'. 無線滑鼠 = wireless mouse.",
+  "example": {
+   "zh": "我的滑鼠沒電了。",
+   "en": "My mouse is out of battery."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0033",
+  "trad": "螢幕",
+  "mainland": "屏幕",
+  "pinyin": "yíng mù",
+  "en": "screen, monitor",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Phone, computer and TV screens are all 螢幕. 截圖 = screenshot.",
+  "example": {
+   "zh": "手機螢幕摔破了。",
+   "en": "I dropped my phone and cracked the screen."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0034",
+  "trad": "筆電",
+  "mainland": "笔记本",
+  "pinyin": "bǐ diàn",
+  "en": "laptop",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Short for 筆記型電腦. On the mainland 笔记本 can mean a laptop; in Taiwan 筆記本 is only a paper notebook.",
+  "example": {
+   "zh": "我帶筆電去咖啡廳工作。",
+   "en": "I take my laptop to work at a café."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0035",
+  "trad": "列印",
+  "mainland": "打印",
+  "pinyin": "liè yìn",
+  "en": "to print (a document)",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan 列印; mainland 打印. A printer is 印表機. 影印 = photocopy.",
+  "example": {
+   "zh": "幫我把這份資料列印兩份。",
+   "en": "Please print two copies of this."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0036",
+  "trad": "影印",
+  "mainland": "复印",
+  "pinyin": "yǐng yìn",
+  "en": "to photocopy",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Convenience stores have 影印機. 影本 = a photocopy (e.g. 身分證影本).",
+  "example": {
+   "zh": "申請的時候要附上身分證影本。",
+   "en": "You need to attach a copy of your ID card with the application."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0037",
+  "trad": "程式",
+  "mainland": "程序",
+  "pinyin": "chéng shì",
+  "en": "computer program, code",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "寫程式 = to code; 程式設計 = programming; 應用程式 = app. Mainland 程序.",
+  "example": {
+   "zh": "他每天都在寫程式。",
+   "en": "He writes code every day."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0038",
+  "trad": "資料",
+  "mainland": "数据",
+  "pinyin": "zī liào",
+  "en": "data; materials, information",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan uses 資料 for both 'materials' and 'data' (資料庫 database, 資料分析 data analysis); 數據 exists but is narrower (numerical figures).",
+  "example": {
+   "zh": "這些資料一定要備份。",
+   "en": "This data definitely needs to be backed up."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0039",
+  "trad": "數位",
+  "mainland": "数字/数码",
+  "pinyin": "shù wèi",
+  "en": "digital",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "數位相機 digital camera, 數位化 digitize. Mainland uses 数字 / 数码.",
+  "example": {
+   "zh": "很多老照片都已經數位化了。",
+   "en": "Lots of old photos have already been digitized."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0040",
+  "trad": "檔案",
+  "mainland": "文件",
+  "pinyin": "dǎng àn",
+  "en": "computer file",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "檔 is read dǎng in Taiwan. 存檔 = save; 開檔 = open a file. On the mainland 档案 means archives or a dossier, and a file is 文件.",
+  "example": {
+   "zh": "記得先存檔再關掉。",
+   "en": "Remember to save the file before closing it."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0041",
+  "trad": "登入",
+  "mainland": "登录",
+  "pinyin": "dēng rù",
+  "en": "to log in",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "登出 = log out; 帳號 = account; 密碼 = password.",
+  "example": {
+   "zh": "請先登入你的帳號。",
+   "en": "Please log in to your account first."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0042",
+  "trad": "設定",
+  "mainland": "设置",
+  "pinyin": "shè dìng",
+  "en": "settings; to set up",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "The phone's Settings app is 設定. 預設 = default. Also general 'to set' (設定目標).",
+  "example": {
+   "zh": "去設定裡面把通知關掉。",
+   "en": "Go into settings and turn off notifications."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0043",
+  "trad": "連結",
+  "mainland": "链接",
+  "pinyin": "lián jié",
+  "en": "link (URL)",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "貼連結 = paste a link; 點連結 = click a link.",
+  "example": {
+   "zh": "我把連結貼在群組裡了。",
+   "en": "I pasted the link in the group chat."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0044",
+  "trad": "搜尋",
+  "mainland": "搜索",
+  "pinyin": "sōu xún",
+  "en": "to search (online)",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Google is a 搜尋引擎. In speech people also say 上網查 or google 一下.",
+  "example": {
+   "zh": "你自己上網搜尋一下就有了。",
+   "en": "Just search online yourself and you'll find it."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0045",
+  "trad": "部落格",
+  "mainland": "博客",
+  "pinyin": "bù luò gé",
+  "en": "blog",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "A transliteration of 'blog'. 部落客 = blogger.",
+  "example": {
+   "zh": "她的旅遊部落格很多人看。",
+   "en": "Lots of people read her travel blog."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0046",
+  "trad": "晶片",
+  "mainland": "芯片",
+  "pinyin": "jīng piàn",
+  "en": "microchip",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan's key industry: 晶片, 半導體 (semiconductors), 晶圓 (wafers). TSMC is 台積電.",
+  "example": {
+   "zh": "台灣的晶片產業很重要。",
+   "en": "Taiwan's chip industry is very important."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0047",
+  "trad": "智慧型手機",
+  "mainland": "智能手机",
+  "pinyin": "zhì huì xíng shǒu jī",
+  "en": "smartphone",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan uses 智慧 where the mainland uses 智能: 智慧手錶, 人工智慧.",
+  "example": {
+   "zh": "現在連阿嬤都有智慧型手機。",
+   "en": "Now even grandma has a smartphone."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0048",
+  "trad": "人工智慧",
+  "mainland": "人工智能",
+  "pinyin": "rén gōng zhì huì",
+  "en": "artificial intelligence",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Usually just 'AI' in speech. Same 智慧/智能 contrast.",
+  "example": {
+   "zh": "很多公司都在研究人工智慧。",
+   "en": "Lots of companies are researching AI."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0049",
+  "trad": "行動電源",
+  "mainland": "充电宝",
+  "pinyin": "xíng dòng diàn yuán",
+  "en": "power bank",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan uses 行動 for 'mobile': 行動電話, 行動支付, 行動網路.",
+  "example": {
+   "zh": "你有帶行動電源嗎？我手機快沒電了。",
+   "en": "Did you bring a power bank? My phone's almost dead."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0050",
+  "trad": "行動支付",
+  "mainland": "移动支付",
+  "pinyin": "xíng dòng zhī fù",
+  "en": "mobile payment",
+  "type": "vocab",
+  "category": "money",
+  "register": "neutral",
+  "note": "LINE Pay, 街口, Apple Pay. Cash is still very common in Taiwan, especially at night markets.",
+  "example": {
+   "zh": "這家店可以用行動支付嗎？",
+   "en": "Can I pay with my phone at this shop?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0051",
+  "trad": "伺服器",
+  "mainland": "服务器",
+  "pinyin": "sì fú qì",
+  "en": "server",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "伺服器掛了 = the server is down.",
+  "example": {
+   "zh": "網站的伺服器掛了。",
+   "en": "The website's server is down."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0052",
+  "trad": "貼文",
+  "mainland": "帖子",
+  "pinyin": "tiē wén",
+  "en": "post (social media)",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "A post on Facebook, Instagram or Threads. 發文 = to post.",
+  "example": {
+   "zh": "她的貼文一下就有幾千個讚。",
+   "en": "Her post got thousands of likes right away."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0053",
+  "trad": "按讚",
+  "mainland": "点赞",
+  "pinyin": "àn zàn",
+  "en": "to like (a post)",
+  "type": "vocab",
+  "category": "media",
+  "register": "casual",
+  "note": "讚 = a like; 按讚 'press like'. Mainland 点赞.",
+  "example": {
+   "zh": "記得幫我們的粉專按讚。",
+   "en": "Remember to like our fan page."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0054",
+  "trad": "私訊",
+  "mainland": "私信",
+  "pinyin": "sī xùn",
+  "en": "direct message; to DM",
+  "type": "vocab",
+  "category": "media",
+  "register": "casual",
+  "note": "有興趣請私訊 (DM if interested) is common on sale posts.",
+  "example": {
+   "zh": "有興趣的話可以私訊我。",
+   "en": "DM me if you're interested."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0055",
+  "trad": "支援",
+  "mainland": "支持",
+  "pinyin": "zhī yuán",
+  "en": "to support (a format or feature); backup help",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "這支手機不支援… = this phone doesn't support…. Also 'reinforcements': 派人去支援. 支持 in Taiwan means support in the sense of backing a person or idea.",
+  "example": {
+   "zh": "這台電腦不支援這個格式。",
+   "en": "This computer doesn't support this format."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0056",
+  "trad": "訊號",
+  "mainland": "信号",
+  "pinyin": "xùn hào",
+  "en": "signal (phone, wifi)",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan 訊號; reception is 收訊 (這裡收訊不好).",
+  "example": {
+   "zh": "山上手機沒什麼訊號。",
+   "en": "There's hardly any phone signal up in the mountains."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0057",
+  "trad": "駭客",
+  "mainland": "黑客",
+  "pinyin": "hài kè",
+  "en": "hacker",
+  "type": "vocab",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan transliterates with 駭 'alarming'. The Matrix is 駭客任務 in Taiwan.",
+  "example": {
+   "zh": "公司的網站被駭客入侵了。",
+   "en": "The company website was hacked."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0058",
+  "trad": "鳳梨",
+  "mainland": "菠萝",
+  "pinyin": "fèng lí",
+  "en": "pineapple",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwan only says 鳳梨 (Hokkien ông-lâi sounds like 'prosperity comes', so it's lucky). 鳳梨酥 = pineapple cake.",
+  "example": {
+   "zh": "這盒鳳梨酥是要送朋友的。",
+   "en": "This box of pineapple cakes is a gift for a friend."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0059",
+  "trad": "馬鈴薯",
+  "mainland": "土豆",
+  "pinyin": "mǎ líng shǔ",
+  "en": "potato",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Never call a potato 土豆 in Taiwan: 土豆 means peanuts here (from Hokkien thôo-tāu). Mashed potato = 馬鈴薯泥.",
+  "example": {
+   "zh": "咖哩裡面要加馬鈴薯跟紅蘿蔔。",
+   "en": "Curry needs potatoes and carrots in it."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0060",
+  "trad": "高麗菜",
+  "mainland": "卷心菜",
+  "pinyin": "gāo lì cài",
+  "en": "cabbage",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "The everyday Taiwan word (mainland 卷心菜 / 圆白菜 / 包菜). 高麗菜水餃 is a classic dumpling filling.",
+  "example": {
+   "zh": "炒一盤高麗菜好了。",
+   "en": "Let's just get a plate of stir-fried cabbage."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0061",
+  "trad": "番茄",
+  "mainland": "西红柿",
+  "pinyin": "fān qié",
+  "en": "tomato",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwan says 番茄, never 西紅柿. Ketchup = 番茄醬; cherry tomatoes = 小番茄.",
+  "example": {
+   "zh": "我很喜歡吃小番茄。",
+   "en": "I really like cherry tomatoes."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0062",
+  "trad": "地瓜",
+  "mainland": "红薯",
+  "pinyin": "dì guā",
+  "en": "sweet potato",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Baked sweet potatoes (烤地瓜) are sold at 7-Eleven. 地瓜球 = fried sweet-potato balls at night markets.",
+  "example": {
+   "zh": "超商的烤地瓜很好吃。",
+   "en": "The baked sweet potatoes at convenience stores are really good."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0063",
+  "trad": "奇異果",
+  "mainland": "猕猴桃",
+  "pinyin": "qí yì guǒ",
+  "en": "kiwifruit",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "A transliteration of 'kiwi'.",
+  "example": {
+   "zh": "奇異果的維他命C很多。",
+   "en": "Kiwis have lots of vitamin C."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0064",
+  "trad": "芭樂",
+  "mainland": "番石榴",
+  "pinyin": "bā lè",
+  "en": "guava",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "From Hokkien pa-la̍h. Slang: 芭樂歌 = cheesy mainstream pop song; 芭樂票 = a promise that won't be kept.",
+  "example": {
+   "zh": "夏天的芭樂又脆又甜。",
+   "en": "Summer guavas are crunchy and sweet."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0065",
+  "trad": "酪梨",
+  "mainland": "牛油果",
+  "pinyin": "luò lí",
+  "en": "avocado",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "酪 is read luò in Taiwan. 酪梨牛奶 (avocado milk) is a Taiwanese drink.",
+  "example": {
+   "zh": "我早餐吃酪梨吐司。",
+   "en": "I had avocado toast for breakfast."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0066",
+  "trad": "柳丁",
+  "mainland": "橙子",
+  "pinyin": "liǔ dīng",
+  "en": "orange (the fruit)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Local oranges are 柳丁; orange juice is 柳橙汁. 橘子 = tangerine.",
+  "example": {
+   "zh": "這杯柳橙汁是現榨的。",
+   "en": "This orange juice is freshly squeezed."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0067",
+  "trad": "花椰菜",
+  "mainland": "西兰花",
+  "pinyin": "huā yē cài",
+  "en": "broccoli; cauliflower",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "綠花椰(菜) = broccoli, 白花椰(菜) = cauliflower. Mainland 西兰花 / 菜花.",
+  "example": {
+   "zh": "便當的配菜有綠花椰。",
+   "en": "The bento side dishes include broccoli."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0068",
+  "trad": "洋芋片",
+  "mainland": "薯片",
+  "pinyin": "yáng yù piàn",
+  "en": "potato chips, crisps",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "洋芋 is the Taiwan snack-word for potato (樂事 Lay's).",
+  "example": {
+   "zh": "看電影一定要配洋芋片。",
+   "en": "Movies have to come with potato chips."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0069",
+  "trad": "泡麵",
+  "mainland": "方便面",
+  "pinyin": "pào miàn",
+  "en": "instant noodles",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Literally 'soaked noodles'. 泡一碗泡麵 = make a bowl of instant noodles.",
+  "example": {
+   "zh": "半夜肚子餓就泡一碗泡麵。",
+   "en": "When I'm hungry at midnight I make a bowl of instant noodles."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0070",
+  "trad": "優格",
+  "mainland": "酸奶",
+  "pinyin": "yōu gé",
+  "en": "yogurt (spoonable)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "From 'yogurt'. The drinkable kind is 優酪乳 (yōu luò rǔ). 酸奶 is understood but not used.",
+  "example": {
+   "zh": "我早餐吃優格加水果。",
+   "en": "I have yogurt with fruit for breakfast."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0071",
+  "trad": "鮮奶",
+  "mainland": "牛奶",
+  "pinyin": "xiān nǎi",
+  "en": "fresh milk",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "On drink-shop menus 鮮奶茶 / 紅茶拿鐵 use real milk, while plain 奶茶 often uses creamer (奶精).",
+  "example": {
+   "zh": "我要一杯紅茶拿鐵，要鮮奶的。",
+   "en": "I'd like a black-tea latte, made with fresh milk."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0072",
+  "trad": "起司",
+  "mainland": "奶酪/芝士",
+  "pinyin": "qǐ sī",
+  "en": "cheese",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "A transliteration of 'cheese'; 乳酪 (rǔ luò) is the more formal word.",
+  "example": {
+   "zh": "我要一份起司蛋餅。",
+   "en": "I'll have a cheese egg crepe."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0073",
+  "trad": "鮪魚",
+  "mainland": "金枪鱼",
+  "pinyin": "wěi yú",
+  "en": "tuna",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "鮪魚飯糰 tuna rice ball, 鮪魚三明治. Salmon is 鮭魚 in Taiwan (mainland 三文鱼).",
+  "example": {
+   "zh": "我要一個鮪魚飯糰。",
+   "en": "I'll have a tuna rice ball."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0074",
+  "trad": "披薩",
+  "mainland": "比萨",
+  "pinyin": "pī sà",
+  "en": "pizza",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwan transliteration.",
+  "example": {
+   "zh": "今天晚上叫披薩來吃吧。",
+   "en": "Let's order pizza tonight."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0075",
+  "trad": "義大利麵",
+  "mainland": "意大利面",
+  "pinyin": "yì dà lì miàn",
+  "en": "pasta, spaghetti",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwan writes Italy as 義大利.",
+  "example": {
+   "zh": "這家的青醬義大利麵很好吃。",
+   "en": "This place's pesto pasta is great."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0076",
+  "trad": "便當",
+  "mainland": "盒饭",
+  "pinyin": "biàn dāng",
+  "en": "boxed meal, bento",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "From Japanese bentō. Everywhere at lunch: 排骨便當, 雞腿便當, 台鐵便當. 便當店 = bento shop.",
+  "example": {
+   "zh": "中午訂便當，你要吃什麼？",
+   "en": "We're ordering bento for lunch, what do you want?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0077",
+  "trad": "宵夜",
+  "mainland": "夜宵",
+  "pinyin": "xiāo yè",
+  "en": "late-night snack",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Same characters as the mainland word, reversed. 吃宵夜 is a much-loved Taiwanese habit.",
+  "example": {
+   "zh": "我們去吃宵夜好不好？",
+   "en": "Shall we go get a late-night snack?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0078",
+  "trad": "早午餐",
+  "mainland": null,
+  "pinyin": "zǎo wǔ cān",
+  "en": "brunch",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Very trendy in Taiwanese cities; 早午餐店 are everywhere.",
+  "example": {
+   "zh": "週末一起去吃早午餐吧。",
+   "en": "Let's go for brunch this weekend."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0079",
+  "trad": "早餐店",
+  "mainland": null,
+  "pinyin": "zǎo cān diàn",
+  "en": "breakfast shop",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwanese-Western breakfast shops sell 蛋餅, 吐司, 漢堡 and 奶茶. The owner will probably call you 帥哥 or 美女.",
+  "example": {
+   "zh": "巷口的早餐店蛋餅很好吃。",
+   "en": "The breakfast shop at the end of the lane makes great egg crepes."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0080",
+  "trad": "蛋餅",
+  "mainland": null,
+  "pinyin": "dàn bǐng",
+  "en": "egg crepe (Taiwanese breakfast)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "A thin pancake rolled with egg; add 起司, 鮪魚, 玉米 or 培根.",
+  "example": {
+   "zh": "我要一份玉米蛋餅跟一杯大冰奶。",
+   "en": "I'll have a corn egg crepe and a large iced milk tea."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0081",
+  "trad": "飯糰",
+  "mainland": null,
+  "pinyin": "fàn tuán",
+  "en": "rice roll (Taiwanese breakfast)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Traditional 飯糰 is sticky rice wrapped around 油條, pork floss and pickled radish; convenience-store triangle onigiri are also called 飯糰.",
+  "example": {
+   "zh": "傳統飯糰要加蛋嗎？",
+   "en": "Do you want egg in your traditional rice roll?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0082",
+  "trad": "滷肉飯",
+  "mainland": null,
+  "pinyin": "lǔ ròu fàn",
+  "en": "braised pork rice",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Rice topped with minced braised pork; national comfort food. In southern Taiwan 肉燥飯 is the more common name.",
+  "example": {
+   "zh": "一碗滷肉飯，再加一顆滷蛋。",
+   "en": "A bowl of braised pork rice, plus a braised egg."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0083",
+  "trad": "牛肉麵",
+  "mainland": null,
+  "pinyin": "niú ròu miàn",
+  "en": "beef noodle soup",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "紅燒 (braised, rich broth) vs 清燉 (clear broth).",
+  "example": {
+   "zh": "這家的紅燒牛肉麵很有名。",
+   "en": "This place's braised beef noodle soup is famous."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0084",
+  "trad": "鹹酥雞",
+  "mainland": null,
+  "pinyin": "xián sū jī",
+  "en": "Taiwanese fried chicken bites (and the snack stand)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Also written 鹽酥雞. The stand fries whatever you pick (雞肉, 甜不辣, 四季豆) and seasons it with pepper salt and basil. They'll ask 要辣嗎？",
+  "example": {
+   "zh": "鹹酥雞要不要加辣？",
+   "en": "Do you want your fried chicken spicy?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0085",
+  "trad": "雞排",
+  "mainland": null,
+  "pinyin": "jī pái",
+  "en": "fried chicken cutlet",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Giant night-market chicken cutlets. 不要切 (don't cut it) and 要辣 (spicy) are common requests.",
+  "example": {
+   "zh": "雞排不要切，要辣。",
+   "en": "Don't cut the chicken cutlet, and make it spicy."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0086",
+  "trad": "滷味",
+  "mainland": null,
+  "pinyin": "lǔ wèi",
+  "en": "braised snacks (pick-your-own)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "You choose items into a basket and they're simmered in a soy-based broth.",
+  "example": {
+   "zh": "晚上買一點滷味回去吃。",
+   "en": "Let's buy some braised snacks to eat at home tonight."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0087",
+  "trad": "臭豆腐",
+  "mainland": null,
+  "pinyin": "chòu dòu fǔ",
+  "en": "stinky tofu",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Fried with pickled cabbage (泡菜) or served 麻辣 in soup. 腐 keeps its full third tone in Taiwan.",
+  "example": {
+   "zh": "你敢吃臭豆腐嗎？",
+   "en": "Do you dare eat stinky tofu?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0088",
+  "trad": "珍珠奶茶",
+  "mainland": null,
+  "pinyin": "zhēn zhū nǎi chá",
+  "en": "bubble tea",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Shortened to 珍奶. 波霸 = large pearls.",
+  "example": {
+   "zh": "我要一杯珍奶，半糖少冰。",
+   "en": "I'd like a bubble tea, half sugar, less ice."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0089",
+  "trad": "手搖飲",
+  "mainland": null,
+  "pinyin": "shǒu yáo yǐn",
+  "en": "hand-shaken drinks; drink stands",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Umbrella term for drink shops and their drinks (茶, 奶茶, 果汁).",
+  "example": {
+   "zh": "台灣的手搖飲店真的太多了。",
+   "en": "There are honestly too many drink stands in Taiwan."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0090",
+  "trad": "半糖",
+  "mainland": null,
+  "pinyin": "bàn táng",
+  "en": "half sugar (drink order)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Sugar scale: 全糖 > 少糖 > 半糖 > 微糖 > 無糖. Say sugar then ice: 半糖少冰.",
+  "example": {
+   "zh": "綠茶半糖去冰，謝謝。",
+   "en": "Green tea, half sugar, no ice, thanks."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0091",
+  "trad": "去冰",
+  "mainland": null,
+  "pinyin": "qù bīng",
+  "en": "no ice (drink order)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Ice scale: 正常冰 > 少冰 > 微冰 > 去冰 > 常溫 > 溫 > 熱.",
+  "example": {
+   "zh": "我的要去冰。",
+   "en": "Mine with no ice, please."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0092",
+  "trad": "熱炒",
+  "mainland": null,
+  "pinyin": "rè chǎo",
+  "en": "stir-fry eatery (beer-and-dishes restaurant)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Casual places where most dishes cost about the same; good for groups and beer.",
+  "example": {
+   "zh": "今天下班去熱炒喝一杯。",
+   "en": "Let's go to a stir-fry place for a drink after work."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0093",
+  "trad": "麻辣鍋",
+  "mainland": "麻辣火锅",
+  "pinyin": "má là guō",
+  "en": "spicy Sichuan-style hot pot",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwan names hot-pot styles with 鍋: 麻辣鍋, 小火鍋 (individual hot pot), 薑母鴨.",
+  "example": {
+   "zh": "冬天就是要吃麻辣鍋。",
+   "en": "Winter is all about spicy hot pot."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0094",
+  "trad": "夜市",
+  "mainland": null,
+  "pinyin": "yè shì",
+  "en": "night market",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "逛夜市 = stroll around a night market. Famous ones: 士林, 饒河, 寧夏, 逢甲.",
+  "example": {
+   "zh": "我們晚上去逛夜市吧。",
+   "en": "Let's go walk around the night market tonight."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0095",
+  "trad": "開水",
+  "mainland": null,
+  "pinyin": "kāi shuǐ",
+  "en": "drinking water",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "In Taiwan 開水 is any plain drinking water (冰開水 = iced water), not only hot boiled water. Many restaurants have free self-serve water.",
+  "example": {
+   "zh": "不好意思，可以給我一杯冰開水嗎？",
+   "en": "Excuse me, could I get a glass of iced water?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0096",
+  "trad": "外送",
+  "mainland": "外卖",
+  "pinyin": "wài sòng",
+  "en": "food delivery",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "叫外送 = order delivery; 外送員 = delivery rider (Uber Eats, foodpanda). 外賣 is understood but less used.",
+  "example": {
+   "zh": "下雨天懶得出門，叫外送好了。",
+   "en": "It's raining and I can't be bothered to go out, let's order delivery."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0097",
+  "trad": "自助餐",
+  "mainland": null,
+  "pinyin": "zì zhù cān",
+  "en": "self-serve cafeteria (pay for what you take)",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "In Taiwan 自助餐 is a canteen where you scoop dishes and pay by the amount; an all-you-can-eat buffet is 吃到飽. On the mainland 自助餐 means a buffet.",
+  "example": {
+   "zh": "中午去巷口的自助餐吃。",
+   "en": "Let's eat at the cafeteria at the corner for lunch."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0098",
+  "trad": "結帳",
+  "mainland": "买单",
+  "pinyin": "jié zhàng",
+  "en": "to pay the bill; to check out",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "At restaurants and stores. 買單 is understood, but 結帳 is the standard Taiwan word.",
+  "example": {
+   "zh": "不好意思，我們要結帳。",
+   "en": "Excuse me, we'd like to pay."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0099",
+  "trad": "服務生",
+  "mainland": "服务员",
+  "pinyin": "fú wù shēng",
+  "en": "waiter, server",
+  "type": "vocab",
+  "category": "food",
+  "register": "neutral",
+  "note": "服務員 sounds mainland. In practice people just call out 不好意思 to get attention.",
+  "example": {
+   "zh": "服務生說飲料等一下就來。",
+   "en": "The waiter said the drinks will be right out."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0100",
+  "trad": "超商",
+  "mainland": "便利店",
+  "pinyin": "chāo shāng",
+  "en": "convenience store",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Short for 便利超商. You can pay bills, print, pick up parcels and buy train tickets there.",
+  "example": {
+   "zh": "我去一下超商，你要不要喝什麼？",
+   "en": "I'm popping to the convenience store, do you want a drink?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0101",
+  "trad": "便利商店",
+  "mainland": "便利店",
+  "pinyin": "biàn lì shāng diàn",
+  "en": "convenience store",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Full form of 超商. Mainland 便利店.",
+  "example": {
+   "zh": "台灣的便利商店幾乎什麼都有。",
+   "en": "Taiwan's convenience stores have almost everything."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0102",
+  "trad": "小七",
+  "mainland": null,
+  "pinyin": "xiǎo qī",
+  "en": "7-Eleven (nickname)",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "casual",
+  "note": "Also just 7-11 or 'seven'. FamilyMart is 全家.",
+  "example": {
+   "zh": "我在小七門口等你。",
+   "en": "I'll wait for you in front of the 7-Eleven."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0103",
+  "trad": "百貨公司",
+  "mainland": "商场",
+  "pinyin": "bǎi huò gōng sī",
+  "en": "department store, mall",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "新光三越, SOGO. Taiwanese say 去百貨公司 where mainlanders say 去商场. The big autumn sale is 週年慶.",
+  "example": {
+   "zh": "百貨公司週年慶人超多。",
+   "en": "The department-store anniversary sale is packed."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0104",
+  "trad": "發票",
+  "mainland": null,
+  "pinyin": "fā piào",
+  "en": "receipt (uniform invoice)",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Every receipt doubles as a lottery ticket, drawn every two months (對發票 = check your receipts). On the mainland 发票 means a tax invoice.",
+  "example": {
+   "zh": "發票要留著，說不定會中獎。",
+   "en": "Keep your receipt, you might win."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0105",
+  "trad": "載具",
+  "mainland": null,
+  "pinyin": "zài jù",
+  "en": "e-invoice carrier (phone barcode)",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Cashiers ask 有載具嗎？ — show your phone barcode to store the receipt digitally.",
+  "example": {
+   "zh": "店員問我有沒有載具。",
+   "en": "The cashier asked if I had an e-invoice barcode."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0106",
+  "trad": "塑膠袋",
+  "mainland": "塑料袋",
+  "pinyin": "sù jiāo dài",
+  "en": "plastic bag",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Taiwan 塑膠, mainland 塑料. Bags cost a few NT$; the cashier asks 要袋子嗎？",
+  "example": {
+   "zh": "不用塑膠袋，謝謝。",
+   "en": "No plastic bag, thanks."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0107",
+  "trad": "寶特瓶",
+  "mainland": "塑料瓶",
+  "pinyin": "bǎo tè píng",
+  "en": "plastic (PET) bottle",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "From 'PET bottle'. Goes in 資源回收.",
+  "example": {
+   "zh": "寶特瓶要洗乾淨再回收。",
+   "en": "Rinse plastic bottles before recycling them."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0108",
+  "trad": "折價券",
+  "mainland": "优惠券",
+  "pinyin": "zhé jià quàn",
+  "en": "coupon",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Also 優惠券. 折 = discount.",
+  "example": {
+   "zh": "用這張折價券可以便宜五十塊。",
+   "en": "This coupon takes fifty dollars off."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0109",
+  "trad": "集點",
+  "mainland": "积分",
+  "pinyin": "jí diǎn",
+  "en": "to collect points or stamps",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Convenience-store sticker collecting (集點換公仔) is a national hobby.",
+  "example": {
+   "zh": "我在集點換杯子。",
+   "en": "I'm collecting points to get a cup."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0110",
+  "trad": "殺價",
+  "mainland": "砍价",
+  "pinyin": "shā jià",
+  "en": "to haggle",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "casual",
+  "note": "'Kill the price'. Fine at night markets and traditional markets, not in chain stores.",
+  "example": {
+   "zh": "在夜市買衣服可以殺價看看。",
+   "en": "You can try haggling when buying clothes at the night market."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0111",
+  "trad": "皮夾",
+  "mainland": "钱包",
+  "pinyin": "pí jiā",
+  "en": "wallet",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "錢包 is also used, but 皮夾 is very common.",
+  "example": {
+   "zh": "我的皮夾忘在計程車上了！",
+   "en": "I left my wallet in the taxi!"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0112",
+  "trad": "宅配",
+  "mainland": "快递",
+  "pinyin": "zhái pèi",
+  "en": "home delivery (parcel)",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "From Japanese. 宅配到府 = delivered to your door. 快遞 in Taiwan usually means an express courier.",
+  "example": {
+   "zh": "東西用宅配寄過去比較方便。",
+   "en": "It's easier to send it by home delivery."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0113",
+  "trad": "超商取貨",
+  "mainland": null,
+  "pinyin": "chāo shāng qǔ huò",
+  "en": "to pick up an online order at a convenience store",
+  "type": "vocab",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "The default for online shopping in Taiwan; often 貨到付款 (pay on pickup).",
+  "example": {
+   "zh": "我網購都選超商取貨。",
+   "en": "I always choose convenience-store pickup when shopping online."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0114",
+  "trad": "刷卡",
+  "mainland": null,
+  "pinyin": "shuā kǎ",
+  "en": "to pay by card; to tap a card",
+  "type": "vocab",
+  "category": "money",
+  "register": "neutral",
+  "note": "Same as the mainland, but in Taiwan you'll ask it constantly: 可以刷卡嗎？ Also used for tapping 悠遊卡.",
+  "example": {
+   "zh": "請問可以刷卡嗎？",
+   "en": "Can I pay by card?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0115",
+  "trad": "冷氣",
+  "mainland": "空调",
+  "pinyin": "lěng qì",
+  "en": "air conditioning (unit)",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "開冷氣 / 關冷氣; 冷氣好強 = the AC is really strong. 空調 is technical in Taiwan.",
+  "example": {
+   "zh": "好熱喔，冷氣可以開強一點嗎？",
+   "en": "It's so hot, can you turn the AC up?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0116",
+  "trad": "除濕機",
+  "mainland": null,
+  "pinyin": "chú shī jī",
+  "en": "dehumidifier",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "Essential in humid Taiwan, especially in plum-rain season (梅雨季).",
+  "example": {
+   "zh": "梅雨季一定要開除濕機。",
+   "en": "You have to run the dehumidifier in plum-rain season."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0117",
+  "trad": "瓦斯",
+  "mainland": "煤气/燃气",
+  "pinyin": "wǎ sī",
+  "en": "gas (for cooking and water heaters)",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "From Japanese gasu. 瓦斯爐 = gas stove; 叫瓦斯 = order a gas canister delivery.",
+  "example": {
+   "zh": "瓦斯好像沒了，洗澡都沒熱水。",
+   "en": "I think the gas ran out, there's no hot water for the shower."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0118",
+  "trad": "衛生紙",
+  "mainland": "纸巾",
+  "pinyin": "wèi shēng zhǐ",
+  "en": "tissues; toilet paper",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "Covers both tissue and toilet paper. Older toilets have a sign asking you to put used paper in the bin; newer ones say to flush it.",
+  "example": {
+   "zh": "你有衛生紙嗎？借我一張。",
+   "en": "Do you have a tissue? Can I have one?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0119",
+  "trad": "垃圾車",
+  "mainland": null,
+  "pinyin": "lè sè chē",
+  "en": "garbage truck",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "垃圾 is read lè sè in Taiwan. Trucks play 'Für Elise' or 'A Maiden's Prayer', and you take your bags out to meet them (倒垃圾 / 追垃圾車).",
+  "example": {
+   "zh": "垃圾車來了，快去倒垃圾！",
+   "en": "The garbage truck's here, hurry and take out the trash!"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0120",
+  "trad": "資源回收",
+  "mainland": "回收",
+  "pinyin": "zī yuán huí shōu",
+  "en": "recycling",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "Sorted strictly: 紙類, 寶特瓶, 鐵鋁罐, and food waste (廚餘) separately.",
+  "example": {
+   "zh": "寶特瓶要丟資源回收。",
+   "en": "Plastic bottles go in recycling."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0121",
+  "trad": "廚餘",
+  "mainland": "厨余垃圾",
+  "pinyin": "chú yú",
+  "en": "food waste, kitchen scraps",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "Collected separately by the garbage truck.",
+  "example": {
+   "zh": "廚餘要另外裝，不要跟一般垃圾混在一起。",
+   "en": "Bag food waste separately, don't mix it with regular trash."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0122",
+  "trad": "套房",
+  "mainland": null,
+  "pinyin": "tào fáng",
+  "en": "rented studio with private bathroom",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "Rental terms: 套房 = own bathroom; 雅房 = shared bathroom; 整層 = whole apartment.",
+  "example": {
+   "zh": "我在學校附近租了一間套房。",
+   "en": "I rented a studio near school."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0123",
+  "trad": "租屋",
+  "mainland": "租房",
+  "pinyin": "zū wū",
+  "en": "to rent a place",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "租屋網 = rental website. 押金 = deposit, usually two months' rent.",
+  "example": {
+   "zh": "在台北租屋真的很貴。",
+   "en": "Renting in Taipei is really expensive."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0124",
+  "trad": "透天厝",
+  "mainland": null,
+  "pinyin": "tòu tiān cuò",
+  "en": "townhouse (one family owns the whole building)",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "厝 is Hokkien tshù 'house'. Common in central and southern Taiwan.",
+  "example": {
+   "zh": "他們家是三層樓的透天厝。",
+   "en": "Their home is a three-story townhouse."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0125",
+  "trad": "管理員",
+  "mainland": null,
+  "pinyin": "guǎn lǐ yuán",
+  "en": "building doorman / front-desk manager",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "Apartment buildings have a 管理員 at the front desk who signs for parcels.",
+  "example": {
+   "zh": "包裹寄到管理員那邊就好。",
+   "en": "Just have the parcel sent to the building's front desk."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0126",
+  "trad": "洗手間",
+  "mainland": "卫生间",
+  "pinyin": "xǐ shǒu jiān",
+  "en": "restroom, toilet",
+  "type": "vocab",
+  "category": "home",
+  "register": "neutral",
+  "note": "The polite word; 廁所 is also perfectly normal.",
+  "example": {
+   "zh": "請問洗手間在哪裡？",
+   "en": "Excuse me, where's the restroom?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0127",
+  "trad": "原子筆",
+  "mainland": "圆珠笔",
+  "pinyin": "yuán zǐ bǐ",
+  "en": "ballpoint pen",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "Taiwan says 原子筆. 子 keeps its full tone here.",
+  "example": {
+   "zh": "可以借我一支原子筆嗎？",
+   "en": "Can I borrow a pen?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0128",
+  "trad": "立可白",
+  "mainland": "修正液",
+  "pinyin": "lì kě bái",
+  "en": "correction fluid, white-out",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "A brand name turned generic. Correction tape is 立可帶.",
+  "example": {
+   "zh": "寫錯了，用立可白塗掉就好。",
+   "en": "If you write it wrong, just white it out."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0129",
+  "trad": "研究所",
+  "mainland": "研究生院",
+  "pinyin": "yán jiù suǒ",
+  "en": "graduate school, master's program",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "In Taiwan 研究所 is a grad program (考研究所, 念研究所); on the mainland it means a research institute.",
+  "example": {
+   "zh": "他大學畢業後去念研究所。",
+   "en": "He went to grad school after college."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0130",
+  "trad": "學測",
+  "mainland": null,
+  "pinyin": "xué cè",
+  "en": "GSAT (college entrance exam)",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "學科能力測驗, held every January for high-school seniors.",
+  "example": {
+   "zh": "她今年要考學測，壓力很大。",
+   "en": "She's taking the GSAT this year, she's under a lot of pressure."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0131",
+  "trad": "指考",
+  "mainland": null,
+  "pinyin": "zhǐ kǎo",
+  "en": "AST (former July entrance exam)",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "指定科目考試; replaced in 2022 by 分科測驗, but anyone who took it still says 考指考.",
+  "example": {
+   "zh": "我當年是考指考上大學的。",
+   "en": "Back then I got into college through the July exam."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0132",
+  "trad": "補習班",
+  "mainland": null,
+  "pinyin": "bǔ xí bān",
+  "en": "cram school",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "Huge in Taiwan: English, maths, exam prep. 去補習 = go to cram school.",
+  "example": {
+   "zh": "他放學後還要去補習班。",
+   "en": "After school he still has to go to cram school."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0133",
+  "trad": "國小",
+  "mainland": "小学",
+  "pinyin": "guó xiǎo",
+  "en": "elementary school",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "國民小學. 國小三年級 = third grade.",
+  "example": {
+   "zh": "我女兒今年上國小一年級。",
+   "en": "My daughter is starting first grade this year."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0134",
+  "trad": "國中",
+  "mainland": "初中",
+  "pinyin": "guó zhōng",
+  "en": "junior high school",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "國民中學, ages 12–15. 初中 is not used in Taiwan.",
+  "example": {
+   "zh": "我們是國中同學。",
+   "en": "We were junior-high classmates."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0135",
+  "trad": "學長",
+  "mainland": null,
+  "pinyin": "xué zhǎng",
+  "en": "senior schoolmate (male)",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "Seniority terms are used a lot: 學長, 學姊 (Taiwan writes 姊, mainland 姐), 學弟, 學妹. Also used at work between alumni.",
+  "example": {
+   "zh": "這位是我大學的學長。",
+   "en": "This is my senior from college."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0136",
+  "trad": "導師",
+  "mainland": "班主任",
+  "pinyin": "dǎo shī",
+  "en": "homeroom teacher; advisor",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "In school = homeroom teacher; in grad school a thesis advisor is 指導教授.",
+  "example": {
+   "zh": "我們的導師很照顧學生。",
+   "en": "Our homeroom teacher really looks after the students."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0137",
+  "trad": "考卷",
+  "mainland": "试卷",
+  "pinyin": "kǎo juàn",
+  "en": "exam paper",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "發考卷 = hand out papers; 改考卷 = grade papers.",
+  "example": {
+   "zh": "老師明天會發考卷。",
+   "en": "The teacher will hand back the tests tomorrow."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0138",
+  "trad": "期中考",
+  "mainland": "期中考试",
+  "pinyin": "qí zhōng kǎo",
+  "en": "midterm exam",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "期 is qí in Taiwan. Finals are 期末考.",
+  "example": {
+   "zh": "下禮拜就是期中考了。",
+   "en": "Midterms are next week."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0139",
+  "trad": "當掉",
+  "mainland": "挂科",
+  "pinyin": "dàng diào",
+  "en": "to fail (a course); to freeze/crash (computer)",
+  "type": "vocab",
+  "category": "school",
+  "register": "casual",
+  "note": "被當 = got failed. 電腦當掉了 = the computer froze.",
+  "example": {
+   "zh": "我微積分被當了。",
+   "en": "I failed calculus."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0140",
+  "trad": "翹課",
+  "mainland": "逃课",
+  "pinyin": "qiào kè",
+  "en": "to skip class",
+  "type": "vocab",
+  "category": "school",
+  "register": "casual",
+  "note": "翹班 = skip work.",
+  "example": {
+   "zh": "他今天又翹課了。",
+   "en": "He skipped class again today."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0141",
+  "trad": "社團",
+  "mainland": null,
+  "pinyin": "shè tuán",
+  "en": "student club; association",
+  "type": "vocab",
+  "category": "school",
+  "register": "neutral",
+  "note": "參加社團 = join a club. 社課 = club meeting.",
+  "example": {
+   "zh": "你大學參加什麼社團？",
+   "en": "What club were you in at college?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0142",
+  "trad": "注音",
+  "mainland": "拼音",
+  "pinyin": "zhù yīn",
+  "en": "Zhuyin (Bopomofo)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "Taiwan's phonetic system (ㄅㄆㄇㄈ). Kids learn it first and many people type with it. Pinyin is used for romanised signs.",
+  "example": {
+   "zh": "台灣小孩先學注音再學國字。",
+   "en": "Taiwanese kids learn Zhuyin before characters."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0143",
+  "trad": "國語",
+  "mainland": "普通话",
+  "pinyin": "guó yǔ",
+  "en": "Mandarin (as spoken in Taiwan)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "Taiwanese call Mandarin 國語 or 中文; 普通話 sounds mainland.",
+  "example": {
+   "zh": "他的國語有一點台灣腔。",
+   "en": "His Mandarin has a bit of a Taiwanese accent."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0144",
+  "trad": "台語",
+  "mainland": "闽南语",
+  "pinyin": "tái yǔ",
+  "en": "Taiwanese (Hokkien)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "The most widely spoken local language; 閩南語 is the formal or school name.",
+  "example": {
+   "zh": "我阿嬤只會講台語。",
+   "en": "My grandma only speaks Taiwanese."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0145",
+  "trad": "打工",
+  "mainland": "兼职",
+  "pinyin": "dǎ gōng",
+  "en": "part-time job; to work part-time",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "In Taiwan 打工 means a student or part-time job (在超商打工). 打工度假 = working holiday. On the mainland 打工 suggests manual or migrant labour.",
+  "example": {
+   "zh": "我大學的時候在飲料店打工。",
+   "en": "In college I worked part-time at a drink shop."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0146",
+  "trad": "上班族",
+  "mainland": null,
+  "pinyin": "shàng bān zú",
+  "en": "office worker(s)",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "The salaried class; 小資上班族 = modest earners.",
+  "example": {
+   "zh": "很多上班族中午都吃便當。",
+   "en": "Lots of office workers eat bento for lunch."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0147",
+  "trad": "薪水",
+  "mainland": "工资",
+  "pinyin": "xīn shuǐ",
+  "en": "salary, pay",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "Everyday word; 領薪水 = get paid. 薪資 is formal. 工資 sounds blue-collar or mainland.",
+  "example": {
+   "zh": "這個月的薪水還沒入帳。",
+   "en": "This month's salary hasn't come in yet."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0148",
+  "trad": "老闆",
+  "mainland": null,
+  "pinyin": "lǎo bǎn",
+  "en": "boss; shop owner",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "Also how you address a stall owner: 老闆，一碗麵！ For a woman: 老闆娘.",
+  "example": {
+   "zh": "老闆，再來一碗！",
+   "en": "Boss, another bowl please!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0149",
+  "trad": "主管",
+  "mainland": "领导",
+  "pinyin": "zhǔ guǎn",
+  "en": "supervisor, manager",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "Taiwan offices say 主管; 領導 sounds political or mainland.",
+  "example": {
+   "zh": "我要先問一下主管。",
+   "en": "I need to check with my manager first."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0150",
+  "trad": "年終",
+  "mainland": "年终奖",
+  "pinyin": "nián zhōng",
+  "en": "year-end bonus",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "年終獎金, usually counted in months of salary: 年終兩個月.",
+  "example": {
+   "zh": "今年年終領了三個月。",
+   "en": "This year's bonus was three months' pay."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0151",
+  "trad": "尾牙",
+  "mainland": "年会",
+  "pinyin": "wěi yá",
+  "en": "year-end company banquet",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "Held before Lunar New Year, with a prize draw (抽獎). The post-New-Year version is 春酒.",
+  "example": {
+   "zh": "公司尾牙抽到一台電視！",
+   "en": "I won a TV at the company year-end party!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0152",
+  "trad": "特休",
+  "mainland": "年假",
+  "pinyin": "tè xiū",
+  "en": "paid annual leave",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "特別休假. 請特休 = take annual leave.",
+  "example": {
+   "zh": "我下個月要請特休出國。",
+   "en": "I'm taking annual leave next month to go abroad."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0153",
+  "trad": "責任制",
+  "mainland": null,
+  "pinyin": "zé rèn zhì",
+  "en": "salaried role with no overtime pay",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "Often a complaint: 責任制 means unlimited unpaid overtime.",
+  "example": {
+   "zh": "他的工作是責任制，常常加班到很晚。",
+   "en": "His job has no overtime pay, he often works late."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0154",
+  "trad": "履歷",
+  "mainland": "简历",
+  "pinyin": "lǚ lì",
+  "en": "résumé, CV",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "投履歷 = send in résumés; 104 is the big job site.",
+  "example": {
+   "zh": "我已經投了十幾份履歷。",
+   "en": "I've already sent out more than ten résumés."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0155",
+  "trad": "業務",
+  "mainland": "销售",
+  "pinyin": "yè wù",
+  "en": "salesperson; sales",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "In Taiwan 業務 often means a sales rep (跑業務); it also means 'line of business'.",
+  "example": {
+   "zh": "他在保險公司當業務。",
+   "en": "He works in sales at an insurance company."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0156",
+  "trad": "企劃",
+  "mainland": "策划",
+  "pinyin": "qì huà",
+  "en": "planning; a proposal; planner",
+  "type": "vocab",
+  "category": "work",
+  "register": "neutral",
+  "note": "行銷企劃 = marketing planner. 企 is qì in Taiwan.",
+  "example": {
+   "zh": "這份企劃明天要交。",
+   "en": "This proposal is due tomorrow."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0157",
+  "trad": "當兵",
+  "mainland": null,
+  "pinyin": "dāng bīng",
+  "en": "to do military service",
+  "type": "vocab",
+  "category": "social",
+  "register": "neutral",
+  "note": "Compulsory for men; one year for those born in 2005 or later. 當兵的時候… is a classic male conversation topic.",
+  "example": {
+   "zh": "他明年要去當兵。",
+   "en": "He's doing his military service next year."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0158",
+  "trad": "健保",
+  "mainland": "医保",
+  "pinyin": "jiàn bǎo",
+  "en": "National Health Insurance",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "全民健保 makes doctor visits very cheap. 健保有給付嗎？ = Does NHI cover it?",
+  "example": {
+   "zh": "這個檢查健保有給付。",
+   "en": "National Health Insurance covers this test."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0159",
+  "trad": "健保卡",
+  "mainland": null,
+  "pinyin": "jiàn bǎo kǎ",
+  "en": "NHI card",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "Bring it to every clinic: the receptionist will say 健保卡給我.",
+  "example": {
+   "zh": "看醫生記得帶健保卡。",
+   "en": "Remember your health insurance card when you see a doctor."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0160",
+  "trad": "掛號",
+  "mainland": null,
+  "pinyin": "guà hào",
+  "en": "to register (for a doctor's appointment)",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "網路掛號 = book online; 掛號費 = registration fee. 掛號信 = registered mail.",
+  "example": {
+   "zh": "我已經在網路上掛號了。",
+   "en": "I already booked online."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0161",
+  "trad": "看診",
+  "mainland": "看病",
+  "pinyin": "kàn zhěn",
+  "en": "(of a doctor) to see patients; consultation",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "Clinic signs: 看診時間 = consulting hours. As a patient you usually say 看醫生.",
+  "example": {
+   "zh": "這家診所晚上也有看診。",
+   "en": "This clinic sees patients in the evenings too."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0162",
+  "trad": "診所",
+  "mainland": null,
+  "pinyin": "zhěn suǒ",
+  "en": "clinic",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "Small neighbourhood clinics are where most people go first (耳鼻喉科, 牙醫診所).",
+  "example": {
+   "zh": "我去巷口的診所看一下感冒。",
+   "en": "I'll get my cold seen at the clinic down the street."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0163",
+  "trad": "藥局",
+  "mainland": "药店",
+  "pinyin": "yào jú",
+  "en": "pharmacy",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "Taiwan 藥局 or 藥房; mainland 药店.",
+  "example": {
+   "zh": "去藥局買個口罩。",
+   "en": "Go buy some masks at the pharmacy."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0164",
+  "trad": "健檢",
+  "mainland": "体检",
+  "pinyin": "jiàn jiǎn",
+  "en": "health check-up",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "Short for 健康檢查.",
+  "example": {
+   "zh": "公司每年都安排員工健檢。",
+   "en": "The company arranges a check-up for staff every year."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0165",
+  "trad": "衛生棉",
+  "mainland": "卫生巾",
+  "pinyin": "wèi shēng mián",
+  "en": "sanitary pad",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "Mainland 卫生巾; Taiwan 衛生棉.",
+  "example": {
+   "zh": "超商就買得到衛生棉。",
+   "en": "You can buy sanitary pads at convenience stores."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0166",
+  "trad": "復健",
+  "mainland": "康复",
+  "pinyin": "fù jiàn",
+  "en": "physical therapy, rehab",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "去做復健 = go to physio; 復健科 = rehabilitation department.",
+  "example": {
+   "zh": "他膝蓋受傷，每個禮拜都要去復健。",
+   "en": "He hurt his knee and goes to physio every week."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0167",
+  "trad": "急診",
+  "mainland": null,
+  "pinyin": "jí zhěn",
+  "en": "emergency room; emergency treatment",
+  "type": "vocab",
+  "category": "health",
+  "register": "neutral",
+  "note": "掛急診 = go to the ER.",
+  "example": {
+   "zh": "他半夜發高燒，被送去急診。",
+   "en": "He had a high fever at midnight and was taken to the ER."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0168",
+  "trad": "身分證",
+  "mainland": null,
+  "pinyin": "shēn fèn zhèng",
+  "en": "national ID card",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "Taiwan writes 身分 (mainland 身份). 身分證字號 = ID number.",
+  "example": {
+   "zh": "辦手機門號要帶身分證。",
+   "en": "You need your ID card to get a phone number."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0169",
+  "trad": "居留證",
+  "mainland": null,
+  "pinyin": "jū liú zhèng",
+  "en": "Resident Certificate (ARC)",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "Foreigners' residence card. 移民署 = immigration agency.",
+  "example": {
+   "zh": "我的居留證下個月到期。",
+   "en": "My ARC expires next month."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0170",
+  "trad": "區公所",
+  "mainland": null,
+  "pinyin": "qū gōng suǒ",
+  "en": "district office",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "Local government office in each 區. Household registration is handled at the 戶政事務所.",
+  "example": {
+   "zh": "補助要去區公所申請。",
+   "en": "Apply for the subsidy at the district office."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0171",
+  "trad": "里長",
+  "mainland": null,
+  "pinyin": "lǐ zhǎng",
+  "en": "neighbourhood chief (elected)",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "The most local elected official; affectionately 里長伯. 里 is the smallest administrative unit.",
+  "example": {
+   "zh": "這件事可以找里長幫忙。",
+   "en": "You can ask the neighbourhood chief for help with this."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0172",
+  "trad": "立委",
+  "mainland": null,
+  "pinyin": "lì wěi",
+  "en": "legislator",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "Short for 立法委員, member of the 立法院 (Legislative Yuan).",
+  "example": {
+   "zh": "立委選舉快到了。",
+   "en": "The legislative election is coming up."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0173",
+  "trad": "總統",
+  "mainland": null,
+  "pinyin": "zǒng tǒng",
+  "en": "president",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "總統府 = Presidential Office Building.",
+  "example": {
+   "zh": "總統大選四年一次。",
+   "en": "The presidential election is every four years."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0174",
+  "trad": "監理站",
+  "mainland": "车管所",
+  "pinyin": "jiān lǐ zhàn",
+  "en": "motor vehicle office (DMV)",
+  "type": "vocab",
+  "category": "government",
+  "register": "neutral",
+  "note": "Where you 考駕照 (take a driving test) and register vehicles.",
+  "example": {
+   "zh": "我明天要去監理站考機車駕照。",
+   "en": "I'm taking my scooter licence test at the DMV tomorrow."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0175",
+  "trad": "新台幣",
+  "mainland": null,
+  "pinyin": "xīn tái bì",
+  "en": "New Taiwan dollar (NT$)",
+  "type": "vocab",
+  "category": "money",
+  "register": "neutral",
+  "note": "In speech prices are just 塊 or 元: 一百塊.",
+  "example": {
+   "zh": "這杯咖啡八十塊新台幣。",
+   "en": "This coffee is 80 NT dollars."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0176",
+  "trad": "提款機",
+  "mainland": "取款机",
+  "pinyin": "tí kuǎn jī",
+  "en": "ATM",
+  "type": "vocab",
+  "category": "money",
+  "register": "neutral",
+  "note": "Every convenience store has one. 領錢 = withdraw cash; the card is a 提款卡.",
+  "example": {
+   "zh": "我先去提款機領個錢。",
+   "en": "I'll get some cash from the ATM first."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0177",
+  "trad": "銅板",
+  "mainland": "硬币",
+  "pinyin": "tóng bǎn",
+  "en": "coin",
+  "type": "vocab",
+  "category": "money",
+  "register": "casual",
+  "note": "銅板價 = very cheap (a few coins' worth).",
+  "example": {
+   "zh": "這家麵店是銅板價，很划算。",
+   "en": "This noodle shop only costs a few coins, a great deal."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0178",
+  "trad": "卡通",
+  "mainland": "动画片",
+  "pinyin": "kǎ tōng",
+  "en": "cartoon, animated show",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "From 'cartoon'. Japanese anime is 動漫 or 動畫.",
+  "example": {
+   "zh": "小時候每天放學都在看卡通。",
+   "en": "As a kid I watched cartoons every day after school."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0179",
+  "trad": "連續劇",
+  "mainland": "电视剧",
+  "pinyin": "lián xù jù",
+  "en": "TV drama series",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "Western series are often 影集. 追劇 = follow or binge a show.",
+  "example": {
+   "zh": "我媽每天晚上都在看連續劇。",
+   "en": "My mom watches TV dramas every night."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0180",
+  "trad": "偶像劇",
+  "mainland": null,
+  "pinyin": "ǒu xiàng jù",
+  "en": "idol drama (romantic TV series)",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "Taiwan's 2000s genre (流星花園 and many more). 很偶像劇 = cheesily romantic.",
+  "example": {
+   "zh": "這個情節也太偶像劇了吧。",
+   "en": "This plot is way too idol-drama."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0181",
+  "trad": "綜藝節目",
+  "mainland": null,
+  "pinyin": "zòng yì jié mù",
+  "en": "variety show",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "綜 is zòng in Taiwan.",
+  "example": {
+   "zh": "週末晚上都是綜藝節目。",
+   "en": "Weekend evenings are all variety shows."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0182",
+  "trad": "狗仔",
+  "mainland": "狗仔队",
+  "pinyin": "gǒu zǎi",
+  "en": "paparazzi",
+  "type": "vocab",
+  "category": "media",
+  "register": "casual",
+  "note": "被狗仔拍到 = caught by the paparazzi.",
+  "example": {
+   "zh": "他跟女朋友約會被狗仔拍到了。",
+   "en": "He got snapped by paparazzi on a date with his girlfriend."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0183",
+  "trad": "神鬼奇航",
+  "mainland": "加勒比海盗",
+  "pinyin": "shén guǐ qí háng",
+  "en": "Pirates of the Caribbean",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "Taiwan film titles often differ completely from mainland ones; many Hollywood titles start with 神鬼 (神鬼戰士 Gladiator, 神鬼交鋒 Catch Me If You Can).",
+  "example": {
+   "zh": "神鬼奇航又出續集了。",
+   "en": "There's another Pirates of the Caribbean sequel."
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0184",
+  "trad": "川普",
+  "mainland": "特朗普",
+  "pinyin": "chuān pǔ",
+  "en": "Trump",
+  "type": "vocab",
+  "category": "media",
+  "register": "neutral",
+  "note": "Taiwan transliterates foreign names differently, e.g. 歐巴馬 (mainland 奥巴马) for Obama.",
+  "example": {
+   "zh": "新聞一直在報川普的消息。",
+   "en": "The news keeps reporting on Trump."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0185",
+  "trad": "懶人包",
+  "mainland": null,
+  "pinyin": "lǎn rén bāo",
+  "en": "explainer, quick summary",
+  "type": "vocab",
+  "category": "media",
+  "register": "casual",
+  "note": "'Lazy-person pack': a summary of a complicated issue.",
+  "example": {
+   "zh": "有人整理了一個懶人包，看完就懂了。",
+   "en": "Someone made an explainer, read it and you'll get it."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0186",
+  "trad": "業配",
+  "mainland": null,
+  "pinyin": "yè pèi",
+  "en": "sponsored content",
+  "type": "vocab",
+  "category": "media",
+  "register": "casual",
+  "note": "From 業務配合. 這是業配吧？ = this is an ad, right?",
+  "example": {
+   "zh": "這支影片一看就是業配。",
+   "en": "This video is obviously sponsored."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0187",
+  "trad": "鄉民",
+  "mainland": "网民",
+  "pinyin": "xiāng mín",
+  "en": "netizens (esp. PTT users)",
+  "type": "vocab",
+  "category": "media",
+  "register": "casual",
+  "note": "From PTT forum culture ('villagers'). 網友 is the neutral word.",
+  "example": {
+   "zh": "鄉民的反應都很激烈。",
+   "en": "Netizens reacted really strongly."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0188",
+  "trad": "民宿",
+  "mainland": null,
+  "pinyin": "mín sù",
+  "en": "B&B, guesthouse",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Family-run guesthouses, common in 花蓮, 墾丁, 九份.",
+  "example": {
+   "zh": "我們在花蓮訂了一間民宿。",
+   "en": "We booked a guesthouse in Hualien."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0189",
+  "trad": "飯店",
+  "mainland": "酒店",
+  "pinyin": "fàn diàn",
+  "en": "hotel",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Use 飯店 for hotels in Taiwan. 酒店 can mean a hostess club, so be careful.",
+  "example": {
+   "zh": "我們住的飯店離車站很近。",
+   "en": "Our hotel is close to the station."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0190",
+  "trad": "環島",
+  "mainland": null,
+  "pinyin": "huán dǎo",
+  "en": "to travel around the island of Taiwan",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "By bike, scooter or train; something of a rite of passage.",
+  "example": {
+   "zh": "我畢業的時候騎腳踏車環島。",
+   "en": "When I graduated I cycled around the island."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0191",
+  "trad": "泡湯",
+  "mainland": "泡温泉",
+  "pinyin": "pào tāng",
+  "en": "to soak in a hot spring",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "北投, 礁溪, 烏來. Also slang: 計畫泡湯了 = the plan fell through.",
+  "example": {
+   "zh": "冬天最適合去北投泡湯。",
+   "en": "Winter is the best time to soak in Beitou's hot springs."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0192",
+  "trad": "伴手禮",
+  "mainland": "特产",
+  "pinyin": "bàn shǒu lǐ",
+  "en": "souvenir gift (local specialty)",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Bringing 伴手禮 back for coworkers after a trip is expected.",
+  "example": {
+   "zh": "出國記得買伴手禮給同事。",
+   "en": "Remember to buy souvenirs for your coworkers when you travel."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0193",
+  "trad": "紐西蘭",
+  "mainland": "新西兰",
+  "pinyin": "niǔ xī lán",
+  "en": "New Zealand",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Taiwan transliteration.",
+  "example": {
+   "zh": "他去紐西蘭打工度假一年。",
+   "en": "He went to New Zealand on a one-year working holiday."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0194",
+  "trad": "雪梨",
+  "mainland": "悉尼",
+  "pinyin": "xuě lí",
+  "en": "Sydney (also: snow pear)",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Same characters as the fruit; context makes it clear.",
+  "example": {
+   "zh": "我表姊住在雪梨。",
+   "en": "My cousin lives in Sydney."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0195",
+  "trad": "澳洲",
+  "mainland": "澳大利亚",
+  "pinyin": "ào zhōu",
+  "en": "Australia",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Taiwan nearly always says 澳洲.",
+  "example": {
+   "zh": "很多年輕人去澳洲打工度假。",
+   "en": "Lots of young people go to Australia on working holidays."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0196",
+  "trad": "義大利",
+  "mainland": "意大利",
+  "pinyin": "yì dà lì",
+  "en": "Italy",
+  "type": "vocab",
+  "category": "travel",
+  "register": "neutral",
+  "note": "Taiwan writes 義; also 義式咖啡 = espresso drinks.",
+  "example": {
+   "zh": "我好想去義大利玩。",
+   "en": "I really want to travel to Italy."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0197",
+  "trad": "拜拜",
+  "mainland": null,
+  "pinyin": "bài bài",
+  "en": "to worship (at a temple or for ancestors)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "Not the same as 掰掰 (bye-bye). 去廟裡拜拜 = go pray at the temple.",
+  "example": {
+   "zh": "過年要去廟裡拜拜。",
+   "en": "At New Year we go to pray at the temple."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0198",
+  "trad": "媽祖",
+  "mainland": null,
+  "pinyin": "mā zǔ",
+  "en": "Mazu (sea goddess)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "The most popular deity in Taiwan; the 大甲媽祖遶境 is a huge annual pilgrimage.",
+  "example": {
+   "zh": "每年都有很多人跟著媽祖遶境。",
+   "en": "Every year many people join the Mazu pilgrimage."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0199",
+  "trad": "鬼月",
+  "mainland": null,
+  "pinyin": "guǐ yuè",
+  "en": "Ghost Month (7th lunar month)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "Taboos: don't swim, don't whistle at night, avoid moving house. Shops set out offerings for 中元普渡.",
+  "example": {
+   "zh": "鬼月不要去游泳。",
+   "en": "Don't go swimming during Ghost Month."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0200",
+  "trad": "好兄弟",
+  "mainland": null,
+  "pinyin": "hǎo xiōng dì",
+  "en": "'good brothers' (euphemism for ghosts)",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "In Ghost Month people avoid saying 鬼 directly. Otherwise it just means close buddies.",
+  "example": {
+   "zh": "鬼月要拜好兄弟。",
+   "en": "During Ghost Month you make offerings to the 'good brothers'."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0201",
+  "trad": "跨年",
+  "mainland": null,
+  "pinyin": "kuà nián",
+  "en": "to see in the New Year",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "台北101 fireworks; 跨年晚會 = New Year's Eve concert.",
+  "example": {
+   "zh": "今年要去哪裡跨年？",
+   "en": "Where are you going for New Year's Eve this year?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0202",
+  "trad": "眷村",
+  "mainland": null,
+  "pinyin": "juàn cūn",
+  "en": "military dependents' village",
+  "type": "vocab",
+  "category": "culture",
+  "register": "neutral",
+  "note": "Communities built for soldiers' families after 1949; 眷村菜 is its own food style.",
+  "example": {
+   "zh": "他是在眷村長大的。",
+   "en": "He grew up in a military dependents' village."
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0203",
+  "trad": "禮拜",
+  "mainland": "星期",
+  "pinyin": "lǐ bài",
+  "en": "week (colloquial)",
+  "type": "vocab",
+  "category": "social",
+  "register": "neutral",
+  "note": "Very common in Taiwan speech: 禮拜一, 下禮拜, 禮拜天. 星期 (read xīng qí in Taiwan) is equally fine.",
+  "example": {
+   "zh": "我們下禮拜三見。",
+   "en": "See you next Wednesday."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0204",
+  "trad": "好喔",
+  "mainland": null,
+  "pinyin": "hǎo o",
+  "en": "OK! sure! (friendly agreement)",
+  "type": "phrase",
+  "category": "discourse",
+  "register": "casual",
+  "note": "The most common Taiwanese 'OK'. 喔 makes it warm and friendly; a bare 好 can sound curt.",
+  "example": {
+   "zh": "「明天七點見？」「好喔！」",
+   "en": "'See you at seven tomorrow?' 'Sure!'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0205",
+  "trad": "真假",
+  "mainland": null,
+  "pinyin": "zhēn jiǎ",
+  "en": "really? no way!",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Short for 真的假的. Pure surprise, not doubt.",
+  "example": {
+   "zh": "「他們分手了。」「真假？」",
+   "en": "'They broke up.' 'No way!'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0206",
+  "trad": "傻眼",
+  "mainland": null,
+  "pinyin": "shǎ yǎn",
+  "en": "dumbfounded, speechless",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "When something is so unexpected or absurd you just stare. Playful extension: 傻眼貓咪.",
+  "example": {
+   "zh": "看到帳單我整個傻眼。",
+   "en": "I was totally stunned when I saw the bill."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0207",
+  "trad": "很扯",
+  "mainland": null,
+  "pinyin": "hěn chě",
+  "en": "ridiculous, unbelievable",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Also 好扯, 太扯了. For outrageous situations or claims.",
+  "example": {
+   "zh": "一碗麵要四百塊？也太扯了吧！",
+   "en": "Four hundred for a bowl of noodles? That's ridiculous!"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0208",
+  "trad": "超",
+  "mainland": null,
+  "pinyin": "chāo",
+  "en": "super, really (intensifier)",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Constantly used before adjectives and verbs: 超好吃, 超累, 超想去. More common in Taiwan than mainland 特別 / 賊.",
+  "example": {
+   "zh": "這家的鬆餅超好吃！",
+   "en": "This place's waffles are super good!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0209",
+  "trad": "超讚",
+  "mainland": null,
+  "pinyin": "chāo zàn",
+  "en": "awesome, excellent",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "讚 = great (also a Facebook 'like'). Thumbs up and 讚！ is a common reaction.",
+  "example": {
+   "zh": "你的報告做得超讚！",
+   "en": "Your presentation was awesome!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0210",
+  "trad": "很瞎",
+  "mainland": null,
+  "pinyin": "hěn xiā",
+  "en": "lame, absurd, makes no sense",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "For something silly or pointless, often with an eye-roll. Slightly milder than 很扯.",
+  "example": {
+   "zh": "這個理由也太瞎了吧。",
+   "en": "That excuse is so lame."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0211",
+  "trad": "白目",
+  "mainland": null,
+  "pinyin": "bái mù",
+  "en": "tactless, clueless (says the wrong thing)",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "From Hokkien pe̍h-ba̍k ('white eyes'). For someone who can't read the room. 你很白目耶 is a real criticism, though often said jokingly between friends.",
+  "example": {
+   "zh": "他在喪禮上講笑話，真的很白目。",
+   "en": "He told jokes at the funeral, so tactless."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0212",
+  "trad": "機車",
+  "mainland": null,
+  "pinyin": "jī chē",
+  "en": "annoying, difficult (of a person)",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Same word as 'scooter', but 你很機車 = you're being a pain. 機車的老闆 = a difficult boss. Mild, but not for elders.",
+  "example": {
+   "zh": "那個客人真的很機車，一直挑毛病。",
+   "en": "That customer was a real pain, nitpicking nonstop."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0213",
+  "trad": "糗",
+  "mainland": null,
+  "pinyin": "qiǔ",
+  "en": "embarrassing, awkward",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "好糗 = so embarrassing; 出糗 = embarrass oneself; 糗事 = embarrassing story.",
+  "example": {
+   "zh": "我在台上跌倒，好糗喔。",
+   "en": "I tripped on stage, so embarrassing."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0214",
+  "trad": "夯",
+  "mainland": null,
+  "pinyin": "hāng",
+  "en": "popular, trendy, hot",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "The character is the Hokkien word giâ ('to lift, raise'); in Mandarin slang it's read hāng. 最夯的 = the hottest.",
+  "example": {
+   "zh": "這家店最近很夯，要排很久。",
+   "en": "This shop is really hot right now, the line is long."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0215",
+  "trad": "宅",
+  "mainland": null,
+  "pinyin": "zhái",
+  "en": "to stay at home; geeky, homebody",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "From Japanese otaku. 很宅 = homebody; 宅在家 = hole up at home.",
+  "example": {
+   "zh": "我放假都宅在家打電動。",
+   "en": "On holidays I just stay home playing video games."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0216",
+  "trad": "宅男",
+  "mainland": null,
+  "pinyin": "zhái nán",
+  "en": "nerdy guy, otaku",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Can be self-deprecating or teasing. Female version 宅女.",
+  "example": {
+   "zh": "他是標準的宅男，每天都在看動漫。",
+   "en": "He's a classic otaku, watching anime every day."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0217",
+  "trad": "正妹",
+  "mainland": null,
+  "pinyin": "zhèng mèi",
+  "en": "pretty girl, babe",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "正 = hot, good-looking (很正). Common, a bit laddish.",
+  "example": {
+   "zh": "你們公司是不是很多正妹？",
+   "en": "Aren't there lots of pretty girls at your company?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0218",
+  "trad": "帥哥",
+  "mainland": null,
+  "pinyin": "shuài gē",
+  "en": "handsome guy; (vocative) young man",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Vendors call male customers 帥哥 and female ones 美女 regardless of looks.",
+  "example": {
+   "zh": "帥哥，要不要試吃看看？",
+   "en": "Hey handsome, want to try a sample?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0219",
+  "trad": "美眉",
+  "mainland": null,
+  "pinyin": "měi méi",
+  "en": "girl, young woman (playful)",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Popular in the 2000s; now sounds a bit dated or cheesy.",
+  "example": {
+   "zh": "那家飲料店的美眉很親切。",
+   "en": "The girl at that drink shop is really friendly."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0220",
+  "trad": "小確幸",
+  "mainland": null,
+  "pinyin": "xiǎo què xìng",
+  "en": "small but certain happiness",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "From Haruki Murakami; hugely popular in Taiwan for everyday small joys.",
+  "example": {
+   "zh": "下班買一杯珍奶就是我的小確幸。",
+   "en": "Getting a bubble tea after work is my little happiness."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0221",
+  "trad": "揪團",
+  "mainland": null,
+  "pinyin": "jiū tuán",
+  "en": "to round up a group (for an activity or group buy)",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "揪 = gather people. 揪團買 = group purchase; 有人要揪嗎？",
+  "example": {
+   "zh": "我們揪團去墾丁玩吧！",
+   "en": "Let's round up a group and go to Kenting!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0222",
+  "trad": "吃到飽",
+  "mainland": null,
+  "pinyin": "chī dào bǎo",
+  "en": "all-you-can-eat",
+  "type": "phrase",
+  "category": "food",
+  "register": "neutral",
+  "note": "The Taiwan word for a buffet (mainland 自助餐). Also for unlimited data plans: 網路吃到飽.",
+  "example": {
+   "zh": "這家燒肉吃到飽一個人六百。",
+   "en": "This all-you-can-eat BBQ is 600 per person."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0223",
+  "trad": "打包",
+  "mainland": null,
+  "pinyin": "dǎ bāo",
+  "en": "to pack up (leftovers) to go",
+  "type": "phrase",
+  "category": "food",
+  "register": "neutral",
+  "note": "At the end of a meal: 可以幫我打包嗎？ Also means packing luggage.",
+  "example": {
+   "zh": "這些吃不完，我們打包吧。",
+   "en": "We can't finish this, let's take it to go."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0224",
+  "trad": "外帶",
+  "mainland": "打包/带走",
+  "pinyin": "wài dài",
+  "en": "takeaway, to go",
+  "type": "phrase",
+  "category": "food",
+  "register": "neutral",
+  "note": "Shops always ask 內用還是外帶？ (eat in or take away?).",
+  "example": {
+   "zh": "「內用還是外帶？」「外帶，謝謝。」",
+   "en": "'For here or to go?' 'To go, thanks.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0225",
+  "trad": "內用",
+  "mainland": "堂食",
+  "pinyin": "nèi yòng",
+  "en": "to eat in (at the shop)",
+  "type": "phrase",
+  "category": "food",
+  "register": "neutral",
+  "note": "Opposite of 外帶.",
+  "example": {
+   "zh": "我們內用，兩位。",
+   "en": "We'll eat here, two people."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0226",
+  "trad": "很盧",
+  "mainland": null,
+  "pinyin": "hěn lú",
+  "en": "pestering, won't let it go",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "From Hokkien lû (to pester). 你很盧耶 = you're being so persistent/annoying. 盧小小 = nag a little.",
+  "example": {
+   "zh": "他一直盧我陪他去看電影。",
+   "en": "He kept pestering me to go to the movie with him."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0227",
+  "trad": "龜毛",
+  "mainland": null,
+  "pinyin": "guī máo",
+  "en": "fussy, picky, overly fastidious",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "From Hokkien ku-mn̂g ('turtle hair'). For people who take forever over tiny details.",
+  "example": {
+   "zh": "他很龜毛，買一支筆要考慮半天。",
+   "en": "He's so fussy, he takes ages to decide on a pen."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0228",
+  "trad": "雷",
+  "mainland": null,
+  "pinyin": "léi",
+  "en": "a dud, disappointing; a spoiler",
+  "type": "phrase",
+  "category": "media",
+  "register": "casual",
+  "note": "很雷 = terrible (movie, restaurant, teammate); 雷片 = a bad film. Also 有雷 = contains spoilers.",
+  "example": {
+   "zh": "這部電影很雷，不要去看。",
+   "en": "This film is awful, don't bother."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0229",
+  "trad": "踩雷",
+  "mainland": null,
+  "pinyin": "cǎi léi",
+  "en": "to pick a dud ('step on a mine')",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Ordering a bad dish, buying a bad product, picking a bad restaurant.",
+  "example": {
+   "zh": "這家餐廳評價很好，結果還是踩雷了。",
+   "en": "This restaurant had great reviews, but it was still a dud."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0230",
+  "trad": "爆雷",
+  "mainland": null,
+  "pinyin": "bào léi",
+  "en": "to spoil (a plot)",
+  "type": "phrase",
+  "category": "media",
+  "register": "casual",
+  "note": "不要爆雷！ = no spoilers! Posts are marked 有雷 or 防雷.",
+  "example": {
+   "zh": "我還沒看完，你不要爆雷！",
+   "en": "I haven't finished it yet, no spoilers!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0231",
+  "trad": "很ㄎㄧㄤ",
+  "mainland": null,
+  "pinyin": "hěn kiāng",
+  "en": "wacky, crazy, off the wall",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Written with Zhuyin because the syllable 'kiang' doesn't exist in Mandarin; the pinyin here is only an approximation. For someone acting goofy or weird.",
+  "example": {
+   "zh": "他今天很ㄎㄧㄤ，一直講奇怪的笑話。",
+   "en": "He's being so wacky today, telling weird jokes nonstop."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0232",
+  "trad": "很鬧",
+  "mainland": null,
+  "pinyin": "hěn nào",
+  "en": "absurd, ridiculous (like a joke)",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "For something so silly it feels like trolling. 你很鬧耶 = you're messing around. 不要鬧了 = stop it.",
+  "example": {
+   "zh": "這個新聞標題也太鬧了吧。",
+   "en": "That news headline is absurd."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0233",
+  "trad": "啥小",
+  "mainland": null,
+  "pinyin": "shá xiǎo",
+  "en": "what the f***?",
+  "type": "phrase",
+  "category": "slang",
+  "register": "vulgar",
+  "note": "Vulgar. A Mandarin spelling of Hokkien siánn-siâu. Recognise it, but don't say it unless you're very close with someone.",
+  "example": {
+   "zh": "你在講啥小？",
+   "en": "What the f*** are you talking about?"
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0234",
+  "trad": "靠北",
+  "mainland": null,
+  "pinyin": "kào běi",
+  "en": "damn it; to whine, bitch about",
+  "type": "phrase",
+  "category": "slang",
+  "register": "vulgar",
+  "note": "Vulgar, from Hokkien khàu-pē ('cry for your father'). 靠北！ = damn!; 靠北老闆 = complain about the boss. 靠北 pages are anonymous rant pages.",
+  "example": {
+   "zh": "他整天在靠北工作。",
+   "en": "He bitches about work all day."
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0235",
+  "trad": "幹",
+  "mainland": null,
+  "pinyin": "gàn",
+  "en": "f***!",
+  "type": "phrase",
+  "category": "slang",
+  "register": "vulgar",
+  "note": "Vulgar. From Hokkien kàn; the most common swear word in Taiwan. Very strong in front of elders or strangers.",
+  "example": {
+   "zh": "幹，我手機忘在車上了！",
+   "en": "F***, I left my phone in the car!"
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0236",
+  "trad": "靠",
+  "mainland": null,
+  "pinyin": "kào",
+  "en": "damn! (mild exclamation)",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "A clipped, milder form; still not for formal settings. 哇靠 = whoa, holy crap.",
+  "example": {
+   "zh": "靠，又下雨了。",
+   "en": "Damn, it's raining again."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0237",
+  "trad": "哇靠",
+  "mainland": null,
+  "pinyin": "wā kào",
+  "en": "whoa! holy crap!",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Surprise or amazement. Casual, among friends.",
+  "example": {
+   "zh": "哇靠，你中樂透喔？",
+   "en": "Whoa, did you win the lottery?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0238",
+  "trad": "不會啦",
+  "mainland": null,
+  "pinyin": "bú huì la",
+  "en": "not at all, no worries",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "The Taiwan response to 謝謝 or 不好意思. Mainland speakers tend to say 不客氣 / 没事.",
+  "example": {
+   "zh": "「謝謝你幫忙。」「不會啦！」",
+   "en": "'Thanks for helping.' 'No problem!'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0239",
+  "trad": "沒關係啦",
+  "mainland": null,
+  "pinyin": "méi guān xì la",
+  "en": "it's OK, don't worry about it",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "啦 makes it reassuring. Note 係 keeps its fourth tone in Taiwan.",
+  "example": {
+   "zh": "沒關係啦，下次再約。",
+   "en": "It's fine, let's make plans another time."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0240",
+  "trad": "辛苦了",
+  "mainland": null,
+  "pinyin": "xīn kǔ le",
+  "en": "thanks for your hard work",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "Said to coworkers at the end of the day, to delivery workers, to someone who just finished a task. Not sarcastic.",
+  "example": {
+   "zh": "今天大家辛苦了，早點回家休息。",
+   "en": "Thanks for your hard work today everyone, go home and rest."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0241",
+  "trad": "不好意思",
+  "mainland": null,
+  "pinyin": "bù hǎo yì sī",
+  "en": "excuse me; sorry",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "The all-purpose Taiwan politeness word: getting attention, asking for something, small apologies. Used far more than 對不起.",
+  "example": {
+   "zh": "不好意思，請問捷運站怎麼走？",
+   "en": "Excuse me, how do I get to the MRT station?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0242",
+  "trad": "加油",
+  "mainland": null,
+  "pinyin": "jiā yóu",
+  "en": "good luck! you can do it!",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "Encouragement before exams, games or hard tasks. Also literally 'refuel'.",
+  "example": {
+   "zh": "明天考試加油！",
+   "en": "Good luck on your exam tomorrow!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0243",
+  "trad": "莫名其妙",
+  "mainland": null,
+  "pinyin": "mò míng qí miào",
+  "en": "inexplicable, makes no sense; out of nowhere",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "neutral",
+  "note": "Very common in Taiwan for irritation at weird behaviour: 他很莫名其妙.",
+  "example": {
+   "zh": "他莫名其妙就生氣了。",
+   "en": "He got angry out of nowhere."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0244",
+  "trad": "隨便",
+  "mainland": null,
+  "pinyin": "suí biàn",
+  "en": "whatever; anything (is fine)",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Can sound dismissive or annoyed. To be polite say 都可以 instead.",
+  "example": {
+   "zh": "「晚餐吃什麼？」「隨便。」",
+   "en": "'What do you want for dinner?' 'Whatever.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0245",
+  "trad": "都可以",
+  "mainland": null,
+  "pinyin": "dōu kě yǐ",
+  "en": "either is fine; anything works",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "The polite answer to a choice. Taiwanese use it a lot (sometimes frustratingly).",
+  "example": {
+   "zh": "「要吃中式還是日式？」「都可以啊。」",
+   "en": "'Chinese or Japanese food?' 'Either is fine.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0246",
+  "trad": "看你",
+  "mainland": null,
+  "pinyin": "kàn nǐ",
+  "en": "up to you",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Hands the decision back. Also 看你方便 = whatever suits you.",
+  "example": {
+   "zh": "時間看你，我都有空。",
+   "en": "You pick the time, I'm free whenever."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0247",
+  "trad": "沒差",
+  "mainland": null,
+  "pinyin": "méi chā",
+  "en": "doesn't matter, makes no difference",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Short for 沒有差別. 差 is chā here.",
+  "example": {
+   "zh": "早一點晚一點都沒差。",
+   "en": "A bit earlier or later makes no difference."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0248",
+  "trad": "掰掰",
+  "mainland": null,
+  "pinyin": "bāi bāi",
+  "en": "bye-bye",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "From English 'bye-bye'; written 掰掰 to separate it from 拜拜 (worship). Also 掰.",
+  "example": {
+   "zh": "掰掰，到家跟我說一聲。",
+   "en": "Bye, let me know when you get home."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0249",
+  "trad": "先這樣",
+  "mainland": null,
+  "pinyin": "xiān zhè yàng",
+  "en": "let's leave it there (for now)",
+  "type": "phrase",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Ending a phone call or chat: 那先這樣，掰掰. Also 先這樣吧.",
+  "example": {
+   "zh": "好，那我們先這樣，有問題再說。",
+   "en": "OK, let's leave it there; we'll talk if anything comes up."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0250",
+  "trad": "我先走囉",
+  "mainland": null,
+  "pinyin": "wǒ xiān zǒu luo",
+  "en": "I'm heading off now",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "How people leave the office or a gathering. Reply: 慢走 or 掰掰.",
+  "example": {
+   "zh": "大家辛苦了，我先走囉！",
+   "en": "Thanks everyone, I'm heading off!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0251",
+  "trad": "慢走",
+  "mainland": null,
+  "pinyin": "màn zǒu",
+  "en": "take care (to someone leaving)",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "Said by a host or shopkeeper as you leave. Also 謝謝光臨 in shops.",
+  "example": {
+   "zh": "謝謝你來，慢走喔。",
+   "en": "Thanks for coming, take care."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0252",
+  "trad": "請慢用",
+  "mainland": null,
+  "pinyin": "qǐng màn yòng",
+  "en": "enjoy your meal (said when serving)",
+  "type": "phrase",
+  "category": "food",
+  "register": "neutral",
+  "note": "What servers say as they put food down.",
+  "example": {
+   "zh": "您的牛肉麵，請慢用。",
+   "en": "Here's your beef noodle soup, enjoy."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0253",
+  "trad": "不用了",
+  "mainland": null,
+  "pinyin": "bú yòng le",
+  "en": "no thanks, that's OK",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "Polite refusal of an offer (bag, receipt, help). Add 謝謝.",
+  "example": {
+   "zh": "「要袋子嗎？」「不用了，謝謝。」",
+   "en": "'Do you need a bag?' 'No thanks.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0254",
+  "trad": "不客氣",
+  "mainland": null,
+  "pinyin": "bú kè qì",
+  "en": "you're welcome",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "Correct but a little formal; 不會 / 不會啦 is more common in casual Taiwan speech. 氣 keeps its tone (kè qì).",
+  "example": {
+   "zh": "「謝謝老師。」「不客氣。」",
+   "en": "'Thank you, teacher.' 'You're welcome.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0255",
+  "trad": "麻煩你",
+  "mainland": null,
+  "pinyin": "má fán nǐ",
+  "en": "could you please…; sorry to trouble you",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "Very Taiwanese politeness: 麻煩你幫我… / 麻煩了. 煩 keeps its tone.",
+  "example": {
+   "zh": "麻煩你幫我拿一下那個。",
+   "en": "Could you pass me that, please?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0256",
+  "trad": "借過",
+  "mainland": null,
+  "pinyin": "jiè guò",
+  "en": "excuse me (let me through)",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "For squeezing past people on the MRT or in a crowd.",
+  "example": {
+   "zh": "不好意思，借過一下。",
+   "en": "Excuse me, can I get past?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0257",
+  "trad": "改天",
+  "mainland": null,
+  "pinyin": "gǎi tiān",
+  "en": "some other day",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "改天請你吃飯 is often a polite formula, not a firm plan.",
+  "example": {
+   "zh": "今天不行耶，改天好了。",
+   "en": "Today doesn't work, let's do another day."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0258",
+  "trad": "約",
+  "mainland": null,
+  "pinyin": "yuē",
+  "en": "to make plans (with someone)",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "約吃飯 = make plans to eat; 有約 = have plans; 要不要約？ = want to hang out?",
+  "example": {
+   "zh": "我們禮拜六約看電影吧。",
+   "en": "Let's plan a movie on Saturday."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0259",
+  "trad": "聚餐",
+  "mainland": null,
+  "pinyin": "jù cān",
+  "en": "group meal, dinner get-together",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "With colleagues, classmates or a club.",
+  "example": {
+   "zh": "公司下禮拜五要聚餐。",
+   "en": "The company is having a dinner next Friday."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0260",
+  "trad": "續攤",
+  "mainland": null,
+  "pinyin": "xù tān",
+  "en": "to move on to the next spot (after a meal/drinks)",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "攤 = stall/round. 第二攤 = the second round (often KTV).",
+  "example": {
+   "zh": "吃完飯要不要去KTV續攤？",
+   "en": "Want to carry on at KTV after dinner?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0261",
+  "trad": "慶生",
+  "mainland": null,
+  "pinyin": "qìng shēng",
+  "en": "to celebrate a birthday",
+  "type": "phrase",
+  "category": "social",
+  "register": "neutral",
+  "note": "幫他慶生 = celebrate his birthday.",
+  "example": {
+   "zh": "我們明天幫小美慶生。",
+   "en": "We're celebrating Xiaomei's birthday tomorrow."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0262",
+  "trad": "喝喜酒",
+  "mainland": null,
+  "pinyin": "hē xǐ jiǔ",
+  "en": "to attend a wedding banquet",
+  "type": "phrase",
+  "category": "culture",
+  "register": "neutral",
+  "note": "Guests bring a 紅包 (cash gift). 什麼時候請我們喝喜酒？ = When are you getting married?",
+  "example": {
+   "zh": "這個週末要回南部喝喜酒。",
+   "en": "This weekend I'm going down south for a wedding banquet."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0263",
+  "trad": "我請客",
+  "mainland": null,
+  "pinyin": "wǒ qǐng kè",
+  "en": "my treat",
+  "type": "phrase",
+  "category": "money",
+  "register": "neutral",
+  "note": "Also 我請你 / 這頓我請. Expect some polite fighting over the bill.",
+  "example": {
+   "zh": "今天我請客，大家不要跟我搶。",
+   "en": "It's my treat today, nobody fight me for it."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0264",
+  "trad": "各付各的",
+  "mainland": null,
+  "pinyin": "gè fù gè de",
+  "en": "to split the bill (each pays their own)",
+  "type": "phrase",
+  "category": "money",
+  "register": "neutral",
+  "note": "Mainland slang AA制 is understood too.",
+  "example": {
+   "zh": "我們各付各的就好。",
+   "en": "Let's just each pay for our own."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0265",
+  "trad": "拜託",
+  "mainland": null,
+  "pinyin": "bài tuō",
+  "en": "please; oh come on",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Pleading (拜託你啦！) or exasperated (拜託，怎麼可能！).",
+  "example": {
+   "zh": "拜託，幫我一下啦！",
+   "en": "Please, help me out!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0266",
+  "trad": "少來",
+  "mainland": null,
+  "pinyin": "shǎo lái",
+  "en": "come off it, give me a break",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Dismissing a claim or flattery.",
+  "example": {
+   "zh": "少來，你明明就很喜歡她。",
+   "en": "Come off it, you obviously like her."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0267",
+  "trad": "謝啦",
+  "mainland": null,
+  "pinyin": "xiè la",
+  "en": "thanks! (casual)",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Between friends. Also 感謝, 3Q (spoken 'sank you') online.",
+  "example": {
+   "zh": "謝啦，下次請你喝飲料。",
+   "en": "Thanks, I'll buy you a drink next time."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0268",
+  "trad": "沒事",
+  "mainland": null,
+  "pinyin": "méi shì",
+  "en": "it's nothing; never mind; I'm fine",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Answering 你怎麼了？ or cancelling a question: 沒事，我自己來.",
+  "example": {
+   "zh": "「你還好嗎？」「沒事，只是有點累。」",
+   "en": "'Are you OK?' 'I'm fine, just a bit tired.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0269",
+  "trad": "好險",
+  "mainland": null,
+  "pinyin": "hǎo xiǎn",
+  "en": "phew, that was close",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Relief after a near miss.",
+  "example": {
+   "zh": "好險有帶傘，不然就淋濕了。",
+   "en": "Good thing I brought an umbrella, or I'd be soaked."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0270",
+  "trad": "嚇死我了",
+  "mainland": null,
+  "pinyin": "xià sǐ wǒ le",
+  "en": "you scared me to death",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Also 嚇我一跳 (startled me).",
+  "example": {
+   "zh": "你突然出現，嚇死我了！",
+   "en": "You appeared out of nowhere, you scared me to death!"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0271",
+  "trad": "笑死",
+  "mainland": null,
+  "pinyin": "xiào sǐ",
+  "en": "LOL, dying of laughter",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Typed and said: 笑死，太好笑了. Also 笑到肚子痛.",
+  "example": {
+   "zh": "笑死，你這張照片也太醜了吧。",
+   "en": "LOL, this photo of you is so ugly."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0272",
+  "trad": "很煩",
+  "mainland": null,
+  "pinyin": "hěn fán",
+  "en": "annoying; annoyed",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "你很煩耶 = you're so annoying (often teasing). 煩死了 = so annoying.",
+  "example": {
+   "zh": "工作的事情很煩，不想講。",
+   "en": "Work stuff is a pain, I don't want to talk about it."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0273",
+  "trad": "崩潰",
+  "mainland": null,
+  "pinyin": "bēng kuì",
+  "en": "to lose it, be at one's wits' end",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Exaggerated daily use: 我要崩潰了 = I'm going crazy.",
+  "example": {
+   "zh": "報告明天要交，我快崩潰了。",
+   "en": "The report is due tomorrow, I'm about to lose it."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0274",
+  "trad": "好好喔",
+  "mainland": null,
+  "pinyin": "hǎo hǎo o",
+  "en": "lucky you! (I'm jealous)",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "A very Taiwanese reaction to someone's good news; means 'how nice for you'.",
+  "example": {
+   "zh": "「我下禮拜要去日本。」「好好喔！」",
+   "en": "'I'm going to Japan next week.' 'Lucky you!'"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0275",
+  "trad": "很狂",
+  "mainland": null,
+  "pinyin": "hěn kuáng",
+  "en": "insane, amazing, wild",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Impressed: 這個技術太狂了. Also for bold people.",
+  "example": {
+   "zh": "他一個人騎機車環島，很狂。",
+   "en": "He rode a scooter around the island by himself, that's wild."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0276",
+  "trad": "神",
+  "mainland": null,
+  "pinyin": "shén",
+  "en": "amazing, godlike",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "很神 / 神人 (a genius at something) / 神回覆 (a brilliant reply).",
+  "example": {
+   "zh": "他三分鐘就修好了，真的很神。",
+   "en": "He fixed it in three minutes, he's amazing."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0277",
+  "trad": "屌",
+  "mainland": null,
+  "pinyin": "diǎo",
+  "en": "awesome, badass",
+  "type": "phrase",
+  "category": "slang",
+  "register": "vulgar",
+  "note": "Vulgar origin (slang for penis), but used as 'cool': 很屌. Avoid in polite company.",
+  "example": {
+   "zh": "你那台車也太屌了吧！",
+   "en": "Your car is so badass!"
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0278",
+  "trad": "白爛",
+  "mainland": null,
+  "pinyin": "bái làn",
+  "en": "goofy and silly; dumb",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Can be affectionate (他很白爛 = he's a goofball) or critical (a dumb comment).",
+  "example": {
+   "zh": "他很白爛，常常講一些無聊的笑話。",
+   "en": "He's a goofball, always telling silly jokes."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0279",
+  "trad": "很誇張",
+  "mainland": null,
+  "pinyin": "hěn kuā zhāng",
+  "en": "over the top; incredible",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "For anything extreme: 人多到很誇張 = crazy crowded.",
+  "example": {
+   "zh": "過年的時候高速公路塞得很誇張。",
+   "en": "The freeway gets insanely jammed over New Year."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0280",
+  "trad": "中肯",
+  "mainland": null,
+  "pinyin": "zhòng kěn",
+  "en": "spot on, fair (comment)",
+  "type": "phrase",
+  "category": "media",
+  "register": "casual",
+  "note": "PTT-era praise for a fair take. 中 is zhòng (hitting the mark).",
+  "example": {
+   "zh": "你這個評論很中肯。",
+   "en": "Your comment is spot on."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0281",
+  "trad": "推",
+  "mainland": null,
+  "pinyin": "tuī",
+  "en": "to recommend; upvote",
+  "type": "phrase",
+  "category": "media",
+  "register": "casual",
+  "note": "From PTT upvotes. 大推 = highly recommend; 推薦 is the full word.",
+  "example": {
+   "zh": "這家拉麵大推！",
+   "en": "I highly recommend this ramen place!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0282",
+  "trad": "已讀不回",
+  "mainland": null,
+  "pinyin": "yǐ dú bù huí",
+  "en": "read but didn't reply (left on read)",
+  "type": "phrase",
+  "category": "tech",
+  "register": "casual",
+  "note": "From LINE's 已讀 read receipt. A common relationship complaint.",
+  "example": {
+   "zh": "她已讀不回，是不是生氣了？",
+   "en": "She left me on read, is she angry?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0283",
+  "trad": "網美",
+  "mainland": null,
+  "pinyin": "wǎng měi",
+  "en": "Instagram-pretty girl; photogenic spot",
+  "type": "phrase",
+  "category": "media",
+  "register": "casual",
+  "note": "網美 = influencer-style girl; 網美店 / 網美景點 = places designed for photos.",
+  "example": {
+   "zh": "這家咖啡廳是網美店，大家都來拍照。",
+   "en": "This café is an Instagram spot, everyone comes to take photos."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0284",
+  "trad": "酸民",
+  "mainland": null,
+  "pinyin": "suān mín",
+  "en": "trolls, snarky haters",
+  "type": "phrase",
+  "category": "media",
+  "register": "casual",
+  "note": "From 酸 (sarcastic, mean) + 民. Mainland 喷子.",
+  "example": {
+   "zh": "不要理那些酸民。",
+   "en": "Ignore the trolls."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0285",
+  "trad": "酸",
+  "mainland": null,
+  "pinyin": "suān",
+  "en": "to make snide remarks",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "酸他 = take a dig at him; 酸言酸語 = snide comments.",
+  "example": {
+   "zh": "他一直在酸我，很討厭。",
+   "en": "He keeps taking digs at me, it's annoying."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0286",
+  "trad": "吐槽",
+  "mainland": null,
+  "pinyin": "tǔ cáo",
+  "en": "to roast, call out, make fun of",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "From Japanese tsukkomi via Taiwan. Now used on the mainland too.",
+  "example": {
+   "zh": "大家都在吐槽這部電影的結局。",
+   "en": "Everyone's roasting the ending of this movie."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0287",
+  "trad": "嗆",
+  "mainland": null,
+  "pinyin": "qiàng",
+  "en": "to mouth off at, challenge",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "嗆聲 = shout defiance; 很嗆 = aggressive, cheeky.",
+  "example": {
+   "zh": "他在網路上嗆政府。",
+   "en": "He was mouthing off at the government online."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0288",
+  "trad": "爆肝",
+  "mainland": null,
+  "pinyin": "bào gān",
+  "en": "to work oneself to exhaustion",
+  "type": "phrase",
+  "category": "work",
+  "register": "casual",
+  "note": "Liver explosion: the Taiwanese belief that staying up late damages the liver.",
+  "example": {
+   "zh": "為了趕專案，這禮拜每天都爆肝。",
+   "en": "To finish the project I've been working myself ragged every day this week."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0289",
+  "trad": "吃土",
+  "mainland": null,
+  "pinyin": "chī tǔ",
+  "en": "to be broke ('eating dirt')",
+  "type": "phrase",
+  "category": "money",
+  "register": "casual",
+  "note": "Usually after a big spend: 這個月要吃土了.",
+  "example": {
+   "zh": "買了新手機，這個月只能吃土了。",
+   "en": "I bought a new phone, so I'll be broke this month."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0290",
+  "trad": "小資",
+  "mainland": null,
+  "pinyin": "xiǎo zī",
+  "en": "modest-income (young worker)",
+  "type": "phrase",
+  "category": "money",
+  "register": "casual",
+  "note": "小資族 / 小資女; 小資省錢術 = budgeting tips.",
+  "example": {
+   "zh": "這家餐廳很適合小資族。",
+   "en": "This restaurant is great for people on a budget."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0291",
+  "trad": "耍廢",
+  "mainland": null,
+  "pinyin": "shuǎ fèi",
+  "en": "to laze around doing nothing",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Self-description for lazy days: 今天只想耍廢. 很廢 = useless, lazy.",
+  "example": {
+   "zh": "放假就在家耍廢一整天。",
+   "en": "On days off I laze around at home all day."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0292",
+  "trad": "臭臉",
+  "mainland": null,
+  "pinyin": "chòu liǎn",
+  "en": "sour face, scowl",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "擺臭臉 = put on a sour face.",
+  "example": {
+   "zh": "店員一直擺臭臉，服務很差。",
+   "en": "The clerk kept scowling, terrible service."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0293",
+  "trad": "很嘔",
+  "mainland": null,
+  "pinyin": "hěn ǒu",
+  "en": "galling, frustrating",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "When something unfair or a missed chance leaves you fuming. 嘔 is ǒu.",
+  "example": {
+   "zh": "差一分就及格，真的很嘔。",
+   "en": "Missing a pass by one point is so galling."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0294",
+  "trad": "不爽",
+  "mainland": null,
+  "pinyin": "bù shuǎng",
+  "en": "annoyed, pissed off",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Casual and fairly direct. 爽 alone = great, satisfying (很爽).",
+  "example": {
+   "zh": "他講話那個態度讓我很不爽。",
+   "en": "His attitude really pissed me off."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0295",
+  "trad": "邊緣人",
+  "mainland": null,
+  "pinyin": "biān yuán rén",
+  "en": "loner, social outcast",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Often self-mocking: 我是邊緣人.",
+  "example": {
+   "zh": "聚會的時候我都是邊緣人。",
+   "en": "At parties I'm always the loner."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0296",
+  "trad": "魯蛇",
+  "mainland": null,
+  "pinyin": "lǔ shé",
+  "en": "loser",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "A pun on English 'loser'; often self-deprecating.",
+  "example": {
+   "zh": "我就是個沒女朋友的魯蛇。",
+   "en": "I'm just a loser with no girlfriend."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0297",
+  "trad": "天菜",
+  "mainland": null,
+  "pinyin": "tiān cài",
+  "en": "dream guy/girl, total type",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "他是我的天菜 = he's exactly my type.",
+  "example": {
+   "zh": "那個新同事根本是我的天菜。",
+   "en": "That new coworker is totally my type."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0298",
+  "trad": "暈船",
+  "mainland": null,
+  "pinyin": "yūn chuán",
+  "en": "to fall for someone (often one-sidedly)",
+  "type": "phrase",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Literally 'seasick'. Common in dating talk.",
+  "example": {
+   "zh": "才約一次會你就暈船了喔？",
+   "en": "One date and you've already fallen for him?"
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0299",
+  "trad": "告白",
+  "mainland": "表白",
+  "pinyin": "gào bái",
+  "en": "to confess one's feelings (to a crush)",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "From Japanese kokuhaku. 被告白 = be confessed to.",
+  "example": {
+   "zh": "他終於跟她告白了。",
+   "en": "He finally told her how he feels."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0300",
+  "trad": "劈腿",
+  "mainland": "出轨",
+  "pinyin": "pī tuǐ",
+  "en": "to cheat on a partner",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "Literally 'do the splits' (two partners at once).",
+  "example": {
+   "zh": "他被發現劈腿，女朋友氣死了。",
+   "en": "He got caught cheating, his girlfriend was furious."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0301",
+  "trad": "放閃",
+  "mainland": "秀恩爱",
+  "pinyin": "fàng shǎn",
+  "en": "to show off one's relationship",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "閃 = dazzle; 閃光 = one's partner or a lovey-dovey couple.",
+  "example": {
+   "zh": "他們每天在網路上放閃。",
+   "en": "They show off their relationship online every day."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0302",
+  "trad": "媽寶",
+  "mainland": null,
+  "pinyin": "mā bǎo",
+  "en": "mama's boy",
+  "type": "phrase",
+  "category": "social",
+  "register": "casual",
+  "note": "A dating red flag in Taiwan.",
+  "example": {
+   "zh": "他什麼都要問媽媽，根本是媽寶。",
+   "en": "He asks his mom about everything, total mama's boy."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0303",
+  "trad": "草莓族",
+  "mainland": null,
+  "pinyin": "cǎo méi zú",
+  "en": "'strawberry generation' (easily bruised young people)",
+  "type": "phrase",
+  "category": "work",
+  "register": "neutral",
+  "note": "Older Taiwanese label for young workers seen as fragile.",
+  "example": {
+   "zh": "不要動不動就說年輕人是草莓族。",
+   "en": "Don't keep calling young people the 'strawberry generation'."
+  },
+  "stage": 5
+ },
+ {
+  "id": "tw-0304",
+  "trad": "塑膠",
+  "mainland": null,
+  "pinyin": "sù jiāo",
+  "en": "(treated as) invisible, ignored",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "把我當塑膠 = acting like I'm not even there.",
+  "example": {
+   "zh": "你們聊得那麼開心，把我當塑膠喔？",
+   "en": "You're chatting away, am I invisible or what?"
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0305",
+  "trad": "就醬",
+  "mainland": null,
+  "pinyin": "jiù jiàng",
+  "en": "that's it, that's all (就這樣)",
+  "type": "phrase",
+  "category": "discourse",
+  "register": "casual",
+  "note": "醬 is a slurred 這樣; mostly in text messages.",
+  "example": {
+   "zh": "明天十點集合，就醬。",
+   "en": "Meet at ten tomorrow, that's it."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0306",
+  "trad": "很台",
+  "mainland": null,
+  "pinyin": "hěn tái",
+  "en": "very Taiwanese (often: folksy, a bit tacky)",
+  "type": "phrase",
+  "category": "culture",
+  "register": "casual",
+  "note": "Playful; can be proud or teasing (藍白拖 and 檳榔攤 are 很台). Example of 很 + noun.",
+  "example": {
+   "zh": "穿藍白拖去吃熱炒，真的很台。",
+   "en": "Wearing blue-and-white slippers to a stir-fry place, so Taiwanese."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0307",
+  "trad": "很可以",
+  "mainland": null,
+  "pinyin": "hěn kě yǐ",
+  "en": "pretty good, not bad at all",
+  "type": "phrase",
+  "category": "slang",
+  "register": "casual",
+  "note": "Approval: 這家咖啡很可以.",
+  "example": {
+   "zh": "這個價錢有這個品質，很可以。",
+   "en": "This quality at this price is pretty great."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0308",
+  "trad": "喔",
+  "mainland": null,
+  "pinyin": "o",
+  "en": "(particle) friendly softener; gentle reminder or warning",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Everywhere in Taiwan speech. Softens statements (好喔), adds a friendly reminder (要小心喔), or signals mild surprise as a question (喔？). Mainland speakers use 哦 more; Taiwanese write 喔.",
+  "example": {
+   "zh": "明天要早起喔，不要太晚睡。",
+   "en": "You have to get up early tomorrow, don't stay up too late."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0309",
+  "trad": "喔喔",
+  "mainland": null,
+  "pinyin": "o o",
+  "en": "oh, OK / got it (backchannel)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Quick acknowledgement while listening or reading a message. A single flat 喔 can sound cold in text; 喔喔 or 好喔 is friendlier.",
+  "example": {
+   "zh": "「會議改到三點。」「喔喔，好。」",
+   "en": "'The meeting moved to three.' 'Oh OK, got it.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0310",
+  "trad": "齁",
+  "mainland": null,
+  "pinyin": "hōu",
+  "en": "(particle) right? / ugh (seeking agreement or mild exasperation)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Very Taiwanese, from Hokkien. At the end it asks for agreement (很熱齁？ = hot, huh?); at the start it shows exasperation (齁～你很煩耶). Often also written 吼.",
+  "example": {
+   "zh": "今天真的很熱齁？",
+   "en": "It's really hot today, huh?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0311",
+  "trad": "吼",
+  "mainland": null,
+  "pinyin": "hǒu",
+  "en": "(interjection) ugh! / come on! (exasperation)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Spelling commonly used online for the same sound as 齁, especially at the start of a complaint or teasing scold.",
+  "example": {
+   "zh": "吼，你又忘記帶鑰匙了！",
+   "en": "Ugh, you forgot your keys again!"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0312",
+  "trad": "啦",
+  "mainland": null,
+  "pinyin": "la",
+  "en": "(particle) casual emphasis; reassurance, urging, brushing off",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Makes speech relaxed or insistent: 好啦 (fine), 走啦 (come on, let's go), 不會啦 (not at all), 不要啦 (nah, don't). Used much more in Taiwan than on the mainland.",
+  "example": {
+   "zh": "不會啦，你想太多了。",
+   "en": "Nah, you're overthinking it."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0313",
+  "trad": "欸",
+  "mainland": null,
+  "pinyin": "ēi",
+  "en": "hey! (attention-getter); (sentence-final) surprise, emphasis",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "At the start, 'hey' (欸，你看！). At the end, it marks surprise or emphasis, like 耶 (這個很好吃欸). Intonation varies; online it's often written ㄟ.",
+  "example": {
+   "zh": "欸，你看那邊！",
+   "en": "Hey, look over there!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0314",
+  "trad": "耶",
+  "mainland": null,
+  "pinyin": "ye",
+  "en": "(particle) mild surprise or emphasis",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Softens and adds feeling: 好漂亮耶, 我不知道耶 (hmm, I don't know). Very common in Taiwan; rare on the mainland.",
+  "example": {
+   "zh": "我不知道耶，你問他看看。",
+   "en": "Hmm, I don't know, try asking him."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0315",
+  "trad": "咧",
+  "mainland": null,
+  "pinyin": "lie",
+  "en": "(particle) 'and what about…?'; emphatic rebuttal",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "1) Like 呢: 你咧？ (and you?). 2) Rebuttal or emphasis: 才不咧 (no way), 我在忙咧 (I'm busy, you know).",
+  "example": {
+   "zh": "我要喝咖啡，你咧？",
+   "en": "I'm having coffee, what about you?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0316",
+  "trad": "嘛",
+  "mainland": null,
+  "pinyin": "ma",
+  "en": "(particle) it's obvious; coaxing",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Marks something as obvious (就跟你說了嘛 = I told you so) or coaxes (一起去嘛 = come on, come with us).",
+  "example": {
+   "zh": "一起去嘛，人多比較好玩。",
+   "en": "Come on, come with us, it's more fun with more people."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0317",
+  "trad": "囉",
+  "mainland": null,
+  "pinyin": "luo",
+  "en": "(particle) change of state; friendly announcement",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Announces a new situation in a friendly way: 吃飯囉 (dinner's ready), 走囉 (let's go), 那我先掛囉 (I'll hang up now). Often sounds like 'lo'.",
+  "example": {
+   "zh": "吃飯囉！大家快來。",
+   "en": "Dinner's ready! Come on, everyone."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0318",
+  "trad": "蛤",
+  "mainland": null,
+  "pinyin": "há",
+  "en": "huh? what? (asking to repeat; disbelief)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Rising tone. Asking someone to repeat, or reacting in disbelief (蛤？真的嗎？). Can sound rude to elders; 什麼？ or 不好意思，再說一次？ is safer.",
+  "example": {
+   "zh": "蛤？你說什麼？我沒聽到。",
+   "en": "Huh? What did you say? I didn't catch it."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0319",
+  "trad": "唷",
+  "mainland": null,
+  "pinyin": "yō",
+  "en": "(particle) cute or playful emphasis",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "A cuter 喔, common in service talk and texting: 要準時唷.",
+  "example": {
+   "zh": "記得要準時唷！",
+   "en": "Remember to be on time!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0320",
+  "trad": "嘿",
+  "mainland": null,
+  "pinyin": "hēi",
+  "en": "yeah (agreement); hey",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Short 'yeah' in answer to a yes-no question, from Hokkien (see 嘿啊). Also a greeting.",
+  "example": {
+   "zh": "「你是台南人喔？」「嘿，對啊。」",
+   "en": "'You're from Tainan?' 'Yeah, that's right.'"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0321",
+  "trad": "對啊",
+  "mainland": null,
+  "pinyin": "duì a",
+  "en": "yeah, right (agreement filler)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "The default agreement and backchannel in conversation, often repeated: 對啊對啊.",
+  "example": {
+   "zh": "「這家店很好吃。」「對啊，我很常來。」",
+   "en": "'This place is really good.' 'Yeah, I come here a lot.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0322",
+  "trad": "就是說",
+  "mainland": null,
+  "pinyin": "jiù shì shuō",
+  "en": "exactly! I know, right?",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Strong agreement, often 就是說啊！ Also introduces a rephrasing: 'that is to say'.",
+  "example": {
+   "zh": "「房租也太貴了吧！」「就是說啊！」",
+   "en": "'Rent is way too expensive!' 'I know, right?'"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0323",
+  "trad": "然後",
+  "mainland": null,
+  "pinyin": "rán hòu",
+  "en": "and then; so (storytelling filler)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Taiwanese speakers chain stories with 然後… 然後…; it often just fills a pause rather than meaning 'after that'.",
+  "example": {
+   "zh": "我昨天去夜市，然後遇到我國中同學。",
+   "en": "I went to the night market yesterday, and ran into my junior-high classmate."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0324",
+  "trad": "那個",
+  "mainland": null,
+  "pinyin": "nà ge",
+  "en": "um, er (hesitation filler)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Fills pauses and softens awkward requests. Often pronounced nèi ge in speech.",
+  "example": {
+   "zh": "那個…我可以請一天假嗎？",
+   "en": "Um… could I take a day off?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0325",
+  "trad": "其實",
+  "mainland": null,
+  "pinyin": "qí shí",
+  "en": "actually, to be honest",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Very frequent; used to soften disagreement or add a gentle correction.",
+  "example": {
+   "zh": "其實我不太喜歡吃辣。",
+   "en": "Actually, I don't really like spicy food."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0326",
+  "trad": "反正",
+  "mainland": null,
+  "pinyin": "fǎn zhèng",
+  "en": "anyway, in any case",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Wraps up or brushes aside details: 反正就是這樣.",
+  "example": {
+   "zh": "反正明天放假，今天晚點睡沒關係。",
+   "en": "Anyway, tomorrow's a holiday, so it's fine to stay up late."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0327",
+  "trad": "好啊",
+  "mainland": null,
+  "pinyin": "hǎo a",
+  "en": "sure! (accepting a suggestion)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Cheerful acceptance of an invitation. Compare 好啦 (fine, OK, reluctantly) and 好喔 (sure, warm).",
+  "example": {
+   "zh": "「要不要一起吃飯？」「好啊！」",
+   "en": "'Want to eat together?' 'Sure!'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0328",
+  "trad": "好啦",
+  "mainland": null,
+  "pinyin": "hǎo la",
+  "en": "fine, OK (giving in); OK enough",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Concession or ending an argument: 好啦好啦，我去. Can also soothe: 好啦，不要哭了.",
+  "example": {
+   "zh": "好啦好啦，我陪你去。",
+   "en": "Fine, fine, I'll go with you."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0329",
+  "trad": "是喔",
+  "mainland": null,
+  "pinyin": "shì o",
+  "en": "oh really? / I see",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Backchannel reaction to news. Falling tone = 'oh, I see'; rising = 'really?'. A flat 是喔 can sound uninterested, so add enthusiasm.",
+  "example": {
+   "zh": "「我下個月要搬家。」「是喔？搬去哪？」",
+   "en": "'I'm moving next month.' 'Oh really? Where to?'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0330",
+  "trad": "真的假的",
+  "mainland": null,
+  "pinyin": "zhēn de jiǎ de",
+  "en": "seriously?! really?",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Surprised reaction, not a real question. Shortened to 真假.",
+  "example": {
+   "zh": "真的假的？他要結婚了？",
+   "en": "Seriously? He's getting married?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0331",
+  "trad": "沒有啦",
+  "mainland": null,
+  "pinyin": "méi yǒu la",
+  "en": "nah, not really (deflecting)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "The modest reply to compliments, and a soft denial.",
+  "example": {
+   "zh": "「你中文好好喔！」「沒有啦，還差很遠。」",
+   "en": "'Your Chinese is so good!' 'Nah, I've got a long way to go.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0332",
+  "trad": "這樣子",
+  "mainland": null,
+  "pinyin": "zhè yàng zi",
+  "en": "I see; like this",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "這樣子喔 = 'oh, I see'. Also 'like this' when demonstrating. Taiwanese often add 子.",
+  "example": {
+   "zh": "「他今天請病假。」「這樣子喔。」",
+   "en": "'He's off sick today.' 'Oh, I see.'"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0333",
+  "trad": "基本上",
+  "mainland": null,
+  "pinyin": "jī běn shàng",
+  "en": "basically",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Heavily used filler at the start of explanations, often without much meaning.",
+  "example": {
+   "zh": "基本上我們禮拜一到五都有營業。",
+   "en": "Basically we're open Monday to Friday."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0334",
+  "trad": "就是",
+  "mainland": null,
+  "pinyin": "jiù shì",
+  "en": "I mean, like (filler)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Fills pauses or introduces a clarification: 就是…怎麼說…",
+  "example": {
+   "zh": "就是…我覺得這個計畫有點問題。",
+   "en": "I mean… I think there's a bit of a problem with this plan."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0335",
+  "trad": "我跟你說",
+  "mainland": null,
+  "pinyin": "wǒ gēn nǐ shuō",
+  "en": "let me tell you; listen",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Introduces news or gossip. Taiwan uses 跟 here, not 和.",
+  "example": {
+   "zh": "我跟你說，他們兩個在一起了！",
+   "en": "Let me tell you, those two are dating now!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0336",
+  "trad": "怎麼說",
+  "mainland": null,
+  "pinyin": "zěn me shuō",
+  "en": "how should I put it",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Buys time while choosing words: 怎麼說呢…",
+  "example": {
+   "zh": "怎麼說呢，這部電影還不錯，可是有點長。",
+   "en": "How should I put it… the film's decent, but a bit long."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0337",
+  "trad": "結果",
+  "mainland": null,
+  "pinyin": "jié guǒ",
+  "en": "and then it turned out…",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "In stories it introduces an unexpected outcome.",
+  "example": {
+   "zh": "我等了一個小時，結果他沒來。",
+   "en": "I waited an hour, and in the end he didn't show up."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0338",
+  "trad": "不然",
+  "mainland": null,
+  "pinyin": "bù rán",
+  "en": "how about…; otherwise",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Taiwanese often use 不然 to suggest an alternative: 不然我們改天？",
+  "example": {
+   "zh": "不然我們改吃火鍋好了？",
+   "en": "How about we have hot pot instead?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0339",
+  "trad": "所以說",
+  "mainland": null,
+  "pinyin": "suǒ yǐ shuō",
+  "en": "so you see; that's why",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Draws a conclusion, sometimes with an 'I told you so' tone.",
+  "example": {
+   "zh": "所以說，早點出門就不會遲到了。",
+   "en": "So you see, if you'd left earlier you wouldn't be late."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0340",
+  "trad": "對不對",
+  "mainland": null,
+  "pinyin": "duì bú duì",
+  "en": "right? (tag question)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Seeks confirmation. Softer variants: 對吧, 齁.",
+  "example": {
+   "zh": "你是上禮拜來的，對不對？",
+   "en": "You came last week, right?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0341",
+  "trad": "喂",
+  "mainland": null,
+  "pinyin": "wéi",
+  "en": "hello? (on the phone)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Rising tone when answering the phone. Said to a person face-to-face (falling) it is rude, like 'hey you'.",
+  "example": {
+   "zh": "喂？請問是王先生嗎？",
+   "en": "Hello? Is this Mr Wang?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0342",
+  "trad": "欸對",
+  "mainland": null,
+  "pinyin": "ēi duì",
+  "en": "oh right! (just remembered)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Introduces something you suddenly remembered.",
+  "example": {
+   "zh": "欸對，你明天有空嗎？",
+   "en": "Oh right, are you free tomorrow?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0343",
+  "trad": "說真的",
+  "mainland": null,
+  "pinyin": "shuō zhēn de",
+  "en": "honestly, seriously",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Signals sincerity or a frank opinion.",
+  "example": {
+   "zh": "說真的，我覺得你應該跟他談談。",
+   "en": "Honestly, I think you should talk to him."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0344",
+  "trad": "我覺得",
+  "mainland": null,
+  "pinyin": "wǒ jué de",
+  "en": "I think, I feel",
+  "type": "particle",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwanese hedge opinions with 我覺得 constantly; it sounds less blunt than stating things directly.",
+  "example": {
+   "zh": "我覺得這件比較適合你。",
+   "en": "I think this one suits you better."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0345",
+  "trad": "怎樣",
+  "mainland": null,
+  "pinyin": "zěn yàng",
+  "en": "what's up? / so what? (can be confrontational)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Neutral: 最近怎樣？ (how's it going?). Confrontational: 你想怎樣？ / 怎樣？ (what do you want?).",
+  "example": {
+   "zh": "最近怎樣？工作還順利嗎？",
+   "en": "How've you been? Is work going OK?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0346",
+  "trad": "哇",
+  "mainland": null,
+  "pinyin": "wā",
+  "en": "wow",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Amazement or surprise. 哇塞 is a stronger, older variant.",
+  "example": {
+   "zh": "哇，這裡的夜景好漂亮！",
+   "en": "Wow, the night view here is beautiful!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0347",
+  "trad": "咦",
+  "mainland": null,
+  "pinyin": "yí",
+  "en": "huh? (puzzled)",
+  "type": "particle",
+  "category": "discourse",
+  "register": "casual",
+  "note": "When something is unexpected or confusing.",
+  "example": {
+   "zh": "咦？我的手機呢？",
+   "en": "Huh? Where's my phone?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0348",
+  "trad": "唉",
+  "mainland": null,
+  "pinyin": "āi",
+  "en": "sigh (resignation, sadness)",
+  "type": "particle",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Sighing interjection.",
+  "example": {
+   "zh": "唉，又要加班了。",
+   "en": "Sigh, overtime again."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0349",
+  "trad": "歹勢",
+  "mainland": null,
+  "pinyin": "dǎi shì",
+  "en": "sorry, excuse me (embarrassed)",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô pháinn-sè. Everyone, including non-Hokkien speakers, says it in its Taiwanese pronunciation ('pai-se'), never as Mandarin dǎi shì. Lighter than 對不起.",
+  "example": {
+   "zh": "歹勢歹勢，我遲到了。",
+   "en": "Sorry, sorry, I'm late."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0350",
+  "trad": "拍謝",
+  "mainland": null,
+  "pinyin": "pāi xiè",
+  "en": "sorry (playful spelling of 歹勢)",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Same word as 歹勢 (pháinn-sè), written with Mandarin characters that sound like it. Common in texts. Pronounced 'pai-se'.",
+  "example": {
+   "zh": "拍謝，剛剛在忙沒看到訊息。",
+   "en": "Sorry, I was busy and didn't see your message."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0351",
+  "trad": "阿嬤",
+  "mainland": null,
+  "pinyin": "ā mà",
+  "en": "grandma",
+  "type": "hokkien",
+  "category": "social",
+  "register": "neutral",
+  "note": "Tâi-lô a-má. The usual word for grandmother in Taiwan, even in Mandarin conversation (mainland 奶奶 / 外婆). Pronounced close to 'a-má'.",
+  "example": {
+   "zh": "我阿嬤做的菜最好吃。",
+   "en": "My grandma's cooking is the best."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0352",
+  "trad": "阿公",
+  "mainland": null,
+  "pinyin": "ā gōng",
+  "en": "grandpa",
+  "type": "hokkien",
+  "category": "social",
+  "register": "neutral",
+  "note": "Tâi-lô a-kong. The usual word for grandfather in Taiwan (mainland 爷爷 / 外公). Said like 'a-kong'.",
+  "example": {
+   "zh": "阿公每天早上去公園運動。",
+   "en": "Grandpa exercises in the park every morning."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0353",
+  "trad": "古意",
+  "mainland": null,
+  "pinyin": "gǔ yì",
+  "en": "honest, simple-hearted, kind",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô kóo-ì. Praise for an unpretentious, decent person. Usually said in Taiwanese: 'kóo-ì'.",
+  "example": {
+   "zh": "他人很古意，不會騙你的。",
+   "en": "He's an honest guy, he won't cheat you."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0354",
+  "trad": "凍蒜",
+  "mainland": null,
+  "pinyin": "dòng suàn",
+  "en": "elected! (rally chant)",
+  "type": "hokkien",
+  "category": "government",
+  "register": "casual",
+  "note": "Tâi-lô tòng-suán (= 當選). Crowds chant 凍蒜！凍蒜！ at election rallies, always in Taiwanese.",
+  "example": {
+   "zh": "選舉晚會大家一直喊凍蒜。",
+   "en": "At the election rally everyone kept chanting 'elected!'"
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0355",
+  "trad": "抓狂",
+  "mainland": null,
+  "pinyin": "zhuā kuáng",
+  "en": "to go berserk, flip out",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "From Hokkien lia̍h-kông. Fully absorbed into Mandarin and said in Mandarin (zhuā kuáng); now also used on the mainland.",
+  "example": {
+   "zh": "電腦當掉檔案全沒了，我快抓狂了。",
+   "en": "My computer crashed and I lost all my files, I'm about to flip out."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0356",
+  "trad": "俗擱大碗",
+  "mainland": null,
+  "pinyin": "sú gē dà wǎn",
+  "en": "cheap and plentiful (great value)",
+  "type": "hokkien",
+  "category": "food",
+  "register": "casual",
+  "note": "Tâi-lô sio̍k koh tuā-uánn. Praise for cheap, generous food. Usually said in Taiwanese.",
+  "example": {
+   "zh": "這家自助餐俗擱大碗，學生最愛。",
+   "en": "This cafeteria is cheap and generous, students love it."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0357",
+  "trad": "好康",
+  "mainland": null,
+  "pinyin": "hǎo kāng",
+  "en": "a good deal, a perk",
+  "type": "hokkien",
+  "category": "shopping",
+  "register": "casual",
+  "note": "Tâi-lô hó-khang. 好康報你知 = 'let me tell you about a great deal'. Often said in Mandarin as hǎo kāng.",
+  "example": {
+   "zh": "有什麼好康的記得跟我說。",
+   "en": "If there's a good deal, remember to tell me."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0358",
+  "trad": "牽拖",
+  "mainland": null,
+  "pinyin": "qiān tuō",
+  "en": "to blame others, drag others in",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô khan-thua. Shifting blame unreasonably: 不要牽拖別人.",
+  "example": {
+   "zh": "自己遲到還牽拖塞車。",
+   "en": "He was late himself and blamed it on traffic."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0359",
+  "trad": "水",
+  "mainland": null,
+  "pinyin": "shuǐ",
+  "en": "pretty, beautiful",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô suí (properly written 媠). Written 水 because it sounds similar; said 'suí': 水喔！ = gorgeous!",
+  "example": {
+   "zh": "哇，你今天好水喔！",
+   "en": "Wow, you look gorgeous today!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0360",
+  "trad": "趴趴走",
+  "mainland": null,
+  "pinyin": "pā pā zǒu",
+  "en": "to roam around, wander everywhere",
+  "type": "hokkien",
+  "category": "travel",
+  "register": "casual",
+  "note": "Tâi-lô pha-pha-tsáu. Common in travel-show titles. Said either in Mandarin or Taiwanese.",
+  "example": {
+   "zh": "放假就騎機車到處趴趴走。",
+   "en": "On days off I ride my scooter all over the place."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0361",
+  "trad": "碗粿",
+  "mainland": null,
+  "pinyin": "wǎn guǒ",
+  "en": "savoury steamed rice cake in a bowl",
+  "type": "hokkien",
+  "category": "food",
+  "register": "neutral",
+  "note": "Tâi-lô uánn-kué. A Tainan classic. Almost always ordered in Taiwanese: 'uánn-kué'.",
+  "example": {
+   "zh": "台南的碗粿一定要吃看看。",
+   "en": "You have to try Tainan's bowl rice cake."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0362",
+  "trad": "呷飽沒",
+  "mainland": null,
+  "pinyin": "xiā bǎo méi",
+  "en": "have you eaten? (greeting)",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô tsia̍h-pá--buē (食飽未). A traditional greeting, especially with older people; always said in Taiwanese. Mandarin equivalent: 吃飽了沒？",
+  "example": {
+   "zh": "阿伯，呷飽沒？",
+   "en": "Uncle, have you eaten yet?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0363",
+  "trad": "母湯",
+  "mainland": null,
+  "pinyin": "mǔ tāng",
+  "en": "don't! no way! (not OK)",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô m̄-thang (毋通). Written with Mandarin sound-alike characters online; said 'm̄-thang'. 這樣母湯喔 = that's not OK.",
+  "example": {
+   "zh": "上班時間睡覺，母湯喔！",
+   "en": "Sleeping during work hours? Not OK!"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0364",
+  "trad": "嘿啊",
+  "mainland": null,
+  "pinyin": "hēi a",
+  "en": "yeah, that's right",
+  "type": "hokkien",
+  "category": "discourse",
+  "register": "casual",
+  "note": "From Taiwanese agreement 'heh--ah' (= 是啊). Extremely common in casual speech, even among Mandarin-dominant speakers.",
+  "example": {
+   "zh": "「你也住板橋喔？」「嘿啊。」",
+   "en": "'You live in Banqiao too?' 'Yeah.'"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0365",
+  "trad": "古錐",
+  "mainland": null,
+  "pinyin": "gǔ zhuī",
+  "en": "cute, adorable",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô kóo-tsui. For babies, pets, cute behaviour. Said in Taiwanese ('kóo-tsui').",
+  "example": {
+   "zh": "你家的狗好古錐喔！",
+   "en": "Your dog is so cute!"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0366",
+  "trad": "三八",
+  "mainland": null,
+  "pinyin": "sān bā",
+  "en": "silly, goofy; (teasing) ditzy",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô sam-pat. Teasing among friends (你很三八耶), but can be insulting, especially said of women. Said in Mandarin or Taiwanese.",
+  "example": {
+   "zh": "你很三八耶，不要再鬧了。",
+   "en": "You're so silly, stop messing around."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0367",
+  "trad": "有夠",
+  "mainland": null,
+  "pinyin": "yǒu gòu",
+  "en": "really, so (intensifier)",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Calque of Hokkien ū-kàu. 有夠熱 = so hot; 有夠扯 = so ridiculous. Said in Mandarin (yǒu gòu).",
+  "example": {
+   "zh": "今天有夠熱，根本不想出門。",
+   "en": "It's so hot today, I don't want to go out at all."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0368",
+  "trad": "凍未條",
+  "mainland": null,
+  "pinyin": "dòng wèi tiáo",
+  "en": "can't stand it, can't take it",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô tòng-bē-tiâu (擋袂牢). Used humorously in Mandarin conversation, said in Taiwanese.",
+  "example": {
+   "zh": "這麼辣我真的凍未條。",
+   "en": "This spicy, I really can't take it."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0369",
+  "trad": "奧客",
+  "mainland": null,
+  "pinyin": "ào kè",
+  "en": "nightmare customer",
+  "type": "hokkien",
+  "category": "shopping",
+  "register": "casual",
+  "note": "From Hokkien àu-kheh ('rotten customer'). Said in Mandarin (ào kè); 奧 = bad, as in 很奧.",
+  "example": {
+   "zh": "服務業最怕遇到奧客。",
+   "en": "Service workers dread difficult customers."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0370",
+  "trad": "顧人怨",
+  "mainland": null,
+  "pinyin": "gù rén yuàn",
+  "en": "obnoxious (someone everyone dislikes)",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô kòo-lâng-uàn. Usually said in Taiwanese.",
+  "example": {
+   "zh": "他講話很顧人怨，大家都不想理他。",
+   "en": "The way he talks is obnoxious, nobody wants to deal with him."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0371",
+  "trad": "黑白講",
+  "mainland": null,
+  "pinyin": "hēi bái jiǎng",
+  "en": "to talk nonsense",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô oo-pe̍h-kóng ('black-white talk'). Said in Taiwanese; Mandarin equivalent 亂講.",
+  "example": {
+   "zh": "你不要黑白講，我沒有說過那種話。",
+   "en": "Don't talk nonsense, I never said that."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0372",
+  "trad": "假掰",
+  "mainland": null,
+  "pinyin": "jiǎ bāi",
+  "en": "pretentious, affected",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô ké-pai. For people putting on airs. Said 'ké-pai'; can be fairly rude.",
+  "example": {
+   "zh": "他講話很假掰，每句都夾英文。",
+   "en": "He talks so pretentiously, English in every sentence."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0373",
+  "trad": "肉圓",
+  "mainland": null,
+  "pinyin": "ròu yuán",
+  "en": "Taiwanese meatball dumpling (bah-uân)",
+  "type": "hokkien",
+  "category": "food",
+  "register": "neutral",
+  "note": "Tâi-lô bah-uân. A translucent starchy dumpling with pork inside. Many people say 'bah-uân' even in Mandarin.",
+  "example": {
+   "zh": "彰化的肉圓很有名。",
+   "en": "Changhua's bah-uân are famous."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0374",
+  "trad": "黑輪",
+  "mainland": null,
+  "pinyin": "hēi lún",
+  "en": "oden (fish cakes in broth)",
+  "type": "hokkien",
+  "category": "food",
+  "register": "neutral",
+  "note": "Tâi-lô oo-lián, from Japanese oden. Night-market and 7-Eleven snack; people say hēi lún in Mandarin or 'oo-lián'.",
+  "example": {
+   "zh": "冬天晚上來一碗黑輪最舒服。",
+   "en": "A bowl of oden on a winter night is the best."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0375",
+  "trad": "甜不辣",
+  "mainland": null,
+  "pinyin": "tián bú là",
+  "en": "fried fish cake (Taiwanese 'tempura')",
+  "type": "hokkien",
+  "category": "food",
+  "register": "neutral",
+  "note": "Tâi-lô thian-puh-lah, from Japanese tempura via Hokkien. Usually said in Mandarin as tián bú là.",
+  "example": {
+   "zh": "鹹酥雞我要加一份甜不辣。",
+   "en": "Add an order of fish cake to my fried chicken."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0376",
+  "trad": "古早味",
+  "mainland": null,
+  "pinyin": "gǔ zǎo wèi",
+  "en": "old-fashioned taste, nostalgic flavour",
+  "type": "hokkien",
+  "category": "food",
+  "register": "neutral",
+  "note": "Tâi-lô kóo-tsá-bī. Used in Mandarin (gǔ zǎo wèi) in ads and menus: 古早味紅茶, 古早味蛋糕.",
+  "example": {
+   "zh": "這家紅茶是古早味的，很香。",
+   "en": "This black tea is old-style, really fragrant."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0377",
+  "trad": "運將",
+  "mainland": null,
+  "pinyin": "yùn jiàng",
+  "en": "taxi driver",
+  "type": "hokkien",
+  "category": "transit",
+  "register": "casual",
+  "note": "Tâi-lô ūn-tsiàng, from Japanese untenshu via Hokkien. Usually said in Mandarin as yùn jiàng.",
+  "example": {
+   "zh": "運將大哥很熱心，一路跟我聊天。",
+   "en": "The taxi driver was really friendly, chatting with me the whole way."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0378",
+  "trad": "歐巴桑",
+  "mainland": null,
+  "pinyin": "ōu bā sāng",
+  "en": "middle-aged woman, auntie",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô oo-bá-sáng, from Japanese obasan via Hokkien. Saying it to a woman's face is rude; 阿姨 is the polite address.",
+  "example": {
+   "zh": "市場的歐巴桑都很會殺價。",
+   "en": "The aunties at the market are great at haggling."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0379",
+  "trad": "歐吉桑",
+  "mainland": null,
+  "pinyin": "ōu jí sāng",
+  "en": "middle-aged man, uncle",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô oo-jí-sáng, from Japanese ojisan. As with 歐巴桑, not a polite form of address; use 先生 or 大哥.",
+  "example": {
+   "zh": "那個歐吉桑每天都在公園下棋。",
+   "en": "That old guy plays chess in the park every day."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0380",
+  "trad": "阿伯",
+  "mainland": null,
+  "pinyin": "ā bó",
+  "en": "older man, uncle (address)",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô a-peh. Friendly way to address an older man in daily life.",
+  "example": {
+   "zh": "阿伯，請問這附近有郵局嗎？",
+   "en": "Uncle, is there a post office near here?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0381",
+  "trad": "頭家",
+  "mainland": null,
+  "pinyin": "tóu jiā",
+  "en": "boss, shop owner",
+  "type": "hokkien",
+  "category": "work",
+  "register": "casual",
+  "note": "Tâi-lô thâu-ke. The owner's wife is 頭家娘. Usually said in Taiwanese; Mandarin 老闆.",
+  "example": {
+   "zh": "頭家，這個怎麼賣？",
+   "en": "Boss, how much is this?"
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0382",
+  "trad": "頭殼壞去",
+  "mainland": null,
+  "pinyin": "tóu ké huài qù",
+  "en": "out of one's mind, crazy",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô thâu-khak pháinn--khì ('head broken'). Said in Taiwanese.",
+  "example": {
+   "zh": "這麼熱還穿外套，你頭殼壞去喔？",
+   "en": "Wearing a jacket in this heat, are you out of your mind?"
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0383",
+  "trad": "撇步",
+  "mainland": null,
+  "pinyin": "piě bù",
+  "en": "trick, knack, tip",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô phiat-pōo. Very common in Mandarin conversation and headlines: 省錢撇步 = money-saving tips. Said as piě bù or 'phiat-pōo'.",
+  "example": {
+   "zh": "你有沒有什麼讀書的撇步？",
+   "en": "Do you have any study tricks?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0384",
+  "trad": "好家在",
+  "mainland": null,
+  "pinyin": "hǎo jiā zài",
+  "en": "phew, luckily",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô hó-ka-tsài. Relief after a close call; usually said in Taiwanese.",
+  "example": {
+   "zh": "好家在有趕上最後一班捷運。",
+   "en": "Phew, I caught the last MRT."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0385",
+  "trad": "菜市仔名",
+  "mainland": null,
+  "pinyin": "cài shì zǐ míng",
+  "en": "super-common name",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô tshài-tshī-á-miâ ('market name' — call it in a market and many people turn around). Said in Taiwanese.",
+  "example": {
+   "zh": "怡君是菜市仔名，我們班就有三個。",
+   "en": "Yi-jun is a really common name, there were three in my class."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0386",
+  "trad": "麥",
+  "mainland": null,
+  "pinyin": "mài",
+  "en": "don't",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô mài (莫). Mostly in set phrases and texts: 麥擱來 (don't come again), 麥鬧了 (stop messing around).",
+  "example": {
+   "zh": "好了，麥鬧了。",
+   "en": "OK, quit messing around."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0387",
+  "trad": "漏氣",
+  "mainland": null,
+  "pinyin": "lòu qì",
+  "en": "to embarrass oneself, lose face",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô lāu-khuì. Said in Taiwanese; 很漏氣 = so lame/embarrassing.",
+  "example": {
+   "zh": "第一次約會就遲到，真漏氣。",
+   "en": "Late for a first date, how embarrassing."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0388",
+  "trad": "落跑",
+  "mainland": null,
+  "pinyin": "luò pǎo",
+  "en": "to run off, bail out",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô lāu-pháu. Fully used in Mandarin (luò pǎo): 老闆落跑了 = the boss skipped town.",
+  "example": {
+   "zh": "說好要來幫忙，結果他落跑了。",
+   "en": "He promised to help, then bailed."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0389",
+  "trad": "起肖",
+  "mainland": null,
+  "pinyin": "qǐ xiào",
+  "en": "to go crazy, lose it",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô khí-siáu (起痟). 你起肖喔？ = are you nuts?",
+  "example": {
+   "zh": "他突然起肖，把東西都丟了。",
+   "en": "He suddenly lost it and threw everything away."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0390",
+  "trad": "很番",
+  "mainland": null,
+  "pinyin": "hěn fān",
+  "en": "unreasonable, impossible to talk sense into",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "From Hokkien huan. Said in Mandarin (很番) for someone who won't listen to reason.",
+  "example": {
+   "zh": "他很番，怎麼講都講不聽。",
+   "en": "He's so unreasonable, he won't listen no matter what."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0391",
+  "trad": "啥米",
+  "mainland": null,
+  "pinyin": "shá mǐ",
+  "en": "what? (playful)",
+  "type": "hokkien",
+  "category": "slang",
+  "register": "casual",
+  "note": "Tâi-lô siánn-mih. Used jokingly in Mandarin conversation and texts: 啥米？！",
+  "example": {
+   "zh": "啥米？明天要考試？",
+   "en": "What?! There's a test tomorrow?"
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0392",
+  "trad": "牽手",
+  "mainland": null,
+  "pinyin": "qiān shǒu",
+  "en": "one's spouse",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô khan-tshiú. In Taiwanese 'my 牽手' means my wife (or husband). In Mandarin 牽手 is also simply 'hold hands'.",
+  "example": {
+   "zh": "這是我的牽手，我們結婚三十年了。",
+   "en": "This is my wife, we've been married thirty years."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0393",
+  "trad": "很衰",
+  "mainland": null,
+  "pinyin": "hěn shuāi",
+  "en": "unlucky",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Hokkien sue. Fully used in Mandarin: 很衰, 衰事, 衰神 (jinx).",
+  "example": {
+   "zh": "今天很衰，出門就被雨淋。",
+   "en": "Today's been so unlucky, I got rained on the moment I went out."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0394",
+  "trad": "雞婆",
+  "mainland": null,
+  "pinyin": "jī pó",
+  "en": "nosy, meddlesome; overly helpful",
+  "type": "hokkien",
+  "category": "social",
+  "register": "casual",
+  "note": "Tâi-lô ke-pô. 你很雞婆耶 = mind your own business (or, warmly, you didn't have to do that).",
+  "example": {
+   "zh": "我只是雞婆提醒一下，你不要介意。",
+   "en": "I'm just being nosy and reminding you, don't mind me."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0395",
+  "trad": "大咖",
+  "mainland": null,
+  "pinyin": "dà kā",
+  "en": "big shot, major figure",
+  "type": "hokkien",
+  "category": "work",
+  "register": "casual",
+  "note": "From Hokkien kha (role). 小咖 = small fry. Said in Mandarin (dà kā).",
+  "example": {
+   "zh": "這次活動請到很多大咖。",
+   "en": "This event got a lot of big names."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0396",
+  "trad": "沒路用",
+  "mainland": null,
+  "pinyin": "méi lù yòng",
+  "en": "useless, good-for-nothing",
+  "type": "hokkien",
+  "category": "emotion",
+  "register": "casual",
+  "note": "Tâi-lô bô-lōo-īng. Usually said in Taiwanese; can be harsh.",
+  "example": {
+   "zh": "這把傘沒路用，一吹就壞了。",
+   "en": "This umbrella is useless, it broke at the first gust."
+  },
+  "stage": 4
+ },
+ {
+  "id": "tw-0397",
+  "trad": "土豆",
+  "mainland": null,
+  "pinyin": "tǔ dòu",
+  "en": "peanut (in Taiwan)",
+  "type": "hokkien",
+  "category": "food",
+  "register": "neutral",
+  "note": "Tâi-lô thôo-tāu. In Taiwan 土豆 means peanuts (Mandarin 花生), NOT potatoes as on the mainland. 土豆麵筋 is a canned breakfast side.",
+  "example": {
+   "zh": "刨冰上面要加土豆粉。",
+   "en": "Put peanut powder on the shaved ice."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0398",
+  "trad": "我有吃",
+  "mainland": null,
+  "pinyin": "wǒ yǒu chī",
+  "en": "I did eat / I've eaten (有 + verb)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Taiwan uses 有 + verb to affirm that an action happened, mirroring the negative 沒有 + verb (from Hokkien ū). Standard mainland Mandarin would say 我吃了. Very common in Taiwan speech.",
+  "example": {
+   "zh": "「你有吃早餐嗎？」「有，我有吃。」",
+   "en": "'Did you eat breakfast?' 'Yes, I did.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0399",
+  "trad": "有沒有",
+  "mainland": null,
+  "pinyin": "yǒu méi yǒu",
+  "en": "did you…? (有沒有 + verb question)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "有沒有 + verb asks whether something happened: 你有沒有看到我的手機？ Answer with 有 or 沒有. Mainland speakers more often use 看到…了嗎？",
+  "example": {
+   "zh": "你有沒有看到我的手機？",
+   "en": "Did you see my phone?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0400",
+  "trad": "有在",
+  "mainland": null,
+  "pinyin": "yǒu zài",
+  "en": "do (regularly) / be into (有在 + verb)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "有在 + verb asks about or affirms a habit or ongoing activity: 你有在運動嗎？ (do you work out?), 我有在追這部劇.",
+  "example": {
+   "zh": "你平常有在運動嗎？",
+   "en": "Do you exercise regularly?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0401",
+  "trad": "會冷嗎",
+  "mainland": null,
+  "pinyin": "huì lěng ma",
+  "en": "is it cold? / are you cold? (會 + adjective)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Taiwan uses 會 + adjective to ask about or describe a state: 會冷嗎？ 會不會太貴？ 不會辣 (it's not spicy). Mainland speakers more often say 冷不冷 / 冷吗.",
+  "example": {
+   "zh": "冷氣這樣會冷嗎？要不要調高一點？",
+   "en": "Is the AC too cold like this? Should I turn it up a bit?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0402",
+  "trad": "會不會",
+  "mainland": null,
+  "pinyin": "huì bú huì",
+  "en": "isn't it (too)…? / would it be…?",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "會不會 + adjective checks gently: 會不會太遠？ Also guessing: 他會不會忘了？ (could he have forgotten?).",
+  "example": {
+   "zh": "走路過去會不會太遠？",
+   "en": "Would it be too far to walk?"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0403",
+  "trad": "用好了",
+  "mainland": null,
+  "pinyin": "yòng hǎo le",
+  "en": "it's done / I've sorted it (用 = do, handle)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "In Taiwan 用 often works as a general 'do, deal with, fix' verb, like mainland 弄: 我來用, 用好了嗎？, 東西用一用.",
+  "example": {
+   "zh": "電腦我幫你用好了，你試試看。",
+   "en": "I've sorted out your computer, give it a try."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0404",
+  "trad": "給你看",
+  "mainland": null,
+  "pinyin": "gěi nǐ kàn",
+  "en": "let me show you (給 + person + verb)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "給 + person + verb means 'let someone do' or 'do for someone': 給你看, 給我想一下 (let me think), 給他用.",
+  "example": {
+   "zh": "我拍了好多照片，給你看！",
+   "en": "I took loads of photos, let me show you!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0405",
+  "trad": "我在吃飯",
+  "mainland": null,
+  "pinyin": "wǒ zài chī fàn",
+  "en": "I'm eating (在 for progressive)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwan marks ongoing actions with plain 在 + verb. 正在…呢 and V著呢 sound mainland or bookish.",
+  "example": {
+   "zh": "我在吃飯，等一下再打給你。",
+   "en": "I'm eating, I'll call you back later."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0406",
+  "trad": "要不要",
+  "mainland": null,
+  "pinyin": "yào bú yào",
+  "en": "do you want to…? (invitation)",
+  "type": "grammar",
+  "category": "social",
+  "register": "casual",
+  "note": "The standard casual invitation: 要不要一起去？ Answer 好啊 or 不用了.",
+  "example": {
+   "zh": "我們要去看電影，你要不要一起來？",
+   "en": "We're going to see a movie, want to come along?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0407",
+  "trad": "好不好",
+  "mainland": null,
+  "pinyin": "hǎo bù hǎo",
+  "en": "OK? (softener / exasperated tag)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "At the end of a suggestion it softens: 我們先吃飯好不好？ Said with emphasis it's exasperated: 我很忙好不好！ (I'm busy, OK?!).",
+  "example": {
+   "zh": "我們先吃飯，再討論好不好？",
+   "en": "Let's eat first and discuss after, OK?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0408",
+  "trad": "我先走了",
+  "mainland": null,
+  "pinyin": "wǒ xiān zǒu le",
+  "en": "I'll head off first (先 = for now, ahead of others)",
+  "type": "grammar",
+  "category": "social",
+  "register": "neutral",
+  "note": "先 before the verb softens leaving or postponing: 我先走了, 先這樣, 你先忙 (I'll let you get on with it). Sentence-final 先 (我走先) is Cantonese-style, not normal Taiwan usage.",
+  "example": {
+   "zh": "你先忙，我先走了。",
+   "en": "I'll let you get on with it, I'm heading off."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0409",
+  "trad": "等一下",
+  "mainland": null,
+  "pinyin": "děng yí xià",
+  "en": "in a moment, later (time word)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "In Taiwan 等一下 is used as a time word meaning 'in a bit, later' (mainland 一会儿 / 待会儿): 我等一下打給你. It still also means 'wait a moment'.",
+  "example": {
+   "zh": "我現在在開會，等一下回你。",
+   "en": "I'm in a meeting now, I'll reply in a bit."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0410",
+  "trad": "看一下",
+  "mainland": null,
+  "pinyin": "kàn yí xià",
+  "en": "take a quick look (一下 softener)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Adding 一下 makes requests lighter: 等一下, 幫我看一下, 問一下. Taiwanese use it constantly where the mainland might use 一下儿 or VV.",
+  "example": {
+   "zh": "可以幫我看一下這份資料嗎？",
+   "en": "Could you take a quick look at this?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0411",
+  "trad": "好不好吃",
+  "mainland": null,
+  "pinyin": "hǎo bù hǎo chī",
+  "en": "is it tasty? (A不A question)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Affirmative-negative questions; with two-syllable words Taiwan often repeats only the first syllable: 好不好吃, 喜不喜歡, 可不可以.",
+  "example": {
+   "zh": "這家牛肉麵好不好吃？",
+   "en": "Is this beef noodle place any good?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0412",
+  "trad": "很日本",
+  "mainland": null,
+  "pinyin": "hěn rì běn",
+  "en": "very Japanese (style) (很 + noun)",
+  "type": "grammar",
+  "category": "culture",
+  "register": "casual",
+  "note": "很 + noun describes something as typical of it: 很台, 很日本, 很文青 (hipster), 很男人.",
+  "example": {
+   "zh": "這家店的裝潢很日本。",
+   "en": "This shop's decor is very Japanese."
+  },
+  "stage": 3
+ },
+ {
+  "id": "tw-0413",
+  "trad": "還好",
+  "mainland": null,
+  "pinyin": "hái hǎo",
+  "en": "not really; it's OK (mild denial)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "In Taiwan 還好 often means 'not that much': 會辣嗎？還好 (not very). Saying a meal was 還好 is lukewarm, not praise.",
+  "example": {
+   "zh": "「會很辣嗎？」「還好，你應該可以吃。」",
+   "en": "'Is it very spicy?' 'Not really, you should be fine.'"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0414",
+  "trad": "不錯",
+  "mainland": null,
+  "pinyin": "bú cuò",
+  "en": "pretty good; nice",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Common praise: 不錯喔！ = nice one! 還不錯 = quite decent.",
+  "example": {
+   "zh": "你的中文不錯喔！",
+   "en": "Your Chinese is pretty good!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0415",
+  "trad": "試試看",
+  "mainland": null,
+  "pinyin": "shì shì kàn",
+  "en": "give it a try (V看看)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwan likes V看看 / VV看 for 'try doing': 吃吃看, 問看看, 穿看看. Mainland would often say 尝尝 / 试试.",
+  "example": {
+   "zh": "這個很好吃，你吃吃看。",
+   "en": "This is really good, try some."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0416",
+  "trad": "很會",
+  "mainland": null,
+  "pinyin": "hěn huì",
+  "en": "be good at (很會 + verb)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "他很會唱歌 = he's a great singer; 很會講 = smooth talker; 很會吃 = big eater.",
+  "example": {
+   "zh": "她很會做菜，每道都好吃。",
+   "en": "She's a great cook, every dish is delicious."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0417",
+  "trad": "好可愛",
+  "mainland": null,
+  "pinyin": "hǎo kě ài",
+  "en": "so cute! (好 + adjective)",
+  "type": "grammar",
+  "category": "emotion",
+  "register": "casual",
+  "note": "好 as 'so, how' in exclamations is everywhere in Taiwan: 好累, 好熱喔, 好好吃.",
+  "example": {
+   "zh": "這隻貓好可愛喔！",
+   "en": "This cat is so cute!"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0418",
+  "trad": "蠻好吃的",
+  "mainland": null,
+  "pinyin": "mán hǎo chī de",
+  "en": "quite tasty (蠻 + adjective)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "蠻 (often written 滿, mǎn) = quite, pretty. Very common in Taiwan: 蠻好的, 蠻貴的.",
+  "example": {
+   "zh": "這家便當蠻好吃的，而且不貴。",
+   "en": "This bento is pretty good, and it's cheap."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0419",
+  "trad": "笑到肚子痛",
+  "mainland": null,
+  "pinyin": "xiào dào dù zi tòng",
+  "en": "laughed until my stomach hurt (V到 + result)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Taiwan often uses 到 instead of 得 for extent: 累到不行, 熱到受不了, 好吃到哭.",
+  "example": {
+   "zh": "那部電影好好笑，我笑到肚子痛。",
+   "en": "That film was so funny I laughed till my stomach hurt."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0420",
+  "trad": "我想說",
+  "mainland": null,
+  "pinyin": "wǒ xiǎng shuō",
+  "en": "I figured / I thought (that)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "想說 introduces what you were thinking, often a reason or a mistaken assumption. Not 'I want to say'.",
+  "example": {
+   "zh": "我想說你很忙，就沒打給你。",
+   "en": "I figured you were busy, so I didn't call."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0421",
+  "trad": "剛剛",
+  "mainland": null,
+  "pinyin": "gāng gāng",
+  "en": "just now",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwan prefers 剛剛 to 剛才.",
+  "example": {
+   "zh": "你剛剛說什麼？",
+   "en": "What did you just say?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0422",
+  "trad": "哪裡",
+  "mainland": null,
+  "pinyin": "nǎ lǐ",
+  "en": "where (no 儿-suffix)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwan Mandarin basically doesn't use the 儿 suffix: 哪裡 (not 哪兒), 這裡, 一點, 好玩, 一會. 裡 is often pronounced nǎ li in fast speech.",
+  "example": {
+   "zh": "你住在哪裡？",
+   "en": "Where do you live?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0423",
+  "trad": "一點點",
+  "mainland": null,
+  "pinyin": "yì diǎn diǎn",
+  "en": "just a little",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Taiwanese reduplicate to soften: 一點點, 一下下, 有一點點貴.",
+  "example": {
+   "zh": "我只會說一點點台語。",
+   "en": "I only speak a little Taiwanese."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0424",
+  "trad": "一下下",
+  "mainland": null,
+  "pinyin": "yí xià xià",
+  "en": "just a moment",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Softer, cuter 一下: 等我一下下.",
+  "example": {
+   "zh": "等我一下下，我馬上好。",
+   "en": "Give me a sec, I'm almost ready."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0425",
+  "trad": "可以",
+  "mainland": null,
+  "pinyin": "kě yǐ",
+  "en": "can, may (preferred over 能)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwan uses 可以 for ability, permission and possibility where the mainland often uses 能: 你可以幫我嗎？ 可以刷卡嗎？",
+  "example": {
+   "zh": "你明天可以早一點來嗎？",
+   "en": "Can you come a bit earlier tomorrow?"
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0426",
+  "trad": "一台車",
+  "mainland": null,
+  "pinyin": "yì tái chē",
+  "en": "a car/scooter (台 as classifier)",
+  "type": "grammar",
+  "category": "transit",
+  "register": "neutral",
+  "note": "Taiwan uses 台 for vehicles and machines: 一台車, 一台電腦, 一台冷氣. Mainland uses 辆 for vehicles.",
+  "example": {
+   "zh": "我想買一台新的機車。",
+   "en": "I want to buy a new scooter."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0427",
+  "trad": "一間店",
+  "mainland": null,
+  "pinyin": "yì jiān diàn",
+  "en": "a shop (間 as classifier)",
+  "type": "grammar",
+  "category": "shopping",
+  "register": "neutral",
+  "note": "Taiwan uses 間 for shops, restaurants, companies, schools and rooms: 一間餐廳, 一間公司. Mainland usually uses 家 / 所.",
+  "example": {
+   "zh": "這附近有一間很好吃的拉麵店。",
+   "en": "There's a really good ramen place near here."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0428",
+  "trad": "一支手機",
+  "mainland": null,
+  "pinyin": "yì zhī shǒu jī",
+  "en": "a phone (支 as classifier)",
+  "type": "grammar",
+  "category": "tech",
+  "register": "neutral",
+  "note": "Taiwan uses 支 for phones, pens, videos and umbrellas: 一支手機, 一支筆, 一支影片. Mainland often uses 部 / 个 for phones.",
+  "example": {
+   "zh": "我上個月換了一支新手機。",
+   "en": "I got a new phone last month."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0429",
+  "trad": "一顆蛋",
+  "mainland": null,
+  "pinyin": "yì kē dàn",
+  "en": "an egg (顆 as classifier)",
+  "type": "grammar",
+  "category": "food",
+  "register": "neutral",
+  "note": "Taiwan uses 顆 for small round things where the mainland says 个: 一顆蛋, 一顆蘋果, 一顆球, 一顆心.",
+  "example": {
+   "zh": "滷肉飯加一顆滷蛋。",
+   "en": "Braised pork rice with a braised egg."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0430",
+  "trad": "我跟你",
+  "mainland": null,
+  "pinyin": "wǒ gēn nǐ",
+  "en": "you and I (跟 as 'and')",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "neutral",
+  "note": "Taiwan uses 跟 for 'and, with' in speech: 我跟你, 跟他說. When 和 is used as 'and', many Taiwanese read it hàn.",
+  "example": {
+   "zh": "我跟你一起去。",
+   "en": "I'll go with you."
+  },
+  "stage": 1
+ },
+ {
+  "id": "tw-0431",
+  "trad": "哪有",
+  "mainland": null,
+  "pinyin": "nǎ yǒu",
+  "en": "no way! not at all (rhetorical denial)",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "Denies a claim or deflects a compliment: 哪有！ 我哪有這樣說？",
+  "example": {
+   "zh": "「你又遲到了。」「哪有！我才晚兩分鐘。」",
+   "en": "'You're late again.' 'No way! I'm only two minutes late.'"
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0432",
+  "trad": "吃飽了沒",
+  "mainland": null,
+  "pinyin": "chī bǎo le méi",
+  "en": "have you eaten? (V了沒 question)",
+  "type": "grammar",
+  "category": "social",
+  "register": "casual",
+  "note": "V了沒 asks if something has happened yet, influenced by Hokkien: 吃飽了沒？ 到了沒？ 好了沒？",
+  "example": {
+   "zh": "你到了沒？我已經在門口了。",
+   "en": "Are you here yet? I'm already at the entrance."
+  },
+  "stage": 2
+ },
+ {
+  "id": "tw-0433",
+  "trad": "先吃再說",
+  "mainland": null,
+  "pinyin": "xiān chī zài shuō",
+  "en": "let's eat first and worry later",
+  "type": "grammar",
+  "category": "discourse",
+  "register": "casual",
+  "note": "先 + V + 再說 = do this first and deal with the rest later; 再說吧 alone = 'we'll see'.",
+  "example": {
+   "zh": "不要想那麼多，先吃再說。",
+   "en": "Don't overthink it, let's eat first."
+  },
+  "stage": 2
+ }
+]

@@ -1,0 +1,11 @@
+.env
+.venv/
+node_modules/
+data/
+!server/static_data/
+web/dist/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+.claude/
