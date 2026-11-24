@@ -33,7 +33,7 @@ HSK 6 level in Traditional, type in zhuyin, sound Taiwanese, and read the novel
 | **Today** 今日 | The day's programme: review, zhuyin, Traditional characters, new words, reading, listening, speaking, writing. The reading passage, practice sentences and writing prompt are written fresh each day around that day's words. |
 | **Zhuyin** 注音 | 22 units from ㄅㄆㄇㄈ to timed typing on the 大千 layout, the full chart with audio, and typing practice with a built-in zhuyin input method. |
 | **Review** 複習 | Spaced repetition. Traditional characters are written by hand and stroke-checked; Taiwan words are sometimes asked from the mainland word. |
-| **Read** 閱讀 | Import a book (EPUB / TXT / paste) or any article, plus live Taiwanese news feeds. Every word is clickable; readings switch between 注音, pinyin and none. |
+| **Read** 閱讀 | Import a book (EPUB / MOBI / TXT / paste) or any article, plus live Taiwanese news feeds. Every word is clickable; readings switch between 注音, pinyin and none. |
 | **Watch** 影片 | Any YouTube link or local file with synced, clickable captions. Uses the video's Chinese subtitles when it has them, otherwise transcribes locally. New videos from Taiwanese creators every day. |
 | **Speak** 會話 | 51 role-play scenarios plus free talk with an AI partner, by button or hands-free. After each turn: what you said, clear tone slips, and how a Taiwanese speaker would put it. A pronunciation lab for single sentences. |
 | **Words** 詞彙 | The reference: Taiwan vocabulary, Taiwan readings, grammar, the Simplified → Traditional rules, and the novel's vocabulary. |
@@ -219,8 +219,9 @@ Three corrections apply whichever voice is used:
 ## Reading the novel
 
 The text of 《那些年，我們一起追的女孩》 is **not included** — it is under copyright. Add your own
-copy in **Read** as an EPUB or text file, or paste it; Simplified copies are converted to
-Traditional. The app then splits it into chapters, works out which words you do not know yet, feeds
+copy in **Read** as an EPUB, Kindle (MOBI / AZW3) or text file, or paste it; Simplified copies are
+converted to Traditional, and text that a converter cut into fixed-width lines is put back into
+paragraphs. Copy-protected (DRM) files are refused, not unlocked. The app then splits it into chapters, works out which words you do not know yet, feeds
 them into your daily lessons in reading order, and serves the book a passage at a time.
 
 Before you import it, lessons still teach the 448-word companion deck (school life, banter, romance,

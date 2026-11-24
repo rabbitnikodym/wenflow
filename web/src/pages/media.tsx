@@ -125,12 +125,12 @@ function Library() {
           <div className="panel mt24 col gap16">
             <div className="h2">Import your copy</div>
             <p className="small muted prose">
-              The book itself is not bundled with the app. Add your own copy as an EPUB or text file (Traditional or Simplified — Simplified is converted), or paste the text.
+              The book itself is not bundled with the app. Add your own copy as an EPUB, Kindle (MOBI / AZW3) or text file (Traditional or Simplified — Simplified is converted), or paste the text. Copy-protected files cannot be read.
               The app then splits it into chapters, works out which words you don't know yet, feeds them into your daily lessons in reading order, and serves the book a passage at a time.
             </p>
             <div className="row gap12 wrap">
-              <input ref={file} type="file" accept=".epub,.txt,.text,.md" className="hide" onChange={(e) => e.target.files?.[0] && upload(e.target.files[0])} />
-              <button className="btn primary" disabled={busy === "book"} onClick={() => file.current?.click()}>{busy === "book" ? "Importing…" : "Choose EPUB or TXT"}</button>
+              <input ref={file} type="file" accept=".epub,.mobi,.azw,.azw3,.prc,.txt,.text,.md" className="hide" onChange={(e) => e.target.files?.[0] && upload(e.target.files[0])} />
+              <button className="btn primary" disabled={busy === "book"} onClick={() => file.current?.click()}>{busy === "book" ? "Importing…" : "Choose a book file"}</button>
               <button className="btn" onClick={() => setShowPaste((x) => !x)}>Paste text</button>
             </div>
             {showPaste && (

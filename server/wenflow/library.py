@@ -1,4 +1,4 @@
-"""Reading library: books (EPUB / text you supply), articles imported from the web, and Taiwanese news feeds."""
+"""Reading library: books (EPUB / Kindle / text you supply), articles imported from the web, and Taiwanese news feeds."""
 from __future__ import annotations
 
 import json
@@ -6,6 +6,7 @@ import logging
 import random
 import re
 import time
+import unicodedata
 from collections import Counter
 
 import httpx
@@ -15,9 +16,15 @@ from . import content_store, curriculum, db, dictionary, llm, text
 log = logging.getLogger("wenflow.library")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 
-CHAPTER_RE = re.compile(
-    r"^\s*(第\s*[一二三四五六七八九十百零〇○0-9０-９]+\s*[章回節卷部幕話集]|chapter\s+\d+|楔子|序章?|序幕|前言|自序|後記|尾聲|終章|番外.*|"
-    r"[0-9０-９]{1,3}[\.、．]?|[一二三四五六七八九十]{1,3}[、．.]?)\s*[^\n]{0,30}$", re.I)
+_NUMERALS = "零〇○一二三四五六七八九十百兩两"
+# Headings that say what they are: 第三章, Chapter 3, 楔子, 後記 …
+STRONG_RE = re.compile(
+    rf"^(?:第\s*[{_NUMERALS}0-9０-９]+\s*[章回節节卷部幕話话集篇](?!合)|chapter\s*[0-9０-９]+(?![0-9a-z])|"
+    r"(?:楔子|序章|序幕|序言|序|前言|自序|後記|后记|尾聲|尾声|終章|终章|番外篇?|附錄|附录)(?=$|[\s:：·\-—–.、．]))", re.I)
+# A bare number, alone or in front of a short title. Only counts as part of a 1, 2, 3 … sequence.
+WEAK_RE = re.compile(rf"^([0-9０-９]{{1,3}}|[{_NUMERALS}]{{1,5}})(?:$|[.、．]$|[.、．]\s*\S|\s+\S)")
+_NOT_HEADING = re.compile(r"[，。！？；…!?;「」『』“”]")
+_SENT_END = "。！？!?」』…”’）)～~"
 
 
 # ----------------------------------------------------------------------------------------------
@@ -200,12 +207,31 @@ def clip(body: str, max_chars: int) -> str:
 # Books
 # ----------------------------------------------------------------------------------------------
 
+def _html_section(markup) -> tuple[str, list[str]]:
+    """(heading, paragraphs) of one HTML document or fragment."""
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(markup, "html.parser")
+    for t in soup(["script", "style", "title", "rt", "rp"]):
+        t.decompose()
+    h = soup.find(["h1", "h2", "h3"])
+    head = h.get_text(strip=True) if h else ""
+    paras = [p.get_text("", strip=True) for p in soup.find_all(["p", "div"]) if not p.find(["p", "div"])]
+    paras = [p for p in paras if p and p != head]
+    if not paras:
+        paras = [ln for ln in soup.get_text("\n", strip=True).split("\n") if ln and ln != head]
+    return head, paras
+
+
+def _han_count(lines: list[str]) -> int:
+    return sum(len(text.HAN_RE.findall(ln)) for ln in lines)
+
+
 def read_epub(data: bytes) -> tuple[str, str, list[tuple[str, str]]]:
     """(title, author, [(chapter title, text)]) from an EPUB file."""
     import tempfile
 
     import ebooklib
-    from bs4 import BeautifulSoup
     from ebooklib import epub
 
     with tempfile.NamedTemporaryFile(suffix=".epub") as f:
@@ -216,16 +242,77 @@ def read_epub(data: bytes) -> tuple[str, str, list[tuple[str, str]]]:
     author = (book.get_metadata("DC", "creator") or [("", {})])[0][0]
     chapters = []
     for item in book.get_items_of_type(ebooklib.ITEM_DOCUMENT):
-        soup = BeautifulSoup(item.get_content(), "html.parser")
-        for t in soup(["script", "style", "rt", "rp"]):
-            t.decompose()
-        head = soup.find(["h1", "h2", "h3"])
-        paras = [p.get_text("", strip=True) for p in soup.find_all(["p", "div"]) if not p.find(["p", "div"])]
-        body = "\n".join(p for p in paras if p) or soup.get_text("\n", strip=True)
-        if len(text.HAN_RE.findall(body)) < 60:
+        head, paras = _html_section(item.get_content())
+        if _han_count(paras) < 60:
             continue
-        chapters.append(((head.get_text(strip=True) if head else "") or f"第{len(chapters) + 1}部分", body))
+        chapters.append((head or f"第{len(chapters) + 1}部分", "\n".join(paras)))
     return title, author, chapters
+
+
+def read_mobi(data: bytes) -> tuple[str, str, list[tuple[str, str]]]:
+    """(title, author, [(chapter title, text)]) from a Kindle file (MOBI / AZW / AZW3 / PRC)."""
+    from . import mobi
+
+    title, author, markup = mobi.read(data)
+    sections = []
+    for part in re.split(r"<mbp:pagebreak[^>]*>|(?=<html[\s>])", markup, flags=re.I):
+        head, paras = _html_section(part)
+        if _han_count(paras) >= 60:  # skips covers, title pages and the table of contents
+            sections.append((head, paras))
+    lines = [ln for _, paras in sections for ln in paras]
+    paras = unwrap(lines)
+    # A well-made file has one section per chapter. Converted text files often do not: they are cut
+    # at arbitrary points, or into fixed-width lines, with the real headings left in the text.
+    if len(sections) < 3 or paras != lines:
+        return title, author, split_chapters("\n".join(paras))
+    return title, author, [(head or f"第{i + 1}部分", "\n".join(ps)) for i, (head, ps) in enumerate(sections)]
+
+
+def _columns(s: str) -> int:
+    return sum(2 if unicodedata.east_asian_width(c) in "WF" else 1 for c in s)
+
+
+def unwrap(lines: list[str]) -> list[str]:
+    """Undo fixed-width line wrapping and return the real paragraphs.
+
+    Some conversions cut a book into lines of a fixed width: a line that fills the width runs on
+    into the next, and several short paragraphs can share a line with a space between them. Text
+    that was not wrapped this way comes back as it was (minus blank lines).
+    """
+    lines = [ln.strip() for ln in lines]
+    full = [ln for ln in lines if ln]
+    if len(full) < 40:
+        return full
+    # Wrapped text shows up as one very common line length with next to nothing longer than it.
+    for measure in (len, _columns):  # width counted in characters, or in screen columns
+        sizes = Counter(measure(ln) for ln in full)
+        width, n = sizes.most_common(1)[0]
+        longer = sum(c for size, c in sizes.items() if size > width)
+        if width >= 30 and n >= 0.08 * len(full) and longer <= 0.01 * len(full):
+            break
+    else:
+        return full
+    joined, cur = [], ""
+    for ln in lines:
+        if not ln:  # a blank line always ends a paragraph
+            if cur:
+                joined.append(cur)
+            cur = ""
+            continue
+        cur += ln
+        # A full line that stops mid-sentence carries on. (Full can be one short of the width:
+        # punctuation is not allowed to start a line, and a wide character does not split.)
+        if width - 1 <= measure(ln) <= width and ln[-1] not in _SENT_END:
+            continue
+        joined.append(cur)
+        cur = ""
+    if cur:
+        joined.append(cur)
+    # Paragraphs that shared a line are separated by a space. Spaces inside Latin text stay.
+    out = []
+    for p in joined:
+        out += [x for x in re.split(r"(?<![ -~])[ \u3000]+|[ \u3000]+(?![ -~])", p) if x]
+    return out
 
 
 def decode_text(data: bytes) -> str:
@@ -237,12 +324,49 @@ def decode_text(data: bytes) -> str:
     return data.decode("utf-8", errors="ignore")
 
 
+def _number(s: str) -> int:
+    s = unicodedata.normalize("NFKC", s)
+    if s.isdigit():
+        return int(s)
+    digits = {"零": 0, "〇": 0, "○": 0, "一": 1, "二": 2, "兩": 2, "两": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
+    total = cur = 0
+    for c in s:
+        if c in digits:
+            cur = cur * 10 + digits[c]
+        elif c in "十百":
+            total += (cur or 1) * (10 if c == "十" else 100)
+            cur = 0
+    return total + cur
+
+
+def find_headings(lines: list[str]) -> list[int]:
+    """Indexes of the lines that are chapter headings."""
+    strong, weak = [], []
+    for i, ln in enumerate(lines):
+        if len(ln) > 36 or _NOT_HEADING.search(ln):
+            continue
+        if STRONG_RE.match(ln):
+            strong.append(i)
+        elif m := WEAK_RE.match(ln):
+            weak.append((i, _number(m.group(1))))
+    # Bare numbers are headings only where they count up: 1, 2, 3 …
+    chain: list[int] = []
+    want = None
+    for i, n in weak:
+        if n <= 1 and len(chain) < 3:
+            chain, want = [i], n + 1
+        elif want is not None and n == want:
+            chain.append(i)
+            want += 1
+    marks = sorted(set(strong) | set(chain if len(chain) >= 3 else []))
+    return marks if len(marks) >= 3 else []
+
+
 def split_chapters(body: str) -> list[tuple[str, str]]:
     lines = [ln.strip() for ln in body.replace("\r", "").split("\n")]
     lines = [ln for ln in lines if ln]
-    marks = [i for i, ln in enumerate(lines) if len(ln) <= 36 and CHAPTER_RE.match(ln)]
-    # Bare numbers only count as headings if they form a real sequence of sections.
-    if len(marks) >= 3:
+    marks = find_headings(lines)
+    if marks:
         chapters = []
         if marks[0] > 0:
             pre = "\n".join(lines[:marks[0]])
@@ -251,7 +375,7 @@ def split_chapters(body: str) -> list[tuple[str, str]]:
         for a, b in zip(marks, marks[1:] + [len(lines)]):
             seg = "\n".join(lines[a + 1:b])
             if seg.strip():
-                chapters.append((lines[a], seg))
+                chapters.append((re.sub(r"(?i)^(chapter)\s*(?=\d)", r"\1 ", lines[a]), seg))
         return _merge_small(chapters)
     # No headings: cut into ~3000-character parts at paragraph breaks.
     chapters, cur, n = [], [], 0
@@ -425,12 +549,22 @@ def delete_book(bid: int) -> None:
         db.set_setting("book_words", [])
 
 
+KINDLE_TYPES = (".mobi", ".azw", ".azw3", ".prc")
+
+
 def import_book_file(filename: str, data: bytes, title: str = "", author: str = "") -> int:
-    if filename.lower().endswith(".epub"):
+    name = filename.lower()
+    stem = re.sub(r"\.[a-z0-9]+$", "", filename, flags=re.I)
+    if name.endswith(".epub"):
         t, a, chapters = read_epub(data)
-        return import_book(title or t or filename, author or a, chapters)
-    body = decode_text(data)
-    return import_book(title or re.sub(r"\.[a-z0-9]+$", "", filename, flags=re.I), author, split_chapters(body))
+    elif name.endswith(KINDLE_TYPES) or data[60:68] == b"BOOKMOBI":
+        t, a, chapters = read_mobi(data)
+    else:
+        t, a = "", ""
+        chapters = split_chapters("\n".join(unwrap(decode_text(data).replace("\r", "").split("\n"))))
+    if not chapters:
+        raise ValueError("no Chinese text was found in it")
+    return import_book(title or t or stem, author or a, chapters)
 
 
 def import_book_text(title: str, author: str, body: str) -> int:
